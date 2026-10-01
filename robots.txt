@@ -29,4 +29,4 @@ Allow: /
 User-agent: CCBot
 Allow: /
 
-Sitemap: https://lovephilos1001-cpu.github.io/ai-news-site/index.html
+Sitemap: https://lovephilos1001-cpu.github.io/ai-news-site/sitemap.xml

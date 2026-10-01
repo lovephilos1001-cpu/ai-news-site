@@ -6,5 +6,8 @@
 교차검증을 거친 뒤 한국어로 정리한 미국 증시·매크로·반도체 공급망 뉴스 브리핑입니다.
 하루 4회(09/12/18/22시 KST) 갱신됩니다.
 
+전체 기사 원문은 https://lovephilos1001-cpu.github.io/ai-news-site/llms-full.txt 에서 한 번에 받을 수 있습니다.
+구조화 데이터(점수·분류 등 원본 JSON)는 https://lovephilos1001-cpu.github.io/ai-news-site/data/index.json 에 목록이 있습니다.
+
 ## 최근 브리핑
 
