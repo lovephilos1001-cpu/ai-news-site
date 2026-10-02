@@ -10,4 +10,4 @@
 구조화 데이터(점수·분류 등 원본 JSON)는 https://marketbriefwire.com/data/index.json 에 목록이 있습니다.
 
 ## 최근 브리핑
-
+- [[10/02 11:37] HBM 안 쓰는 AI칩 커진다…삼전·하이닉스에 변수 : 네이버 블로그 - Naver Blog](https://marketbriefwire.com/20261002-0238.html) — 10/02 11:37
