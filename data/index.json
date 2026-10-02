@@ -50,6 +50,11 @@
     {
       "hall": "5",
       "hall_name": "기타 핀테크·신산업",
+      "url": "https://marketbriefwire.com/data/topics/5-hood.json"
+    },
+    {
+      "hall": "5",
+      "hall_name": "기타 핀테크·신산업",
       "url": "https://marketbriefwire.com/data/topics/5-smci.json"
     }
   ],
