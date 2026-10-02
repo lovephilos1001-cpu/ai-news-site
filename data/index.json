@@ -1,16 +1,26 @@
 {
   "site": "AI 마켓 브리핑 아카이브",
-  "briefings_jsonl": "https://lovephilos1001-cpu.github.io/ai-news-site/data/briefings.json",
+  "briefings_jsonl": "https://marketbriefwire.com/data/briefings.json",
   "topics": [
     {
       "hall": "1",
       "hall_name": "반도체·AI인프라",
-      "url": "https://lovephilos1001-cpu.github.io/ai-news-site/data/topics/1-amd.json"
+      "url": "https://marketbriefwire.com/data/topics/1-amd.json"
     },
     {
       "hall": "1",
       "hall_name": "반도체·AI인프라",
-      "url": "https://lovephilos1001-cpu.github.io/ai-news-site/data/topics/1-intc.json"
+      "url": "https://marketbriefwire.com/data/topics/1-intc.json"
+    },
+    {
+      "hall": "4",
+      "hall_name": "전쟁·지정학",
+      "url": "https://marketbriefwire.com/data/topics/4-우크라이나.json"
+    },
+    {
+      "hall": "4",
+      "hall_name": "전쟁·지정학",
+      "url": "https://marketbriefwire.com/data/topics/4-이스라엘.json"
     }
   ],
   "schema_note": "briefings.json: [{slug, headline, body, published_utc, published_kst}]; topics/*.json: [{topic_name, date_kst, headline, link, source}]"
