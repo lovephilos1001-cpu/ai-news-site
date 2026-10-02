@@ -46,6 +46,11 @@
       "hall": "4",
       "hall_name": "전쟁·지정학",
       "url": "https://marketbriefwire.com/data/topics/4-이스라엘.json"
+    },
+    {
+      "hall": "5",
+      "hall_name": "기타 핀테크·신산업",
+      "url": "https://marketbriefwire.com/data/topics/5-smci.json"
     }
   ],
   "schema_note": "briefings.json: [{slug, headline, body, published_utc, published_kst}]; topics/*.json: [{topic_name, date_kst, headline, link, source}]"
