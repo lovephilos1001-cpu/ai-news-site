@@ -10,6 +10,7 @@
 구조화 데이터(점수·분류 등 원본 JSON)는 https://marketbriefwire.com/data/index.json 에 목록이 있습니다.
 
 ## 최근 브리핑
+- [[10/04 16:00] HBM 가격 치솟자 AI칩 ‘메모리 다이어트’…삼전닉스 전략도 바뀌나 - v.daum.net](https://marketbriefwire.com/20261004-0701.html) — 10/04 16:00
 - [[10/04 05:30] AI마켓 브리핑](https://marketbriefwire.com/20261003-2030.html) — 10/04 05:30
 - [[10/03 16:00] 오픈엣지테크놀로지, AI 반도체 기업과 67억 규모 계약 체결 - 마켓인](https://marketbriefwire.com/20261003-0701.html) — 10/03 16:00
 - [[10/03 05:30] [AI픽] 국산 AI반도체 성능지표 'K-Perf', 한전서 첫 실전검증 - 연합뉴스](https://marketbriefwire.com/20261002-2031.html) — 10/03 05:30
