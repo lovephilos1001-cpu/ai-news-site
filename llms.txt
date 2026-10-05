@@ -10,6 +10,7 @@
 구조화 데이터(점수·분류 등 원본 JSON)는 https://marketbriefwire.com/data/index.json 에 목록이 있습니다.
 
 ## 최근 브리핑
+- [[10/05 10:49] 엔비디아 AI 반도체 '담보대출' 전략 성공할까, 삼성전자 SK하이닉스 실적에도 변수 - businesspost.co.kr](https://marketbriefwire.com/20261005-0151.html) — 10/05 10:49
 - [[10/05 10:37] 엔비디아 AI 반도체 '담보대출' 전략 성공할까, 삼성전자 SK하이닉스 실적에도 변수 - businesspost.co.kr](https://marketbriefwire.com/20261005-0139.html) — 10/05 10:37
 - [[10/05 01:53] "구형 데이터센터서도 최신 AI 구동 가능하죠" - 한국경제](https://marketbriefwire.com/20261004-1654.html) — 10/05 01:53
 - [[10/04 22:14] HBM 가격 치솟자 AI칩 ‘메모리 다이어트’…삼전닉스 전략도 바뀌나 - v.daum.net](https://marketbriefwire.com/20261004-1316.html) — 10/04 22:14
