@@ -1,0 +1,23 @@
+{
+  "definition": "HBM(High Bandwidth Memory, 고대역폭 메모리)은 D램 다이를 수직으로 여러 층 쌓고 실리콘관통전극(TSV)으로 연결한 뒤, 그 위에 GPU 같은 로직 다이를 얹어 수천 개의 핀으로 한 번에 데이터를 주고받는 메모리 구조입니다. 기존 GDDR 메모리보다 대역폭이 훨씬 넓어, AI 학습·추론처럼 '데이터를 끊임없이 퍼부어야 하는' 작업에 필수적입니다. SK하이닉스·삼성전자·마이크론 3개 회사가 사실상 시장을 양분하며, 엔비디아 등 AI 가속기 업체에 공급합니다.",
+  "updates": [
+    {
+      "date": "2025-12-29",
+      "fact": "엔비디아 차세대 AI가속기 '루빈(Rubin, 2026년 하반기 출시 예정)', 프로세서 1개당 HBM4 스택 8개 탑재 예정 — 엔비디아가 주요 메모리 업체에 2026년 4분기 16단 적층(16-Hi) HBM 공급 가능 여부를 타진 중",
+      "source": "코리아헤럴드(2025-12-29)",
+      "link": "https://www.koreaherald.com/article/10645471"
+    },
+    {
+      "date": "2026-02",
+      "fact": "삼성전자, 평택캠퍼스에서 6세대 HBM(HBM4) 양산 개시 — SK하이닉스도 비슷한 시기 HBM4 양산 시작",
+      "source": "SamMobile",
+      "link": "https://www.sammobile.com/news/samsung-start-mass-production-hbm4-memory-chips-february/"
+    },
+    {
+      "date": "2026-Q1",
+      "fact": "SK하이닉스, HBM4 베이스다이에 12nm 공정 채택 / 삼성전자는 10nm급 공정 채택 — 두 회사의 기술 경쟁 포인트로 지목됨",
+      "source": "TweakTown",
+      "link": "https://www.tweaktown.com/news/109495/sk-hynix-samsung-and-micron-fighting-for-nvidia-supply-contracts-for-new-16-hi-hbm4-orders/index.html"
+    }
+  ]
+}
