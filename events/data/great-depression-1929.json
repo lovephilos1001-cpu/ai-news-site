@@ -1,26 +1,49 @@
-[
-  {
-    "date": "1929-10-24",
-    "fact": "검은 목요일 — 뉴욕증권거래소 주가 대폭락 시작(~10/29 검은 화요일까지 지속)",
-    "source": "위키백과",
-    "link": "https://ko.wikipedia.org/wiki/1929년_월스트리트_대폭락"
-  },
-  {
-    "date": "1929-12",
-    "fact": "폭락 2개월 만에 주가 40% 이상 급락, 공업·농업·금융 전반 위축",
-    "source": "어린이경제신문",
-    "link": "https://www.econoi.com/news/articleView.html?idxno=41987"
-  },
-  {
-    "date": "1933",
-    "fact": "미국 실업률 25%까지 치솟음, 전체 은행 25,000개 중 9,000개 폐쇄, 농민 약 1/3 토지 상실",
-    "source": "어린이경제신문",
-    "link": "https://www.econoi.com/news/articleView.html?idxno=41987"
-  },
-  {
-    "date": "1933-1938",
-    "fact": "프랭클린 루스벨트 대통령, 뉴딜정책 시행(공공사업·금융개혁·규제정책) — 30년대 후반 경제 안정 회복",
-    "source": "위키백과",
-    "link": "https://ko.wikipedia.org/wiki/뉴딜"
-  }
-]
+{
+  "timeline": [
+    {
+      "date": "1929-10-24",
+      "fact": "검은 목요일 — 뉴욕증권거래소 주가 대폭락 시작(~10/29 검은 화요일까지 지속)",
+      "source": "위키백과",
+      "link": "https://ko.wikipedia.org/wiki/1929년_월스트리트_대폭락"
+    },
+    {
+      "date": "1929-12",
+      "fact": "폭락 2개월 만에 주가 40% 이상 급락, 공업·농업·금융 전반 위축",
+      "source": "어린이경제신문",
+      "link": "https://www.econoi.com/news/articleView.html?idxno=41987"
+    },
+    {
+      "date": "1930-06-17",
+      "fact": "후버 대통령, 스무트-홀리 관세법 서명 — 수입관세 대폭 인상, 각국의 보복관세를 촉발해 국제무역 붕괴·불황 심화의 한 원인이 됨",
+      "source": "Wikipedia(EN)",
+      "link": "https://en.wikipedia.org/wiki/Smoot%E2%80%93Hawley_Tariff_Act"
+    },
+    {
+      "date": "1933",
+      "fact": "미국 실업률 25%까지 치솟음, 전체 은행 25,000개 중 9,000개 폐쇄, 농민 약 1/3 토지 상실",
+      "source": "어린이경제신문",
+      "link": "https://www.econoi.com/news/articleView.html?idxno=41987"
+    },
+    {
+      "date": "1933-04-20",
+      "fact": "미국, 금본위제 이탈 — 의회가 금 지급 요구권을 무효화하는 결의안을 통과시켜 통화정책 자유도를 확보, 이후 경기회복의 전환점이 됨",
+      "source": "History.com",
+      "link": "https://www.history.com/this-day-in-history/april-20/fdr-takes-united-states-off-gold-standard"
+    },
+    {
+      "date": "1933-1938",
+      "fact": "프랭클린 루스벨트 대통령, 뉴딜정책 시행(공공사업·금융개혁·규제정책) — 30년대 후반 경제 안정 회복",
+      "source": "위키백과",
+      "link": "https://ko.wikipedia.org/wiki/뉴딜"
+    }
+  ],
+  "perspectives": [
+    {
+      "country": "일본",
+      "fact": "대공황기 쌀값 폭락 속 일본 정부가 조선에 대한 산미증식계획 자금지원을 중단(1933) — 조선산 쌀이 일본으로 들어오면 일본 내 쌀값이 더 떨어진다는 이유로, 식민지 조선의 이해보다 일본 본토 쌀값 방어를 우선",
+      "source": "우리역사넷",
+      "link": "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_i400105&code=kc_age_40",
+      "note": "1929년 당시 한국(조선)은 일본의 식민지(1910~1945)로 독립된 한국 언론·정부가 없었음 — '서로 다른 두 주권국의 보도'라는 일반적 의미의 교차검증은 성립하지 않음. 대신 실제 있었던 일은, 공황에 대응하는 일본 본토의 정책(자국 쌀값 방어)이 식민지 조선에는 불리한 방향(지원 중단)으로 작용했다는 것 — 같은 사건의 충격이 지배국과식민지 사이에 비대칭적으로 분배된 사례."
+    }
+  ]
+}
