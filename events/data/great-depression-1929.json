@@ -13,10 +13,28 @@
       "link": "https://www.econoi.com/news/articleView.html?idxno=41987"
     },
     {
+      "date": "1929-1933",
+      "fact": "미국 통화량 35% 감소하며 물가 33% 하락(디플레이션) — 공황 후 10개월간 은행 744개 파산, 1933년까지 총 9,000개 은행 폐쇄",
+      "source": "Wikipedia(EN)",
+      "link": "https://en.wikipedia.org/wiki/Great_Depression"
+    },
+    {
       "date": "1930-06-17",
       "fact": "후버 대통령, 스무트-홀리 관세법 서명 — 수입관세 대폭 인상, 각국의 보복관세를 촉발해 국제무역 붕괴·불황 심화의 한 원인이 됨",
       "source": "Wikipedia(EN)",
       "link": "https://en.wikipedia.org/wiki/Smoot%E2%80%93Hawley_Tariff_Act"
+    },
+    {
+      "date": "1931-09-21",
+      "fact": "영국, 금본위제 이탈 — 파운드 스털링 25% 평가절하, 노르웨이·스웨덴(9/27)·덴마크(9/29)· 핀란드(10/12) 등도 잇따라 금본위제 포기",
+      "source": "Wikipedia(EN)",
+      "link": "https://en.wikipedia.org/wiki/Timeline_of_the_Great_Depression"
+    },
+    {
+      "date": "1931-10",
+      "fact": "연준, 영국의 금본위제 이탈로 금 유출 우려가 커지자 재할인율을 1.5%→3.5%로 급격 인상 — 금본위제 수호가 국내 경기부양보다 우선시되며 디플레이션을 더 심화시킨 정책으로 평가됨",
+      "source": "NBER(Bordo)",
+      "link": "https://www.nber.org/system/files/working_papers/w15584/revisions/w15584.rev0.pdf"
     },
     {
       "date": "1933",
