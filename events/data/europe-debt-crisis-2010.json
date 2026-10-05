@@ -13,6 +13,12 @@
       "link": "https://www.seoul.co.kr/news/international/2010/06/28/20100628018014"
     },
     {
+      "date": "2010-11-28",
+      "fact": "아일랜드, EU·IMF로부터 850억 유로 구제금융 승인 — 그리스에 이어 유로존 2번째 구제금융",
+      "source": "서울신문(2010-11-30)",
+      "link": "https://www.seoul.co.kr/news/international/2010/11/30/20101130021020"
+    },
+    {
       "date": "2011-04",
       "fact": "ECB(장클로드 트리셰 총재), 기준금리 1%→1.25%로 인상 — 재정위기 와중에도 물가안정을 우선시한 정책",
       "source": "이데일리",
@@ -37,10 +43,28 @@
       "link": "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=02053286596418496"
     },
     {
+      "date": "2012-06-10",
+      "fact": "스페인, EU에 최대 1,000억 유로 규모 은행권 구제금융 신청 발표 — 유로존 4번째 구제금융 대상국(그리스·아일랜드·포르투갈에 이어)",
+      "source": "이투데이",
+      "link": "https://www.etoday.co.kr/news/view/594754"
+    },
+    {
+      "date": "2012-07-26",
+      "fact": "마리오 드라기 ECB 총재, 런던 연설에서 '유로를 지키기 위해 무엇이든 하겠다(whatever it takes)'고 발언 — 유로존 위기의 심리적 전환점으로 평가됨. 일주일 뒤 국채매입프로그램(OMT) 발표",
+      "source": "Bloomberg(2012-07-26)",
+      "link": "https://www.bloomberg.com/news/articles/2012-07-26/draghi-says-ecb-to-do-whatever-needed-as-yields-threaten-europe"
+    },
+    {
       "date": "2015-07-05",
       "fact": "그리스 국민투표, 채권단(트로이카)의 추가 긴축 요구안을 반대 61.3%로 압도적 거부 ('Big OXI') — 그렉시트(유로존 탈퇴) 위기로 번짐",
       "source": "한국일보(2015-07-06)",
       "link": "https://www.hankookilbo.com/news/article/201507060661502378"
+    },
+    {
+      "date": "2018-08-20",
+      "fact": "그리스, 8년 만에 국제채권단(IMF·EU) 구제금융 관리체제 공식 종료 — 졸업 두 달 전까지도 추가 세금 인상·공무원 채용 제한 등 긴축법안을 통과시켜야 했음",
+      "source": "서울신문(2018-08-21)",
+      "link": "https://www.seoul.co.kr/news/international/europe/2018/08/21/20180821008014"
     }
   ],
   "perspectives": [
