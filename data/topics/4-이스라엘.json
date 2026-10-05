@@ -5,5 +5,26 @@
     "headline": "[속보 10/01 20:41] A midair stabbing on a flight to Israel is being investigated as a possible terrorist attack",
     "link": "https://www.npr.org/2026/09/30/nx-s1-5985806/flydubai-flight-dubai-tel-aviv-israel",
     "source": "NPR"
+  },
+  {
+    "topic_name": "이스라엘",
+    "date_kst": "10/05 11:26",
+    "headline": "[속보 10/05 11:26] Netanyahu orders security review of flights to Israel after Flydubai attack",
+    "link": "https://www.japantimes.co.jp/news/2026/10/05/world/israel-flight-security-flydubai-attack/",
+    "source": "JapanTimes"
+  },
+  {
+    "topic_name": "이스라엘",
+    "date_kst": "10/05 11:26",
+    "headline": "[속보 10/05 11:26] Netanyahu orders security review of international flights to Israel after Flydubai attack",
+    "link": "https://www.scmp.com/news/world/middle-east/article/3369732/netanyahu-orders-security-review-international-flights-israel-after-flydubai-attack?utm_source=rss_feed",
+    "source": "SCMP"
+  },
+  {
+    "topic_name": "이스라엘",
+    "date_kst": "10/05 12:41",
+    "headline": "[속보 10/05 12:41] Netanyahu orders security review of flights to Israel after cockpit attack",
+    "link": "https://www.scmp.com/news/world/middle-east/article/3369732/netanyahu-orders-security-review-international-flights-israel-after-flydubai-attack?utm_source=rss_feed",
+    "source": "SCMP"
   }
 ]
