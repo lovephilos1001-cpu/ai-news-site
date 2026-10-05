@@ -1,0 +1,11 @@
+{
+  "definition": "실리콘 포토닉스(Silicon Photonics)는 반도체 칩 사이의 데이터 전송을 기존 전기신호(구리 배선) 대신 빛(광신호)으로 처리하는 기술입니다. AI 데이터센터에서는 GPU 수만 개를 서로 연결해야 하는데, 전기신호는 멀리 갈수록 신호가 약해지고 전력도 많이 먹는 반면 빛은 손실이 적어 더 빠르고 효율적으로 연결할 수 있습니다. 광소자를 칩 패키지 안에 함께 넣는 방식을 'CPO(Co-Packaged Optics, 공동패키지광학)'라 부릅니다.",
+  "updates": [
+    {
+      "date": "2026-06",
+      "fact": "엔비디아 '베라 루빈(Vera Rubin)' 플랫폼 양산 본격화와 동시에, TSMC COUPE 공정 기반 실리콘 포토닉스 CPO 스위치 'Spectrum-X Photonics'도 대규모 공급 시작 — 기존 탈착형 광모듈 대비 전력소비 3.5배 절감",
+      "source": "HPCwire(2026-04-20)",
+      "link": "https://www.hpcwire.com/2026/04/20/inside-nvidias-silicon-photonics-roadmap/"
+    }
+  ]
+}
