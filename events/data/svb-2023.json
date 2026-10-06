@@ -1,0 +1,48 @@
+{
+  "timeline": [
+    {
+      "date": "2023-03-08",
+      "fact": "SVB, 210억 달러 규모 보유증권 매각 공시 + 150억 달러 차입 + 22.5억 달러 긴급 증자계획 발표 — 같은 날 저녁 무디스가 SVB 신용등급 강등, 일부 벤처캐피털이 포트폴리오 기업에 예금 인출 권고",
+      "source": "ABC News",
+      "link": "https://abcnews.com/amp/Business/timeline-silicon-valley-bank-collapse/story?id=97846565",
+      "tier": "detail"
+    },
+    {
+      "date": "2023-03-09",
+      "fact": "SVB 주가 하루 만에 60% 폭락, 고객들이 하루 동안 420억 달러 예금 인출(뱅크런)",
+      "source": "ABC News",
+      "link": "https://abcnews.com/amp/Business/timeline-silicon-valley-bank-collapse/story?id=97846565",
+      "tier": "detail"
+    },
+    {
+      "date": "2023-03-10",
+      "fact": "SVB 파산 — 캘리포니아 금융당국이 은행을 압류해 FDIC 관리 체제로 이관. 美 역사상 3번째 규모, 2008년 금융위기 이후 최대 은행 파산",
+      "source": "ABC News / Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Collapse_of_Silicon_Valley_Bank",
+      "tier": "major"
+    },
+    {
+      "date": "2023-03-12",
+      "fact": "美 재무부·연준·FDIC, 예금보험 한도(25만 달러)와 무관하게 SVB 예금 전액 보호 결정",
+      "source": "이데일리",
+      "link": "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=03440726635542992",
+      "tier": "major"
+    },
+    {
+      "date": "2023-03-12",
+      "fact": "연준, 긴급유동성프로그램(BTFP) 발표 — 국채·MBS 등 적격담보를 액면가 기준으로 최대 1년까지 대출해주는 제도로 추가 은행 위기 확산 차단",
+      "source": "이데일리",
+      "link": "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=01371046635542992",
+      "tier": "detail"
+    }
+  ],
+  "perspectives": [
+    {
+      "country": "한국",
+      "fact": "자본시장연구원(KCMI), SVB 파산이 미국 벤처·스타트업의 부채성 자금조달 기능을 위축시켜 한국 벤처금융 모델에도 영향을 미칠 수 있다고 분석",
+      "source": "자본시장연구원",
+      "link": "https://www.kcmi.re.kr/publications/pub_detail_view?syear=2023&zcd=002001016&zno=1712&cno=6086",
+      "note": "SVB는 미국 스타트업의 약 절반이 거래하던 '벤처 전문 은행'이라, 미국 내 사건이었지만 글로벌 벤처 생태계(한국 포함)의 자금조달 관행에도 간접 영향을 미친다는 점에서 국내 금융연구기관이 별도로 분석 보고서를 낸 사례"
+    }
+  ]
+}
