@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-06T03:03:12Z",
+  "generated_at_utc": "2026-10-06T08:37:28Z",
   "site": "AI 마켓 브리핑 아카이브",
   "description": "애널리스트 목표주가 전체 이력(무료는 종목당 최신 1건만) + 경제사건 전체 타임라인(무료는 핵심 전환점만, 여기엔 원인·세부 연결고리까지 전부) + 종목 현황·금리 스냅샷 — AI 에이전트용 x402 결제 콘텐츠",
   "analyst_targets_full_history": {},
@@ -68,6 +68,39 @@
           "fact": "프랭클린 루스벨트 대통령, 뉴딜정책 시행(공공사업·금융개혁·규제정책) — 30년대 후반 경제 안정 회복",
           "source": "위키백과",
           "link": "https://ko.wikipedia.org/wiki/뉴딜",
+          "tier": "major"
+        }
+      ]
+    },
+    "black-monday-1987": {
+      "name": "1987년 블랙먼데이",
+      "timeline": [
+        {
+          "date": "1987-10-19",
+          "fact": "'검은 월요일' — 다우존스지수 하루 만에 22.6%(508포인트) 폭락, 시가총액 약 5,000억 달러 증발. 단일일 하락률 기준 사상 최대",
+          "source": "federalreservehistory.org",
+          "link": "https://www.federalreservehistory.org/essays/stock-market-crash-of-1987",
+          "tier": "major"
+        },
+        {
+          "date": "1987-10-19",
+          "fact": "대형 기관투자자들이 동일한 '포트폴리오 보험'(주가 하락 시 주가지수 선물을 자동 매도하는 컴퓨터 알고리즘 헤지전략)을 동시에 가동하면서 매도가 매도를 부르는 연쇄폭락 발생",
+          "source": "federalreservehistory.org",
+          "link": "https://www.federalreservehistory.org/essays/stock-market-crash-of-1987",
+          "tier": "detail"
+        },
+        {
+          "date": "1987-10-20",
+          "fact": "그린스펀 연준의장(취임 2개월차), '연준은 국가 중앙은행으로서 경제·금융시스템에 유동성을 공급할 준비가 돼있다'는 성명 발표 — 시장 패닉 진정의 결정적 계기로 평가됨",
+          "source": "federalreservehistory.org",
+          "link": "https://www.federalreservehistory.org/essays/stock-market-crash-of-1987",
+          "tier": "major"
+        },
+        {
+          "date": "1988-10-20",
+          "fact": "미국 증권·옵션·선물거래소, 대통령실무그룹 권고에 따라 '서킷브레이커'(급락 시 거래 일시중단) 제도 공식 도입 — 블랙먼데이 1년 후 제도적 재발방지책",
+          "source": "federalreservehistory.org",
+          "link": "https://www.federalreservehistory.org/essays/stock-market-crash-of-1987",
           "tier": "major"
         }
       ]
@@ -409,6 +442,46 @@
         }
       ]
     },
+    "svb-2023": {
+      "name": "실리콘밸리은행(SVB) 파산",
+      "timeline": [
+        {
+          "date": "2023-03-08",
+          "fact": "SVB, 210억 달러 규모 보유증권 매각 공시 + 150억 달러 차입 + 22.5억 달러 긴급 증자계획 발표 — 같은 날 저녁 무디스가 SVB 신용등급 강등, 일부 벤처캐피털이 포트폴리오 기업에 예금 인출 권고",
+          "source": "ABC News",
+          "link": "https://abcnews.com/amp/Business/timeline-silicon-valley-bank-collapse/story?id=97846565",
+          "tier": "detail"
+        },
+        {
+          "date": "2023-03-09",
+          "fact": "SVB 주가 하루 만에 60% 폭락, 고객들이 하루 동안 420억 달러 예금 인출(뱅크런)",
+          "source": "ABC News",
+          "link": "https://abcnews.com/amp/Business/timeline-silicon-valley-bank-collapse/story?id=97846565",
+          "tier": "detail"
+        },
+        {
+          "date": "2023-03-10",
+          "fact": "SVB 파산 — 캘리포니아 금융당국이 은행을 압류해 FDIC 관리 체제로 이관. 美 역사상 3번째 규모, 2008년 금융위기 이후 최대 은행 파산",
+          "source": "ABC News / Wikipedia",
+          "link": "https://en.wikipedia.org/wiki/Collapse_of_Silicon_Valley_Bank",
+          "tier": "major"
+        },
+        {
+          "date": "2023-03-12",
+          "fact": "美 재무부·연준·FDIC, 예금보험 한도(25만 달러)와 무관하게 SVB 예금 전액 보호 결정",
+          "source": "이데일리",
+          "link": "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=03440726635542992",
+          "tier": "major"
+        },
+        {
+          "date": "2023-03-12",
+          "fact": "연준, 긴급유동성프로그램(BTFP) 발표 — 국채·MBS 등 적격담보를 액면가 기준으로 최대 1년까지 대출해주는 제도로 추가 은행 위기 확산 차단",
+          "source": "이데일리",
+          "link": "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=01371046635542992",
+          "tier": "detail"
+        }
+      ]
+    },
     "covid-2020": {
       "name": "코로나19 셧다운",
       "timeline": [
@@ -573,14 +646,14 @@
     {
       "ticker": "005930.KS",
       "name": "삼성전자",
-      "price": 273500.0,
-      "pct": -0.64
+      "price": 272000.0,
+      "pct": -1.18
     },
     {
       "ticker": "000660.KS",
       "name": "SK하이닉스",
-      "price": 1794000.0,
-      "pct": -2.23
+      "price": 1780000.0,
+      "pct": -3.0
     },
     {
       "ticker": "META",
@@ -709,20 +782,20 @@
     "환율": [
       {
         "name": "달러인덱스(DXY)",
-        "value": 102.183,
-        "pct": 0.02,
+        "value": 102.11,
+        "pct": -0.05,
         "unit": ""
       },
       {
         "name": "원/달러",
-        "value": 1344.16,
-        "pct": 0.03,
+        "value": 1338.59,
+        "pct": -0.38,
         "unit": "원"
       },
       {
         "name": "엔/달러",
-        "value": 158.032,
-        "pct": 0.05,
+        "value": 158.168,
+        "pct": 0.14,
         "unit": "엔"
       },
       {
@@ -733,8 +806,8 @@
       },
       {
         "name": "유로/달러",
-        "value": 1.122,
-        "pct": -0.02,
+        "value": 1.124,
+        "pct": 0.18,
         "unit": "달러"
       }
     ],
@@ -753,14 +826,14 @@
       },
       {
         "name": "코스피",
-        "value": 6956.75,
-        "pct": -0.38,
+        "value": 6939.39,
+        "pct": -0.63,
         "unit": ""
       },
       {
         "name": "닛케이225",
-        "value": 70081.531,
-        "pct": 0.22,
+        "value": 70773.797,
+        "pct": 1.21,
         "unit": ""
       },
       {
