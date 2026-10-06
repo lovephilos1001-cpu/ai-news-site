@@ -10,6 +10,7 @@
 구조화 데이터(점수·분류 등 원본 JSON)는 https://marketbriefwire.com/data/index.json 에 목록이 있습니다.
 
 ## 최근 브리핑
+- [[10/06 16:00] Kepler Aims to Launch Energy-Saving Replacement for HBM in 2027](https://marketbriefwire.com/20261006-0701.html) — 10/06 16:00
 - [[10/06 05:30] Kepler Aims to Launch Energy-Saving Replacement for HBM in 2027](https://marketbriefwire.com/20261005-2031.html) — 10/06 05:30
 - [[10/05 22:00] 반도체 소부장 랠리 … ETF 출시도 잇따라 - 매일경제 마켓](https://marketbriefwire.com/20261005-1301.html) — 10/05 22:00
 - [[10/05 16:00] AI·반도체 열풍에…4대 과기원 수시지원자 3만명 '역대 최대' - 연합뉴스](https://marketbriefwire.com/20261005-0701.html) — 10/05 16:00
