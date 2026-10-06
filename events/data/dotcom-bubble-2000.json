@@ -1,6 +1,13 @@
 {
   "timeline": [
     {
+      "date": "1996-12-05",
+      "fact": "앨런 그린스펀 연준의장, 미국기업연구소(AEI) 연설에서 자산가격 과대평가를 경고하며 '비이성적 과열(irrational exuberance)'이라는 표현을 처음 사용 — 닷컴버블 정점(2000년 3월)보다 3년 넘게 앞선 경고였으나 시장은 이후에도 계속 랠리",
+      "source": "CNBC(2015-12-05)",
+      "link": "https://www.cnbc.com/2015/12/05/alan-greenspan-made-history-19-years-ago-with-this.html",
+      "tier": "detail"
+    },
+    {
       "date": "2000-03-10",
       "fact": "나스닥종합지수, 장중 5,132.52·종가 5,048.62로 사상 최고치 기록 — 닷컴버블의 정점",
       "source": "위키백과(EN)",
