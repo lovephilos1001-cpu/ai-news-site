@@ -34,6 +34,27 @@
       "source": "이데일리",
       "link": "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=01371046635542992",
       "tier": "detail"
+    },
+    {
+      "date": "2023-03-12",
+      "fact": "뉴욕 시그니처은행(자산 1,100억 달러), 뉴욕주 금융당국에 의해 폐쇄 — SVB와 같은 날 두 번째 대형 은행 동반 파산으로 뱅크런 공포 확산",
+      "source": "FDIC",
+      "link": "https://www.fdic.gov/news/speeches/2023/spmar2723.html",
+      "tier": "major"
+    },
+    {
+      "date": "2023-03-17",
+      "fact": "SVB 금융그룹(모회사), 챕터11 파산보호 신청",
+      "source": "NPR",
+      "link": "https://www.npr.org/2023/03/17/1163911866/5-big-moments-from-the-week-that-rocked-the-banking-system",
+      "tier": "detail"
+    },
+    {
+      "date": "2023-03-26",
+      "fact": "퍼스트시티즌스은행, SVB 자산 약 720억 달러를 165억 달러 할인가에 인수 — 사태의 공식적 마무리",
+      "source": "NPR",
+      "link": "https://www.npr.org/2023/03/27/1166180710/first-citizens-bank-to-acquire-silicon-valley-bank",
+      "tier": "major"
     }
   ],
   "perspectives": [

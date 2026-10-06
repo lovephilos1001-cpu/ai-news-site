@@ -1,6 +1,20 @@
 {
   "timeline": [
     {
+      "date": "1987-10-14",
+      "fact": "다우존스지수 약 4% 급락 — 블랙먼데이 전조의 시작",
+      "source": "corporatefinanceinstitute.com",
+      "link": "https://corporatefinanceinstitute.com/resources/equities/black-monday/",
+      "tier": "detail"
+    },
+    {
+      "date": "1987-10-16",
+      "fact": "런던 증시 5% 폭락, 블랙먼데이 직전 2주간 다우지수 이미 15% 하락 — 1986년 세제개편(부유층·기업 세금공제 축소)·연준 금리인상·예상보다 큰 무역적자·달러 약세가 겹친 배경",
+      "source": "study.com",
+      "link": "https://study.com/academy/lesson/black-monday-overview-causes-1987-stock-market-crash.html",
+      "tier": "detail"
+    },
+    {
       "date": "1987-10-19",
       "fact": "'검은 월요일' — 다우존스지수 하루 만에 22.6%(508포인트) 폭락, 시가총액 약 5,000억 달러 증발. 단일일 하락률 기준 사상 최대",
       "source": "federalreservehistory.org",
@@ -26,6 +40,13 @@
       "fact": "미국 증권·옵션·선물거래소, 대통령실무그룹 권고에 따라 '서킷브레이커'(급락 시 거래 일시중단) 제도 공식 도입 — 블랙먼데이 1년 후 제도적 재발방지책",
       "source": "federalreservehistory.org",
       "link": "https://www.federalreservehistory.org/essays/stock-market-crash-of-1987",
+      "tier": "major"
+    },
+    {
+      "date": "1989-07-26",
+      "fact": "S&P500, 블랙먼데이 이전 수준을 완전히 회복 — 폭락 후 약 1년 9개월 만의 회복",
+      "source": "corporatefinanceinstitute.com",
+      "link": "https://corporatefinanceinstitute.com/resources/equities/black-monday/",
       "tier": "major"
     }
   ],
