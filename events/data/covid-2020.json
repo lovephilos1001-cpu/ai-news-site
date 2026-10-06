@@ -4,61 +4,71 @@
       "date": "2020-03-11",
       "fact": "WHO, 코로나19를 '팬데믹(세계적 대유행)'으로 공식 선언 — 110개국 이상 11만8천여 확진",
       "source": "CNBC(2020-03-11)",
-      "link": "https://www.cnbc.com/2020/03/11/who-declares-the-coronavirus-outbreak-a-global-pandemic.html"
+      "link": "https://www.cnbc.com/2020/03/11/who-declares-the-coronavirus-outbreak-a-global-pandemic.html",
+      "tier": "major"
     },
     {
       "date": "2020-03-13",
       "fact": "트럼프 대통령, 코로나19 국가비상사태 선포 — 연방재난지원법(Stafford Act)에 따라 500억 달러 연방자원 투입 근거 마련",
       "source": "CNBC(2020-03-13)",
-      "link": "https://www.cnbc.com/2020/03/13/trump-will-hold-a-press-conference-at-3-pm-et-to-discuss-coronavirus-response.html"
+      "link": "https://www.cnbc.com/2020/03/13/trump-will-hold-a-press-conference-at-3-pm-et-to-discuss-coronavirus-response.html",
+      "tier": "detail"
     },
     {
       "date": "2020-03-15",
       "fact": "연준, 기준금리 1.00~1.25%→0.00~0.25%로 전격 인하(제로금리 복귀) + 7,000억 달러 규모 양적완화(QE) 동시 시작",
       "source": "경향신문(2020-03-16)",
-      "link": "https://www.khan.co.kr/article/202003160733001"
+      "link": "https://www.khan.co.kr/article/202003160733001",
+      "tier": "detail"
     },
     {
       "date": "2020-03-17",
       "fact": "한국은행, 기준금리 1.25%→0.75%로 '빅컷' — 사상 처음으로 0%대 기준금리 시대 진입",
       "source": "서울신문(2020-03-17)",
-      "link": "https://www.seoul.co.kr/news/economy/finance/2020/03/17/20200317001026"
+      "link": "https://www.seoul.co.kr/news/economy/finance/2020/03/17/20200317001026",
+      "tier": "detail"
     },
     {
       "date": "2020-03-19",
       "fact": "코스피, 2008년 금융위기 이후 최저치(1,457~1,461선)까지 급락하며 서킷브레이커 발동 — 반도체 등 대형 기술주 매도세가 아시아 증시 전체로 확산",
       "source": "FXStreet",
-      "link": "https://www.fxstreet.com/amp/news/s-korean-exchange-kospi-halts-trading-after-hitting-the-circuit-breaker-down-over-8-202003190324"
+      "link": "https://www.fxstreet.com/amp/news/s-korean-exchange-kospi-halts-trading-after-hitting-the-circuit-breaker-down-over-8-202003190324",
+      "tier": "detail"
     },
     {
       "date": "2020-03-23",
       "fact": "미 연준(Fed), 100여 년 역사상 최초로 '무제한' 양적완화(QE) 선언 — 국채·MBS 매입 한도를 없애고 회사채 매입까지 포함, 2008년 금융위기 때보다 빠르고 강한 대응",
       "source": "서울신문(2020-03-24)",
-      "link": "https://www.seoul.co.kr/news/international/2020/03/24/20200324500022"
+      "link": "https://www.seoul.co.kr/news/international/2020/03/24/20200324500022",
+      "tier": "major"
     },
     {
       "date": "2020-03-27",
       "fact": "트럼프 대통령, 2조2천억 달러 규모 경기부양법(CARES Act) 서명 — 미국 역사상 최대 규모 재정부양책, 가계·기업·의료체계 전방위 지원",
       "source": "美의회도서관 Global Legal Monitor",
-      "link": "https://www.loc.gov/item/global-legal-monitor/2020-03-27/united-states-president-signs-cares-act-in-response-to-coronavirus-pandemic/"
+      "link": "https://www.loc.gov/item/global-legal-monitor/2020-03-27/united-states-president-signs-cares-act-in-response-to-coronavirus-pandemic/",
+      "tier": "detail"
     },
     {
       "date": "2020-05-28",
       "fact": "한국은행, 기준금리 0.75%→0.5%로 추가 인하 — 역대 최저치(임시 금융통화위원회)",
       "source": "농민신문(2020-05-30)",
-      "link": "https://www.nongmin.com/article/20200530322983"
+      "link": "https://www.nongmin.com/article/20200530322983",
+      "tier": "detail"
     },
     {
       "date": "2022-06",
       "fact": "美 소비자물가지수(CPI), 전년대비 9.1% 상승 — 1981년 11월 이후 40년만의 최고치. 코로나 대응 제로금리·무제한QE의 후유증으로 지목",
       "source": "美 노동통계국(BLS)",
-      "link": "https://www.bls.gov/opub/ted/2022/consumer-prices-up-9-1-percent-over-the-year-ended-june-2022-largest-increase-in-40-years.htm"
+      "link": "https://www.bls.gov/opub/ted/2022/consumer-prices-up-9-1-percent-over-the-year-ended-june-2022-largest-increase-in-40-years.htm",
+      "tier": "major"
     },
     {
       "date": "2022-07-13",
       "fact": "한국은행, 사상 첫 '빅스텝'(기준금리 0.5%p 인상, 1.75%→2.25%) — 2022년 7월 소비자물가 6.3%(1998년 11월, IMF 외환위기 당시 이후 최고치)에 대응",
       "source": "서울신문(2022-07-13)",
-      "link": "https://www.seoul.co.kr/news/economy/2022/07/13/20220713500029"
+      "link": "https://www.seoul.co.kr/news/economy/2022/07/13/20220713500029",
+      "tier": "detail"
     }
   ],
   "perspectives": [

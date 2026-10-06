@@ -4,43 +4,50 @@
       "date": "2016-01",
       "fact": "일본은행, 마이너스 기준금리(-0.1%) 도입 — 이후 8년간 엔화 초저금리가 유지되며 엔캐리트레이드가 쌓이는 배경이 됨",
       "source": "머니투데이(2024-03-20)",
-      "link": "https://www.mt.co.kr/world/2024/03/20/2024032016405648574"
+      "link": "https://www.mt.co.kr/world/2024/03/20/2024032016405648574",
+      "tier": "major"
     },
     {
       "date": "2024-03-19",
       "fact": "일본은행, 17년만의 금리인상 — 마이너스금리(-0.1%) 해제, 기준금리 0~0.1%로 정상화 시작 (엔캐리트레이드 청산의 첫 방아쇠)",
       "source": "머니투데이(2024-03-20)",
-      "link": "https://www.mt.co.kr/world/2024/03/20/2024032016405648574"
+      "link": "https://www.mt.co.kr/world/2024/03/20/2024032016405648574",
+      "tier": "detail"
     },
     {
       "date": "2024-07",
       "fact": "일본은행 기준금리 인상 → 엔캐리트레이드 청산 본격화, 글로벌 금융시장 흔들림",
       "source": "KB",
-      "link": "https://kbthink.com/investment/issues/yen-carry-trade-unwind.html"
+      "link": "https://kbthink.com/investment/issues/yen-carry-trade-unwind.html",
+      "tier": "detail"
     },
     {
       "date": "2024-08-05",
       "fact": "코스피 -8%, 코스닥 -11% 급락 — 거래소, 엔캐리 청산을 급락 원인으로 지목",
       "source": "KB",
-      "link": "https://kbthink.com/investment/issues/yen-carry-trade-unwind.html"
+      "link": "https://kbthink.com/investment/issues/yen-carry-trade-unwind.html",
+      "tier": "major"
     },
     {
       "date": "2025-12",
       "fact": "일본은행 기준금리 0.75%로 인상(30년來 최고치) — 사전예고된 인상이라 시장 충격은 제한적",
       "source": "글로벌이코노믹",
-      "link": "https://www.g-enews.com/article/Global-Biz/2025/12/202512041405556515906806b77b_1"
+      "link": "https://www.g-enews.com/article/Global-Biz/2025/12/202512041405556515906806b77b_1",
+      "tier": "detail"
     },
     {
       "date": "2025-12",
       "fact": "엔화 투기 포지션, 순매수에서 2조엔 이상 순매도로 전환 — 청산 압력 지속 누적 중, 아직 결과적 공황은 안 왔으나 리스크 축적 단계",
       "source": "헤럴드경제",
-      "link": "https://biz.heraldcorp.com/article/10833991"
+      "link": "https://biz.heraldcorp.com/article/10833991",
+      "tier": "detail"
     },
     {
       "date": "2026-09-19",
       "fact": "일본은행, 무담보콜금리를 약 1.25%로 인상 — 1995년 이후 31년 만에 최고 수준. '기저 물가상승률이 2% 목표에 근접, 인플레 기대 상승'을 근거로 제시. 다만 추가인상 속도가 충분히 강하지 않다는 해석에 엔화는 오히려 약세를 보이는 구간도 발생",
       "source": "파이낸셜뉴스(2026-09-19)",
-      "link": "https://www.fnnews.com/news/202609190802145925"
+      "link": "https://www.fnnews.com/news/202609190802145925",
+      "tier": "major"
     }
   ],
   "perspectives": [
