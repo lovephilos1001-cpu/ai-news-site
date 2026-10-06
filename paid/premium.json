@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-06T08:37:28Z",
+  "generated_at_utc": "2026-10-06T08:40:53Z",
   "site": "AI 마켓 브리핑 아카이브",
   "description": "애널리스트 목표주가 전체 이력(무료는 종목당 최신 1건만) + 경제사건 전체 타임라인(무료는 핵심 전환점만, 여기엔 원인·세부 연결고리까지 전부) + 종목 현황·금리 스냅샷 — AI 에이전트용 x402 결제 콘텐츠",
   "analyst_targets_full_history": {},
@@ -7,6 +7,13 @@
     "great-depression-1929": {
       "name": "1929년 대공황",
       "timeline": [
+        {
+          "date": "1920s",
+          "fact": "1920년대 미국, 과잉 자본이 주식·부동산 투기를 부추기며 빚을 내 주식에 투자하는 '신용매수(마진론)' 열풍 — 경제학자 갤브레이스가 지적한 '블루릿지 트러스트' 등 레버리지 투자상품에 저축을 쏟아붓는 사례까지 등장, 대공황의 근본 배경이 됨",
+          "source": "네이트뉴스",
+          "link": "https://m.news.nate.com/view/20260424n27542",
+          "tier": "detail"
+        },
         {
           "date": "1929-10-24",
           "fact": "검은 목요일 — 뉴욕증권거래소 주가 대폭락 시작(~10/29 검은 화요일까지 지속)",
@@ -76,6 +83,20 @@
       "name": "1987년 블랙먼데이",
       "timeline": [
         {
+          "date": "1987-10-14",
+          "fact": "다우존스지수 약 4% 급락 — 블랙먼데이 전조의 시작",
+          "source": "corporatefinanceinstitute.com",
+          "link": "https://corporatefinanceinstitute.com/resources/equities/black-monday/",
+          "tier": "detail"
+        },
+        {
+          "date": "1987-10-16",
+          "fact": "런던 증시 5% 폭락, 블랙먼데이 직전 2주간 다우지수 이미 15% 하락 — 1986년 세제개편(부유층·기업 세금공제 축소)·연준 금리인상·예상보다 큰 무역적자·달러 약세가 겹친 배경",
+          "source": "study.com",
+          "link": "https://study.com/academy/lesson/black-monday-overview-causes-1987-stock-market-crash.html",
+          "tier": "detail"
+        },
+        {
           "date": "1987-10-19",
           "fact": "'검은 월요일' — 다우존스지수 하루 만에 22.6%(508포인트) 폭락, 시가총액 약 5,000억 달러 증발. 단일일 하락률 기준 사상 최대",
           "source": "federalreservehistory.org",
@@ -101,6 +122,13 @@
           "fact": "미국 증권·옵션·선물거래소, 대통령실무그룹 권고에 따라 '서킷브레이커'(급락 시 거래 일시중단) 제도 공식 도입 — 블랙먼데이 1년 후 제도적 재발방지책",
           "source": "federalreservehistory.org",
           "link": "https://www.federalreservehistory.org/essays/stock-market-crash-of-1987",
+          "tier": "major"
+        },
+        {
+          "date": "1989-07-26",
+          "fact": "S&P500, 블랙먼데이 이전 수준을 완전히 회복 — 폭락 후 약 1년 9개월 만의 회복",
+          "source": "corporatefinanceinstitute.com",
+          "link": "https://corporatefinanceinstitute.com/resources/equities/black-monday/",
           "tier": "major"
         }
       ]
@@ -364,6 +392,13 @@
       "name": "유럽 재정위기(그리스)",
       "timeline": [
         {
+          "date": "2009-10-20",
+          "fact": "그리스 신임 파판드레우 정부, 그해 재정적자가 GDP 대비 12.7%(EU 가이드라인 3%의 4배)에 달하며 그동안 유로존 가입을 위해 재정적자 수치를 축소 발표해왔다고 공개 — 그리스 재정위기의 실질적 도화선",
+          "source": "아시아경제",
+          "link": "https://www.asiae.co.kr/article/2018082810074884765",
+          "tier": "major"
+        },
+        {
           "date": "2010-05-02",
           "fact": "그리스, EU·ECB·IMF(트로이카)와 3년간 1,100억 유로(EU 800억·IMF 300억) 규모 1차 구제금융 협상 타결 — 독일이 마지막까지 반대하다 그리스의 긴축정책 발표 후 설득됨",
           "source": "서울신문(2010-05-03)",
@@ -479,12 +514,40 @@
           "source": "이데일리",
           "link": "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=01371046635542992",
           "tier": "detail"
+        },
+        {
+          "date": "2023-03-12",
+          "fact": "뉴욕 시그니처은행(자산 1,100억 달러), 뉴욕주 금융당국에 의해 폐쇄 — SVB와 같은 날 두 번째 대형 은행 동반 파산으로 뱅크런 공포 확산",
+          "source": "FDIC",
+          "link": "https://www.fdic.gov/news/speeches/2023/spmar2723.html",
+          "tier": "major"
+        },
+        {
+          "date": "2023-03-17",
+          "fact": "SVB 금융그룹(모회사), 챕터11 파산보호 신청",
+          "source": "NPR",
+          "link": "https://www.npr.org/2023/03/17/1163911866/5-big-moments-from-the-week-that-rocked-the-banking-system",
+          "tier": "detail"
+        },
+        {
+          "date": "2023-03-26",
+          "fact": "퍼스트시티즌스은행, SVB 자산 약 720억 달러를 165억 달러 할인가에 인수 — 사태의 공식적 마무리",
+          "source": "NPR",
+          "link": "https://www.npr.org/2023/03/27/1166180710/first-citizens-bank-to-acquire-silicon-valley-bank",
+          "tier": "major"
         }
       ]
     },
     "covid-2020": {
       "name": "코로나19 셧다운",
       "timeline": [
+        {
+          "date": "2019-12-30",
+          "fact": "중국 우한시 보건당국, 화난수산물시장과 연관된 원인불명 폐렴 환자 발생을 의료기관에 긴급 공지 — 코로나19 팬데믹의 최초 발단",
+          "source": "위키백과",
+          "link": "https://ko.wikipedia.org/wiki/2019%EB%85%84_%EC%A4%91%EA%B5%AD_%EC%9A%B0%ED%95%9C_%ED%8F%90%EB%A0%B4",
+          "tier": "major"
+        },
         {
           "date": "2020-03-11",
           "fact": "WHO, 코로나19를 '팬데믹(세계적 대유행)'으로 공식 선언 — 110개국 이상 11만8천여 확진",
@@ -560,6 +623,20 @@
     "yen-carry-trade": {
       "name": "엔캐리트레이드 청산",
       "timeline": [
+        {
+          "date": "2008",
+          "fact": "엔캐리트레이드 청산은 이번이 처음이 아님 — 1998년 LTCM 사태, 2008년 금융위기, 2011년 동일본대지진, 2015~2016년 중국 경기둔화, 2020년 코로나 초기 등 금융시장 위기 때마다 엔화 급등·엔캐리 청산이 반복돼왔음(2008년 청산 당시 코스피 -41.3%)",
+          "source": "아시아경제",
+          "link": "https://core.asiae.co.kr/article/2025120813423332862",
+          "tier": "detail"
+        },
+        {
+          "date": "2013-04",
+          "fact": "아베노믹스 — 일본은행, 양적·질적 통화완화(QQE) 도입해 국채·ETF·회사채 대량 매입 시작 — 엔저 정책이 본격화되며 이후 10년 넘게 이어지는 엔캐리트레이드 확대의 실질적 기원",
+          "source": "경향신문(2015-08-02)",
+          "link": "https://www.khan.co.kr/article/201508022245005",
+          "tier": "major"
+        },
         {
           "date": "2016-01",
           "fact": "일본은행, 마이너스 기준금리(-0.1%) 도입 — 이후 8년간 엔화 초저금리가 유지되며 엔캐리트레이드가 쌓이는 배경이 됨",
@@ -782,20 +859,20 @@
     "환율": [
       {
         "name": "달러인덱스(DXY)",
-        "value": 102.11,
-        "pct": -0.05,
+        "value": 102.096,
+        "pct": -0.07,
         "unit": ""
       },
       {
         "name": "원/달러",
-        "value": 1338.59,
-        "pct": -0.38,
+        "value": 1338.07,
+        "pct": -0.42,
         "unit": "원"
       },
       {
         "name": "엔/달러",
-        "value": 158.168,
-        "pct": 0.14,
+        "value": 158.158,
+        "pct": 0.13,
         "unit": "엔"
       },
       {
@@ -807,7 +884,7 @@
       {
         "name": "유로/달러",
         "value": 1.124,
-        "pct": 0.18,
+        "pct": 0.21,
         "unit": "달러"
       }
     ],
