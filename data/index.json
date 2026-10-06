@@ -33,6 +33,11 @@
       "url": "https://marketbriefwire.com/data/topics/1-soxl.json"
     },
     {
+      "hall": "2",
+      "hall_name": "빅테크·플랫폼",
+      "url": "https://marketbriefwire.com/data/topics/2-tqqq.json"
+    },
+    {
       "hall": "3",
       "hall_name": "매크로·통화정책",
       "url": "https://marketbriefwire.com/data/topics/3-macro.json"
@@ -41,6 +46,11 @@
       "hall": "4",
       "hall_name": "전쟁·지정학",
       "url": "https://marketbriefwire.com/data/topics/4-기타지역.json"
+    },
+    {
+      "hall": "4",
+      "hall_name": "전쟁·지정학",
+      "url": "https://marketbriefwire.com/data/topics/4-미국.json"
     },
     {
       "hall": "4",
