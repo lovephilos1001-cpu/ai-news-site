@@ -10,6 +10,7 @@
 구조화 데이터(점수·분류 등 원본 JSON)는 https://marketbriefwire.com/data/index.json 에 목록이 있습니다.
 
 ## 최근 브리핑
+- [[10/09 05:30] 대만 TSMC, AI 반도체 수요에 3분기 매출 50% 급증…역대 최대 - 연합뉴스](https://marketbriefwire.com/20261008-2031.html) — 10/09 05:30
 - [[10/08 22:00] Hyper-NA EUV: The Next Extension Beyond High NA Lithography (Carl Zeiss, ASML)](https://marketbriefwire.com/20261008-1301.html) — 10/08 22:00
 - [[10/08 16:00] Hyper-NA EUV: The Next Extension Beyond High NA Lithography (Carl Zeiss, ASML)](https://marketbriefwire.com/20261008-0701.html) — 10/08 16:00
 - [[10/08 05:30] Hyper-NA EUV: The Next Extension Beyond High NA Lithography (Carl Zeiss, ASML)](https://marketbriefwire.com/20261007-2031.html) — 10/08 05:30
