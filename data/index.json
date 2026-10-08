@@ -83,6 +83,11 @@
       "url": "https://marketbriefwire.com/data/topics/4-이스라엘.json"
     },
     {
+      "hall": "4",
+      "hall_name": "전쟁·지정학",
+      "url": "https://marketbriefwire.com/data/topics/4-중국.json"
+    },
+    {
       "hall": "5",
       "hall_name": "기타 핀테크·신산업",
       "url": "https://marketbriefwire.com/data/topics/5-hood.json"
