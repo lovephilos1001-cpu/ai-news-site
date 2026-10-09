@@ -40,6 +40,11 @@
     {
       "hall": "2",
       "hall_name": "빅테크·플랫폼",
+      "url": "https://marketbriefwire.com/data/topics/2-amzn.json"
+    },
+    {
+      "hall": "2",
+      "hall_name": "빅테크·플랫폼",
       "url": "https://marketbriefwire.com/data/topics/2-googl.json"
     },
     {
@@ -61,6 +66,11 @@
       "hall": "4",
       "hall_name": "전쟁·지정학",
       "url": "https://marketbriefwire.com/data/topics/4-기타지역.json"
+    },
+    {
+      "hall": "4",
+      "hall_name": "전쟁·지정학",
+      "url": "https://marketbriefwire.com/data/topics/4-러시아.json"
     },
     {
       "hall": "4",
