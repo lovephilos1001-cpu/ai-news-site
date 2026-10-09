@@ -1,5 +1,38 @@
 # AI 마켓 브리핑 아카이브 — 전체 기사 원문
 
+## [10/10 05:30] Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families
+10/10 05:30 KST (https://marketbriefwire.com/20261009-2031.html)
+
+📊 오늘의 지수
+나스닥 27,364.32 (+0.62%) | 환율 1,341원 | 미국채 10년물 5.240%
+
+---
+
+🔑 핵심 이슈 3가지
+
+① 🏭 *미국 제조업, 9월에도 성장 지속 — 백로그 급증
+ISM 등 제조업 활동 지표에 따르면 미국 제조업 경기가 9월에도 확장세를 유지했으며, 특히 수주 잔량(Backlogs)이 급격히 늘어난 것으로 나타났습니다. 이는 수요가 공급 처리 속도를 앞지르고 있음을 시사하는 지표로 풀이됩니다.
+
+② 💰 Fed, 2025년 소비자금융 서베이 결과 발표
+연방준비제도(Fed)가 2025년 소비자금융 서베이(Survey of Consumer Finances) 결과를 공개했습니다. 이 서베이는 미국 가계의 자산·부채·소득·소비 실태를 상세히 담고 있으며, 정책 입안자와 시장 참여자 모두가 주목하는 핵심 데이터로 평가됩니다.
+
+③ 🤖 GlobalFoundries, FDX Fusion 기술로 Physical AI 시장 공략
+GlobalFoundries의 Manfred Horstmann이 FDX Fusion 공정 기술을 앞세워 Physical AI 영역에 베팅하겠다는 전략을 밝혔습니다. FDX Fusion은 전력 효율과 아날로그 성능을 동시에 끌어올리는 플랫폼으로, 엣지 AI 칩 수요 증가에 대응하는 포지셔닝으로 풀이됩니다.
+
+---
+
+🔮 앞으로 이어질 수 있는 흐름
+
+🔗 제조업 백로그 급증 → 금리·인플레 압력 체인
+미국 제조업 수주 잔량 급증은 생산 확대 수요로 이어져 원자재·에너지 소비 증가로 이어질 수 있습니다. 이 경우 물가 하락 속도가 둔화되고, 현재 이미 5.240%에 달하는 미국채 10년물 금리에 추가적인 상승 압력이 더해질 수 있습니다. 금리가 고점을 유지하거나 재상승한다면 성장주 중심의 나스닥 밸류에이션에 부담 요인으로 작용할 수 있습니다.
+
+🔗 GlobalFoundries FDX Fusion → 반도체 공급망 체인
+Physical AI 수요가 실제로 FDX Fusion 기반 칩 채택으로 이어진다면, GlobalFoundries의 파운드리 가동률 상승 → 반도체 소재·장비 업체들의 수주 확대 → 관련 설비투자 및 고용 증가로 이어질 수 있습니다. 멀티-다이(Multi-Die) 시스템에서의 데이터 이동 문제 해결 이슈와 맞물려 패키징·인터커넥트 전문 업체들에도 수혜가 돌아갈 수 있습니다.
+
+---
+
+※ 본 브리핑은 투자 참고 정보이며, 투자 판단 및 책임은 본인에게 있습니다.
+
 ## [10/09 22:00] 기판 20%·동박판 30% 껑충 … 日·대만 소부장 영향력 커져 - 매일경제
 10/09 22:00 KST (https://marketbriefwire.com/20261009-1302.html)
 
