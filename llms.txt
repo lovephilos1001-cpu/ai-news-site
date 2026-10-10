@@ -10,6 +10,7 @@
 구조화 데이터(점수·분류 등 원본 JSON)는 https://marketbriefwire.com/data/index.json 에 목록이 있습니다.
 
 ## 최근 브리핑
+- [[10/11 05:30] Manfred Horstmann: GlobalFoundries Bets on FDX Fusion for Physical AI](https://marketbriefwire.com/20261010-2031.html) — 10/11 05:30
 - [[10/10 22:00] 엔비디아 커스텀 HBM 공개…삼성·SK하이닉스 승부처는? - 자본시장뉴스](https://marketbriefwire.com/20261010-1301.html) — 10/10 22:00
 - [[10/10 16:00] 엔비디아 커스텀 HBM 공개…삼성·SK하이닉스 승부처는? - 자본시장뉴스](https://marketbriefwire.com/20261010-0702.html) — 10/10 16:00
 - [[10/10 05:30] Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families](https://marketbriefwire.com/20261009-2031.html) — 10/10 05:30
@@ -29,4 +30,3 @@
 - [[10/05 16:00] AI·반도체 열풍에…4대 과기원 수시지원자 3만명 '역대 최대' - 연합뉴스](https://marketbriefwire.com/20261005-0701.html) — 10/05 16:00
 - [[10/05 10:37] 엔비디아 AI 반도체 '담보대출' 전략 성공할까, 삼성전자 SK하이닉스 실적에도 변수 - businesspost.co.kr](https://marketbriefwire.com/20261005-0139.html) — 10/05 10:37
 - [[10/04 16:00] HBM 가격 치솟자 AI칩 ‘메모리 다이어트’…삼전닉스 전략도 바뀌나 - v.daum.net](https://marketbriefwire.com/20261004-0701.html) — 10/04 16:00
-- [[10/04 05:30] AI마켓 브리핑](https://marketbriefwire.com/20261003-2030.html) — 10/04 05:30
