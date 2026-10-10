@@ -10,6 +10,7 @@
 구조화 데이터(점수·분류 등 원본 JSON)는 https://marketbriefwire.com/data/index.json 에 목록이 있습니다.
 
 ## 최근 브리핑
+- [[10/10 16:00] 엔비디아 커스텀 HBM 공개…삼성·SK하이닉스 승부처는? - 자본시장뉴스](https://marketbriefwire.com/20261010-0702.html) — 10/10 16:00
 - [[10/10 05:30] Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families](https://marketbriefwire.com/20261009-2031.html) — 10/10 05:30
 - [[10/09 22:00] 기판 20%·동박판 30% 껑충 … 日·대만 소부장 영향력 커져 - 매일경제](https://marketbriefwire.com/20261009-1302.html) — 10/09 22:00
 - [[10/09 16:00] 대만 TSMC, AI 반도체 수요에 3분기 매출 50% 급증…역대 최대 - 연합뉴스](https://marketbriefwire.com/20261009-0701.html) — 10/09 16:00
@@ -29,4 +30,3 @@
 - [[10/04 16:00] HBM 가격 치솟자 AI칩 ‘메모리 다이어트’…삼전닉스 전략도 바뀌나 - v.daum.net](https://marketbriefwire.com/20261004-0701.html) — 10/04 16:00
 - [[10/04 05:30] AI마켓 브리핑](https://marketbriefwire.com/20261003-2030.html) — 10/04 05:30
 - [[10/03 16:00] 오픈엣지테크놀로지, AI 반도체 기업과 67억 규모 계약 체결 - 마켓인](https://marketbriefwire.com/20261003-0701.html) — 10/03 16:00
-- [[10/03 05:30] [AI픽] 국산 AI반도체 성능지표 'K-Perf', 한전서 첫 실전검증 - 연합뉴스](https://marketbriefwire.com/20261002-2031.html) — 10/03 05:30
