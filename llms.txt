@@ -10,6 +10,7 @@
 구조화 데이터(점수·분류 등 원본 JSON)는 https://marketbriefwire.com/data/index.json 에 목록이 있습니다.
 
 ## 최근 브리핑
+- [[10/12 05:30] 한국, 남미 광물 공급망 다변화… AI 반도체 리스크 정면 돌파 - 글로벌이코노믹](https://marketbriefwire.com/20261011-2031.html) — 10/12 05:30
 - [[10/11 22:00] 한국, 남미 광물 공급망 다변화… AI 반도체 리스크 정면 돌파 - 글로벌이코노믹](https://marketbriefwire.com/20261011-1301.html) — 10/11 22:00
 - [[10/11 05:30] Manfred Horstmann: GlobalFoundries Bets on FDX Fusion for Physical AI](https://marketbriefwire.com/20261010-2031.html) — 10/11 05:30
 - [[10/10 22:00] 엔비디아 커스텀 HBM 공개…삼성·SK하이닉스 승부처는? - 자본시장뉴스](https://marketbriefwire.com/20261010-1301.html) — 10/10 22:00
@@ -29,4 +30,3 @@
 - [[10/06 05:30] Kepler Aims to Launch Energy-Saving Replacement for HBM in 2027](https://marketbriefwire.com/20261005-2031.html) — 10/06 05:30
 - [[10/05 22:00] 반도체 소부장 랠리 … ETF 출시도 잇따라 - 매일경제 마켓](https://marketbriefwire.com/20261005-1301.html) — 10/05 22:00
 - [[10/05 16:00] AI·반도체 열풍에…4대 과기원 수시지원자 3만명 '역대 최대' - 연합뉴스](https://marketbriefwire.com/20261005-0701.html) — 10/05 16:00
-- [[10/05 10:37] 엔비디아 AI 반도체 '담보대출' 전략 성공할까, 삼성전자 SK하이닉스 실적에도 변수 - businesspost.co.kr](https://marketbriefwire.com/20261005-0139.html) — 10/05 10:37
