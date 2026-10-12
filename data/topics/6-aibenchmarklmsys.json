@@ -1,0 +1,9 @@
+[
+  {
+    "topic_name": "AI 모델 랭킹(Arena AI, 구 LMSYS)",
+    "date_kst": "2026-10-12 23:06",
+    "headline": "2026-10-07 기준: 1위 gemini-4-argon-high(Google, 1525점) / 2위 claude-opus-4-6-high(Anthropic, 1505점) / 3위 claude-fable-5-high(Anthropic, 1504점) / 4위 claude-opus-5.5-high(Anthropic, 1504점) / 5위 claude-opus-4-7-high(Anthropic, 1501점) / 6위 claude-fable-5.1-max(Anthropic, 1501점) / 7위 claude-opus-4-6(Anthropic, 1497점) / 8위 gemini-3.8-flash-high(Google, 1495점) / 9위 muse-spark-1.3-max(Meta, 1494점) / 10위 claude-opus-4-7(Anthropic, 1494점)",
+    "link": "https://arena.ai/leaderboard/text",
+    "source": "Arena AI(비공식 미러)"
+  }
+]
