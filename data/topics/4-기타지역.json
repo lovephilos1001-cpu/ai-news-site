@@ -2,13 +2,6 @@
   {
     "topic_name": "기타 지역",
     "date_kst": "10/02 11:37",
-    "headline": "Boeing engineers and technical workers approve new contract, avoiding strike",
-    "link": "https://www.cnbc.com/2026/10/01/boeing-contract-engineers-technical-workers.html",
-    "source": "CNBC"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/02 11:37",
     "headline": "Software roared back last quarter. Cramer says these stocks can keep climbing",
     "link": "https://www.cnbc.com/2026/10/01/jim-cramer-software-stocks-q3.html",
     "source": "CNBC"
@@ -1383,6 +1376,27 @@
     "date_kst": "10/12 21:56",
     "headline": "[속보 10/12 21:56] Nobel economics prize awarded to Robert Hall and Michael ⁠Woodford",
     "link": "https://www.aljazeera.com/news/2026/10/12/nobel-economics-prize-awarded-to-robert-hall-and-michael-%e2%81%a0woodford?traffic_source=rss",
+    "source": "AlJazeera"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/12 22:00",
+    "headline": "Nobel prize in economics awarded to Robert E. Hall and Michael Woodford",
+    "link": "https://www.cnbc.com/2026/10/12/nobel-economics-prize-winner-woodford-hall.html",
+    "source": "CNBC"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/12 22:00",
+    "headline": "Nobel economics prize awarded to Robert Hall and Michael ⁠Woodford",
+    "link": "https://www.aljazeera.com/news/2026/10/12/nobel-economics-prize-awarded-to-robert-hall-and-michael-%e2%81%a0woodford?traffic_source=rss",
+    "source": "AlJazeera"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/12 22:00",
+    "headline": "Saudi Arabia vows resilience as Houthi strikes hit Riyadh airport",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/12/saudi-arabia-vows-resilience-as-houthi-strikes-hit-riyadh-airport?traffic_source=rss",
     "source": "AlJazeera"
   }
 ]
