@@ -2,20 +2,6 @@
   {
     "topic_name": "기타 지역",
     "date_kst": "10/02 11:37",
-    "headline": "Software roared back last quarter. Cramer says these stocks can keep climbing",
-    "link": "https://www.cnbc.com/2026/10/01/jim-cramer-software-stocks-q3.html",
-    "source": "CNBC"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/02 11:37",
-    "headline": "What life under U.S. sanctions looks like for one ICC judge",
-    "link": "https://www.npr.org/2026/10/01/nx-s1-5977815/trump-icc-sanctions-kimberly-prost",
-    "source": "NPR"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/02 11:37",
     "headline": "Netanyahu says Flydubai attacker had 'Islamist radical indoctrination'",
     "link": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss",
     "source": "BBC"
@@ -1398,5 +1384,19 @@
     "headline": "Saudi Arabia vows resilience as Houthi strikes hit Riyadh airport",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/12/saudi-arabia-vows-resilience-as-houthi-strikes-hit-riyadh-airport?traffic_source=rss",
     "source": "AlJazeera"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/13 01:11",
+    "headline": "[속보 10/13 01:11] Delta delays debut of Saudi Arabia service until March after Riyadh airport attacks",
+    "link": "https://www.cnbc.com/2026/10/12/delta-riyadh-nonstop-service-delay.html",
+    "source": "CNBC"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/13 01:11",
+    "headline": "[속보 10/13 01:11] Saudi Arabia faces more drone, missile attacks after Houthi’s fatal airport strikes",
+    "link": "https://www.scmp.com/news/world/middle-east/article/3370628/saudi-arabia-faces-more-drone-missile-attacks-after-houthis-fatal-airport-strikes?utm_source=rss_feed",
+    "source": "SCMP"
   }
 ]
