@@ -306,5 +306,26 @@
     "headline": "[속보 10/12 15:56] Trump says Russia and Ukraine agree to an 'energy ceasefire'",
     "link": "https://www.npr.org/2026/10/12/nx-s1-5998614/trump-russia-ukraine-energy-ceasefire",
     "source": "NPR"
+  },
+  {
+    "topic_name": "우크라이나",
+    "date_kst": "10/12 16:00",
+    "headline": "Oil falls after Trump declares 'energy ceasefire' between Russia and Ukraine",
+    "link": "https://www.cnbc.com/2026/10/12/oil-prics-today-iran-us-saudi-arabia-crude-.html",
+    "source": "CNBC"
+  },
+  {
+    "topic_name": "우크라이나",
+    "date_kst": "10/12 16:00",
+    "headline": "Trump declares 'energy ceasefire' between Russia and Ukraine; Zelenskyy is waiting for details",
+    "link": "https://www.cnbc.com/2026/10/11/trump-energy-ceasefire-russia-ukraine-zelenskyy.html",
+    "source": "CNBC"
+  },
+  {
+    "topic_name": "우크라이나",
+    "date_kst": "10/12 16:00",
+    "headline": "Trump says Russia and Ukraine agree to an 'energy ceasefire'",
+    "link": "https://www.npr.org/2026/10/12/nx-s1-5998614/trump-russia-ukraine-energy-ceasefire",
+    "source": "NPR"
   }
 ]
