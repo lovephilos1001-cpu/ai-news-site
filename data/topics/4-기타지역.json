@@ -2,20 +2,6 @@
   {
     "topic_name": "기타 지역",
     "date_kst": "10/02 12:00",
-    "headline": "Netanyahu says Flydubai attacker had 'Islamist radical indoctrination'",
-    "link": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/02 12:00",
-    "headline": "Boeing engineers and technical workers approve new contract, avoiding strike",
-    "link": "https://www.cnbc.com/2026/10/01/boeing-contract-engineers-technical-workers.html",
-    "source": "CNBC"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/02 12:00",
     "headline": "Software roared back last quarter. Cramer says these stocks can keep climbing",
     "link": "https://www.cnbc.com/2026/10/01/jim-cramer-software-stocks-q3.html",
     "source": "CNBC"
@@ -1398,5 +1384,19 @@
     "headline": "[속보 10/13 12:26] IMF warns global economy ‘could soon test the limits of resilience’",
     "link": "https://www.theguardian.com/business/2026/oct/13/imf-global-economy-world-economic-outlook-uk-gdp-forecast-2026",
     "source": "Guardian"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/13 13:41",
+    "headline": "[속보 10/13 13:41] Ronaldo waves Saudi-flag scarf after match interrupted by missile alert",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/12-10-clip-ronaldowears-saudi-shawl-ksa?traffic_source=rss",
+    "source": "AlJazeera"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/13 13:56",
+    "headline": "[속보 10/13 13:56] Hundreds of supermarkets in France hit by ‘unprecedented’ cyberattack",
+    "link": "https://www.aljazeera.com/news/2026/10/13/unprecedented-cyberattack-hits-french-supermarkets-causing-food-losses?traffic_source=rss",
+    "source": "AlJazeera"
   }
 ]
