@@ -1,0 +1,61 @@
+{
+  "timeline": [
+    {
+      "date": "1929-1933",
+      "fact": "1929~1933년 사이 실질GDP 약 29% 감소",
+      "source": "세인트루이스 연준",
+      "link": "https://www.stlouisfed.org/the-great-depression/curriculum/economic-episodes-in-american-history-part-3",
+      "tier": "major"
+    },
+    {
+      "date": "1933",
+      "fact": "대공황 실업률 정점 24.9%(약 1,283만명) — 공식 통계 집계 전이라 후대 재구성한 수치",
+      "source": "세인트루이스 연준",
+      "link": "https://www.stlouisfed.org/the-great-depression/curriculum/economic-episodes-in-american-history-part-3",
+      "tier": "major"
+    },
+    {
+      "date": "2009-06",
+      "fact": "2009년 6월부터 2020년 2월까지 128개월간 경기확장 — 1854년 이래 미국 역사상 최장 확장기(NBER 공식 판정)",
+      "source": "전미경제연구소(NBER, talkbusiness.net 재인용)",
+      "link": "https://talkbusiness.net/2020/06/nber-u-s-enters-recession-ending-longest-economic-expansion-in-u-s-history/",
+      "tier": "major"
+    },
+    {
+      "date": "2009-10",
+      "fact": "금융위기發 실업률 10.2%로 급등 — 1983년 4월 이후 26년來 최고",
+      "source": "미국 노동통계국(BLS, ABC News 재인용)",
+      "link": "https://abcnews.go.com/amp/Business/unemployment-rate-hits-102-percent/story?id=9014098",
+      "tier": "major"
+    },
+    {
+      "date": "2020-04",
+      "fact": "비농업고용 2,050만명 감소 — 1948년 집계 시작 이후 단월 기준 최대 감소폭",
+      "source": "미국 노동통계국(BLS, Employment Situation 2020-05-08)",
+      "link": "https://www.bls.gov/news.release/archives/empsit_05082020.pdf",
+      "tier": "major"
+    },
+    {
+      "date": "2020-04",
+      "fact": "실업률 14.7%로 급등 — 대공황 이후 최고치(2월 3.5%→4월 14.7%, 두 달 만에 급변)",
+      "source": "AP(CBS News 재인용)",
+      "link": "https://www.cbsnews.com/amp/pittsburgh/news/unemployment-reaches-14-percent",
+      "tier": "major"
+    },
+    {
+      "date": "2020-Q2",
+      "fact": "실질GDP 연율 -31.4%로 급락(최초 발표는 -32.9%) — 1947년 집계 시작 이후 최대 분기 감소폭",
+      "source": "미국 경제분석국(BEA, CityAM 재인용)",
+      "link": "https://www.cityam.com/?p=1443245",
+      "tier": "major"
+    },
+    {
+      "date": "2023-01",
+      "fact": "실업률 3.4%로 1969년 이후 최저 수준 — 1월 비농업고용 51만7천명 증가",
+      "source": "미국 노동통계국(BLS)",
+      "link": "https://www.bls.gov/opub/ted/2023/unemployment-rate-3-4-percent-in-april-2023.htm",
+      "tier": "detail"
+    }
+  ],
+  "perspectives": []
+}
