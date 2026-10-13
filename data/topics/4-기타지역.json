@@ -2,13 +2,6 @@
   {
     "topic_name": "기타 지역",
     "date_kst": "10/02 12:00",
-    "headline": "What life under U.S. sanctions looks like for one ICC judge",
-    "link": "https://www.npr.org/2026/10/01/nx-s1-5977815/trump-icc-sanctions-kimberly-prost",
-    "source": "NPR"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/02 12:00",
     "headline": "Netanyahu says Flydubai attacker had 'Islamist radical indoctrination'",
     "link": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss",
     "source": "BBC"
@@ -1398,5 +1391,12 @@
     "headline": "[속보 10/13 11:41] Fridges in French supermarkets hit by cyber attack",
     "link": "https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo?at_medium=RSS&at_campaign=rss",
     "source": "BBC"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/13 12:26",
+    "headline": "[속보 10/13 12:26] IMF warns global economy ‘could soon test the limits of resilience’",
+    "link": "https://www.theguardian.com/business/2026/oct/13/imf-global-economy-world-economic-outlook-uk-gdp-forecast-2026",
+    "source": "Guardian"
   }
 ]
