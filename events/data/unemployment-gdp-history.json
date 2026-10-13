@@ -15,6 +15,41 @@
       "tier": "major"
     },
     {
+      "date": "1975-05",
+      "fact": "1차 오일쇼크發 침체(1973-11~1975-03) 이후 실업률 9.0%로 정점 — 침체 자체는 끝났는데도 실업률은 몇 달 더 올라간 전형적 지연 패턴, 전후 최대 230만개 일자리 감소",
+      "source": "San José State University(BLS 데이터 재구성)",
+      "link": "https://www.sjsu.edu/faculty/watkins/rec1974.htm",
+      "tier": "major"
+    },
+    {
+      "date": "1982-11",
+      "fact": "Volcker 긴축發 이중침체(1981-07~1982-11) 끝에 실업률 10.8%로 정점 — 2009년 금융위기(10.2%)보다도 높은, 대공황 이후 최고 수준",
+      "source": "AP(NBC 재인용)",
+      "link": "https://nbcdfw.com/news/national-international/paul-volcker-the-carter-reagan-fed-chairman-who-beat-inflation-dies-at-age-92/2270348",
+      "tier": "major"
+    },
+    {
+      "date": "1984",
+      "fact": "Volcker 디스인플레이션 이후 실질GDP 약 6.8~7.2% 성장 — 1951년 이후 최고 성장률(레이건이 \"미국의 아침\"으로 자평)",
+      "source": "Christian Science Monitor",
+      "link": "https://www.csmonitor.com/1985/0201/eco.html",
+      "tier": "detail"
+    },
+    {
+      "date": "1992-06",
+      "fact": "1990~91년 침체(1990-07~1991-03) 종료 15개월 뒤에도 실업률이 6.8%→7.8%까지 계속 상승 — 당시 언론이 \"고용없는 회복(jobless recovery)\"이라 부른 최초 사례",
+      "source": "클리블랜드 연준",
+      "link": "https://www.clevelandfed.org/publications/economic-commentary/1996/ec-19960901-reducing-working-hours-american-workers-salvation",
+      "tier": "major"
+    },
+    {
+      "date": "2003-06",
+      "fact": "2001년 닷컴버블 침체(2001-03 종료) 이후 실업률 6.3%로 정점 — 침체 종료 19개월 후로, 당시까지 전후 가장 긴 \"고용없는 회복\" 기록",
+      "source": "뉴욕 연준",
+      "link": "https://www.newyorkfed.org/medialibrary/media/research/epr/05v11n1/0508vrom.pdf",
+      "tier": "major"
+    },
+    {
       "date": "2009-06",
       "fact": "2009년 6월부터 2020년 2월까지 128개월간 경기확장 — 1854년 이래 미국 역사상 최장 확장기(NBER 공식 판정)",
       "source": "전미경제연구소(NBER, talkbusiness.net 재인용)",
@@ -50,11 +85,25 @@
       "tier": "major"
     },
     {
+      "date": "2023",
+      "fact": "실질GDP +2.5% 성장, 실업률 11월 기준 3.7% 유지 — 2022년 10월 수익률곡선 역전 이후 \"역대급으로 예견됐던 침체\"가 현실화되지 않으며 \"연착륙\" 논쟁 시작",
+      "source": "Research Affiliates",
+      "link": "https://www.researchaffiliates.com/publications/articles/1018-can-we-achieve-a-soft-landing",
+      "tier": "detail"
+    },
+    {
       "date": "2023-01",
       "fact": "실업률 3.4%로 1969년 이후 최저 수준 — 1월 비농업고용 51만7천명 증가",
       "source": "미국 노동통계국(BLS)",
       "link": "https://www.bls.gov/opub/ted/2023/unemployment-rate-3-4-percent-in-april-2023.htm",
       "tier": "major"
+    },
+    {
+      "date": "2026-06",
+      "fact": "2022-10 수익률곡선 역전 이후 약 3년 8개월이 지난 현재까지도 NBER 공식 침체선언 없음(Sahm Rule 0.47로 트리거 0.50 밑, 수익률곡선도 이미 정상화) — 1966~67년과 함께 역전 신호가 침체로 이어지지 않은 소수 사례로 남는 중",
+      "source": "시장 데이터 집계(Manifold Markets 댓글 요약, 2026-06 기준 — NBER 공식 발표가 아닌 당시 시장지표 스냅샷)",
+      "link": "https://manifold.markets/event/will-the-us-enter-a-recession-in-20",
+      "tier": "detail"
     }
   ],
   "perspectives": []
