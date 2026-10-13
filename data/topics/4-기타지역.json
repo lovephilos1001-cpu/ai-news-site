@@ -1,27 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/03 05:30",
-    "headline": "G7 nations to release diesel stocks as wars in Europe and Middle East constrain fuel supplies",
-    "link": "https://www.cnbc.com/2026/10/02/diesel-oil-trump-europe-export-ban.html",
-    "source": "CNBC"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/03 05:30",
-    "headline": "David Ellison says combined Paramount and Warner Bros. Discovery will be named Skydance",
-    "link": "https://www.cnbc.com/2026/10/02/paramount-warner-bros-discovery-skydance.html",
-    "source": "CNBC"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/03 05:30",
-    "headline": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
-    "link": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/03 16:00",
     "headline": "G7 nations to release diesel stocks as wars in Europe and Middle East constrain fuel supplies",
     "link": "https://www.cnbc.com/2026/10/02/diesel-oil-trump-europe-export-ban.html",
@@ -1398,5 +1377,26 @@
     "headline": "[속보 10/13 19:11] Drone attack sinks ship off Bulgaria’s Black Sea coast, PM says",
     "link": "https://www.aljazeera.com/news/2026/10/13/drone-attack-sinks-ship-off-bulgarias-black-sea-coast-pm-says?traffic_source=rss",
     "source": "AlJazeera"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/13 20:11",
+    "headline": "[속보 10/13 20:11] Bulgaria seeks Nato support after Black Sea drone strikes hit merchant ships, sinking 1",
+    "link": "https://www.scmp.com/news/world/europe/article/3370741/bulgaria-seeks-nato-support-after-black-sea-drone-strikes-hit-merchant-ships-sinking-1?utm_source=rss_feed",
+    "source": "SCMP"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/13 20:26",
+    "headline": "[속보 10/13 20:26] Japan and U.S. review troops’ off-duty rules after Okinawa killing",
+    "link": "https://www.japantimes.co.jp/news/2026/10/13/japan/crime-legal/us-japan-okinawa-troop-rules-review/",
+    "source": "JapanTimes"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/13 20:26",
+    "headline": "[속보 10/13 20:26] Japan, US review military liberty policies after Okinawa killing",
+    "link": "https://www.scmp.com/news/asia/east-asia/article/3370725/japan-us-review-military-liberty-policies-after-okinawa-killing?utm_source=rss_feed",
+    "source": "SCMP"
   }
 ]

@@ -1,0 +1,39 @@
+{
+  "title": "수익률곡선 역전 — 속옷지수보다 훨씬 신뢰받는 침체 신호",
+  "category": "concept",
+  "intro": "정상적인 상황에선 장기국채 금리가 단기국채 금리보다 높습니다(돈을 오래 빌려줄수록 리스크가\n크니 이자도 더 받아야 하니까). 그런데 단기금리가 장기금리보다 높아지는 \"역전\" 현상이 생기면,\n이건 역사적으로 미국 침체를 가장 꾸준히 예고해온 신호입니다.",
+  "sections": [
+    {
+      "heading": "얼마나 잘 맞았나",
+      "body": "1955년 이후 미국의 주요 침체 대부분이 역전 이후에 발생했습니다. 1966~67년 한 번을\n\"거짓 신호\"로 보는 분석도 있지만, 1977년 이후로만 좁히면 모든 침체 앞에 역전이 있었고 거짓 신호는\n없었다는 분석도 있습니다. 10번 중 1번 정도 빗나갔다고 보는 게 합리적인 요약입니다."
+    },
+    {
+      "heading": "리드타임이 불규칙하다는 게 함정",
+      "body": "역전되고 나서 실제 침체가 오기까지 걸리는 시간이 들쭠날쭠합니다 — 분석마다 6개월~2년,\n또는 4~6개 분기라고 다르게 말합니다. \"역전됐다 = 곧 침체\"가 아니라 \"역전됐다 = 넓은 시간창 안에\n침체 가능성이 높아졌다\"로 해석해야 합니다."
+    },
+    {
+      "heading": "2022년 역전은 신호가 깨진 걸까",
+      "body": "2022년 역전은 역대급으로 길게 지속됐는데도 바로 뒤이어 침체가 오지 않아서 \"연준의\n전례없는 정책 개입이 가장 믿을만한 침체 신호를 망가뜨린 거 아니냐\"는 논쟁이 있었습니다. 어느 쪽이\n맞았는지는 더 긴 시간이 지나야 명확해지는 영역입니다."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Nasdaq — 1955년 이후 역전 신호 정확도",
+      "url": "https://www.nasdaq.com/articles/this-recession-indicator-has-been-100-accurate-since-1955-and-its-flashing-again"
+    },
+    {
+      "name": "Noahpinion — 역전과 침체의 관계 분석",
+      "url": "https://www.noahpinion.blog/p/does-the-yield-curve-tell-us-a-recession"
+    },
+    {
+      "name": "Pacific Life — 1977년 이후 역전·침체 정리",
+      "url": "https://www.annuities.pacificlife.com/home/resources/retirement-landscape/market-insights/yield-curve-inversion-and-recession-prediction.html"
+    }
+  ],
+  "related_resources": [
+    "FEDFUNDS"
+  ],
+  "related_events": [
+    "unemployment-gdp-history"
+  ]
+}

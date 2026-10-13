@@ -1,0 +1,37 @@
+{
+  "title": "수요발 인플레이션 vs 공급발 인플레이션 — 2022년은 어느 쪽?",
+  "category": "concept",
+  "intro": "\"물가가 왜 오르는가\"엔 경제학적으로 두 가지 서로 다른 메커니즘이 있습니다. 어느 쪽이\n원인이냐에 따라 연준이 써야 할 정책도, 트레이더가 봐야 할 지표도 달라집니다.",
+  "sections": [
+    {
+      "heading": "수요발(demand-pull) — 수요가 공급을 앞지를 때",
+      "body": "소비·투자·정부지출이 늘면서 총수요(AD)가 총공급(AS)보다 빠르게 늘어나 물가를 밀어\n올리는 경우. 보통 경기가 좋을 때 같이 나타나서 생산·고용도 같이 늘어나는 편입니다. 정책 대응은\n보통 긴축(금리인상)."
+    },
+    {
+      "heading": "공급발(cost-push) — 생산원가가 먼저 오를 때",
+      "body": "임금·에너지·원자재값 같은 생산비용이 올라 단기총공급(SRAS)이 줄어들면서 물가를\n밀어올리는 경우. 전형적인 예가 유가 급등입니다. 문제는 이 경우 물가는 오르는데 생산·고용은 같이\n줄어드는 — 즉 <b>스태그플레이션 위험</b>이 있어서 긴축으로 대응하면 경기를 더 꺾는 트레이드오프가\n생깁니다."
+    },
+    {
+      "heading": "2022년은 어느 쪽이었나",
+      "body": "2022년 인플레이션 급등엔 두 요인이 겹쳤습니다 — 팬데믹 이후 수요 회복(수요발\n요소)과, 러시아-우크라이나 전쟁발 유가·에너지 충격(공급발 요소)이 동시에 작동했습니다. 이 사이트의\n유가 역사 타임라인에서 2022-03 러시아 침공 이후 유가가 배럴당 $100을 넘은 시점과 CPI·PPI 역사\n타임라인의 2022-06 CPI 9.1% 정점 시점이 거의 맞물리는 걸 확인할 수 있습니다 — 공급충격이 상당한\n비중을 차지했다는 해석이 가능합니다."
+    }
+  ],
+  "sources": [
+    {
+      "name": "TutorChase — 수요발 vs 공급발 인플레이션",
+      "url": "https://www.tutorchase.com/notes/aqa-a-level/economics/11-3-2-demand-pull-vs-cost-push"
+    },
+    {
+      "name": "GoCardless — 수요발 인플레이션 설명",
+      "url": "https://gocardless.com/en-us/guides/posts/what-is-demand-pull-inflation"
+    }
+  ],
+  "related_resources": [
+    "CPIAUCSL",
+    "PPIACO"
+  ],
+  "related_events": [
+    "cpi-ppi-inflation-history",
+    "oil-price-history"
+  ]
+}

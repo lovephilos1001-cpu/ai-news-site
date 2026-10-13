@@ -1,0 +1,41 @@
+{
+  "title": "화폐수량설(MV=PQ) — 통화량(M2)이 왜 중요한가",
+  "category": "concept",
+  "intro": "\"돈을 많이 풀면 물가가 오른다\"는 직관을 수식으로 정리한 게 화폐수량설입니다. 2021년\nM2 통화량이 역대 최대로 폭증한 뒤 2022년 인플레이션이 치솟은 흐름을 이해하는 데 핵심적인 이론\n프레임입니다.",
+  "sections": [
+    {
+      "heading": "공식: M×V = P×Q",
+      "body": "M(통화량) × V(화폐유통속도, 돈이 한 해에 몇 번 손을 바꾸는지) = P(물가) × Q(실질\n생산량). 이건 항상 성립하는 회계적 정의(총 지출 = 총 생산의 현재가치)에 가깝습니다. 이게 \"인플레이션\n이론\"이 되는 건 추가 가정이 붙을 때입니다."
+    },
+    {
+      "heading": "프리드먼의 통화주의 — V와 Q를 고정시키면",
+      "body": "밀턴 프리드먼은 \"단기적으로 V(유통속도)는 제도적 요인(월급 주기 등)에 의해 꽤\n안정적이고, Q(생산량)는 생산능력에 의해 단기적으로 고정돼 있다\"고 가정했습니다. 이 두 가정이 맞으면\nM(통화량)이 늘어난 만큼 거의 그대로 P(물가)로 전이됩니다. 이 논리로 프리드먼은 \"인플레이션은\n언제 어디서나 통화량이 생산량보다 빨리 늘어나서 생기는 현상\"이라고 요약했습니다."
+    },
+    {
+      "heading": "2021~2022년 사례로 보기",
+      "body": "팬데믹 부양책·연준 자산매입으로 2021년 초 M2가 전년대비 +25~27%(1959년 집계 이후\n최대) 폭증했고, 그 뒤 2022년 CPI가 9.1%까지 치솟았습니다. 다만 비판론자들은 \"V(유통속도)가 실제로는\n안정적이지 않고, 2022년 인플레이션엔 러-우전쟁 같은 공급충격 요인도 크게 겹쳤다\"고 반박합니다 —\n화폐수량설 하나로 전부 설명되진 않습니다."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Economics Help — 통화주의 인플레이션 이론",
+      "url": "https://www.economicshelp.org/macroeconomics/inflation/monetarist-theory-inflation/"
+    },
+    {
+      "name": "Britannica — 통화주의(Monetarism)",
+      "url": "https://www.britannica.com/money/monetarism"
+    },
+    {
+      "name": "Mercatus Center — 2021년 M2 급증 분석(Peter Ireland)",
+      "url": "https://mercatus.org/media/75856/download"
+    }
+  ],
+  "related_resources": [
+    "M2SL",
+    "CPIAUCSL"
+  ],
+  "related_events": [
+    "money-supply-sentiment-history",
+    "cpi-ppi-inflation-history"
+  ]
+}
