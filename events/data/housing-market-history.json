@@ -1,0 +1,54 @@
+{
+  "timeline": [
+    {
+      "date": "2006-07",
+      "fact": "케이스실러 전미 주택가격지수(184.62) 사상 최고치 기록 후 하락 전환 — 서브프라임 버블의 정점",
+      "source": "S&P Dow Jones Indices(therealdeal.com 재인용)",
+      "link": "https://therealdeal.com/2016/11/29/us-home-prices-surpassed-2006-peak-in-september/",
+      "tier": "major"
+    },
+    {
+      "date": "2008-12",
+      "fact": "주택착공건수 55만건(연율)으로 사상최저 — 단독주택 착공은 39.8만건으로 역대 최저",
+      "source": "RISMedia(상무부 데이터 재인용)",
+      "link": "https://www.rismedia.com/2009/01/25/housing-starts-continue-to-plummet-hit-record-lows-in-december/",
+      "tier": "major"
+    },
+    {
+      "date": "2012-01",
+      "fact": "케이스실러 전미 주택가격지수, 2006년 고점 대비 약 27.4% 하락한 바닥 기록",
+      "source": "HousingWire/NBC News",
+      "link": "https://www.housingwire.com/articles/sp-home-prices-see-new-bottom-recovery-on-deck/",
+      "tier": "major"
+    },
+    {
+      "date": "2016-09",
+      "fact": "케이스실러 전미 주택가격지수, 2006년 고점을 명목가 기준으로 재돌파 — 붕괴 후 10년 만에 회복",
+      "source": "S&P Dow Jones Indices",
+      "link": "https://press.spglobal.com/2016-11-29-The-S-P-CoreLogic-Case-Shiller-National-Index-Reaches-New-High-As-Home-Price-Gains-Continue",
+      "tier": "detail"
+    },
+    {
+      "date": "2021",
+      "fact": "케이스실러 전미지수 연간 +18.8%(이후 수정 18.9%) 상승 — 지수 35년 역사상 최대 연간상승률, 팬데믹發 주택붐",
+      "source": "S&P Dow Jones Indices",
+      "link": "https://www.spglobal.com/spdji/en/index-announcements/article/sp-corelogic-case-shiller-index-reports-188-annual-home-price-gain-for-calendar-2021",
+      "tier": "major"
+    },
+    {
+      "date": "2022",
+      "fact": "케이스실러 전미지수 연간상승률 5.8%로 급격 둔화(2021년 18.9% 대비) — 그래도 35년 역사상 15번째로 높은 연간상승률",
+      "source": "Inman",
+      "link": "https://inman.com/2023/02/28/home-prices-cooled-sharply-to-end-2022-but-affordability-still-elusive",
+      "tier": "major"
+    },
+    {
+      "date": "2022-04",
+      "fact": "연간상승률이 10대도시 19.8%·20대도시 21.3%로 정점 찍고 하락 전환 — 연준 금리인상 본격화와 겹침",
+      "source": "Scotsman Guide",
+      "link": "https://www.scotsmanguide.com/news/caseshiller-index-decelerates-annually-for-seventh-straight-month/",
+      "tier": "detail"
+    }
+  ],
+  "perspectives": []
+}
