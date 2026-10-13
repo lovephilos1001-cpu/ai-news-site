@@ -1,13 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/03 16:00",
-    "headline": "David Ellison says combined Paramount and Warner Bros. Discovery will be named Skydance",
-    "link": "https://www.cnbc.com/2026/10/02/paramount-warner-bros-discovery-skydance.html",
-    "source": "CNBC"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/03 21:41",
     "headline": "[속보 10/03 21:41] Flydubai co-pilot attacked captain with axe, UAE official says",
     "link": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
@@ -1398,5 +1391,12 @@
     "headline": "[속보 10/14 04:41] Saudi Arabia Plans Massive Expansion of Oil Pipeline to Bypass Hormuz",
     "link": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Arabia-Plans-Massive-Expansion-of-Oil-Pipeline-to-Bypass-Hormuz.html",
     "source": "OilPrice"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/14 05:56",
+    "headline": "[속보 10/14 05:56] Funeral for Egyptian flight attendant killed in Houthi attack on Riyadh",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/funeral-for-egyptian-flight-attendant-killed-in-houthi-attack-on-riyadh?traffic_source=rss",
+    "source": "AlJazeera"
   }
 ]
