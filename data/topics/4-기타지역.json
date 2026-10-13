@@ -2,13 +2,6 @@
   {
     "topic_name": "기타 지역",
     "date_kst": "10/03 05:30",
-    "headline": "FAA says Boeing 737 Max software glitch not a flight-safety issue",
-    "link": "https://www.cnbc.com/2026/10/02/faa-says-boeing-737-max-10-software-glitch-not-a-flight-safety-issue.html",
-    "source": "CNBC"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/03 05:30",
     "headline": "G7 nations to release diesel stocks as wars in Europe and Middle East constrain fuel supplies",
     "link": "https://www.cnbc.com/2026/10/02/diesel-oil-trump-europe-export-ban.html",
     "source": "CNBC"
@@ -1398,5 +1391,12 @@
     "headline": "[속보 10/13 17:41] Anthropic warns AI models could soon copy themselves across home devices",
     "link": "https://www.cnbc.com/2026/10/13/anthropic-ai-models-self-replication-smart-devices.html",
     "source": "CNBC"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/13 19:11",
+    "headline": "[속보 10/13 19:11] Drone attack sinks ship off Bulgaria’s Black Sea coast, PM says",
+    "link": "https://www.aljazeera.com/news/2026/10/13/drone-attack-sinks-ship-off-bulgarias-black-sea-coast-pm-says?traffic_source=rss",
+    "source": "AlJazeera"
   }
 ]

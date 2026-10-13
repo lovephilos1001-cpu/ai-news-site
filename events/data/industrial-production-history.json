@@ -1,0 +1,40 @@
+{
+  "timeline": [
+    {
+      "date": "1919",
+      "fact": "연준, 산업생산지수 데이터 집계 시작(공식 지수 최초 발표는 1922년) — 현존하는 미국 경제지표 중 가장 긴 역사를 가진 지표 중 하나",
+      "source": "연준(Federal Reserve)",
+      "link": "https://www.federalreserve.gov/releases/G17/100_years_of_ip_data.htm",
+      "tier": "detail"
+    },
+    {
+      "date": "1929-1933",
+      "fact": "대공황 기간 산업생산 약 47% 감소",
+      "source": "브리태니커 백과사전",
+      "link": "https://britannica.com/question/How-did-the-Great-Depression-affect-the-American-economy",
+      "tier": "major"
+    },
+    {
+      "date": "2008-12",
+      "fact": "2007년 12월 대비 2008년 12월 산업생산 7.8% 감소 — 금융위기 본격화",
+      "source": "연준 G.17 발표(2009-01-16)",
+      "link": "https://www.federalreserve.gov/Releases/G17/20090116",
+      "tier": "major"
+    },
+    {
+      "date": "2009-03",
+      "fact": "제조업 가동률(capacity utilization) 69.3%로 사상 최저 — 1967년 집계 시작 이후 최저치",
+      "source": "연준 G.17 발표",
+      "link": "https://www.federalreserve.gov/Releases/g17/20090415/",
+      "tier": "detail"
+    },
+    {
+      "date": "2020-04",
+      "fact": "코로나19 봉쇄로 산업생산 전월대비 11.2% 급락 — 101년 지수 역사상 최대 단월 감소폭, 자동차 생산은 70% 이상 급감",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2020/05/15/industrial-production-april-2020.html",
+      "tier": "major"
+    }
+  ],
+  "perspectives": []
+}
