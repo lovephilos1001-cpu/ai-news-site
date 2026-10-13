@@ -2,13 +2,6 @@
   {
     "topic_name": "기타 지역",
     "date_kst": "10/03 16:00",
-    "headline": "FAA says Boeing 737 Max software glitch not a flight-safety issue",
-    "link": "https://www.cnbc.com/2026/10/02/faa-says-boeing-737-max-10-software-glitch-not-a-flight-safety-issue.html",
-    "source": "CNBC"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/03 16:00",
     "headline": "David Ellison says combined Paramount and Warner Bros. Discovery will be named Skydance",
     "link": "https://www.cnbc.com/2026/10/02/paramount-warner-bros-discovery-skydance.html",
     "source": "CNBC"
@@ -1398,5 +1391,12 @@
     "headline": "[속보 10/13 22:11] Huawei, once hobbled by US sanctions, passes 100 million Kirin chip milestone",
     "link": "https://www.scmp.com/tech/big-tech/article/3370766/huawei-once-hobbled-us-sanctions-passes-100-million-kirin-chip-milestone?utm_source=rss_feed",
     "source": "SCMP"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/14 04:41",
+    "headline": "[속보 10/14 04:41] Saudi Arabia Plans Massive Expansion of Oil Pipeline to Bypass Hormuz",
+    "link": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Arabia-Plans-Massive-Expansion-of-Oil-Pipeline-to-Bypass-Hormuz.html",
+    "source": "OilPrice"
   }
 ]
