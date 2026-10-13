@@ -1,0 +1,131 @@
+{
+  "timeline": [
+    {
+      "date": "1973-10-06",
+      "fact": "제4차 중동전쟁(욤키푸르전쟁) 발발 — 이집트·시리아가 이스라엘 공격",
+      "source": "위키백과",
+      "link": "https://en.wikipedia.org/wiki/1973_oil_crisis",
+      "tier": "major"
+    },
+    {
+      "date": "1973-10-17",
+      "fact": "OAPEC(아랍석유수출국기구), 이스라엘 지지국 대상 석유 금수조치 발표 — 1972년 WTI 약 $3.60/배럴 수준이었음",
+      "source": "위키백과",
+      "link": "https://en.wikipedia.org/wiki/1973_oil_crisis",
+      "tier": "major"
+    },
+    {
+      "date": "1973-12",
+      "fact": "OAPEC 회원국, 독자적으로 수출가격 설정 시작 — 유가가 10월 대비 130% 급등해 배럴당 $11.65 기록",
+      "source": "Troy Historic Village",
+      "link": "https://www.troyhistoricvillage.org/?p=3248",
+      "tier": "detail"
+    },
+    {
+      "date": "1974-03-18",
+      "fact": "금수조치 종료 — 금수 기간 중 전세계 기준유가가 배럴당 약 $3에서 $12 근방까지 약 300% 상승",
+      "source": "미국 공군역사연구소",
+      "link": "https://afhistory.org/october-20-1973",
+      "tier": "detail"
+    },
+    {
+      "date": "1978-1979",
+      "fact": "이란혁명으로 이란 유전 파업·생산 급감 — 하루 480만 배럴(당시 세계생산의 약 7%) 생산 감소",
+      "source": "브루킹스연구소",
+      "link": "https://www.brookings.edu/articles/what-irans-1979-revolution-meant-for-us-and-global-oil-markets/",
+      "tier": "major"
+    },
+    {
+      "date": "1979-04-05",
+      "fact": "카터 행정부, 미국 원유가격 단계적 자유화(규제완화) 시작 — 당시 평균 원유가 배럴당 $15.85",
+      "source": "브루킹스연구소",
+      "link": "https://www.brookings.edu/articles/what-irans-1979-revolution-meant-for-us-and-global-oil-markets/",
+      "tier": "detail"
+    },
+    {
+      "date": "1980",
+      "fact": "공황성 사재기까지 겹치며 유가가 배럴당 $13(1979년 중반)에서 $39.50 근방까지 급등 — 2008년 3월까지 사상 최고 실질유가로 남음",
+      "source": "위키백과",
+      "link": "https://en.wikipedia.org/wiki/1979_oil_crisis",
+      "tier": "major"
+    },
+    {
+      "date": "1980",
+      "fact": "이란-이라크 전쟁 발발로 양국 원유생산 동반 급감, 전세계적 경기침체 유발",
+      "source": "위키백과",
+      "link": "https://en.wikipedia.org/wiki/1979_oil_crisis",
+      "tier": "detail"
+    },
+    {
+      "date": "2008-07-10",
+      "fact": "WTI 선물, 전일대비 $5.60 상승해 배럴당 $141.65로 마감",
+      "source": "Bloomberg 보도 기반(Heraldnet 재인용)",
+      "link": "https://www.heraldnet.com/?p=262128",
+      "tier": "detail"
+    },
+    {
+      "date": "2008-07-11",
+      "fact": "WTI 선물 장중 배럴당 $147.27 기록 — 이란-이스라엘 긴장·나이지리아 무장세력 활동 등이 배경, 사상 최고치",
+      "source": "Bloomberg 보도 기반(Heraldnet 재인용)",
+      "link": "https://www.heraldnet.com/?p=262128",
+      "tier": "major"
+    },
+    {
+      "date": "2014-06",
+      "fact": "미국 셰일오일 증산으로 공급과잉 시작 — 당시 유가 배럴당 $110대에서 하락 전환",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2018/05/15/oil-prices-have-rebounded-since-opec-refused-to-cut-output-in-2014.html",
+      "tier": "detail"
+    },
+    {
+      "date": "2014-11-27",
+      "fact": "OPEC 빈 총회서 감산 거부 결정(사우디 주도, 셰일업체 견제 목적) — 브렌트유가 전날 $77.75에서 다음날 $70.15로 급락",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2018/05/15/oil-prices-have-rebounded-since-opec-refused-to-cut-output-in-2014.html",
+      "tier": "major"
+    },
+    {
+      "date": "2016-01",
+      "fact": "브렌트유, 배럴당 $27.10까지 하락 — 2014년 고점 대비 약 4분의 3 증발한 저점",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2018/05/15/oil-prices-have-rebounded-since-opec-refused-to-cut-output-in-2014.html",
+      "tier": "major"
+    },
+    {
+      "date": "2016-12",
+      "fact": "OPEC, 러시아 등 비OPEC 산유국과 하루 180만 배럴 감산 합의",
+      "source": "MPRA(뮌헨대 논문저장소)",
+      "link": "https://mpra.ub.uni-muenchen.de/78657/1/MPRA_paper_78657.pdf",
+      "tier": "detail"
+    },
+    {
+      "date": "2020-04-20",
+      "fact": "WTI 5월물 선물, 사상 처음으로 마이너스(-$37.63/배럴)로 마감 — 코로나 봉쇄로 수요 약 30% 급감 + 쿠싱 저장시설 포화 겹침",
+      "source": "미국 의회조사국(CRS)",
+      "link": "https://www.everycrsreport.com/reports/IN11354.html",
+      "tier": "major"
+    },
+    {
+      "date": "2022-02-24",
+      "fact": "러시아, 우크라이나 침공 — WTI·브렌트유 모두 배럴당 $100 돌파(브렌트 장중 $97.56~$105.79 변동)",
+      "source": "미국 에너지정보청(EIA)",
+      "link": "https://www.eia.gov/todayinenergy/detail.php?id=51498",
+      "tier": "major"
+    },
+    {
+      "date": "2022-03-02",
+      "fact": "WTI 종가 배럴당 $110 돌파, 브렌트유는 $115 근접 — 러시아 제재 우려로 지정학적 리스크 프리미엄 반영",
+      "source": "미국 에너지정보청(EIA)",
+      "link": "https://www.eia.gov/todayinenergy/detail.php?id=51498",
+      "tier": "detail"
+    },
+    {
+      "date": "2022-03-08",
+      "fact": "바이든 대통령, 러시아산 원유·LNG·석탄 수입 금지 발표",
+      "source": "미국 에너지정보청(EIA)",
+      "link": "https://www.eia.gov/todayinenergy/detail.php?id=51498",
+      "tier": "detail"
+    }
+  ],
+  "perspectives": []
+}
