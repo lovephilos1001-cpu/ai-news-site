@@ -1,0 +1,96 @@
+{
+  "timeline": [
+    {
+      "date": "1978",
+      "fact": "'도매물가지수(WPI)'로 불리던 지표가 '생산자물가지수(PPI)'로 명칭 변경 — 산출 방법론은 그대로 유지",
+      "source": "미국 노동통계국(BLS)",
+      "link": "https://www.bls.gov/opub/hom/ppi/history.htm",
+      "tier": "detail"
+    },
+    {
+      "date": "1979-08-06",
+      "fact": "폭주하는 인플레이션 속에 폴 볼커, 연준(Fed) 의장 취임",
+      "source": "CBS News(AP 부고 재인용)",
+      "link": "https://www.cbsnews.com/news/paul-volcker-died-federal-reserve-chairman-fought-runaway-inflation-dead-age-92-cause-of-death-not-released-2019-12-09",
+      "tier": "major"
+    },
+    {
+      "date": "1979-10-06",
+      "fact": "'토요일밤의 특별조치' — 연준이 기준금리 직접관리 대신 은행 준비금 총량관리로 전환, 금리가 시장에서 급등하도록 허용",
+      "source": "세인트루이스 연준(FRASER)",
+      "link": "https://fraser.stlouisfed.org/blog/?p=2106",
+      "tier": "detail"
+    },
+    {
+      "date": "1980",
+      "fact": "연준, 기준금리를 그해 말까지 사상최고치 20%까지 끌어올림(Volcker 쇼크) — 프라임레이트는 21.5%까지",
+      "source": "세인트루이스 연준(FRASER)",
+      "link": "https://fraser.stlouisfed.org/blog/?p=2106",
+      "tier": "major"
+    },
+    {
+      "date": "1980-03",
+      "fact": "미국 CPI 전년대비 상승률 14.8%로 정점 — 2차 오일쇼크와 겹치며 공식 통계 기준 역대 최고치",
+      "source": "CEPR/VoxEU(美 노동통계국 데이터 재인용)",
+      "link": "https://cepr.org/voxeu/columns/past-and-present-inflation-are-more-similar-you-think",
+      "tier": "major"
+    },
+    {
+      "date": "1982-12",
+      "fact": "고금리발 경기침체로 실업률 10.8%까지 급등 — 대공황 이후 최고 수준",
+      "source": "CBS News(AP 부고 재인용)",
+      "link": "https://www.cbsnews.com/news/paul-volcker-died-federal-reserve-chairman-fought-runaway-inflation-dead-age-92-cause-of-death-not-released-2019-12-09",
+      "tier": "detail"
+    },
+    {
+      "date": "1983",
+      "fact": "연 중반 인플레이션이 3% 밑으로 진정되며 Volcker식 disinflation 완료",
+      "source": "CEPR/VoxEU",
+      "link": "https://cepr.org/voxeu/columns/past-and-present-inflation-are-more-similar-you-think",
+      "tier": "major"
+    },
+    {
+      "date": "2012-01-25",
+      "fact": "연준(FOMC), 사상 처음으로 명시적 2% 인플레이션 목표(PCE 기준) 공식 채택",
+      "source": "샌프란시스코 연준",
+      "link": "https://www.frbsf.org/research-and-insights/publications/economic-letter/evolution-of-fomc-explicit-inflation-target",
+      "tier": "major"
+    },
+    {
+      "date": "2015-12",
+      "fact": "유가 폭락 겹치며 CPI 연간상승률(12월 기준) 0.7%로 2008년 이후 최저 — 에너지지수는 -12.6%, 근원CPI는 2.1%로 오히려 가속",
+      "source": "미국 노동통계국(BLS, Beyond the Numbers)",
+      "link": "https://www.bls.gov/opub/btn/volume-5/the-consumer-price-index-continued-its-slowdown-in-2015.htm",
+      "tier": "major"
+    },
+    {
+      "date": "2022-03",
+      "fact": "PPI(최종수요) 전년대비 11.2% 상승 — 2010년 11월 해당 계열 집계 시작 이후 최대폭",
+      "source": "미국 노동통계국(BLS)",
+      "link": "https://www.bls.gov/opub/ted/2022/producer-prices-for-final-demand-up-11-2-percent-for-the-year-ended-march-2022.htm",
+      "tier": "major"
+    },
+    {
+      "date": "2022-06-10",
+      "fact": "CPI 발표, 전년대비 9.1% 상승 — 1981년 11월 이후 최대폭(40여년來 최고치)",
+      "source": "IndustryWeek",
+      "link": "https://www.industryweek.com/the-economy/article/21246426/us-consumer-prices-surge-to-new-40-year-high-of-91",
+      "tier": "major"
+    },
+    {
+      "date": "2022-06-15",
+      "fact": "연준, 기준금리 0.75%p 인상(1994년 이후 최대폭) — 목표범위 1.5~1.75%로 상향",
+      "source": "The Mortgage Reports(NBC 계열 보도 종합)",
+      "link": "https://themortgagereports.com/92743/fed-hikes-rate-by-75-basis-points-june-2022",
+      "tier": "major"
+    },
+    {
+      "date": "2023-06",
+      "fact": "CPI 전년대비 3.0%로 둔화 — 12개월 연속 둔화, 2022년 9.1% 정점 대비 대폭 하락(근원CPI는 4.8%)",
+      "source": "Anadolu Agency(AA)",
+      "link": "https://aa.com.tr/en/americas/us-consumer-inflation-eases-sharply-to-3-in-june/2943945",
+      "tier": "major"
+    }
+  ],
+  "perspectives": []
+}
