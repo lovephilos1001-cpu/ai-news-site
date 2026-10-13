@@ -150,6 +150,11 @@
     {
       "hall": "6",
       "hall_name": "SNS·커뮤니티 트렌드",
+      "url": "https://marketbriefwire.com/data/topics/6-naversearchtrendtickers.json"
+    },
+    {
+      "hall": "6",
+      "hall_name": "SNS·커뮤니티 트렌드",
       "url": "https://marketbriefwire.com/data/topics/6-youtubekrtrending.json"
     }
   ],
