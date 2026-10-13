@@ -15,10 +15,66 @@
       "tier": "major"
     },
     {
+      "date": "1938-06",
+      "fact": "'루즈벨트 침체'(1937-05~1938-06, NBER) — 뉴딜 회복기 중 재정긴축+연준 긴축 겹치며 '대공황 속 공황', 실업률 14.3%(1937)→19.0%(1938)로 급등, 실질GDP -4.5%(1938)",
+      "source": "FEE(Foundation for Economic Education)",
+      "link": "https://fee.org/articles/americas-depression-within-a-depression-193739/",
+      "tier": "major"
+    },
+    {
+      "date": "1945-10",
+      "fact": "2차대전 종전發 군수생산 급감 침체(1945-02~1945-10, NBER) — 실질GDP 추정 -11%(측정방식 따라 -5~12%로 상이), 그런데도 공식 실업률은 1.9~3.9%에 그침(제대군인 민간고용 급속 흡수로 예상됐던 대량실업 미발생)",
+      "source": "History.com",
+      "link": "https://www.history.com/articles/us-economic-recessions-timeline",
+      "tier": "detail"
+    },
+    {
+      "date": "1949-10",
+      "fact": "전후 첫 '정상' 경기침체(1948-11~1949-10, NBER) 끝에 실업률 7.9%로 정점(그해 초 3.8%→) — 실질GDP -1.7%",
+      "source": "미국 노동통계국(BLS)",
+      "link": "https://www.bls.gov/spotlight/2012/recession/data_cps_unemp_1948.htm",
+      "tier": "major"
+    },
+    {
+      "date": "1954-05",
+      "fact": "한국전쟁 종전發 군비축소 침체(1953-07~1954-05, NBER) 끝에 실업률 5.9%로 정점(1953년 7월 2.6%→, 2배 이상 급등) — 실질GDP -2.7%",
+      "source": "History.com",
+      "link": "https://www.history.com/articles/us-economic-recessions-timeline",
+      "tier": "major"
+    },
+    {
+      "date": "1958-07",
+      "fact": "침체(1957-08~1958-04, NBER) 종료 후에도 실업률 계속 상승해 7.5%로 정점(1957년초 4%대→) — 당시까지 전후 최고 수준",
+      "source": "세인트루이스 연준(FRASER, 1958년 5월 연준회보)",
+      "link": "https://fraser.stlouisfed.org/files/docs/publications/FRB/1950s/frb_051958.pdf",
+      "tier": "major"
+    },
+    {
+      "date": "1961-05",
+      "fact": "'아이젠하워 침체'(1960-04~1961-02, NBER) 종료 3개월 후 실업률 7.1%로 정점(1960년 5월 약 5%대→)",
+      "source": "연준(Federal Reserve Bulletin, 1961-06, FRASER)",
+      "link": "https://fraser.stlouisfed.org/title/federal-reserve-bulletin-62/june-1961-21318/fulltext",
+      "tier": "major"
+    },
+    {
+      "date": "1970-12",
+      "fact": "침체(1969-12~1970-11, NBER) 종료 한 달 후 실업률 6.1%로 정점(1969년 12월 3.5%→) — 실질GDP -0.6%로 비교적 경미했지만 고용 회복은 지연",
+      "source": "BLS 통계 재구성(Monthly Labor Review, 2018)",
+      "link": "https://www.bls.gov/opub/mlr/2018/images/data/haugen-figure1.stm",
+      "tier": "major"
+    },
+    {
       "date": "1975-05",
       "fact": "1차 오일쇼크發 침체(1973-11~1975-03) 이후 실업률 9.0%로 정점 — 침체 자체는 끝났는데도 실업률은 몇 달 더 올라간 전형적 지연 패턴, 전후 최대 230만개 일자리 감소",
       "source": "San José State University(BLS 데이터 재구성)",
       "link": "https://www.sjsu.edu/faculty/watkins/rec1974.htm",
+      "tier": "major"
+    },
+    {
+      "date": "1980-06",
+      "fact": "1차 오일쇼크·초긴축發 침체(1980-01~1980-07, NBER) 중 실업률 7.8%로 정점 — 이후 1981년 7월까지 7.2~7.5%대에 머물다 곧바로 2차 침체(1981-82, Volcker 긴축)로 이어진 '이중침체'의 전반부",
+      "source": "연준(Federal Reserve History, Recession of 1981-82 에세이)",
+      "link": "https://www.federalreservehistory.org/essays/recession_of_1981_82",
       "tier": "major"
     },
     {
@@ -40,6 +96,13 @@
       "fact": "1990~91년 침체(1990-07~1991-03) 종료 15개월 뒤에도 실업률이 6.8%→7.8%까지 계속 상승 — 당시 언론이 \"고용없는 회복(jobless recovery)\"이라 부른 최초 사례",
       "source": "클리블랜드 연준",
       "link": "https://www.clevelandfed.org/publications/economic-commentary/1996/ec-19960901-reducing-working-hours-american-workers-salvation",
+      "tier": "major"
+    },
+    {
+      "date": "2001-11",
+      "fact": "닷컴버블 침체 공식 종료(1차 NBER 판정: 2001-03 시작~2001-11 종료) — 실질GDP는 2001년 3분기 한때 -1.1%(이후 수정), 실업률은 침체 종료 후에도 계속 상승해 2003-06 6.3~6.4%까지 지연 정점(아래 2003-06 항목 참조)",
+      "source": "전미경제연구소(NBER)/미국 노동통계국(BLS)",
+      "link": "https://www.bls.gov/news.release/archives/jec_07032003.pdf",
       "tier": "major"
     },
     {
