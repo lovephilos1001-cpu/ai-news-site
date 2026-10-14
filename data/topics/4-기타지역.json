@@ -1,27 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/03 21:41",
-    "headline": "[속보 10/03 21:41] Flydubai co-pilot attacked captain with axe, UAE official says",
-    "link": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/04 05:30",
-    "headline": "Flydubai co-pilot attacked captain with axe, UAE official says",
-    "link": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/04 05:30",
-    "headline": "Libyan unity talks upended as warlord’s son linked to drone attacks on fuel facilities",
-    "link": "https://www.theguardian.com/world/2026/oct/03/libyan-unity-talks-warlord-son-linked-drone-attack-khalifa-haftar",
-    "source": "Guardian"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/04 05:30",
     "headline": "FlyDubai plane attack by co-pilot was an attempted 'terrorist' act, UAE says",
     "link": "https://www.cnbc.com/2026/10/03/flydubai-co-pilot-attacked-pilot-with-axe-uae-says.html",
@@ -1398,5 +1377,26 @@
     "headline": "[속보 10/14 05:56] Funeral for Egyptian flight attendant killed in Houthi attack on Riyadh",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/funeral-for-egyptian-flight-attendant-killed-in-houthi-attack-on-riyadh?traffic_source=rss",
     "source": "AlJazeera"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/14 10:41",
+    "headline": "[속보 10/14 10:41] US fines Bank of America $1.2bn for money laundering, sanctions violations",
+    "link": "https://www.aljazeera.com/news/2026/10/14/us-fines-bank-of-america-1-2bn-for-money-laundering-sanctions-violations?traffic_source=rss",
+    "source": "AlJazeera"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/14 10:41",
+    "headline": "[속보 10/14 10:41] Aramco facility hit as Houthis and Saudi coalition exchange attacks",
+    "link": "https://www.scmp.com/news/world/middle-east/article/3370793/aramco-facility-hit-houthis-and-saudi-coalition-exchange-attacks?utm_source=rss_feed",
+    "source": "SCMP"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/14 10:41",
+    "headline": "[속보 10/14 10:41] US fines Bank of America US$1.2 billion, says it violated money laundering, sanctions laws",
+    "link": "https://www.scmp.com/news/world/united-states-canada/article/3370791/us-fines-bank-america-us12-billion-says-it-violated-money-laundering-sanctions-laws?utm_source=rss_feed",
+    "source": "SCMP"
   }
 ]
