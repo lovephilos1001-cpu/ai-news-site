@@ -1,20 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/04 16:00",
-    "headline": "Kim wins Asian Games gold to secure military exemption",
-    "link": "https://www.bbc.co.uk/sport/golf/articles/cmy0rn425k4xo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/04 22:14",
-    "headline": "She died covering war for Fox News. Her parents blame the network — and a star reporter",
-    "link": "https://www.npr.org/2026/10/04/nx-s1-5737621/fox-news-ukraine-deaths",
-    "source": "NPR"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/04 22:14",
     "headline": "Why Canada is preparing for a (long shot) US invasion",
     "link": "https://www.bbc.co.uk/news/articles/c9m2mjj3yvg4o?at_medium=RSS&at_campaign=rss",
@@ -1398,5 +1384,19 @@
     "headline": "[속보 10/14 20:49] Ukrainian soldier goes on trial over sabotage of Nord Stream gas pipelines",
     "link": "https://www.theguardian.com/business/2026/oct/14/ukrainian-soldier-to-go-on-trial-over-sabotage-of-nord-stream-gas-pipelines",
     "source": "Guardian"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/14 21:11",
+    "headline": "[속보 10/14 21:11] Saudi-led coalition intercepts Houthi missile launched towards Riyadh",
+    "link": "https://www.aljazeera.com/news/2026/10/14/saudi-led-coalition-intercepts-houthi-missile-launched-towards-riyadh?traffic_source=rss",
+    "source": "AlJazeera"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/14 21:26",
+    "headline": "[속보 10/14 21:26] Saudi Aramco Headquarters Hit as Houthi Attacks Escalate",
+    "link": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Aramco-Headquarters-Hit-as-Houthi-Attacks-Escalate.html",
+    "source": "OilPrice"
   }
 ]
