@@ -1,13 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/04 05:30",
-    "headline": "Kim wins Asian Games gold to secure military exemption",
-    "link": "https://www.bbc.co.uk/sport/golf/articles/cmy0rn425k4xo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/04 16:00",
     "headline": "Libyan unity talks upended as warlord’s son linked to drone attacks on fuel facilities",
     "link": "https://www.theguardian.com/world/2026/oct/03/libyan-unity-talks-warlord-son-linked-drone-attack-khalifa-haftar",
@@ -1398,5 +1391,12 @@
     "headline": "[속보 10/14 12:26] Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
     "link": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
     "source": "BBC"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/14 15:26",
+    "headline": "[속보 10/14 15:26] Ukrainian soldier to go on trial over sabotage of Nord Stream gas pipelines",
+    "link": "https://www.theguardian.com/business/2026/oct/14/ukrainian-soldier-to-go-on-trial-over-sabotage-of-nord-stream-gas-pipelines",
+    "source": "Guardian"
   }
 ]

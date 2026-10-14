@@ -376,5 +376,19 @@
     "headline": "[속보 10/14 03:56] Zelenskyy tells NPR Ukraine wants peace but will hit Russia until it follows ceasefire",
     "link": "https://www.npr.org/2026/10/13/nx-s1-6000051/ukraine-zelenskyy-npr-interview-russia-war",
     "source": "NPR"
+  },
+  {
+    "topic_name": "우크라이나",
+    "date_kst": "10/14 15:26",
+    "headline": "[속보 10/14 15:26] Russian strikes hit key power plant in Kyiv, Zelensky says",
+    "link": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC"
+  },
+  {
+    "topic_name": "우크라이나",
+    "date_kst": "10/14 15:26",
+    "headline": "[속보 10/14 15:26] Russian strikes kill 6 in Ukraine, knocking out power across Kyiv",
+    "link": "https://www.scmp.com/news/world/europe/article/3370833/russian-strikes-kill-6-ukraine-knocking-out-power-across-kyiv?utm_source=rss_feed",
+    "source": "SCMP"
   }
 ]
