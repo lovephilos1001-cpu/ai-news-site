@@ -1,13 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/04 22:14",
-    "headline": "Why Canada is preparing for a (long shot) US invasion",
-    "link": "https://www.bbc.co.uk/news/articles/c9m2mjj3yvg4o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/05 01:53",
     "headline": "She died covering war for Fox News. Her parents blame the network — and a star reporter",
     "link": "https://www.npr.org/2026/10/04/nx-s1-5737621/fox-news-ukraine-deaths",
@@ -1398,5 +1391,12 @@
     "headline": "[속보 10/14 21:26] Saudi Aramco Headquarters Hit as Houthi Attacks Escalate",
     "link": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Aramco-Headquarters-Hit-as-Houthi-Attacks-Escalate.html",
     "source": "OilPrice"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/14 22:56",
+    "headline": "[속보 10/14 22:56] Ukrainian accused of Nord Stream pipeline sabotage goes on trial in Germany",
+    "link": "https://www.scmp.com/news/world/russia-central-asia/article/3370911/ukrainian-accused-nord-stream-pipeline-sabotage-goes-trial-germany?utm_source=rss_feed",
+    "source": "SCMP"
   }
 ]
