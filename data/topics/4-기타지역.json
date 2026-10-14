@@ -2,13 +2,6 @@
   {
     "topic_name": "기타 지역",
     "date_kst": "10/04 16:00",
-    "headline": "FlyDubai plane attack by co-pilot was an attempted 'terrorist' act, UAE says",
-    "link": "https://www.cnbc.com/2026/10/03/flydubai-co-pilot-attacked-pilot-with-axe-uae-says.html",
-    "source": "CNBC"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/04 16:00",
     "headline": "Kim wins Asian Games gold to secure military exemption",
     "link": "https://www.bbc.co.uk/sport/golf/articles/cmy0rn425k4xo?at_medium=RSS&at_campaign=rss",
     "source": "BBC"
@@ -1398,5 +1391,12 @@
     "headline": "[속보 10/14 16:26] Aramco complex hit as Houthis and Saudi coalition trade strikes",
     "link": "https://www.scmp.com/news/world/middle-east/article/3370793/aramco-facility-hit-houthis-and-saudi-coalition-exchange-attacks?utm_source=rss_feed",
     "source": "SCMP"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/14 20:49",
+    "headline": "[속보 10/14 20:49] Ukrainian soldier goes on trial over sabotage of Nord Stream gas pipelines",
+    "link": "https://www.theguardian.com/business/2026/oct/14/ukrainian-soldier-to-go-on-trial-over-sabotage-of-nord-stream-gas-pipelines",
+    "source": "Guardian"
   }
 ]
