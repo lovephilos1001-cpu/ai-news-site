@@ -2,13 +2,6 @@
   {
     "topic_name": "기타 지역",
     "date_kst": "10/04 05:30",
-    "headline": "FlyDubai plane attack by co-pilot was an attempted 'terrorist' act, UAE says",
-    "link": "https://www.cnbc.com/2026/10/03/flydubai-co-pilot-attacked-pilot-with-axe-uae-says.html",
-    "source": "CNBC"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/04 05:30",
     "headline": "Kim wins Asian Games gold to secure military exemption",
     "link": "https://www.bbc.co.uk/sport/golf/articles/cmy0rn425k4xo?at_medium=RSS&at_campaign=rss",
     "source": "BBC"
@@ -1398,5 +1391,12 @@
     "headline": "[속보 10/14 10:41] US fines Bank of America US$1.2 billion, says it violated money laundering, sanctions laws",
     "link": "https://www.scmp.com/news/world/united-states-canada/article/3370791/us-fines-bank-america-us12-billion-says-it-violated-money-laundering-sanctions-laws?utm_source=rss_feed",
     "source": "SCMP"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/14 12:26",
+    "headline": "[속보 10/14 12:26] Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
+    "link": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC"
   }
 ]
