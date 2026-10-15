@@ -1,27 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/05 10:49",
-    "headline": "U.S. removes B-1 bombers from U.K. base amid security concerns",
-    "link": "https://www.japantimes.co.jp/news/2026/10/05/world/us-b-1-bombers-uk/",
-    "source": "JapanTimes"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/05 10:49",
-    "headline": "US Air Force removes all bombers from UK airbase targeted by suspected terror attack",
-    "link": "https://www.scmp.com/news/world/europe/article/3369734/us-air-force-removes-all-bombers-uk-airbase-targeted-suspected-terror-attack?utm_source=rss_feed",
-    "source": "SCMP"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/05 10:49",
-    "headline": "They survived World War II and lost decades, but not 2026. Japan's century-old businesses are disappearing at a record pace",
-    "link": "https://www.cnbc.com/2026/10/05/japan-old-business-kadoya-subeshoten-.html",
-    "source": "CNBC"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/05 15:26",
     "headline": "[속보 10/05 15:26] U.S. B-1 bombers removed from U.K. base at center of terror plot",
     "link": "https://www.japantimes.co.jp/news/2026/10/05/world/us-b-1-bombers-uk/",
@@ -1398,5 +1377,26 @@
     "headline": "[속보 10/15 22:41] What is Starshield, SpaceX’s military version of Starlink?",
     "link": "https://www.japantimes.co.jp/news/2026/10/15/world/starshield-explainer/",
     "source": "JapanTimes"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/16 03:56",
+    "headline": "[속보 10/16 03:56] Houthi missile attack on Yemeni presidential palace kills two, minister says",
+    "link": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/16 03:56",
+    "headline": "[속보 10/16 03:56] Houthis target Yemen’s presidential palace in Aden with missiles",
+    "link": "https://www.aljazeera.com/news/2026/10/15/houthis-target-yemens-presidential-palace-in-aden-with-missiles?traffic_source=rss",
+    "source": "AlJazeera"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/16 03:56",
+    "headline": "[속보 10/16 03:56] Houthis launch deadly attack on presidential palace in Yemen’s Aden",
+    "link": "https://www.scmp.com/news/world/middle-east/article/3371065/houthis-launch-deadly-attack-presidential-palace-yemens-aden?utm_source=rss_feed",
+    "source": "SCMP"
   }
 ]
