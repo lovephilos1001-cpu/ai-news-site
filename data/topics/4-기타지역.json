@@ -2,20 +2,6 @@
   {
     "topic_name": "기타 지역",
     "date_kst": "10/05 16:00",
-    "headline": "U.S. B-1 bombers removed from U.K. base at center of terror plot",
-    "link": "https://www.japantimes.co.jp/news/2026/10/05/world/us-b-1-bombers-uk/",
-    "source": "JapanTimes"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/05 16:00",
-    "headline": "They survived World War II and lost decades, but not 2026. Japan's century-old businesses are disappearing at a record pace",
-    "link": "https://www.cnbc.com/2026/10/05/japan-old-business-kadoya-subeshoten-.html",
-    "source": "CNBC"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/05 16:00",
     "headline": "She died covering war for Fox News. Her parents blame the network — and a star reporter",
     "link": "https://www.npr.org/2026/10/04/nx-s1-5737621/fox-news-ukraine-deaths",
     "source": "NPR"
@@ -1396,6 +1382,20 @@
     "topic_name": "기타 지역",
     "date_kst": "10/16 05:26",
     "headline": "[속보 10/16 05:26] Houthi missiles strike Saudi-led coalition forces HQ at presidential palace in Aden",
+    "link": "https://www.theguardian.com/world/2026/oct/15/houthi-missiles-strike-aden-yemen",
+    "source": "Guardian"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/16 05:41",
+    "headline": "[속보 10/16 05:41] At least 5 killed in Houthi attack on Yemen’s presidential palace in Aden",
+    "link": "https://www.aljazeera.com/news/2026/10/15/houthis-target-yemens-presidential-palace-in-aden-with-missiles?traffic_source=rss",
+    "source": "AlJazeera"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/16 05:56",
+    "headline": "[속보 10/16 05:56] Houthi missiles strike Saudi-led forces HQ at presidential palace in Aden",
     "link": "https://www.theguardian.com/world/2026/oct/15/houthi-missiles-strike-aden-yemen",
     "source": "Guardian"
   }
