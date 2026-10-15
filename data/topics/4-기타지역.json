@@ -2,13 +2,6 @@
   {
     "topic_name": "기타 지역",
     "date_kst": "10/05 10:37",
-    "headline": "[속보 10/05 10:37] US Air Force removes all bombers from UK airbase targeted by suspected terror attack",
-    "link": "https://www.scmp.com/news/world/europe/article/3369734/us-air-force-removes-all-bombers-uk-airbase-targeted-suspected-terror-attack?utm_source=rss_feed",
-    "source": "SCMP"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/05 10:37",
     "headline": "U.S. removes B-1 bombers from U.K. base amid security concerns",
     "link": "https://www.japantimes.co.jp/news/2026/10/05/world/us-b-1-bombers-uk/",
     "source": "JapanTimes"
@@ -1397,6 +1390,13 @@
     "date_kst": "10/15 01:26",
     "headline": "[속보 10/15 01:26] Container ship hit by projectile sinks in Strait of Hormuz, Singapore says",
     "link": "https://www.bbc.co.uk/news/articles/crkg7q97z078o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/15 08:54",
+    "headline": "[속보 10/15 08:54] Student protesters attack government buildings in Albania",
+    "link": "https://www.bbc.co.uk/news/articles/cq80zk5k2ep4o?at_medium=RSS&at_campaign=rss",
     "source": "BBC"
   }
 ]
