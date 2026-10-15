@@ -1,13 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/05 15:26",
-    "headline": "[속보 10/05 15:26] U.S. B-1 bombers removed from U.K. base at center of terror plot",
-    "link": "https://www.japantimes.co.jp/news/2026/10/05/world/us-b-1-bombers-uk/",
-    "source": "JapanTimes"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/05 16:00",
     "headline": "U.S. B-1 bombers removed from U.K. base at center of terror plot",
     "link": "https://www.japantimes.co.jp/news/2026/10/05/world/us-b-1-bombers-uk/",
@@ -1398,5 +1391,12 @@
     "headline": "[속보 10/16 03:56] Houthis launch deadly attack on presidential palace in Yemen’s Aden",
     "link": "https://www.scmp.com/news/world/middle-east/article/3371065/houthis-launch-deadly-attack-presidential-palace-yemens-aden?utm_source=rss_feed",
     "source": "SCMP"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/16 05:26",
+    "headline": "[속보 10/16 05:26] Houthi missiles strike Saudi-led coalition forces HQ at presidential palace in Aden",
+    "link": "https://www.theguardian.com/world/2026/oct/15/houthi-missiles-strike-aden-yemen",
+    "source": "Guardian"
   }
 ]
