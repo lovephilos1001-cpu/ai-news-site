@@ -2,13 +2,6 @@
   {
     "topic_name": "기타 지역",
     "date_kst": "10/05 16:00",
-    "headline": "She died covering war for Fox News. Her parents blame the network — and a star reporter",
-    "link": "https://www.npr.org/2026/10/04/nx-s1-5737621/fox-news-ukraine-deaths",
-    "source": "NPR"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/05 16:00",
     "headline": "US air force removes all bombers from British military base RAF Fairford",
     "link": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss",
     "source": "BBC"
@@ -1398,5 +1391,12 @@
     "headline": "[속보 10/16 05:56] Houthi missiles strike Saudi-led forces HQ at presidential palace in Aden",
     "link": "https://www.theguardian.com/world/2026/oct/15/houthi-missiles-strike-aden-yemen",
     "source": "Guardian"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/16 08:52",
+    "headline": "[속보 10/16 08:52] Houthi missile attack on Yemeni presidential palace kills five, minister says",
+    "link": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC"
   }
 ]
