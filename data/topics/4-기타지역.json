@@ -1,13 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/05 18:56",
-    "headline": "[속보 10/05 18:56] Nobel Medicine Prize awarded to 3 scientists for optogenetics development",
-    "link": "https://www.scmp.com/news/world/europe/article/3369804/nobel-medicine-prize-awarded-3-scientists-optogenetics-development?utm_source=rss_feed",
-    "source": "SCMP"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/05 19:11",
     "headline": "[속보 10/05 19:11] Nobel Medicine Prize awarded to US-German trio for work on optogenetics",
     "link": "https://www.scmp.com/news/world/europe/article/3369804/nobel-medicine-prize-awarded-3-scientists-optogenetics-development?utm_source=rss_feed",
@@ -1398,5 +1391,12 @@
     "headline": "[속보 10/16 12:26] Yemen’s Houthis attack presidential palace in Aden with missiles",
     "link": "https://www.scmp.com/news/world/middle-east/article/3371065/houthis-launch-deadly-attack-presidential-palace-yemens-aden?utm_source=rss_feed",
     "source": "SCMP"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/16 21:11",
+    "headline": "[속보 10/16 21:11] Oil Prices Head for Weekly Gain as Hormuz Attacks Rattle Markets",
+    "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Head-for-Weekly-Gain-as-Hormuz-Attacks-Rattle-Markets.html",
+    "source": "OilPrice"
   }
 ]
