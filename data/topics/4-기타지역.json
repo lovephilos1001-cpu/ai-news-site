@@ -1,20 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/05 19:56",
-    "headline": "[속보 10/05 19:56] Former Prince Andrew launches challenge to ‘quash’ police search warrants",
-    "link": "https://www.aljazeera.com/news/2026/10/5/former-prince-andrew-launches-challenge-to-quash-police-search-warrants?traffic_source=rss",
-    "source": "AlJazeera"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/05 19:56",
-    "headline": "[속보 10/05 19:56] Ex-prince Andrew takes UK police to court to ‘quash’ Epstein affair search warrants",
-    "link": "https://www.scmp.com/news/world/europe/article/3369800/ex-prince-andrew-takes-uk-police-court-quash-epstein-affair-search-warrants?utm_source=rss_feed",
-    "source": "SCMP"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/05 20:26",
     "headline": "[속보 10/05 20:26] US air force removes all bombers from British military base RAF Fairford",
     "link": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss",
@@ -1398,5 +1384,19 @@
     "headline": "[속보 10/17 19:12] Seoul expresses regret over Takaichi&apos;s offering to controversial war shrine",
     "link": "https://www.koreaherald.com/article/10905808",
     "source": "KoreaHerald"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/18 02:11",
+    "headline": "[속보 10/18 02:11] Egypt’s el-Sisi vows to defend Saudi Arabia from Houthi attacks",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/10-17-egypt-saudi-houths-clip?traffic_source=rss",
+    "source": "AlJazeera"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/18 02:41",
+    "headline": "[속보 10/18 02:41] Masked settlers attack European diplomats in occupied West Bank",
+    "link": "https://www.theguardian.com/world/2026/oct/17/masked-settlers-attack-european-diplomats-occupied-west-bank",
+    "source": "Guardian"
   }
 ]
