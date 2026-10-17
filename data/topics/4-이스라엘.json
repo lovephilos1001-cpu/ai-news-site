@@ -124,5 +124,26 @@
     "headline": "[속보 10/18 02:41] Israeli settlers attack European diplomats during West Bank olive harvest",
     "link": "https://www.aljazeera.com/news/2026/10/17/several-palestinians-injured-detained-in-ongoing-west-bank-pogrom?traffic_source=rss",
     "source": "AlJazeera"
+  },
+  {
+    "topic_name": "이스라엘",
+    "date_kst": "10/18 03:41",
+    "headline": "[속보 10/18 03:41] Israeli settlers attack European diplomats in West Bank",
+    "link": "https://www.theguardian.com/world/2026/oct/17/israeli-settlers-attack-european-diplomats-in-west-bank",
+    "source": "Guardian"
+  },
+  {
+    "topic_name": "이스라엘",
+    "date_kst": "10/18 03:41",
+    "headline": "[속보 10/18 03:41] Jerusalem Daily: Israeli settlers attack farmers and journalists",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/aje-onl-nf_yt-dnrbltn-261017-salehm-jerusalem_daily-171026?traffic_source=rss",
+    "source": "AlJazeera"
+  },
+  {
+    "topic_name": "이스라엘",
+    "date_kst": "10/18 03:41",
+    "headline": "[속보 10/18 03:41] Israeli settlers attack European diplomats, beat up French mayor in West Bank",
+    "link": "https://www.scmp.com/news/world/middle-east/article/3371275/israeli-settlers-attack-european-diplomats-beat-french-mayor-west-bank?utm_source=rss_feed",
+    "source": "SCMP"
   }
 ]
