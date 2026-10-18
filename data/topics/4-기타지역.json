@@ -2,13 +2,6 @@
   {
     "topic_name": "기타 지역",
     "date_kst": "10/06 05:30",
-    "headline": "FlyDubai attacker intended to crash plane into Tel Aviv airport, investigation finds",
-    "link": "https://www.npr.org/2026/10/05/nx-s1-5990802/midair-attack-flydubai",
-    "source": "NPR"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/06 05:30",
     "headline": "Nobel Prize awarded for revealing inner workings of the brain",
     "link": "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
     "source": "BBC"
@@ -1398,5 +1391,12 @@
     "headline": "[속보 10/19 02:56] Carney says 4 service members killed and dozens injured in fire at Alberta military base",
     "link": "https://www.npr.org/2026/10/18/nx-s1-6007276/fire-alberta-deadly-canada-military-base",
     "source": "NPR"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/19 03:41",
+    "headline": "[속보 10/19 03:41] JERUSALEM DAILY: Settlers attack EU diplomats",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/aje-onl-nf_draft-2-yt-short-oct-18-p-daily-1-181026?traffic_source=rss",
+    "source": "AlJazeera"
   }
 ]
