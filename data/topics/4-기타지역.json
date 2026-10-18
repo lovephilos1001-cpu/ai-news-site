@@ -1,13 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/05 22:11",
-    "headline": "[속보 10/05 22:11] Nobel Prize awarded for revealing inner workings of the brain",
-    "link": "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/05 22:41",
     "headline": "[속보 10/05 22:41] FlyDubai attacker intended to crash plane into Tel Aviv airport, investigation finds",
     "link": "https://www.npr.org/2026/10/05/nx-s1-5990802/midair-attack-flydubai",
@@ -1398,5 +1391,12 @@
     "headline": "[속보 10/18 19:56] Egypt to provide ‘necessary’ support to Saudi Arabia amid Houthi attacks",
     "link": "https://www.aljazeera.com/news/2026/10/18/egypt-to-provide-all-necessary-and-possible-support-to-saudi?traffic_source=rss",
     "source": "AlJazeera"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/18 21:11",
+    "headline": "[속보 10/18 21:11] Oil facilities hit in deadly overnight attack on St Petersburg",
+    "link": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC"
   }
 ]
