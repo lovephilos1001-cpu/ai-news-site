@@ -1,13 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/05 22:00",
-    "headline": "US abruptly withdraws bombers from UK’s RAF Fairford",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/5/us-abruptly-withdraws-bombers-from-uks-raf-fairford?traffic_source=rss",
-    "source": "AlJazeera"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/05 22:11",
     "headline": "[속보 10/05 22:11] Nobel Prize awarded for revealing inner workings of the brain",
     "link": "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
@@ -1397,6 +1390,13 @@
     "date_kst": "10/18 17:11",
     "headline": "[속보 10/18 17:11] ‘Serious incident’ at Canada military base causes deaths, injuries",
     "link": "https://www.aljazeera.com/news/2026/10/18/deaths-injuries-after-fire-at-alberta-military-base-canada-minister?traffic_source=rss",
+    "source": "AlJazeera"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/18 19:56",
+    "headline": "[속보 10/18 19:56] Egypt to provide ‘necessary’ support to Saudi Arabia amid Houthi attacks",
+    "link": "https://www.aljazeera.com/news/2026/10/18/egypt-to-provide-all-necessary-and-possible-support-to-saudi?traffic_source=rss",
     "source": "AlJazeera"
   }
 ]
