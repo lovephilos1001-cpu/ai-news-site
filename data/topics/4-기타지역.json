@@ -2,20 +2,6 @@
   {
     "topic_name": "기타 지역",
     "date_kst": "10/05 22:00",
-    "headline": "Nobel Prize awarded for showing inner workings of the brain",
-    "link": "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/05 22:00",
-    "headline": "No10 insists UK military base RAF Fairford is safe after US withdraws bombers",
-    "link": "https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/05 22:00",
     "headline": "US abruptly withdraws bombers from UK’s RAF Fairford",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/5/us-abruptly-withdraws-bombers-from-uks-raf-fairford?traffic_source=rss",
     "source": "AlJazeera"
@@ -1396,6 +1382,20 @@
     "topic_name": "기타 지역",
     "date_kst": "10/18 16:56",
     "headline": "[속보 10/18 16:56] ‘Serious incident’ causes deaths, injuries at Canada military base",
+    "link": "https://www.aljazeera.com/news/2026/10/18/deaths-injuries-after-fire-at-alberta-military-base-canada-minister?traffic_source=rss",
+    "source": "AlJazeera"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/18 17:11",
+    "headline": "[속보 10/18 17:11] Major fire breaks out in Alberta after deadly incident at military base",
+    "link": "https://www.npr.org/2026/10/18/nx-s1-6007276/fire-alberta-deadly-canada-military-base",
+    "source": "NPR"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/18 17:11",
+    "headline": "[속보 10/18 17:11] ‘Serious incident’ at Canada military base causes deaths, injuries",
     "link": "https://www.aljazeera.com/news/2026/10/18/deaths-injuries-after-fire-at-alberta-military-base-canada-minister?traffic_source=rss",
     "source": "AlJazeera"
   }
