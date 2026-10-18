@@ -1,20 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/05 23:41",
-    "headline": "[속보 10/05 23:41] Video: Watch the moment US bombers leave UK airbase RAF Fairford",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/5/us-abruptly-withdraws-bombers-from-uks-raf-fairford?traffic_source=rss",
-    "source": "AlJazeera"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/06 00:11",
-    "headline": "[속보 10/06 00:11] Murder in Okinawa: The US military’s history of alleged crime in Japan",
-    "link": "https://www.aljazeera.com/news/2026/10/5/murder-in-okinawa-the-us-militarys-history-of-alleged-crime-in-japan?traffic_source=rss",
-    "source": "AlJazeera"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/06 04:56",
     "headline": "[속보 10/06 04:56] No 10 insists UK military base RAF Fairford is safe after US withdraws bombers",
     "link": "https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&at_campaign=rss",
@@ -1398,5 +1384,19 @@
     "headline": "[속보 10/19 00:56] Multiple people killed as Canadian authorities tackle active blaze at Alberta military base",
     "link": "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright",
     "source": "Guardian"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/19 01:41",
+    "headline": "[속보 10/19 01:41] French mayor attacked by settlers during occupied West Bank olive harvest",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/18-10-sv-mayor-of-france-assaulted-by-settlers-ps?traffic_source=rss",
+    "source": "AlJazeera"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/19 01:41",
+    "headline": "[속보 10/19 01:41] 4 dead in fire at Alberta military base, Canadian PM Carney says",
+    "link": "https://www.scmp.com/news/world/united-states-canada/article/3371281/fatalities-feared-fire-erupts-canadian-military-base-alberta?utm_source=rss_feed",
+    "source": "SCMP"
   }
 ]
