@@ -1,27 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/05 20:26",
-    "headline": "[속보 10/05 20:26] US air force removes all bombers from British military base RAF Fairford",
-    "link": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss",
-    "source": "BBC"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/05 20:26",
-    "headline": "[속보 10/05 20:26] US abruptly withdraws bombers from UK’s RAF Fairford",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/5/us-abruptly-withdraws-bombers-from-uks-raf-fairford?traffic_source=rss",
-    "source": "AlJazeera"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/05 20:41",
-    "headline": "[속보 10/05 20:41] Nobel Prize awarded for showing inner workings of the brain",
-    "link": "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/05 21:26",
     "headline": "[속보 10/05 21:26] No10 insists UK military base RAF Fairford is safe after US withdraws bombers",
     "link": "https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&at_campaign=rss",
@@ -1398,5 +1377,26 @@
     "headline": "[속보 10/18 02:41] Masked settlers attack European diplomats in occupied West Bank",
     "link": "https://www.theguardian.com/world/2026/oct/17/masked-settlers-attack-european-diplomats-occupied-west-bank",
     "source": "Guardian"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/18 12:11",
+    "headline": "[속보 10/18 12:11] ‘Serious incident’ at Alberta military base causes deaths and injuries, Canada officials say",
+    "link": "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright",
+    "source": "Guardian"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/18 12:11",
+    "headline": "[속보 10/18 12:11] Canada says people killed after incident and fire at Alberta military base",
+    "link": "https://www.scmp.com/news/world/united-states-canada/article/3371281/fatalities-feared-fire-erupts-canadian-military-base-alberta?utm_source=rss_feed",
+    "source": "SCMP"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/18 12:41",
+    "headline": "[속보 10/18 12:41] Deadly fire breaks out at Canada military base",
+    "link": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC"
   }
 ]
