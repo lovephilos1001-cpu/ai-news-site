@@ -2,13 +2,6 @@
   {
     "topic_name": "기타 지역",
     "date_kst": "10/05 22:00",
-    "headline": "Former Prince Andrew files legal action to quash warrants that led to residence searches",
-    "link": "https://www.npr.org/2026/10/05/g-s1-146396/former-prince-andrew-legal-action",
-    "source": "NPR"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/05 22:00",
     "headline": "Nobel Prize awarded for showing inner workings of the brain",
     "link": "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
     "source": "BBC"
@@ -1398,5 +1391,12 @@
     "headline": "[속보 10/18 15:56] Several dead or injured in major fire at Canada military base",
     "link": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
     "source": "BBC"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/18 16:56",
+    "headline": "[속보 10/18 16:56] ‘Serious incident’ causes deaths, injuries at Canada military base",
+    "link": "https://www.aljazeera.com/news/2026/10/18/deaths-injuries-after-fire-at-alberta-military-base-canada-minister?traffic_source=rss",
+    "source": "AlJazeera"
   }
 ]
