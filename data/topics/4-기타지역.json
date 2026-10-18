@@ -2,13 +2,6 @@
   {
     "topic_name": "기타 지역",
     "date_kst": "10/06 05:30",
-    "headline": "Guardian readers fund life-changing surgery for Somali boy injured in US airstrike",
-    "link": "https://www.theguardian.com/global-development/2026/oct/05/guardian-readers-fundraising-somalian-boy-injured-in-us-strike-surgery-abdiqadir-salah",
-    "source": "Guardian"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/06 05:30",
     "headline": "Extreme heat warnings issued for parts of southern California",
     "link": "https://www.theguardian.com/us-news/2026/oct/05/extreme-heat-warnings-southern-california",
     "source": "Guardian"
@@ -1398,5 +1391,12 @@
     "headline": "[속보 10/19 04:56] What we know so far about deadly fire at Canadian military base",
     "link": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
     "source": "BBC"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/19 06:26",
+    "headline": "[속보 10/19 06:26] 4 killed after high winds turn grass fire deadly at Canadian military base, report says",
+    "link": "https://www.scmp.com/news/world/united-states-canada/article/3371281/fatalities-feared-fire-erupts-canadian-military-base-alberta?utm_source=rss_feed",
+    "source": "SCMP"
   }
 ]
