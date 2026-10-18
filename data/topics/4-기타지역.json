@@ -2,13 +2,6 @@
   {
     "topic_name": "기타 지역",
     "date_kst": "10/06 05:30",
-    "headline": "Nobel Prize awarded for revealing inner workings of the brain",
-    "link": "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/06 05:30",
     "headline": "Guardian readers fund life-changing surgery for Somali boy injured in US airstrike",
     "link": "https://www.theguardian.com/global-development/2026/oct/05/guardian-readers-fundraising-somalian-boy-injured-in-us-strike-surgery-abdiqadir-salah",
     "source": "Guardian"
@@ -1398,5 +1391,12 @@
     "headline": "[속보 10/19 03:41] JERUSALEM DAILY: Settlers attack EU diplomats",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/aje-onl-nf_draft-2-yt-short-oct-18-p-daily-1-181026?traffic_source=rss",
     "source": "AlJazeera"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/19 04:56",
+    "headline": "[속보 10/19 04:56] What we know so far about deadly fire at Canadian military base",
+    "link": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
+    "source": "BBC"
   }
 ]
