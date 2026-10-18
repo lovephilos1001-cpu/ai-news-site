@@ -2,13 +2,6 @@
   {
     "topic_name": "기타 지역",
     "date_kst": "10/05 22:00",
-    "headline": "FlyDubai attacker intended to crash plane into Tel Aviv airport, ongoing investigation finds",
-    "link": "https://www.npr.org/2026/10/05/nx-s1-5990802/midair-attack-flydubai",
-    "source": "NPR"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/05 22:00",
     "headline": "Former Prince Andrew files legal action to quash warrants that led to residence searches",
     "link": "https://www.npr.org/2026/10/05/g-s1-146396/former-prince-andrew-legal-action",
     "source": "NPR"
@@ -1398,5 +1391,12 @@
     "headline": "[속보 10/18 14:41] Deaths, injuries after fire at Alberta military base: Canada minister",
     "link": "https://www.aljazeera.com/news/2026/10/18/deaths-injuries-after-fire-at-alberta-military-base-canada-minister?traffic_source=rss",
     "source": "AlJazeera"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/18 15:56",
+    "headline": "[속보 10/18 15:56] Several dead or injured in major fire at Canada military base",
+    "link": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC"
   }
 ]
