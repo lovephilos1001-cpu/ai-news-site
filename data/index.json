@@ -185,12 +185,42 @@
     {
       "hall": "7",
       "hall_name": "패션·뷰티 트렌드",
+      "url": "https://marketbriefwire.com/data/topics/7-fashionhot10jpfemale.json"
+    },
+    {
+      "hall": "7",
+      "hall_name": "패션·뷰티 트렌드",
+      "url": "https://marketbriefwire.com/data/topics/7-fashionhot10jpmale.json"
+    },
+    {
+      "hall": "7",
+      "hall_name": "패션·뷰티 트렌드",
       "url": "https://marketbriefwire.com/data/topics/7-fashionhot10kr.json"
     },
     {
       "hall": "7",
       "hall_name": "패션·뷰티 트렌드",
+      "url": "https://marketbriefwire.com/data/topics/7-fashionhot10krfemale.json"
+    },
+    {
+      "hall": "7",
+      "hall_name": "패션·뷰티 트렌드",
+      "url": "https://marketbriefwire.com/data/topics/7-fashionhot10krmale.json"
+    },
+    {
+      "hall": "7",
+      "hall_name": "패션·뷰티 트렌드",
       "url": "https://marketbriefwire.com/data/topics/7-fashionhot10us.json"
+    },
+    {
+      "hall": "7",
+      "hall_name": "패션·뷰티 트렌드",
+      "url": "https://marketbriefwire.com/data/topics/7-fashionhot10usfemale.json"
+    },
+    {
+      "hall": "7",
+      "hall_name": "패션·뷰티 트렌드",
+      "url": "https://marketbriefwire.com/data/topics/7-fashionhot10usmale.json"
     },
     {
       "hall": "_commodity_cache",
