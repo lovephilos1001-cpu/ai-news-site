@@ -1,20 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/07 04:26",
-    "headline": "[속보 10/07 04:26] Catalan separatist leader Puigdemont set for Spain return after arrest warrant lifted",
-    "link": "https://www.scmp.com/news/world/europe/article/3369946/catalan-separatist-leader-puigdemont-set-spain-return-after-arrest-warrant-lifted?utm_source=rss_feed",
-    "source": "SCMP"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/07 05:30",
-    "headline": "Ship sinks and crew missing after Black Sea drone attack",
-    "link": "https://www.bbc.co.uk/news/articles/c8ly0v5r602eo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/07 05:30",
     "headline": "Catalan separatist Puigdemont to return to Spain after warrant lifted",
     "link": "https://www.aljazeera.com/news/2026/10/6/catalan-separatist-leader-puigdemont-to-return-home-after-warrant-lifted?traffic_source=rss",
@@ -1398,5 +1384,19 @@
     "headline": "[속보 10/19 19:11] Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
     "link": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo?at_medium=RSS&at_campaign=rss",
     "source": "BBC"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/19 20:11",
+    "headline": "[속보 10/19 20:11] ‘Deeply appalled’: politicians condemn alleged attack after independent MP Helen Haines critically injured",
+    "link": "https://www.theguardian.com/australia-news/2026/oct/19/mp-helen-haines-injured-incident-wangaratta-ntwnfb",
+    "source": "Guardian"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/19 20:26",
+    "headline": "[속보 10/19 20:26] Terrorism squad probes car attack that critically injured Australian lawmaker",
+    "link": "https://www.scmp.com/news/asia/australasia/article/3371376/australian-lawmaker-helen-haines-critical-condition-after-vehicle-attack?utm_source=rss_feed",
+    "source": "SCMP"
   }
 ]
