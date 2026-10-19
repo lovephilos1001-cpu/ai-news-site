@@ -1,13 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/06 22:00",
-    "headline": "Paramount's hard-fought takeover of Warner Bros. Discovery closed Tuesday. Here's how we got here",
-    "link": "https://www.cnbc.com/2026/10/06/paramount-wbd-deal-timeline.html",
-    "source": "CNBC"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/06 23:41",
     "headline": "[속보 10/06 23:41] Hormuz ship attacks surge: Are increased oil exports sustainable?",
     "link": "https://www.aljazeera.com/news/2026/10/6/hormuz-ship-attacks-surge-are-increased-oil-exports-sustainable?traffic_source=rss",
@@ -1398,5 +1391,12 @@
     "headline": "[속보 10/19 13:11] Strong winds fueled grass fire at Canadian military base that killed four",
     "link": "https://www.koreaherald.com/article/10907166",
     "source": "KoreaHerald"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/19 15:26",
+    "headline": "[속보 10/19 15:26] No danger found after bomb threat diverts Austrian Airlines flight from Tel Aviv",
+    "link": "https://www.scmp.com/news/world/middle-east/article/3371337/bomb-threat-forces-austrian-airlines-flight-tel-aviv-divert-bulgaria?utm_source=rss_feed",
+    "source": "SCMP"
   }
 ]
