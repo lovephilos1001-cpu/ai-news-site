@@ -2,27 +2,6 @@
   {
     "topic_name": "기타 지역",
     "date_kst": "10/07 16:00",
-    "headline": "Oman evacuates injured crew from attacked tanker in Strait of Hormuz",
-    "link": "https://www.aljazeera.com/news/2026/10/7/oman-evacuates-injured-crew-from-attacked-tanker-in-strait-of-hormuz?traffic_source=rss",
-    "source": "AlJazeera"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/07 16:00",
-    "headline": "Flydubai attack investigation widens as alleged hijacker’s training in New Zealand scrutinised",
-    "link": "https://www.theguardian.com/world/2026/oct/07/flydubai-attack-investigation-widens-as-alleged-hijackers-training-in-new-zealand-scrutinised-ntwnfb",
-    "source": "Guardian"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/07 16:00",
-    "headline": "Oil rises as concerns over Houthi attacks on Saudi Arabia eclipse supply recovery",
-    "link": "https://www.cnbc.com/2026/10/07/oil-prices-today-brent-wti-hormuz.html",
-    "source": "CNBC"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/07 16:00",
     "headline": "Singapore's Temasek warns of the ‘biggest risk’ facing markets right now",
     "link": "https://www.cnbc.com/2026/10/07/singapore-temasek-warns-of-the-biggest-risk-facing-markets.html",
     "source": "CNBC"
@@ -1398,5 +1377,26 @@
     "headline": "[속보 10/20 00:56] Houthi attack on Yemen army camp in Shabwa kills at least 53: reports",
     "link": "https://www.aljazeera.com/news/2026/10/19/at-least-18-killed-in-houthi-attack-on-military-camp-in-yemens-shabwa?traffic_source=rss",
     "source": "AlJazeera"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/20 01:41",
+    "headline": "[속보 10/20 01:41] Houthi missile strike on Yemen camp kills 50 security recruits, local authorities say",
+    "link": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/20 01:41",
+    "headline": "[속보 10/20 01:41] Dozens killed after Houthi strike on military camp in Shabwa",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/dozens-killed-after-houthi-strike-on-military-camp-in-shabwa?traffic_source=rss",
+    "source": "AlJazeera"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/20 01:56",
+    "headline": "[속보 10/20 01:56] Supreme court rejects effort to revive plea deal for Khalid Sheikh Mohammed in 9/11 attacks",
+    "link": "https://www.theguardian.com/us-news/2026/oct/19/khalid-sheikh-mohammed-september-11-plea-deal",
+    "source": "Guardian"
   }
 ]
