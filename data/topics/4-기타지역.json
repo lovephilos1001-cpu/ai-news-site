@@ -1,34 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/06 09:11",
-    "headline": "[속보 10/06 09:11] Marine’s arrest for murder in Japan fuels anger over US military presence",
-    "link": "https://www.scmp.com/week-asia/politics/article/3369802/marines-arrest-murder-japan-fuels-anger-over-us-military-presence?utm_source=rss_feed",
-    "source": "SCMP"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/06 16:00",
-    "headline": "Guardian readers fund life-changing surgery for Somali boy injured in US airstrike",
-    "link": "https://www.theguardian.com/global-development/2026/oct/05/guardian-readers-fundraising-somalian-boy-injured-in-us-strike-surgery-abdiqadir-salah",
-    "source": "Guardian"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/06 16:00",
-    "headline": "Extreme heat warnings issued for parts of southern California",
-    "link": "https://www.theguardian.com/us-news/2026/oct/05/extreme-heat-warnings-southern-california",
-    "source": "Guardian"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/06 16:00",
-    "headline": "World Bank warns of AI concentration risks as it lifts East Asia and Pacific growth outlook to 4.5%",
-    "link": "https://www.cnbc.com/2026/10/06/world-bank-east-asia-growth-inflation-ai-exports-.html",
-    "source": "CNBC"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/06 21:42",
     "headline": "[속보 10/06 21:42] Car buyers are stretching loans to afford payments — it's a 'potential warning light,' analyst says",
     "link": "https://www.cnbc.com/2026/10/06/car-loans-are-getting-longer-as-monthly-payments-hit-record-highs.html",
@@ -1398,5 +1370,33 @@
     "headline": "[속보 10/19 08:53] Major fire at Canada military base leaves four dead, dozens injured",
     "link": "https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o?at_medium=RSS&at_campaign=rss",
     "source": "BBC"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/19 10:32",
+    "headline": "[속보 10/19 10:32] Flydubai captain describes blocking axe blows as co-pilot attacked him",
+    "link": "https://www.theguardian.com/world/2026/oct/18/flydubai-captain-smit-machchhar-blocking-axe-blows-flight-fz1073",
+    "source": "Guardian"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/19 10:32",
+    "headline": "[속보 10/19 10:32] Captain of Flydubai plane describes blocking axe blows as co-pilot attacked",
+    "link": "https://www.japantimes.co.jp/news/2026/10/19/world/flydubai-captain-pilot-attack/",
+    "source": "JapanTimes"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/19 10:32",
+    "headline": "[속보 10/19 10:32] Grass fire at Canadian military base kills 4, injures dozens",
+    "link": "https://www.scmp.com/news/world/united-states-canada/article/3371281/fatalities-feared-fire-erupts-canadian-military-base-alberta?utm_source=rss_feed",
+    "source": "SCMP"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/19 10:41",
+    "headline": "[속보 10/19 10:41] Grass fire at Canadian military base kills four and injures 39",
+    "link": "https://www.japantimes.co.jp/news/2026/10/19/world/canada-military-base-fire/",
+    "source": "JapanTimes"
   }
 ]
