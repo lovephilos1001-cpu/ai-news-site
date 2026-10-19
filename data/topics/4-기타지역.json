@@ -1,20 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/06 21:42",
-    "headline": "[속보 10/06 21:42] Fort Hood shooter to be executed by firing squad - a first for US military since World War Two",
-    "link": "https://www.bbc.co.uk/news/articles/cq8ezkkkrpy1o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/06 22:00",
-    "headline": "Car buyers are stretching loans to afford payments — it's a 'potential warning light,' analyst says",
-    "link": "https://www.cnbc.com/2026/10/06/car-loans-are-getting-longer-as-monthly-payments-hit-record-highs.html",
-    "source": "CNBC"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/06 22:00",
     "headline": "Fort Hood shooter to be executed by firing squad - a first for US military since World War Two",
     "link": "https://www.bbc.co.uk/news/articles/cq8ezkkkrpy1o?at_medium=RSS&at_campaign=rss",
@@ -1398,5 +1384,19 @@
     "headline": "[속보 10/19 11:26] Bomb threat forces Austrian Airlines flight from Tel Aviv to divert to Bulgaria",
     "link": "https://www.scmp.com/news/world/middle-east/article/3371337/bomb-threat-forces-austrian-airlines-flight-tel-aviv-divert-bulgaria?utm_source=rss_feed",
     "source": "SCMP"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/19 12:11",
+    "headline": "[속보 10/19 12:11] Rays beat Guardians in Game 5 to take another step toward World Series",
+    "link": "https://www.japantimes.co.jp/sports/2026/10/19/baseball/mlb/rays-alcs-guardians-win/",
+    "source": "JapanTimes"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/19 12:26",
+    "headline": "[속보 10/19 12:26] Fast-moving grass fire caused Canada’s military base tragedy",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/fast-moving-grass-fire-caused-canadas-military-base-tragedy?traffic_source=rss",
+    "source": "AlJazeera"
   }
 ]
