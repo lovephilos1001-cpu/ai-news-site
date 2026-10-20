@@ -2,13 +2,6 @@
   {
     "topic_name": "기타 지역",
     "date_kst": "10/08 05:30",
-    "headline": "Flydubai attack investigation widens as alleged hijacker’s training in New Zealand scrutinised",
-    "link": "https://www.theguardian.com/world/2026/oct/07/flydubai-attack-investigation-widens-as-alleged-hijackers-training-in-new-zealand-scrutinised-ntwnfb",
-    "source": "Guardian"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/08 05:30",
     "headline": "Americans grow more pessimistic about their finances, New York Fed finds — expert warns of ‘tough choices’ ahead",
     "link": "https://www.cnbc.com/2026/10/07/new-york-fed-financial-outlook-inflation.html",
     "source": "CNBC"
@@ -1398,5 +1391,12 @@
     "headline": "[속보 10/20 11:41] Milan luxury shops close for fear of new unrest as government prepares to deploy troops",
     "link": "https://www.japantimes.co.jp/news/2026/10/20/world/milan-luxury-shops-italy-unrest/",
     "source": "JapanTimes"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/20 12:26",
+    "headline": "[속보 10/20 12:26] Heroic barber recalls tackling car attacker of Australian MP Helen Haines",
+    "link": "https://www.scmp.com/news/asia/australasia/article/3371447/heroic-barber-recalls-tackling-car-attacker-australian-mp-helen-haines?utm_source=rss_feed",
+    "source": "SCMP"
   }
 ]
