@@ -1,13 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/09 08:56",
-    "headline": "[속보 10/09 08:56] US to live stream firing squad execution of military base shooter Nidal Hasan",
-    "link": "https://www.scmp.com/news/world/united-states-canada/article/3370245/us-live-stream-firing-squad-execution-military-base-shooter-nidal-hasan?utm_source=rss_feed",
-    "source": "SCMP"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/09 09:56",
     "headline": "[속보 10/09 09:56] U.S. military to livestream firing squad execution of Fort Hood shooter",
     "link": "https://www.japantimes.co.jp/news/2026/10/09/world/fort-hood-shooter-execution-livestream/",
@@ -1398,5 +1391,12 @@
     "headline": "[속보 10/21 02:56] Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
     "link": "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html",
     "source": "CNBC"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/21 06:11",
+    "headline": "[속보 10/21 06:11] Man charged with attack on Australia MP to face court",
+    "link": "https://www.bbc.co.uk/news/articles/c678pnn9mpgno?at_medium=RSS&at_campaign=rss",
+    "source": "BBC"
   }
 ]
