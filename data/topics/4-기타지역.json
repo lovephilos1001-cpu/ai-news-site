@@ -1,20 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/09 05:30",
-    "headline": "Ethiopia launches drone attack against Eritrean troops who crossed into Tigray",
-    "link": "https://www.theguardian.com/world/2026/oct/08/ethiopia-drone-attack-against-eritrean-troops-in-tigray",
-    "source": "Guardian"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/09 08:56",
-    "headline": "[속보 10/09 08:56] Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says",
-    "link": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/09 08:56",
     "headline": "[속보 10/09 08:56] US to live stream firing squad execution of military base shooter Nidal Hasan",
     "link": "https://www.scmp.com/news/world/united-states-canada/article/3370245/us-live-stream-firing-squad-execution-military-base-shooter-nidal-hasan?utm_source=rss_feed",
@@ -1398,5 +1384,19 @@
     "headline": "[속보 10/21 01:26] France to deploy troops in response to protests after violent riots sweep cities",
     "link": "https://www.scmp.com/news/world/europe/article/3371556/france-deploy-troops-response-protests-after-violent-riots-sweep-cities",
     "source": "SCMP"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/21 02:11",
+    "headline": "[속보 10/21 02:11] Alberta voters reject a move toward independence in referendum backing Canadian unity",
+    "link": "https://www.npr.org/2026/10/20/nx-s1-6008832/alberta-referendum-canada",
+    "source": "NPR"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/21 02:56",
+    "headline": "[속보 10/21 02:56] Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
+    "link": "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html",
+    "source": "CNBC"
   }
 ]
