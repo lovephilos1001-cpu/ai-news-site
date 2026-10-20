@@ -148,6 +148,11 @@
       "url": "https://marketbriefwire.com/data/topics/5-smci.json"
     },
     {
+      "hall": "5",
+      "hall_name": "기타 핀테크·신산업",
+      "url": "https://marketbriefwire.com/data/topics/5-spcx.json"
+    },
+    {
       "hall": "6",
       "hall_name": "SNS·커뮤니티 트렌드",
       "url": "https://marketbriefwire.com/data/topics/6-aibenchmarklmsys.json"
