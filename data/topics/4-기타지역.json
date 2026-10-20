@@ -1,48 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/07 19:41",
-    "headline": "[속보 10/07 19:41] Chemistry Nobel awarded for solving mystery of life's asymmetry",
-    "link": "https://www.bbc.co.uk/news/articles/c6ly038jg0d4o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/07 22:00",
-    "headline": "Flydubai attack investigation widens as alleged hijacker’s training in New Zealand scrutinised",
-    "link": "https://www.theguardian.com/world/2026/oct/07/flydubai-attack-investigation-widens-as-alleged-hijackers-training-in-new-zealand-scrutinised-ntwnfb",
-    "source": "Guardian"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/07 22:00",
-    "headline": "Oil edges higher as concerns over Houthi attacks on Saudi Arabia eclipse supply recovery",
-    "link": "https://www.cnbc.com/2026/10/07/oil-prices-today-brent-wti-hormuz.html",
-    "source": "CNBC"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/07 22:00",
-    "headline": "'Get your house in order': IMF chief's stark warning for France over surging bond yields",
-    "link": "https://www.cnbc.com/2026/10/07/imf-france-debt-student-protests-yields.html",
-    "source": "CNBC"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/07 22:00",
-    "headline": "Chevron CEO warns against 'unwise' diesel export ban, saying it could make things worse",
-    "link": "https://www.cnbc.com/2026/10/07/chevron-ceo-diesel-export-ban-trump-supply.html",
-    "source": "CNBC"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/08 05:30",
-    "headline": "Satellite images show attack jets at Chinese military facility in Laos",
-    "link": "https://www.theguardian.com/world/2026/oct/07/satellite-images-attack-jets-china-military-facility-laos",
-    "source": "Guardian"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/08 05:30",
     "headline": "Flydubai attack investigation widens as alleged hijacker’s training in New Zealand scrutinised",
     "link": "https://www.theguardian.com/world/2026/oct/07/flydubai-attack-investigation-widens-as-alleged-hijackers-training-in-new-zealand-scrutinised-ntwnfb",
@@ -1397,6 +1355,48 @@
     "date_kst": "10/20 10:11",
     "headline": "[속보 10/20 10:11] Houthi attack on Yemen government camp kills over 50, officials say",
     "link": "https://www.japantimes.co.jp/news/2026/10/20/world/houthi-attack-yemen-camp/",
+    "source": "JapanTimes"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/20 11:11",
+    "headline": "[속보 10/20 11:11] Saudi Arabia cancels 2026 ‘Davos in the Desert’ amid Houthi attacks",
+    "link": "https://www.aljazeera.com/news/2026/10/20/saudi-arabia-cancels-2026-davos-in-the-desert-amid-houthi-attacks?traffic_source=rss",
+    "source": "AlJazeera"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/20 11:11",
+    "headline": "[속보 10/20 11:11] Saudi Arabia postpones ‘Davos in the Desert’ summit to 2027 after deadly attacks",
+    "link": "https://www.scmp.com/news/world/middle-east/article/3371441/saudi-arabia-postpones-davos-desert-summit-2027-after-deadly-attacks?utm_source=rss_feed",
+    "source": "SCMP"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/20 11:26",
+    "headline": "[속보 10/20 11:26] Svitolina announces end of marriage to Monfils as Ukrainian cites toll of war",
+    "link": "https://www.japantimes.co.jp/sports/2026/10/20/tennis/svitolina-monfils-ending-marriage/",
+    "source": "JapanTimes"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/20 11:26",
+    "headline": "[속보 10/20 11:26] Australian PM says attacker&apos;s car made U-turn before critically injuring lawmaker",
+    "link": "https://www.koreaherald.com/article/10908418",
+    "source": "KoreaHerald"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/20 11:41",
+    "headline": "[속보 10/20 11:41] Milan luxury shops close as Italy prepares to deploy troops in the city after days of protests",
+    "link": "https://www.theguardian.com/world/2026/oct/20/milan-luxury-shops-close-italy-to-deploy-troops-youth-protests-europe",
+    "source": "Guardian"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/20 11:41",
+    "headline": "[속보 10/20 11:41] Milan luxury shops close for fear of new unrest as government prepares to deploy troops",
+    "link": "https://www.japantimes.co.jp/news/2026/10/20/world/milan-luxury-shops-italy-unrest/",
     "source": "JapanTimes"
   }
 ]
