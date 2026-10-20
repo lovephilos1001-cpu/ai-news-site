@@ -1,20 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/08 05:30",
-    "headline": "Americans grow more pessimistic about their finances, New York Fed finds — expert warns of ‘tough choices’ ahead",
-    "link": "https://www.cnbc.com/2026/10/07/new-york-fed-financial-outlook-inflation.html",
-    "source": "CNBC"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/08 10:41",
-    "headline": "[속보 10/08 10:41] Saudi Arabia confirms three dead in Houthi strikes on its airports",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/8/saudi-arabia-confirms-three-dead-in-houthi-strikes-on-its-airports?traffic_source=rss",
-    "source": "AlJazeera"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/08 10:41",
     "headline": "[속보 10/08 10:41] Houthi attacks kill three at Saudi Airports, including in Riyadh",
     "link": "https://www.japantimes.co.jp/news/2026/10/08/world/houthi-saudi-airport-attack/",
@@ -1397,6 +1383,20 @@
     "date_kst": "10/20 12:26",
     "headline": "[속보 10/20 12:26] Heroic barber recalls tackling car attacker of Australian MP Helen Haines",
     "link": "https://www.scmp.com/news/asia/australasia/article/3371447/heroic-barber-recalls-tackling-car-attacker-australian-mp-helen-haines?utm_source=rss_feed",
+    "source": "SCMP"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/20 19:26",
+    "headline": "[속보 10/20 19:26] Brendan Nugent facing three charges over alleged attack on MP Helen Haines",
+    "link": "https://www.theguardian.com/australia-news/2026/oct/20/helen-haines-alleged-attacker-brendan-nugent-charged-ntwnfb",
+    "source": "Guardian"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/20 19:26",
+    "headline": "[속보 10/20 19:26] Australian police charge man after attack on MP Helen Haines",
+    "link": "https://www.scmp.com/news/asia/australasia/article/3371447/heroic-barber-recalls-tackling-car-attacker-australian-mp-helen-haines",
     "source": "SCMP"
   }
 ]
