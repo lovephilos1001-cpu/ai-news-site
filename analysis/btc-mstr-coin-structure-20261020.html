@@ -1,0 +1,27 @@
+<!doctype html><html lang="ko"><head>
+<meta charset="utf-8">
+<style>body{font-family:Georgia,'Noto Serif KR',serif;max-width:680px;margin:0 auto;padding:36px 20px 60px;line-height:1.6;color:#1a1a1a}h1{font-size:26px;margin:0 0 10px;border-bottom:2px solid #1a1a1a;padding-bottom:14px}p{font-size:15.5px;color:#333}a{color:#1a1a1a;text-decoration:none}a:hover{text-decoration:underline}nav{font-size:12px;letter-spacing:.03em;color:#666;text-transform:uppercase;border-top:1px solid #ddd;border-bottom:1px solid #ddd;padding:10px 0;margin:18px 0 28px}nav a{color:#666}ul{list-style:none;padding:0;margin:0}li{padding:20px 0;border-top:1px solid #e5e5e5}li:first-child{border-top:none}li a{font-size:19px;display:block;margin-bottom:6px}li .meta{font-family:-apple-system,sans-serif;font-size:12px;letter-spacing:.03em;text-transform:uppercase;color:#888}h2{font-size:17px;margin:32px 0 4px;color:#444}article h1{border-bottom:none;font-size:23px}article p.meta{font-family:-apple-system,sans-serif;font-size:12.5px;color:#888;text-transform:uppercase;letter-spacing:.03em;margin-bottom:28px}ul.sections{list-style:none;padding:0;margin:6px 0 10px}ul.sections li{border-bottom:1px solid #ddd}ul.sections a{display:block;padding:2px 0;font-size:12px;letter-spacing:.03em;text-transform:uppercase;color:#666}table{width:100%;border-collapse:collapse;margin:8px 0 24px;font-size:14.5px}table th{text-align:left;font-size:11px;letter-spacing:.03em;text-transform:uppercase;color:#888;border-bottom:1px solid #ddd;padding:6px 4px}table td{padding:7px 4px;border-bottom:1px solid #eee}table td.num{text-align:right;font-variant-numeric:tabular-nums}table td.up{color:#b3261e}table td.down{color:#1a5fb4}</style>
+<title>BTC·MSTR·COIN 구조 분석 — 매매의 구조 프레임워크 적용 — AI 분석 · AI 마켓 브리핑 아카이브</title>
+</head><body>
+<nav><a href="../index.html">AI 마켓 브리핑 아카이브</a> · <a href="index.html">AI 분석</a></nav>
+<h1>BTC·MSTR·COIN 구조 분석 — 매매의 구조 프레임워크 적용</h1>
+<p class="meta">프레임워크: 매매의 구조(@AlexZio00) — 전장 매트릭스·도구별 리스크구조·분산착시·리포트 읽는 법 · 데이터 기준: 2026-10-20 00:02 KST</p>
+<div class="notice"><b>이 글은 뉴스 재가공이 아니라 Claude(AI)가 공개 데이터를 직접 가공해서 쓴
+분석입니다. 투자 자문이 아니며, 결론을 따라가지 말고 구조 이해의 재료로만 쓰세요.</b></div>
+<p>비트코인·MSTR(Strategy)·코인베이스 세 자산을 '매매의 구조' 시리즈가 제시한 프레임워크로 구조 분해한 글입니다. 어느 자산을 사라는 추천이 아니라, 세 자산이 겉보기엔 비슷해 보여도 리스크 구조가 어떻게 다른지(혹은 사실은 왜 비슷한지)를 짚는 분석입니다.</p>
+<h2>실측 데이터(2026-10-20 00:02 KST 기준)</h2>
+<p>BTC $82,148(연고점 $116,273 대비 -29%, 연저점 $57,748 대비 +42%) · MSTR $140.28, 시총 $594억 · COIN $172.51, 시총 $455억. MSTR 보유 BTC 840,447개(2026-08-23 공시 기준, 2개월 전 수치라 그 사이 ATM 매입분은 반영 안 됨), 평균매입단가 $75,412 → 현재가 기준 미실현 +8.9%. 단순 mNAV(시총÷BTC보유가치, 부채 미차감) = 0.86x — 역사평균 1.57x 대비 큰 폭 할인된 구간.</p>
+<h2>① 전장 매트릭스로 분류(매매의 구조 #2)</h2>
+<p>BTC는 순수 모멘텀·매크로 자산 — 전통 가치평가 앵커가 없음. MSTR은 바텀업 개별주처럼 보이지만 실질은 컨버터블 노트로 레버리지를 낀 BTC 대리노출 — 소로스류 매크로 베팅에 가까움. COIN은 진짜 바텀업 개별주이지만, 그 실적(거래 수수료 수익) 자체가 크립토 변동성·거래량이라는 외부변수에 종속된 2차 파생 베타.</p>
+<h2>② 도구가 바뀌면 리스크 구조도 바뀐다(#11) — MSTR의 핵심</h2>
+<p>BTC 직접보유와 달리 MSTR엔 추가 레이어가 얹힌다: (1) mNAV 프리미엄/디스카운트 자체의 변동성(현재 0.86x = 시장이 레버리지 구조를 할인 중), (2) ATM 증자로 인한 주식 희석, (3) 컨버터블 노트 만기·리파이낸싱 리스크. 지금 수준은 'BTC를 직접 사는 것보다 싸게 노출을 얻는 구간'으로 보일 수 있지만, 그 대가로 부채·희석 리스크를 떠안는 구조다.</p>
+<h2>③ 분산 착시(#8) — 셋을 같이 들면?</h2>
+<p>BTC·MSTR·COIN은 리스크 구조는 각각 다르지만 결국 전부 '비트코인 방향성 베팅'의 변주다. #2에서 경고한 '애널리스트 10명이 같은 자료를 보는 거라 독립의견이 아니다'와 같은 패턴 — 세 개를 함께 들면 분산이 아니라 같은 베팅의 3중 레버리지에 가까워진다.</p>
+<h2>④ 리포트 읽는 법 적용(#61)</h2>
+<p>MSTR 관련 목표가가 있다면 그건 'BTC 가격 가정 × mNAV 회귀배수 가정'의 곱일 뿐이다. 지금처럼 mNAV가 역사평균(1.57x)보다 훨씬 낮은 0.86x일 때 '평균회귀'를 전제로 한 목표가가 나온다면, 그 숫자를 믿기 전에 '정말 회귀하는가'라는 가정 자체의 합리성부터 따져야 한다 — #61이 경고한 '목표가는 결론이 아니라 가정의 산물'의 교과서적 사례.</p>
+<h2>출처·데이터</h2>
+<ul><li>yfinance 실시간 시세 조회(BTC-USD, MSTR, COIN)</li>
+<li><a href="https://www.kucoin.com/news/flash/strategy-holds-840-447-btc-valued-at-75b-as-of-august-23">Strategy Holds 840,447 BTC Valued at $75B as of August 23 (KuCoin News)</a></li>
+<li><a href="https://decrypt.co/353774/bitcoin-giant-strategy-premium-nearly-vanished-analysts-expect-comeback">Bitcoin Giant Strategy&#x27;s &#x27;Premium&#x27; Nearly Vanished — Analysts Expect a Comeback (Decrypt)</a></li>
+<li><a href="https://dlnews.com/articles/markets/strategy-is-worth-less-than-the-btc-it-owns/">Strategy is worth less than the BTC it owns (DL News)</a></li></ul>
+</body></html>
