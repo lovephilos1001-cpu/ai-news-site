@@ -1,13 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/09 19:26",
-    "headline": "[속보 10/09 19:26] South Africa lawyer 'Navi' Pillay wins Nobel Peace Prize for efforts to prosecute war crimes, genocide",
-    "link": "https://www.cnbc.com/2026/10/09/nobel-peace-prize-navanethem-navi-pillay-winner.html",
-    "source": "CNBC"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/09 19:41",
     "headline": "[속보 10/09 19:41] Three Saudi nationals killed in Houthi attacks on Riyadh airport",
     "link": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&at_campaign=rss",
@@ -1397,6 +1390,13 @@
     "date_kst": "10/21 15:26",
     "headline": "[속보 10/21 15:26] Drone strike on market in disputed Sudan border region kills at least 153",
     "link": "https://www.scmp.com/news/world/africa/article/3371608/drone-strike-market-disputed-sudan-border-region-kills-least-153",
+    "source": "SCMP"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/21 16:11",
+    "headline": "[속보 10/21 16:11] France to deploy troops for planned protests after riots and looting",
+    "link": "https://www.scmp.com/news/world/europe/article/3371556/france-deploy-troops-response-protests-after-violent-riots-sweep-cities",
     "source": "SCMP"
   }
 ]
