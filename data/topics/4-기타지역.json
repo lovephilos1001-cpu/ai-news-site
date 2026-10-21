@@ -1,27 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/09 18:26",
-    "headline": "[속보 10/09 18:26] Nobel Peace Prize awarded to former International Criminal Court judge Navanethem Pillay",
-    "link": "https://www.cnbc.com/2026/10/09/nobel-peace-prize-navanethem-navi-pillay-winner.html",
-    "source": "CNBC"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/09 18:41",
-    "headline": "[속보 10/09 18:41] South Africa lawyer Navanethm 'Navi' Pillay wins Nobel Peace Prize for efforts to prosecute war crimes and genocide",
-    "link": "https://www.cnbc.com/2026/10/09/nobel-peace-prize-navanethem-navi-pillay-winner.html",
-    "source": "CNBC"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/09 18:41",
-    "headline": "[속보 10/09 18:41] 2026 Nobel Peace Prize awarded to Navi Pillay",
-    "link": "https://www.aljazeera.com/news/2026/10/9/2026-nobel-peace-prize-awarded-to-navi-pillay?traffic_source=rss",
-    "source": "AlJazeera"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/09 19:26",
     "headline": "[속보 10/09 19:26] South Africa lawyer 'Navi' Pillay wins Nobel Peace Prize for efforts to prosecute war crimes, genocide",
     "link": "https://www.cnbc.com/2026/10/09/nobel-peace-prize-navanethem-navi-pillay-winner.html",
@@ -1397,6 +1376,27 @@
     "date_kst": "10/21 14:41",
     "headline": "[속보 10/21 14:41] France to deploy troops for planned protests after nationwide riots",
     "link": "https://www.scmp.com/news/world/europe/article/3371556/france-deploy-troops-response-protests-after-violent-riots-sweep-cities",
+    "source": "SCMP"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/21 15:11",
+    "headline": "[속보 10/21 15:11] Korea Herald photojournalist wins award",
+    "link": "https://www.koreaherald.com/article/10909987",
+    "source": "KoreaHerald"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/21 15:26",
+    "headline": "[속보 10/21 15:26] Drone strike on Abyei market near Sudan-South Sudan border kills 150",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/drone-strike-on-abyei-market-near-sudan-south-sudan-border-kills-150?traffic_source=rss",
+    "source": "AlJazeera"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/21 15:26",
+    "headline": "[속보 10/21 15:26] Drone strike on market in disputed Sudan border region kills at least 153",
+    "link": "https://www.scmp.com/news/world/africa/article/3371608/drone-strike-market-disputed-sudan-border-region-kills-least-153",
     "source": "SCMP"
   }
 ]
