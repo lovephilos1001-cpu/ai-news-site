@@ -2,13 +2,6 @@
   {
     "topic_name": "기타 지역",
     "date_kst": "10/09 16:00",
-    "headline": "Ethiopia launches drone attack against Eritrean troops who crossed into Tigray",
-    "link": "https://www.theguardian.com/world/2026/oct/08/ethiopia-drone-attack-against-eritrean-troops-in-tigray",
-    "source": "Guardian"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/09 16:00",
     "headline": "Ray Dalio warns the stock market's cushion against rising bond yields is shrinking",
     "link": "https://www.cnbc.com/2026/10/08/ray-dalio-stocks-bond-yields.html",
     "source": "CNBC"
@@ -1398,5 +1391,12 @@
     "headline": "[속보 10/21 08:56] NATO to send additional patrol planes to Black Sea after drone attacks",
     "link": "https://www.aljazeera.com/news/2026/10/20/nato-to-send-additional-patrol-planes-to-black-sea-after-drone-attacks?traffic_source=rss",
     "source": "AlJazeera"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/21 10:41",
+    "headline": "[속보 10/21 10:41] Musk seizes on SpaceX momentum with push toward Tesla merger",
+    "link": "https://www.japantimes.co.jp/business/2026/10/21/musk-tesla-spacex-merger/",
+    "source": "JapanTimes"
   }
 ]
