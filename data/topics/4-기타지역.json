@@ -1,34 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/09 19:41",
-    "headline": "[속보 10/09 19:41] Three Saudi nationals killed in Houthi attacks on Riyadh airport",
-    "link": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&at_campaign=rss",
-    "source": "BBC"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/09 20:56",
-    "headline": "[속보 10/09 20:56] Saudi Arabia reopens Riyadh airport after Houthi attack kills three",
-    "link": "https://www.aljazeera.com/news/2026/10/9/saudi-arabia-reopens-riyadh-airport-after-houthi-attack-kills-three?traffic_source=rss",
-    "source": "AlJazeera"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/09 22:00",
-    "headline": "South Africa lawyer 'Navi' Pillay wins Nobel Peace Prize for efforts to prosecute war crimes, genocide",
-    "link": "https://www.cnbc.com/2026/10/09/nobel-peace-prize-navanethem-navi-pillay-winner.html",
-    "source": "CNBC"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/09 22:00",
-    "headline": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
-    "link": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&at_campaign=rss",
-    "source": "BBC"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/09 22:00",
     "headline": "Saudi Arabia reopens Riyadh airport after Houthi attack kills three",
     "link": "https://www.aljazeera.com/news/2026/10/9/saudi-arabia-reopens-riyadh-airport-after-houthi-attack-kills-three?traffic_source=rss",
@@ -1398,5 +1370,33 @@
     "headline": "[속보 10/21 16:11] France to deploy troops for planned protests after riots and looting",
     "link": "https://www.scmp.com/news/world/europe/article/3371556/france-deploy-troops-response-protests-after-violent-riots-sweep-cities",
     "source": "SCMP"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/21 17:11",
+    "headline": "[속보 10/21 17:11] Australian MP loses both legs after alleged car attack",
+    "link": "https://www.bbc.co.uk/news/articles/ckwyqdqxw6d0o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/21 17:26",
+    "headline": "[속보 10/21 17:26] Australian MP loses both legs after alleged car attack, husband says",
+    "link": "https://www.bbc.co.uk/news/articles/ckwyqdqxw6d0o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/21 17:56",
+    "headline": "[속보 10/21 17:56] Australian MP loses both legs in vehicle attack as suspect appears in court",
+    "link": "https://www.aljazeera.com/news/2026/10/21/australian-mp-loses-both-legs-in-vehicle-attack-as-suspect-appears-in-court?traffic_source=rss",
+    "source": "AlJazeera"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/21 17:56",
+    "headline": "[속보 10/21 17:56] Drone attack in disputed Sudan-South Sudan border region kills at least 153",
+    "link": "https://www.aljazeera.com/news/2026/10/21/drone-attack-in-disputed-sudan-south-sudan-border-region-kills-at-least-153?traffic_source=rss",
+    "source": "AlJazeera"
   }
 ]
