@@ -1,13 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/09 18:11",
-    "headline": "[속보 10/09 18:11] Norwegian Nobel Committee awards this year's Peace Prize",
-    "link": "https://www.npr.org/2026/10/09/nx-s1-5994952/norwegian-nobel-committee-awards-this-years-peace-prize",
-    "source": "NPR"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/09 18:26",
     "headline": "[속보 10/09 18:26] Nobel Peace Prize awarded to former International Criminal Court judge Navanethem Pillay",
     "link": "https://www.cnbc.com/2026/10/09/nobel-peace-prize-navanethem-navi-pillay-winner.html",
@@ -1398,5 +1391,12 @@
     "headline": "[속보 10/21 12:41] French government to deploy troops and admits to failures over weekend unrest",
     "link": "https://www.japantimes.co.jp/news/2026/10/21/world/politics/france-troops-unrest/",
     "source": "JapanTimes"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/21 14:41",
+    "headline": "[속보 10/21 14:41] France to deploy troops for planned protests after nationwide riots",
+    "link": "https://www.scmp.com/news/world/europe/article/3371556/france-deploy-troops-response-protests-after-violent-riots-sweep-cities",
+    "source": "SCMP"
   }
 ]
