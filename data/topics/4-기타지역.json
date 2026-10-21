@@ -1,13 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/09 09:56",
-    "headline": "[속보 10/09 09:56] U.S. military to livestream firing squad execution of Fort Hood shooter",
-    "link": "https://www.japantimes.co.jp/news/2026/10/09/world/fort-hood-shooter-execution-livestream/",
-    "source": "JapanTimes"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/09 16:00",
     "headline": "Ethiopia launches drone attack against Eritrean troops who crossed into Tigray",
     "link": "https://www.theguardian.com/world/2026/oct/08/ethiopia-drone-attack-against-eritrean-troops-in-tigray",
@@ -1398,5 +1391,12 @@
     "headline": "[속보 10/21 06:11] Man charged with attack on Australia MP to face court",
     "link": "https://www.bbc.co.uk/news/articles/c678pnn9mpgno?at_medium=RSS&at_campaign=rss",
     "source": "BBC"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/21 08:56",
+    "headline": "[속보 10/21 08:56] NATO to send additional patrol planes to Black Sea after drone attacks",
+    "link": "https://www.aljazeera.com/news/2026/10/20/nato-to-send-additional-patrol-planes-to-black-sea-after-drone-attacks?traffic_source=rss",
+    "source": "AlJazeera"
   }
 ]
