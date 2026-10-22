@@ -1,20 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/10 05:30",
-    "headline": "Americans' debt problems are flashing a warning not seen since the Great Recession",
-    "link": "https://www.cnbc.com/2026/10/09/american-debt-delinquency.html",
-    "source": "CNBC"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/10 07:26",
-    "headline": "[속보 10/10 07:26] U.S. sanctions ICC after former judge wins  Nobel Peace Prize",
-    "link": "https://www.japantimes.co.jp/news/2026/10/10/world/icc-us-sanctions/",
-    "source": "JapanTimes"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/10 10:41",
     "headline": "[속보 10/10 10:41] Flydubai co-pilot planned suicide attack on Tel Aviv airport",
     "link": "https://www.japantimes.co.jp/news/2026/10/10/world/flydubai-suicide-attack-tel-aviv/",
@@ -1398,5 +1384,19 @@
     "headline": "[속보 10/22 22:11] Two killed in attack on airport in eastern Saudi Arabia, authorities say",
     "link": "https://www.bbc.co.uk/news/articles/cqwy71ww156ro?at_medium=RSS&at_campaign=rss",
     "source": "BBC"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/23 00:41",
+    "headline": "[속보 10/23 00:41] Meta strikes deal with Zuckerberg to help him foot billionaire tax bill",
+    "link": "https://www.theguardian.com/technology/2026/oct/22/meta-mark-zuckerberg-california-wealth-tax",
+    "source": "Guardian"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/23 00:56",
+    "headline": "[속보 10/23 00:56] 16-year-old Malaysian student attacks his teacher with axe",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/16-year-old-malaysian-student-attacks-his-teacher-with-axe?traffic_source=rss",
+    "source": "AlJazeera"
   }
 ]
