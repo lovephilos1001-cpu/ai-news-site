@@ -1,13 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/10 00:26",
-    "headline": "[속보 10/10 00:26] Ethiopia and Eritrea accuse one another of launching war",
-    "link": "https://www.aljazeera.com/news/2026/10/9/ethiopia-and-eritrea-accuse-one-another-of-launching-war?traffic_source=rss",
-    "source": "AlJazeera"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/10 01:11",
     "headline": "[속보 10/10 01:11] US imposes sanctions on International Criminal Court",
     "link": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
@@ -1398,5 +1391,12 @@
     "headline": "[속보 10/22 08:56] US orders diplomats to leave Saudi Arabia amid Houthi strikes",
     "link": "https://www.scmp.com/news/world/middle-east/article/3371698/us-orders-diplomats-leave-saudi-arabia-amid-houthi-strikes",
     "source": "SCMP"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/22 09:41",
+    "headline": "[속보 10/22 09:41] Some US diplomats told to leave Saudi Arabia amid Houthi attacks",
+    "link": "https://www.theguardian.com/world/2026/oct/22/us-diplomats-told-to-leave-saudi-arabia-amid-houthi-attacks",
+    "source": "Guardian"
   }
 ]
