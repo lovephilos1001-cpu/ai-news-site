@@ -1,20 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/10 10:41",
-    "headline": "[속보 10/10 10:41] Flydubai co-pilot planned suicide attack on Tel Aviv airport",
-    "link": "https://www.japantimes.co.jp/news/2026/10/10/world/flydubai-suicide-attack-tel-aviv/",
-    "source": "JapanTimes"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/10 16:00",
-    "headline": "Powerful 7.7-magnitude earthquake strikes Panama and triggers panic in capital",
-    "link": "https://www.theguardian.com/world/2026/oct/09/panama-earthquake",
-    "source": "Guardian"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/10 17:26",
     "headline": "[속보 10/10 17:26] US lifts sanctions on daughter of military-linked Myanmar businessman",
     "link": "https://www.aljazeera.com/news/2026/10/10/us-lifts-sanctions-on-daughter-of-military-linked-myanmar-tycoon?traffic_source=rss",
@@ -1398,5 +1384,19 @@
     "headline": "[속보 10/23 00:56] 16-year-old Malaysian student attacks his teacher with axe",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/16-year-old-malaysian-student-attacks-his-teacher-with-axe?traffic_source=rss",
     "source": "AlJazeera"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/23 01:11",
+    "headline": "[속보 10/23 01:11] Meta strikes deal with Mark Zuckerberg to help him foot billionaire tax bill",
+    "link": "https://www.theguardian.com/technology/2026/oct/22/meta-mark-zuckerberg-california-wealth-tax",
+    "source": "Guardian"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/23 01:26",
+    "headline": "[속보 10/23 01:26] Meta strikes deal to stop Mark Zuckerberg leaving California over billionaire tax",
+    "link": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
+    "source": "BBC"
   }
 ]
