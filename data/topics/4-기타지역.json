@@ -2,13 +2,6 @@
   {
     "topic_name": "기타 지역",
     "date_kst": "10/10 17:26",
-    "headline": "[속보 10/10 17:26] US lifts sanctions on daughter of military-linked Myanmar businessman",
-    "link": "https://www.aljazeera.com/news/2026/10/10/us-lifts-sanctions-on-daughter-of-military-linked-myanmar-tycoon?traffic_source=rss",
-    "source": "AlJazeera"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/10 17:26",
     "headline": "[속보 10/10 17:26] U.S. lifts sanctions on daughter of Myanmar military-linked businessman",
     "link": "https://www.japantimes.co.jp/news/2026/10/10/asia-pacific/politics/us-sanctions-myanmar-businessman/",
     "source": "JapanTimes"
@@ -1398,5 +1391,12 @@
     "headline": "[속보 10/23 01:26] Meta strikes deal to stop Mark Zuckerberg leaving California over billionaire tax",
     "link": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
     "source": "BBC"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/23 02:56",
+    "headline": "[속보 10/23 02:56] US-sanctioned ICC wins top EU human rights award",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/us-sanctioned-icc-wins-top-eu-human-rights-award?traffic_source=rss",
+    "source": "AlJazeera"
   }
 ]
