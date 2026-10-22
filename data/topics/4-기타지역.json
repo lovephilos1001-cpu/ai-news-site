@@ -2,20 +2,6 @@
   {
     "topic_name": "기타 지역",
     "date_kst": "10/10 05:30",
-    "headline": "Powerful 7.6-magnitude earthquake hits Panama and triggers tsunami warnings",
-    "link": "https://www.theguardian.com/world/2026/oct/09/panama-earthquake",
-    "source": "Guardian"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/10 05:30",
-    "headline": "Tsunami warnings across Latin America after 7.7 magnitude earthquake hits",
-    "link": "https://www.aljazeera.com/news/2026/10/9/tsunami-warnings-across-latin-america-after-7-7-magnitude-earthquake-hits?traffic_source=rss",
-    "source": "AlJazeera"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/10 05:30",
     "headline": "Americans' debt problems are flashing a warning not seen since the Great Recession",
     "link": "https://www.cnbc.com/2026/10/09/american-debt-delinquency.html",
     "source": "CNBC"
@@ -1398,5 +1384,19 @@
     "headline": "[속보 10/22 15:41] Hong Kong watchdog warns of hacking risks from flaws in web programming language",
     "link": "https://www.scmp.com/news/hong-kong/article/3371756/hong-kong-watchdog-warns-hacking-risks-flaws-web-programming-language",
     "source": "SCMP"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/22 22:11",
+    "headline": "[속보 10/22 22:11] Oil prices jump to five-month high as attacks threaten global supply",
+    "link": "https://www.theguardian.com/business/2026/oct/22/oil-prices-jump-five-month-high-threats-supply",
+    "source": "Guardian"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/22 22:11",
+    "headline": "[속보 10/22 22:11] Two killed in attack on airport in eastern Saudi Arabia, authorities say",
+    "link": "https://www.bbc.co.uk/news/articles/cqwy71ww156ro?at_medium=RSS&at_campaign=rss",
+    "source": "BBC"
   }
 ]
