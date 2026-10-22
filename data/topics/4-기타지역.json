@@ -1,20 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/10 04:41",
-    "headline": "[속보 10/10 04:41] Powerful 7.6-magnitude earthquake hits Panama and triggers tsunami warnings",
-    "link": "https://www.theguardian.com/world/2026/oct/09/panama-earthquake",
-    "source": "Guardian"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/10 04:41",
-    "headline": "[속보 10/10 04:41] Tsunami warnings across Latin America after 7.7 magnitude earthquake hits",
-    "link": "https://www.aljazeera.com/news/2026/10/9/tsunami-warnings-across-latin-america-after-7-7-magnitude-earthquake-hits?traffic_source=rss",
-    "source": "AlJazeera"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/10 05:30",
     "headline": "Powerful 7.6-magnitude earthquake hits Panama and triggers tsunami warnings",
     "link": "https://www.theguardian.com/world/2026/oct/09/panama-earthquake",
@@ -1398,5 +1384,19 @@
     "headline": "[속보 10/22 13:56] US orders diplomats to depart Saudi Arabia amid Houthi strikes",
     "link": "https://www.koreaherald.com/article/10911389",
     "source": "KoreaHerald"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/22 15:41",
+    "headline": "[속보 10/22 15:41] World leaders warn of security flaws found in PHP programming language",
+    "link": "https://www.aljazeera.com/news/2026/10/22/world-leaders-warn-against-security-flaw-found-in-php-computer-programming?traffic_source=rss",
+    "source": "AlJazeera"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/22 15:41",
+    "headline": "[속보 10/22 15:41] Hong Kong watchdog warns of hacking risks from flaws in web programming language",
+    "link": "https://www.scmp.com/news/hong-kong/article/3371756/hong-kong-watchdog-warns-hacking-risks-flaws-web-programming-language",
+    "source": "SCMP"
   }
 ]
