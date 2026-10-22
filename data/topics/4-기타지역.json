@@ -1,13 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/10 17:26",
-    "headline": "[속보 10/10 17:26] U.S. lifts sanctions on daughter of Myanmar military-linked businessman",
-    "link": "https://www.japantimes.co.jp/news/2026/10/10/asia-pacific/politics/us-sanctions-myanmar-businessman/",
-    "source": "JapanTimes"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/10 22:00",
     "headline": "Powerful 7.7-magnitude earthquake strikes Panama and triggers panic in capital",
     "link": "https://www.theguardian.com/world/2026/oct/09/panama-earthquake",
@@ -1397,6 +1390,13 @@
     "date_kst": "10/23 02:56",
     "headline": "[속보 10/23 02:56] US-sanctioned ICC wins top EU human rights award",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/us-sanctioned-icc-wins-top-eu-human-rights-award?traffic_source=rss",
+    "source": "AlJazeera"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/23 07:41",
+    "headline": "[속보 10/23 07:41] US-sanctioned ICC wins Sakharov Prize, EU’s top human rights award",
+    "link": "https://www.aljazeera.com/news/2026/10/22/us-sanctioned-icc-wins-sakharov-prize-eus-top-human-rights-award?traffic_source=rss",
     "source": "AlJazeera"
   }
 ]
