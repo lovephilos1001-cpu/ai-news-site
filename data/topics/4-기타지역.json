@@ -2,20 +2,6 @@
   {
     "topic_name": "기타 지역",
     "date_kst": "10/11 00:41",
-    "headline": "[속보 10/11 00:41] Woman injures three people in third Poland school knife attack in a week",
-    "link": "https://www.bbc.co.uk/news/articles/cv8ezd246z1wo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/11 00:41",
-    "headline": "[속보 10/11 00:41] Three injured in third school attack in Poland in less than a week",
-    "link": "https://www.aljazeera.com/news/2026/10/10/three-injured-in-third-school-attack-in-poland-in-less-than-a-week?traffic_source=rss",
-    "source": "AlJazeera"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/11 00:41",
     "headline": "[속보 10/11 00:41] 3 injured in Poland’s third youth stabbing attack in 4 days",
     "link": "https://www.scmp.com/news/world/europe/article/3370444/polands-police-detain-76-check-50000-schools-after-2-attacks?utm_source=rss_feed",
     "source": "SCMP"
@@ -1398,5 +1384,19 @@
     "headline": "[속보 10/23 11:41] 'This is despicable': Amy Acton responds to Ohio attack ad featuring her estranged mother",
     "link": "https://www.bbc.co.uk/news/articles/c6z981l59wnwo?at_medium=RSS&at_campaign=rss",
     "source": "BBC"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/23 15:56",
+    "headline": "[속보 10/23 15:56] Africa faces ‘complex’ Ebola outbreak after spread to Nigeria, WHO warns",
+    "link": "https://www.japantimes.co.jp/news/2026/10/23/world/science-health/africa-complex-ebola-outbreak/",
+    "source": "JapanTimes"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/23 15:56",
+    "headline": "[속보 10/23 15:56] WHO warns Africa faces ‘complex’ Ebola outbreak as virus reaches Nigeria",
+    "link": "https://www.scmp.com/news/world/africa/article/3371887/who-warns-africa-faces-complex-ebola-outbreak-virus-reaches-nigeria",
+    "source": "SCMP"
   }
 ]
