@@ -1,13 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/11 03:41",
-    "headline": "[속보 10/11 03:41] Attack on airport in Saudi capital, Riyadh, leaves several injured",
-    "link": "https://www.aljazeera.com/news/2026/10/10/attack-on-airport-in-saudi-capital-riyadh-leaves-several-injured?traffic_source=rss",
-    "source": "AlJazeera"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/11 05:30",
     "headline": "Several injured in attack on airport in Saudi capital Riyadh",
     "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
@@ -1398,5 +1391,12 @@
     "headline": "[속보 10/23 19:56] South Korea invites North for military talks over border",
     "link": "https://www.aljazeera.com/news/2026/10/23/south-korea-invites-north-for-military-talks-over-border?traffic_source=rss",
     "source": "AlJazeera"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/24 03:26",
+    "headline": "[속보 10/24 03:26] Macron condemns ‘racist terrorist attack’ after deadly shooting near Paris",
+    "link": "https://www.scmp.com/news/world/europe/article/3371985/macron-condemns-racist-terrorist-attack-after-deadly-shooting-near-paris",
+    "source": "SCMP"
   }
 ]
