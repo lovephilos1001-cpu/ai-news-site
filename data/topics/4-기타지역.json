@@ -2,20 +2,6 @@
   {
     "topic_name": "기타 지역",
     "date_kst": "10/11 05:30",
-    "headline": "Several injured in attack on airport in Saudi capital Riyadh",
-    "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
-    "source": "BBC"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/11 05:30",
-    "headline": "Attack on airport in Saudi capital, Riyadh, leaves several injured",
-    "link": "https://www.aljazeera.com/news/2026/10/10/attack-on-airport-in-saudi-capital-riyadh-leaves-several-injured?traffic_source=rss",
-    "source": "AlJazeera"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/11 05:30",
     "headline": "Several wounded in Saudi airport attack, forcing halt to operations",
     "link": "https://www.scmp.com/news/world/middle-east/article/3370454/loud-blast-heard-riyadh-airport-airlines-cancel-more-flights?utm_source=rss_feed",
     "source": "SCMP"
@@ -1398,5 +1384,19 @@
     "headline": "[속보 10/24 03:26] Macron condemns ‘racist terrorist attack’ after deadly shooting near Paris",
     "link": "https://www.scmp.com/news/world/europe/article/3371985/macron-condemns-racist-terrorist-attack-after-deadly-shooting-near-paris",
     "source": "SCMP"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/24 04:11",
+    "headline": "[속보 10/24 04:11] Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
+    "link": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/24 04:56",
+    "headline": "[속보 10/24 04:56] One killed as Elysee calls Paris area shooting ‘racist, terrorist attack’",
+    "link": "https://www.aljazeera.com/news/2026/10/23/one-person-killed-in-suspected-islamophobic-shooting-near-paris?traffic_source=rss",
+    "source": "AlJazeera"
   }
 ]
