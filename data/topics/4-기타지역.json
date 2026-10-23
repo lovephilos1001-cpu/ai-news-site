@@ -1,13 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/10 22:00",
-    "headline": "Powerful 7.7-magnitude earthquake strikes Panama and triggers panic in capital",
-    "link": "https://www.theguardian.com/world/2026/oct/09/panama-earthquake",
-    "source": "Guardian"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/11 00:41",
     "headline": "[속보 10/11 00:41] Woman injures three people in third Poland school knife attack in a week",
     "link": "https://www.bbc.co.uk/news/articles/cv8ezd246z1wo?at_medium=RSS&at_campaign=rss",
@@ -1398,5 +1391,12 @@
     "headline": "[속보 10/23 07:41] US-sanctioned ICC wins Sakharov Prize, EU’s top human rights award",
     "link": "https://www.aljazeera.com/news/2026/10/22/us-sanctioned-icc-wins-sakharov-prize-eus-top-human-rights-award?traffic_source=rss",
     "source": "AlJazeera"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/23 11:41",
+    "headline": "[속보 10/23 11:41] 'This is despicable': Amy Acton responds to Ohio attack ad featuring her estranged mother",
+    "link": "https://www.bbc.co.uk/news/articles/c6z981l59wnwo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC"
   }
 ]
