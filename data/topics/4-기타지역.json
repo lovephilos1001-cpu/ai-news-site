@@ -2,13 +2,6 @@
   {
     "topic_name": "기타 지역",
     "date_kst": "10/11 02:41",
-    "headline": "[속보 10/11 02:41] Several injured in attack on airport in Saudi capital Riyadh",
-    "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
-    "source": "BBC"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/11 02:41",
     "headline": "[속보 10/11 02:41] Several wounded in Saudi airport attack, forcing halt to operations",
     "link": "https://www.scmp.com/news/world/middle-east/article/3370454/loud-blast-heard-riyadh-airport-airlines-cancel-more-flights?utm_source=rss_feed",
     "source": "SCMP"
@@ -1398,5 +1391,12 @@
     "headline": "[속보 10/23 16:41] Europe needs a war economy",
     "link": "https://www.aljazeera.com/opinions/2026/10/23/europe-needs-a-war-economy?traffic_source=rss",
     "source": "AlJazeera"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/23 18:41",
+    "headline": "[속보 10/23 18:41] Australia’s energy transition offers a warning to the world",
+    "link": "https://www.japantimes.co.jp/commentary/2026/10/23/world/australias-energy-transition/",
+    "source": "JapanTimes"
   }
 ]
