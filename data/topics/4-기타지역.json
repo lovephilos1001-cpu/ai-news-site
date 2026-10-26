@@ -1,13 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/11 13:26",
-    "headline": "[속보 10/11 13:26] Twelve killed and 300 injured in attack on airport in Saudi capital Riyadh",
-    "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
-    "source": "BBC"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/11 21:56",
     "headline": "[속보 10/11 21:56] Saudi Arabia vows response over Houthi ‘war crime’ attack on Riyadh airport",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/saudi-arabia-vows-response-over-houthi-war-crime-attack-on-riyadh-airport?traffic_source=rss",
@@ -1398,5 +1391,12 @@
     "headline": "[속보 10/26 14:56] Saudi coalition intercepts missile as Houthis claim new attack on Riyadh airport",
     "link": "https://www.scmp.com/news/world/middle-east/article/3372131/saudi-coalition-intercepts-missile-houthis-claim-new-attack-riyadh-airport",
     "source": "SCMP"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/26 16:11",
+    "headline": "[속보 10/26 16:11] Saudi-led forces strike Houthi missile facilities after Riyadh airport attack",
+    "link": "https://www.japantimes.co.jp/news/2026/10/26/world/politics/houthi-saudi-arabia-riyadh-airport/",
+    "source": "JapanTimes"
   }
 ]
