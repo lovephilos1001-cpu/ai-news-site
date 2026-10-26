@@ -1,20 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/11 10:41",
-    "headline": "[속보 10/11 10:41] Twelve killed, more than 300 injured in Riyadh airport attack",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/11-10-reported-latest-attack-on-riyadh-king-khalid-airport-houthis?traffic_source=rss",
-    "source": "AlJazeera"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/11 11:41",
-    "headline": "[속보 10/11 11:41] World condemns deadly Houthi attack on Saudi Arabia’s Riyadh airport",
-    "link": "https://www.aljazeera.com/news/2026/10/11/world-condemns-deadly-houthi-attack-on-saudi-arabias-riyadh-airport?traffic_source=rss",
-    "source": "AlJazeera"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/11 13:26",
     "headline": "[속보 10/11 13:26] Twelve killed and 300 injured in attack on airport in Saudi capital Riyadh",
     "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
@@ -1398,5 +1384,19 @@
     "headline": "[속보 10/26 13:56] Attackers kill nurse, severely injure health worker responding to Ebola case in eastern Congo",
     "link": "https://www.koreaherald.com/article/10914838",
     "source": "KoreaHerald"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/26 14:11",
+    "headline": "[속보 10/26 14:11] SoftBank’s Son plans $50 billion Malaysia tech outlay, PM Anwar Ibrahim says",
+    "link": "https://www.japantimes.co.jp/business/2026/10/26/softbank-malaysia-data-center-investments/",
+    "source": "JapanTimes"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/26 14:56",
+    "headline": "[속보 10/26 14:56] Saudi coalition intercepts missile as Houthis claim new attack on Riyadh airport",
+    "link": "https://www.scmp.com/news/world/middle-east/article/3372131/saudi-coalition-intercepts-missile-houthis-claim-new-attack-riyadh-airport",
+    "source": "SCMP"
   }
 ]
