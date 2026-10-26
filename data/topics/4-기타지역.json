@@ -1,13 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/11 22:00",
-    "headline": "Saudi Arabia vows response over Houthi ‘war crime’ attack on Riyadh airport",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/saudi-arabia-vows-response-over-houthi-war-crime-attack-on-riyadh-airport?traffic_source=rss",
-    "source": "AlJazeera"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/12 01:56",
     "headline": "[속보 10/12 01:56] Saudi capital airport hit by second strike in two days",
     "link": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
@@ -1398,5 +1391,12 @@
     "headline": "[속보 10/26 17:26] Japan companies to compensate customers after major cyberattacks",
     "link": "https://www.scmp.com/news/asia/east-asia/article/3372105/japan-companies-compensate-customers-after-major-cyberattacks",
     "source": "SCMP"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/26 19:56",
+    "headline": "[속보 10/26 19:56] Saudi-led coalition says it struck Houthi missile facilities",
+    "link": "https://www.aljazeera.com/news/2026/10/26/saudi-led-coalition-says-it-struck-houthi-missile-facilities?traffic_source=rss",
+    "source": "AlJazeera"
   }
 ]
