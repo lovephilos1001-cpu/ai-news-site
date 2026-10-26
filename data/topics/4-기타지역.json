@@ -2,13 +2,6 @@
   {
     "topic_name": "기타 지역",
     "date_kst": "10/12 05:30",
-    "headline": "Saudi health minister visits survivors of deadly Riyadh airport attack",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/saudi-health-minister-visits-survivors-of-deadly-riyadh-airport-attack?traffic_source=rss",
-    "source": "AlJazeera"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/12 05:30",
     "headline": "Riyadh airport hit by fresh Houthi strike day after deadly attack killed 12",
     "link": "https://www.scmp.com/news/world/middle-east/article/3370513/riyadh-airport-hit-fresh-houthi-strike-day-after-deadly-attack-killed-12?utm_source=rss_feed",
     "source": "SCMP"
@@ -1397,6 +1390,13 @@
     "date_kst": "10/27 00:56",
     "headline": "[속보 10/27 00:56] Egyptian parliament authorises military aid for Saudi Arabia",
     "link": "https://www.aljazeera.com/news/2026/10/26/egyptian-parliament-authorises-military-aid-for-saudi-arabia?traffic_source=rss",
+    "source": "AlJazeera"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/27 08:50",
+    "headline": "[속보 10/27 08:50] Jordan arrests three suspects over deadly church attack",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/jordan-arrests-three-suspects-over-deadly-church-attack?traffic_source=rss",
     "source": "AlJazeera"
   }
 ]
