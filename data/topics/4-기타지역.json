@@ -1,27 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/11 08:56",
-    "headline": "[속보 10/11 08:56] Attack on Riyadh airport killed 12 people and wounded over 300 more, Saudi authorities say",
-    "link": "https://www.npr.org/2026/10/10/g-s1-147682/attack-on-riyadh-airport-killed-12-people-and-wounded-over-300-more-saudi-authorities-say",
-    "source": "NPR"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/11 09:41",
-    "headline": "[속보 10/11 09:41] Houthi attack on Saudi airport kills 12, over 300 wounded",
-    "link": "https://www.japantimes.co.jp/news/2026/10/11/world/houthi-attack-saudi-airport/",
-    "source": "JapanTimes"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/11 10:11",
-    "headline": "[속보 10/11 10:11] Houthi attack on Saudi airport kills 12, injures hundreds",
-    "link": "https://www.scmp.com/news/world/middle-east/article/3370454/loud-blast-heard-riyadh-airport-airlines-cancel-more-flights?utm_source=rss_feed",
-    "source": "SCMP"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/11 10:41",
     "headline": "[속보 10/11 10:41] Twelve killed, more than 300 injured in Riyadh airport attack",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/11-10-reported-latest-attack-on-riyadh-king-khalid-airport-houthis?traffic_source=rss",
@@ -1398,5 +1377,26 @@
     "headline": "[속보 10/25 21:56] Saudi Arabia intercepts missiles and drones as fighting with Houthis rages",
     "link": "https://www.aljazeera.com/news/2026/10/25/saudi-arabia-intercepts-missiles-and-drones-as-fighting-with-houthis-rages?traffic_source=rss",
     "source": "AlJazeera"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/26 13:26",
+    "headline": "[속보 10/26 13:26] Houthis claim attack on Riyadh airport hours after flights resume",
+    "link": "https://www.japantimes.co.jp/news/2026/10/26/world/politics/houthi-saudi-arabia-riyadh-airport/",
+    "source": "JapanTimes"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/26 13:56",
+    "headline": "[속보 10/26 13:56] Attackers kill nurse, injure health worker responding to DRC Ebola case",
+    "link": "https://www.aljazeera.com/news/2026/10/26/attackers-kill-nurse-injure-health-worker-responding-to-drc-ebola-case?traffic_source=rss",
+    "source": "AlJazeera"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/26 13:56",
+    "headline": "[속보 10/26 13:56] Attackers kill nurse, severely injure health worker responding to Ebola case in eastern Congo",
+    "link": "https://www.koreaherald.com/article/10914838",
+    "source": "KoreaHerald"
   }
 ]
