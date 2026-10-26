@@ -1,34 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/12 01:56",
-    "headline": "[속보 10/12 01:56] Saudi capital airport hit by second strike in two days",
-    "link": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/12 02:56",
-    "headline": "[속보 10/12 02:56] Saudi capital airport hit by second Houthi strike in two days",
-    "link": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/12 02:56",
-    "headline": "[속보 10/12 02:56] Riyadh airport hit by fresh Houthi strike day after deadly attack killed 12",
-    "link": "https://www.scmp.com/news/world/middle-east/article/3370513/riyadh-airport-hit-fresh-houthi-strike-day-after-deadly-attack-killed-12?utm_source=rss_feed",
-    "source": "SCMP"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/12 05:26",
-    "headline": "[속보 10/12 05:26] Saudi health minister visits survivors of deadly Riyadh airport attack",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/saudi-health-minister-visits-survivors-of-deadly-riyadh-airport-attack?traffic_source=rss",
-    "source": "AlJazeera"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/12 05:30",
     "headline": "Saudi capital airport hit by second Houthi strike in two days",
     "link": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
@@ -1398,5 +1370,33 @@
     "headline": "[속보 10/26 19:56] Saudi-led coalition says it struck Houthi missile facilities",
     "link": "https://www.aljazeera.com/news/2026/10/26/saudi-led-coalition-says-it-struck-houthi-missile-facilities?traffic_source=rss",
     "source": "AlJazeera"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/26 22:11",
+    "headline": "[속보 10/26 22:11] Jordan arrests three suspects over church attack in dawn raid: What to know",
+    "link": "https://www.aljazeera.com/news/2026/10/26/jordan-arrests-three-suspects-over-church-attack-in-dawn-raid-what-to-know?traffic_source=rss",
+    "source": "AlJazeera"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/26 22:11",
+    "headline": "[속보 10/26 22:11] Jordan arrests 3 relatives over deadly church attack after shoot-out",
+    "link": "https://www.scmp.com/news/world/middle-east/article/3372198/jordan-arrests-3-relatives-over-deadly-church-attack-after-shoot-out",
+    "source": "SCMP"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/26 22:56",
+    "headline": "[속보 10/26 22:56] Chris Brown given suspended sentence over bottle attack at London club",
+    "link": "https://www.theguardian.com/music/2026/oct/26/chris-brown-suspended-sentence-bottle-attack-london-club",
+    "source": "Guardian"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/26 22:56",
+    "headline": "[속보 10/26 22:56] Chris Brown given suspended eight-month prison sentence over nightclub attack",
+    "link": "https://www.bbc.co.uk/news/articles/cq3dje4g4d5jo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC"
   }
 ]
