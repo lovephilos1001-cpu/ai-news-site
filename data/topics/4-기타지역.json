@@ -1,20 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/11 21:56",
-    "headline": "[속보 10/11 21:56] Saudi Arabia vows response over Houthi ‘war crime’ attack on Riyadh airport",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/saudi-arabia-vows-response-over-houthi-war-crime-attack-on-riyadh-airport?traffic_source=rss",
-    "source": "AlJazeera"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/11 22:00",
-    "headline": "Attack on Riyadh airport killed 12 people and wounded over 300 more, Saudi authorities say",
-    "link": "https://www.npr.org/2026/10/10/g-s1-147682/attack-on-riyadh-airport-killed-12-people-and-wounded-over-300-more-saudi-authorities-say",
-    "source": "NPR"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/11 22:00",
     "headline": "Saudi Arabia vows response over Houthi ‘war crime’ attack on Riyadh airport",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/saudi-arabia-vows-response-over-houthi-war-crime-attack-on-riyadh-airport?traffic_source=rss",
@@ -1398,5 +1384,19 @@
     "headline": "[속보 10/26 16:11] Saudi-led forces strike Houthi missile facilities after Riyadh airport attack",
     "link": "https://www.japantimes.co.jp/news/2026/10/26/world/politics/houthi-saudi-arabia-riyadh-airport/",
     "source": "JapanTimes"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/26 17:11",
+    "headline": "[속보 10/26 17:11] Saudi-led coalition hits Houthi missile sites after Riyadh targeted again",
+    "link": "https://www.scmp.com/news/world/middle-east/article/3372131/saudi-coalition-intercepts-missile-houthis-claim-new-attack-riyadh-airport",
+    "source": "SCMP"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/26 17:26",
+    "headline": "[속보 10/26 17:26] Japan companies to compensate customers after major cyberattacks",
+    "link": "https://www.scmp.com/news/asia/east-asia/article/3372105/japan-companies-compensate-customers-after-major-cyberattacks",
+    "source": "SCMP"
   }
 ]
