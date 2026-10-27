@@ -1,20 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/12 21:26",
-    "headline": "[속보 10/12 21:26] Saudi Arabia vows resilience as Houthi strikes hit Riyadh airport",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/12/saudi-arabia-vows-resilience-as-houthi-strikes-hit-riyadh-airport?traffic_source=rss",
-    "source": "AlJazeera"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/12 21:56",
-    "headline": "[속보 10/12 21:56] Nobel economics prize awarded to Robert Hall and Michael ⁠Woodford",
-    "link": "https://www.aljazeera.com/news/2026/10/12/nobel-economics-prize-awarded-to-robert-hall-and-michael-%e2%81%a0woodford?traffic_source=rss",
-    "source": "AlJazeera"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/12 22:00",
     "headline": "Nobel prize in economics awarded to Robert E. Hall and Michael Woodford",
     "link": "https://www.cnbc.com/2026/10/12/nobel-economics-prize-winner-woodford-hall.html",
@@ -1397,6 +1383,20 @@
     "date_kst": "10/28 04:26",
     "headline": "[속보 10/28 04:26] Deadly tornado strikes construction site in Turkiye",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/deadly-tornado-strikes-construction-site-in-turkiye?traffic_source=rss",
+    "source": "AlJazeera"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/28 06:11",
+    "headline": "[속보 10/28 06:11] US military says strike on alleged drug vessel in eastern Pacific kills five people",
+    "link": "https://www.theguardian.com/us-news/2026/oct/27/us-military-strike-vessel-eastern-pacific",
+    "source": "Guardian"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/28 06:11",
+    "headline": "[속보 10/28 06:11] US says it killed five people in strike on alleged drug boat",
+    "link": "https://www.aljazeera.com/news/2026/10/27/us-says-it-killed-five-people-in-strike-on-alleged-drug-boat?traffic_source=rss",
     "source": "AlJazeera"
   }
 ]
