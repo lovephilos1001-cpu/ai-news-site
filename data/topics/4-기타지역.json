@@ -1,20 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/12 11:26",
-    "headline": "[속보 10/12 11:26] Riyadh airport hit by fresh Houthi strike day after deadly attack",
-    "link": "https://www.japantimes.co.jp/news/2026/10/12/world/riyadh-airport-houthi-attack/",
-    "source": "JapanTimes"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/12 11:41",
-    "headline": "[속보 10/12 11:41] Saudi Arabia says 1 dead, 11 injured in latest attack on Riyadh airport",
-    "link": "https://www.aljazeera.com/news/2026/10/12/saudi-arabia-says-1-dead-11-injured-in-latest-attack-on-riyadh-airport?traffic_source=rss",
-    "source": "AlJazeera"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/12 15:11",
     "headline": "[속보 10/12 15:11] Countries warn against travel to Saudi Arabia following Houthi attacks",
     "link": "https://www.aljazeera.com/economy/2026/10/12/countries-warn-against-travel-to-saudi-arabia-following-houthi-attacks?traffic_source=rss",
@@ -1398,5 +1384,19 @@
     "headline": "[속보 10/27 10:41] Kane crowned Ballon d’Or winner as Putellas wins women’s award",
     "link": "https://www.japantimes.co.jp/sports/2026/10/27/soccer/ballon-kane-putellas/",
     "source": "JapanTimes"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/27 12:11",
+    "headline": "[속보 10/27 12:11] Jordan says 'terrorists' killed in Syria in retaliatory strike over church attack",
+    "link": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/27 12:41",
+    "headline": "[속보 10/27 12:41] Jordan carries out deadly strike in Syria in retaliation for church attack",
+    "link": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC"
   }
 ]
