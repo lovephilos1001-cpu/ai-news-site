@@ -1,13 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/12 17:56",
-    "headline": "[속보 10/12 17:56] Deadly Houthi attacks on Saudi Arabia raise stakes for US",
-    "link": "https://www.npr.org/2026/10/12/nx-s1-5998041/deadly-houthi-attacks-on-saudi-arabia-raise-stakes-for-us",
-    "source": "NPR"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/12 20:31",
     "headline": "[속보 10/12 20:31] Nobel prize in economics awarded to Robert E. Hall and Michael Woodford",
     "link": "https://www.cnbc.com/2026/10/12/nobel-economics-prize-winner-woodford-hall.html",
@@ -1398,5 +1391,12 @@
     "headline": "[속보 10/27 17:41] IEA Warns of Dangerous Concentration in Global Clean Energy Supply Chains",
     "link": "https://oilprice.com/Latest-Energy-News/World-News/IEA-Warns-of-Dangerous-Concentration-in-Global-Clean-Energy-Supply-Chains.html",
     "source": "OilPrice"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/27 19:18",
+    "headline": "[속보 10/27 19:18] Jordan attacks militants in Syria in retaliation for church attack",
+    "link": "https://www.theguardian.com/world/2026/oct/26/jordan-attacks-militants-syria-retaliation-for-last-week-church-attack",
+    "source": "Guardian"
   }
 ]
