@@ -1,20 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/12 15:11",
-    "headline": "[속보 10/12 15:11] Countries warn against travel to Saudi Arabia following Houthi attacks",
-    "link": "https://www.aljazeera.com/economy/2026/10/12/countries-warn-against-travel-to-saudi-arabia-following-houthi-attacks?traffic_source=rss",
-    "source": "AlJazeera"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/12 16:00",
-    "headline": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
-    "link": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/12 17:26",
     "headline": "[속보 10/12 17:26] IMF chief warns of threat from AI to jobs and taxes",
     "link": "https://www.japantimes.co.jp/business/2026/10/12/imf-kristalina-georgieva-ai-warning/",
@@ -1398,5 +1384,19 @@
     "headline": "[속보 10/27 12:41] Jordan carries out deadly strike in Syria in retaliation for church attack",
     "link": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo?at_medium=RSS&at_campaign=rss",
     "source": "BBC"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/27 14:26",
+    "headline": "[속보 10/27 14:26] Jordan strikes Syria after church attack, killing at least seven people",
+    "link": "https://www.aljazeera.com/news/2026/10/26/jordan-launches-air-strikes-in-syria-in-response-to-a-fatal-church-shooting?traffic_source=rss",
+    "source": "AlJazeera"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/27 14:26",
+    "headline": "[속보 10/27 14:26] Jordan strikes targets in Syria after deadly church attack",
+    "link": "https://www.scmp.com/news/world/middle-east/article/3372253/jordan-strikes-targets-syria-after-deadly-church-attack",
+    "source": "SCMP"
   }
 ]
