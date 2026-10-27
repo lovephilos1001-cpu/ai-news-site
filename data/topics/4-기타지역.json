@@ -1,27 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/12 05:30",
-    "headline": "Riyadh airport hit by fresh Houthi strike day after deadly attack killed 12",
-    "link": "https://www.scmp.com/news/world/middle-east/article/3370513/riyadh-airport-hit-fresh-houthi-strike-day-after-deadly-attack-killed-12?utm_source=rss_feed",
-    "source": "SCMP"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/12 05:41",
-    "headline": "[속보 10/12 05:41] Zelenskyy welcomes US-announced energy ceasefire",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/zelenskyy-welcomes-us-announced-energy-ceasefire?traffic_source=rss",
-    "source": "AlJazeera"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/12 08:46",
-    "headline": "[속보 10/12 08:46] One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
-    "link": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/12 08:46",
     "headline": "[속보 10/12 08:46] Pakistani national killed in second Houthi strike on Riyadh airport",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/pakistani-national-killed-second-houthi-strike-riyadh-airport?traffic_source=rss",
@@ -1397,6 +1376,27 @@
     "date_kst": "10/27 08:50",
     "headline": "[속보 10/27 08:50] Jordan arrests three suspects over deadly church attack",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/jordan-arrests-three-suspects-over-deadly-church-attack?traffic_source=rss",
+    "source": "AlJazeera"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/27 09:26",
+    "headline": "[속보 10/27 09:26] Jordan attacks militants in Syria in retaliation for last week’s church attack",
+    "link": "https://www.theguardian.com/world/2026/oct/26/jordan-attacks-militants-syria-retaliation-for-last-week-church-attack",
+    "source": "Guardian"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/27 09:26",
+    "headline": "[속보 10/27 09:26] Jordan attacks Syria in response to Karak church attack",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/jordan-attacks-syria-in-response-to-karak-church-attack?traffic_source=rss",
+    "source": "AlJazeera"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/27 09:56",
+    "headline": "[속보 10/27 09:56] England’s Harry Kane wins Ballon d’Or, Alexia Putellas takes women’s award",
+    "link": "https://www.aljazeera.com/sports/2026/10/26/englands-harry-kane-wins-ballon-dor-alexia-putellas-takes-womens-award?traffic_source=rss",
     "source": "AlJazeera"
   }
 ]
