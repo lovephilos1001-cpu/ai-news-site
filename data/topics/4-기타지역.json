@@ -1,13 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/12 17:26",
-    "headline": "[속보 10/12 17:26] IMF chief warns of threat from AI to jobs and taxes",
-    "link": "https://www.japantimes.co.jp/business/2026/10/12/imf-kristalina-georgieva-ai-warning/",
-    "source": "JapanTimes"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/12 17:56",
     "headline": "[속보 10/12 17:56] Deadly Houthi attacks on Saudi Arabia raise stakes for US",
     "link": "https://www.npr.org/2026/10/12/nx-s1-5998041/deadly-houthi-attacks-on-saudi-arabia-raise-stakes-for-us",
@@ -1398,5 +1391,12 @@
     "headline": "[속보 10/27 14:26] Jordan strikes targets in Syria after deadly church attack",
     "link": "https://www.scmp.com/news/world/middle-east/article/3372253/jordan-strikes-targets-syria-after-deadly-church-attack",
     "source": "SCMP"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/27 17:41",
+    "headline": "[속보 10/27 17:41] IEA Warns of Dangerous Concentration in Global Clean Energy Supply Chains",
+    "link": "https://oilprice.com/Latest-Energy-News/World-News/IEA-Warns-of-Dangerous-Concentration-in-Global-Clean-Energy-Supply-Chains.html",
+    "source": "OilPrice"
   }
 ]
