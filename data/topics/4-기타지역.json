@@ -1,20 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/12 08:46",
-    "headline": "[속보 10/12 08:46] Pakistani national killed in second Houthi strike on Riyadh airport",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/pakistani-national-killed-second-houthi-strike-riyadh-airport?traffic_source=rss",
-    "source": "AlJazeera"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/12 08:46",
-    "headline": "[속보 10/12 08:46] CCTV shows moment of deadly Houthi strike on Riyadh airport",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/houthi-strike-riyadh-international-airport-cctv-footage?traffic_source=rss",
-    "source": "AlJazeera"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/12 11:26",
     "headline": "[속보 10/12 11:26] Riyadh airport hit by fresh Houthi strike day after deadly attack",
     "link": "https://www.japantimes.co.jp/news/2026/10/12/world/riyadh-airport-houthi-attack/",
@@ -1398,5 +1384,19 @@
     "headline": "[속보 10/27 09:56] England’s Harry Kane wins Ballon d’Or, Alexia Putellas takes women’s award",
     "link": "https://www.aljazeera.com/sports/2026/10/26/englands-harry-kane-wins-ballon-dor-alexia-putellas-takes-womens-award?traffic_source=rss",
     "source": "AlJazeera"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/27 10:26",
+    "headline": "[속보 10/27 10:26] Australia to host USS Colorado as first US nuclear submarine under Aukus pact",
+    "link": "https://www.scmp.com/news/asia/australasia/article/3372225/australia-host-uss-colorado-first-us-nuclear-submarine-under-aukus-pact",
+    "source": "SCMP"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/27 10:41",
+    "headline": "[속보 10/27 10:41] Kane crowned Ballon d’Or winner as Putellas wins women’s award",
+    "link": "https://www.japantimes.co.jp/sports/2026/10/27/soccer/ballon-kane-putellas/",
+    "source": "JapanTimes"
   }
 ]
