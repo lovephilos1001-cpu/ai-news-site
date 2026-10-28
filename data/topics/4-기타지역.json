@@ -2,20 +2,6 @@
   {
     "topic_name": "기타 지역",
     "date_kst": "10/12 22:00",
-    "headline": "Nobel prize in economics awarded to Robert E. Hall and Michael Woodford",
-    "link": "https://www.cnbc.com/2026/10/12/nobel-economics-prize-winner-woodford-hall.html",
-    "source": "CNBC"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/12 22:00",
-    "headline": "Nobel economics prize awarded to Robert Hall and Michael ⁠Woodford",
-    "link": "https://www.aljazeera.com/news/2026/10/12/nobel-economics-prize-awarded-to-robert-hall-and-michael-%e2%81%a0woodford?traffic_source=rss",
-    "source": "AlJazeera"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/12 22:00",
     "headline": "Saudi Arabia vows resilience as Houthi strikes hit Riyadh airport",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/12/saudi-arabia-vows-resilience-as-houthi-strikes-hit-riyadh-airport?traffic_source=rss",
     "source": "AlJazeera"
@@ -1398,5 +1384,19 @@
     "headline": "[속보 10/28 06:11] US says it killed five people in strike on alleged drug boat",
     "link": "https://www.aljazeera.com/news/2026/10/27/us-says-it-killed-five-people-in-strike-on-alleged-drug-boat?traffic_source=rss",
     "source": "AlJazeera"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/28 14:56",
+    "headline": "[속보 10/28 14:56] Oil prices rise as Houthi attacks on Saudi Arabian refinery raise supply worries",
+    "link": "https://www.cnbc.com/2026/10/28/oil-price-today-wti-brent-hormuz.html",
+    "source": "CNBC"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/28 14:56",
+    "headline": "[속보 10/28 14:56] Oil Prices Climb as Houthi Attacks Reignite Saudi Supply Fears",
+    "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Climb-as-Houthi-Attacks-Reignite-Saudi-Supply-Fears.html",
+    "source": "OilPrice"
   }
 ]
