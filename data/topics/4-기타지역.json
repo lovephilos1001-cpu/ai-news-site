@@ -1,13 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/13 01:11",
-    "headline": "[속보 10/13 01:11] Saudi Arabia faces more drone, missile attacks after Houthi’s fatal airport strikes",
-    "link": "https://www.scmp.com/news/world/middle-east/article/3370628/saudi-arabia-faces-more-drone-missile-attacks-after-houthis-fatal-airport-strikes?utm_source=rss_feed",
-    "source": "SCMP"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/13 05:30",
     "headline": "FAA warns U.S. airlines of safety risks over Saudi Arabia after attacks",
     "link": "https://www.cnbc.com/2026/10/12/faa-saudi-arabia-flight-risks.html",
@@ -1398,5 +1391,12 @@
     "headline": "[속보 10/29 04:11] Why the Shipping Industry Is Turning Its Attention to Nuclear Power",
     "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Why-the-Shipping-Industry-Is-Turning-Its-Attention-to-Nuclear-Power.html",
     "source": "OilPrice"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/29 06:41",
+    "headline": "[속보 10/29 06:41] Here are five key takeaways from the Fed rate decision and Warsh news conference",
+    "link": "https://www.cnbc.com/2026/10/28/fed-rate-decision-warsh-takeaways.html",
+    "source": "CNBC"
   }
 ]
