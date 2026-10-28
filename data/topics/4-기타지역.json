@@ -1,13 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/12 22:00",
-    "headline": "Saudi Arabia vows resilience as Houthi strikes hit Riyadh airport",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/12/saudi-arabia-vows-resilience-as-houthi-strikes-hit-riyadh-airport?traffic_source=rss",
-    "source": "AlJazeera"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/13 01:11",
     "headline": "[속보 10/13 01:11] Delta delays debut of Saudi Arabia service until March after Riyadh airport attacks",
     "link": "https://www.cnbc.com/2026/10/12/delta-riyadh-nonstop-service-delay.html",
@@ -1398,5 +1391,12 @@
     "headline": "[속보 10/28 14:56] Oil Prices Climb as Houthi Attacks Reignite Saudi Supply Fears",
     "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Climb-as-Houthi-Attacks-Reignite-Saudi-Supply-Fears.html",
     "source": "OilPrice"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/28 22:41",
+    "headline": "[속보 10/28 22:41] AI-powered cyberattacks on websites surge",
+    "link": "https://www.japantimes.co.jp/news/2026/10/28/japan/crime-legal/cyberattacks-ai-website-weaknesses/",
+    "source": "JapanTimes"
   }
 ]
