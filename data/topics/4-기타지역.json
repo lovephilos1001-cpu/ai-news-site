@@ -2,13 +2,6 @@
   {
     "topic_name": "기타 지역",
     "date_kst": "10/13 01:11",
-    "headline": "[속보 10/13 01:11] Delta delays debut of Saudi Arabia service until March after Riyadh airport attacks",
-    "link": "https://www.cnbc.com/2026/10/12/delta-riyadh-nonstop-service-delay.html",
-    "source": "CNBC"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/13 01:11",
     "headline": "[속보 10/13 01:11] Saudi Arabia faces more drone, missile attacks after Houthi’s fatal airport strikes",
     "link": "https://www.scmp.com/news/world/middle-east/article/3370628/saudi-arabia-faces-more-drone-missile-attacks-after-houthis-fatal-airport-strikes?utm_source=rss_feed",
     "source": "SCMP"
@@ -1398,5 +1391,12 @@
     "headline": "[속보 10/28 22:41] AI-powered cyberattacks on websites surge",
     "link": "https://www.japantimes.co.jp/news/2026/10/28/japan/crime-legal/cyberattacks-ai-website-weaknesses/",
     "source": "JapanTimes"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/29 04:11",
+    "headline": "[속보 10/29 04:11] Why the Shipping Industry Is Turning Its Attention to Nuclear Power",
+    "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Why-the-Shipping-Industry-Is-Turning-Its-Attention-to-Nuclear-Power.html",
+    "source": "OilPrice"
   }
 ]
