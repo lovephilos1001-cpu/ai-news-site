@@ -2,13 +2,6 @@
   {
     "topic_name": "기타 지역",
     "date_kst": "10/13 05:30",
-    "headline": "FAA warns U.S. airlines of safety risks over Saudi Arabia after attacks",
-    "link": "https://www.cnbc.com/2026/10/12/faa-saudi-arabia-flight-risks.html",
-    "source": "CNBC"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/13 05:30",
     "headline": "Delta delays debut of Saudi Arabia service until March after Riyadh airport attacks",
     "link": "https://www.cnbc.com/2026/10/12/delta-riyadh-nonstop-service-delay.html",
     "source": "CNBC"
@@ -1398,5 +1391,12 @@
     "headline": "[속보 10/29 06:41] Here are five key takeaways from the Fed rate decision and Warsh news conference",
     "link": "https://www.cnbc.com/2026/10/28/fed-rate-decision-warsh-takeaways.html",
     "source": "CNBC"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/29 10:26",
+    "headline": "[속보 10/29 10:26] S. Korea to conditionally ease diesel export restrictions amid stable crude supplies",
+    "link": "https://www.koreaherald.com/article/10918653",
+    "source": "KoreaHerald"
   }
 ]
