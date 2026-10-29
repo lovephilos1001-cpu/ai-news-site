@@ -1,13 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/13 12:26",
-    "headline": "[속보 10/13 12:26] IMF warns global economy ‘could soon test the limits of resilience’",
-    "link": "https://www.theguardian.com/business/2026/oct/13/imf-global-economy-world-economic-outlook-uk-gdp-forecast-2026",
-    "source": "Guardian"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/13 13:41",
     "headline": "[속보 10/13 13:41] Ronaldo waves Saudi-flag scarf after match interrupted by missile alert",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/12-10-clip-ronaldowears-saudi-shawl-ksa?traffic_source=rss",
@@ -1398,5 +1391,12 @@
     "headline": "[속보 10/29 15:11] N. Korea fires nearly dozen ballistic missiles after S. Korea&apos;s dialogue offer",
     "link": "https://www.koreaherald.com/article/10919164",
     "source": "KoreaHerald"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/29 17:11",
+    "headline": "[속보 10/29 17:11] El Salvador sends 2,000 troops to Haiti to rescue four missing soldiers",
+    "link": "https://www.bbc.co.uk/news/articles/ck0e075n79j5o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC"
   }
 ]
