@@ -1,13 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/13 11:41",
-    "headline": "[속보 10/13 11:41] Fridges in French supermarkets hit by cyber attack",
-    "link": "https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/13 12:26",
     "headline": "[속보 10/13 12:26] IMF warns global economy ‘could soon test the limits of resilience’",
     "link": "https://www.theguardian.com/business/2026/oct/13/imf-global-economy-world-economic-outlook-uk-gdp-forecast-2026",
@@ -1396,6 +1389,13 @@
     "topic_name": "기타 지역",
     "date_kst": "10/29 14:26",
     "headline": "[속보 10/29 14:26] N. Korea fires around dozen short-range ballistic missiles toward East Sea",
+    "link": "https://www.koreaherald.com/article/10919164",
+    "source": "KoreaHerald"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/29 15:11",
+    "headline": "[속보 10/29 15:11] N. Korea fires nearly dozen ballistic missiles after S. Korea&apos;s dialogue offer",
     "link": "https://www.koreaherald.com/article/10919164",
     "source": "KoreaHerald"
   }
