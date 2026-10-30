@@ -2,20 +2,6 @@
   {
     "topic_name": "기타 지역",
     "date_kst": "10/13 16:00",
-    "headline": "Saudi Arabia further suspends flights after latest deadly Houthi attack on airport",
-    "link": "https://www.theguardian.com/world/2026/oct/12/saudi-arabia-suspends-flights-latest-deadly-houthi-attack-airport",
-    "source": "Guardian"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/13 16:00",
-    "headline": "Delta delays debut of Saudi Arabia service until March after Riyadh airport attacks",
-    "link": "https://www.cnbc.com/2026/10/12/delta-riyadh-nonstop-service-delay.html",
-    "source": "CNBC"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/13 16:00",
     "headline": "Fridges in French supermarkets hit by cyber attack",
     "link": "https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo?at_medium=RSS&at_campaign=rss",
     "source": "BBC"
@@ -1398,5 +1384,19 @@
     "headline": "[속보 10/31 01:11] Late Canadian Army officer named Korean War hero of Nov.",
     "link": "https://www.koreaherald.com/article/10920981",
     "source": "KoreaHerald"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/31 03:56",
+    "headline": "[속보 10/31 03:56] Oman rescues 25 from burning oil tanker in Strait of Hormuz",
+    "link": "https://www.aljazeera.com/news/2026/10/30/oman-rescues-25-from-burning-oil-tanker-in-strait-of-hormuz?traffic_source=rss",
+    "source": "AlJazeera"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/31 03:56",
+    "headline": "[속보 10/31 03:56] Brent Hits $117 as Tanker Catches Fire in Strait of Hormuz",
+    "link": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Hits-117-as-Tanker-Catches-Fire-in-Strait-of-Hormuz.html",
+    "source": "OilPrice"
   }
 ]
