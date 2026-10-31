@@ -10,6 +10,7 @@
 구조화 데이터(점수·분류 등 원본 JSON)는 https://marketbriefwire.com/data/index.json 에 목록이 있습니다.
 
 ## 최근 브리핑
+- [[11/01 05:30] “AI·반도체부터 해상풍력까지”…전남광주 과학기술계, 통합특별시 미래 청사진 제시 - 전자신문](https://marketbriefwire.com/20261031-2032.html) — 11/01 05:30
 - [[10/31 22:40] Intel’s Q3 Results Show Supply Chain Disruptions and PC Plunge](https://marketbriefwire.com/20261031-1342.html) — 10/31 22:40
 - [[10/31 22:36] 샘 올트먼, 삼성전자·SK하이닉스 동시 접촉…HBM 공급 확대될까, AI 반도체 전망은 - 톱스타뉴스](https://marketbriefwire.com/20261031-1338.html) — 10/31 22:36
 - [[10/31 22:07] 샘 올트먼, 삼성전자·SK하이닉스 동시 접촉…HBM 공급 확대될까, AI 반도체 전망은 - 톱스타뉴스](https://marketbriefwire.com/20261031-1309.html) — 10/31 22:07
@@ -29,4 +30,3 @@
 - [[10/08 22:00] Hyper-NA EUV: The Next Extension Beyond High NA Lithography (Carl Zeiss, ASML)](https://marketbriefwire.com/20261008-1301.html) — 10/08 22:00
 - [[10/08 16:00] Hyper-NA EUV: The Next Extension Beyond High NA Lithography (Carl Zeiss, ASML)](https://marketbriefwire.com/20261008-0701.html) — 10/08 16:00
 - [[10/08 05:30] Hyper-NA EUV: The Next Extension Beyond High NA Lithography (Carl Zeiss, ASML)](https://marketbriefwire.com/20261007-2031.html) — 10/08 05:30
-- [[10/07 22:00] 안민석 "경기남부 'AI·반도체 교육 메카'로 조성하겠다" - 연합뉴스](https://marketbriefwire.com/20261007-1301.html) — 10/07 22:00
