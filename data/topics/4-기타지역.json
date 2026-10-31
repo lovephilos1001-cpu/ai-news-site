@@ -2,13 +2,6 @@
   {
     "topic_name": "기타 지역",
     "date_kst": "10/13 16:00",
-    "headline": "Fridges in French supermarkets hit by cyber attack",
-    "link": "https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/13 16:00",
     "headline": "Hundreds of supermarkets in France hit by ‘unprecedented’ cyberattack",
     "link": "https://www.aljazeera.com/news/2026/10/13/unprecedented-cyberattack-hits-french-supermarkets-causing-food-losses?traffic_source=rss",
     "source": "AlJazeera"
@@ -1398,5 +1391,12 @@
     "headline": "[속보 10/31 03:56] Brent Hits $117 as Tanker Catches Fire in Strait of Hormuz",
     "link": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Hits-117-as-Tanker-Catches-Fire-in-Strait-of-Hormuz.html",
     "source": "OilPrice"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "10/31 12:11",
+    "headline": "[속보 10/31 12:11] Hundreds evacuated from Melania-brokered ceasefire town of Oleshky",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/hundreds-evacuated-from-melania-brokered-ceasefire-town-of-oleshky?traffic_source=rss",
+    "source": "AlJazeera"
   }
 ]
