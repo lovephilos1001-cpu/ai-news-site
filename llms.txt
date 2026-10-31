@@ -10,6 +10,7 @@
 구조화 데이터(점수·분류 등 원본 JSON)는 https://marketbriefwire.com/data/index.json 에 목록이 있습니다.
 
 ## 최근 브리핑
+- [[10/31 22:40] Intel’s Q3 Results Show Supply Chain Disruptions and PC Plunge](https://marketbriefwire.com/20261031-1342.html) — 10/31 22:40
 - [[10/31 22:36] 샘 올트먼, 삼성전자·SK하이닉스 동시 접촉…HBM 공급 확대될까, AI 반도체 전망은 - 톱스타뉴스](https://marketbriefwire.com/20261031-1338.html) — 10/31 22:36
 - [[10/31 22:07] 샘 올트먼, 삼성전자·SK하이닉스 동시 접촉…HBM 공급 확대될까, AI 반도체 전망은 - 톱스타뉴스](https://marketbriefwire.com/20261031-1309.html) — 10/31 22:07
 - [[10/13 16:00] Applied Materials Bets $5B on a New Model for Chip Innovation](https://marketbriefwire.com/20261013-0701.html) — 10/13 16:00
@@ -29,4 +30,3 @@
 - [[10/08 16:00] Hyper-NA EUV: The Next Extension Beyond High NA Lithography (Carl Zeiss, ASML)](https://marketbriefwire.com/20261008-0701.html) — 10/08 16:00
 - [[10/08 05:30] Hyper-NA EUV: The Next Extension Beyond High NA Lithography (Carl Zeiss, ASML)](https://marketbriefwire.com/20261007-2031.html) — 10/08 05:30
 - [[10/07 22:00] 안민석 "경기남부 'AI·반도체 교육 메카'로 조성하겠다" - 연합뉴스](https://marketbriefwire.com/20261007-1301.html) — 10/07 22:00
-- [[10/07 16:00] 리사 수, 한국 AI반도체 14곳과 손잡았다…글로벌 AI인프라 공략 - 연합뉴스](https://marketbriefwire.com/20261007-0701.html) — 10/07 16:00
