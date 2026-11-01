@@ -1,20 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/14 04:41",
-    "headline": "[속보 10/14 04:41] Saudi Arabia Plans Massive Expansion of Oil Pipeline to Bypass Hormuz",
-    "link": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Arabia-Plans-Massive-Expansion-of-Oil-Pipeline-to-Bypass-Hormuz.html",
-    "source": "OilPrice"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/14 05:56",
-    "headline": "[속보 10/14 05:56] Funeral for Egyptian flight attendant killed in Houthi attack on Riyadh",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/funeral-for-egyptian-flight-attendant-killed-in-houthi-attack-on-riyadh?traffic_source=rss",
-    "source": "AlJazeera"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/14 10:41",
     "headline": "[속보 10/14 10:41] US fines Bank of America $1.2bn for money laundering, sanctions violations",
     "link": "https://www.aljazeera.com/news/2026/10/14/us-fines-bank-of-america-1-2bn-for-money-laundering-sanctions-violations?traffic_source=rss",
@@ -1398,5 +1384,19 @@
     "headline": "[속보 11/02 04:41] France opens ‘attempted murder’ probe over petrol bomb attacks on security forces",
     "link": "https://www.scmp.com/news/world/europe/article/3372907/france-opens-attempted-murder-probe-over-petrol-bomb-attacks-security-forces",
     "source": "SCMP"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/02 05:30",
+    "headline": "Attempted murder probe after petrol bomb thrown at French riot police",
+    "link": "https://www.theguardian.com/world/2026/nov/01/petrol-bomb-thrown-at-french-riot-police",
+    "source": "Guardian"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/02 05:30",
+    "headline": "France opens ‘attempted murder’ probe into petrol bomb attacks on police",
+    "link": "https://www.aljazeera.com/news/2026/11/1/france-opens-attempted-murder-probe-into-molotov-attacks-on-police?traffic_source=rss",
+    "source": "AlJazeera"
   }
 ]
