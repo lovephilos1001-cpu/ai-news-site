@@ -1,27 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/13 20:26",
-    "headline": "[속보 10/13 20:26] Japan, US review military liberty policies after Okinawa killing",
-    "link": "https://www.scmp.com/news/asia/east-asia/article/3370725/japan-us-review-military-liberty-policies-after-okinawa-killing?utm_source=rss_feed",
-    "source": "SCMP"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/13 22:11",
-    "headline": "[속보 10/13 22:11] Deadly Houthi attacks in Yemen’s Taiz as government forces advance in Marib",
-    "link": "https://www.aljazeera.com/news/2026/10/13/deadly-houthi-attacks-in-yemens-taiz-as-government-forces-advance-in-marib?traffic_source=rss",
-    "source": "AlJazeera"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/13 22:11",
-    "headline": "[속보 10/13 22:11] Huawei, once hobbled by US sanctions, passes 100 million Kirin chip milestone",
-    "link": "https://www.scmp.com/tech/big-tech/article/3370766/huawei-once-hobbled-us-sanctions-passes-100-million-kirin-chip-milestone?utm_source=rss_feed",
-    "source": "SCMP"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/14 04:41",
     "headline": "[속보 10/14 04:41] Saudi Arabia Plans Massive Expansion of Oil Pipeline to Bypass Hormuz",
     "link": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Arabia-Plans-Massive-Expansion-of-Oil-Pipeline-to-Bypass-Hormuz.html",
@@ -1398,5 +1377,26 @@
     "headline": "Ethiopian PM puts ministers through military training",
     "link": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&at_campaign=rss",
     "source": "BBC"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/02 04:41",
+    "headline": "[속보 11/02 04:41] Attempted murder probe after petrol bomb thrown at French riot police",
+    "link": "https://www.theguardian.com/world/2026/nov/01/petrol-bomb-thrown-at-french-riot-police",
+    "source": "Guardian"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/02 04:41",
+    "headline": "[속보 11/02 04:41] France opens ‘attempted murder’ probe into petrol bomb attacks on police",
+    "link": "https://www.aljazeera.com/news/2026/11/1/france-opens-attempted-murder-probe-into-molotov-attacks-on-police?traffic_source=rss",
+    "source": "AlJazeera"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/02 04:41",
+    "headline": "[속보 11/02 04:41] France opens ‘attempted murder’ probe over petrol bomb attacks on security forces",
+    "link": "https://www.scmp.com/news/world/europe/article/3372907/france-opens-attempted-murder-probe-over-petrol-bomb-attacks-security-forces",
+    "source": "SCMP"
   }
 ]
