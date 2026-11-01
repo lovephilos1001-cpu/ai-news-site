@@ -2,13 +2,6 @@
   {
     "topic_name": "기타 지역",
     "date_kst": "10/13 20:26",
-    "headline": "[속보 10/13 20:26] Japan and U.S. review troops’ off-duty rules after Okinawa killing",
-    "link": "https://www.japantimes.co.jp/news/2026/10/13/japan/crime-legal/us-japan-okinawa-troop-rules-review/",
-    "source": "JapanTimes"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/13 20:26",
     "headline": "[속보 10/13 20:26] Japan, US review military liberty policies after Okinawa killing",
     "link": "https://www.scmp.com/news/asia/east-asia/article/3370725/japan-us-review-military-liberty-policies-after-okinawa-killing?utm_source=rss_feed",
     "source": "SCMP"
@@ -1398,5 +1391,12 @@
     "headline": "N. Korea tests cluster bomb mountable on tactical ballistic missiles",
     "link": "https://www.koreaherald.com/article/10921603",
     "source": "KoreaHerald"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/01 22:00",
+    "headline": "Ethiopian PM puts ministers through military training",
+    "link": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC"
   }
 ]
