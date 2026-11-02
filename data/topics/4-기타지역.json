@@ -2,13 +2,6 @@
   {
     "topic_name": "기타 지역",
     "date_kst": "10/16 03:56",
-    "headline": "[속보 10/16 03:56] Houthis target Yemen’s presidential palace in Aden with missiles",
-    "link": "https://www.aljazeera.com/news/2026/10/15/houthis-target-yemens-presidential-palace-in-aden-with-missiles?traffic_source=rss",
-    "source": "AlJazeera"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/16 03:56",
     "headline": "[속보 10/16 03:56] Houthis launch deadly attack on presidential palace in Yemen’s Aden",
     "link": "https://www.scmp.com/news/world/middle-east/article/3371065/houthis-launch-deadly-attack-presidential-palace-yemens-aden?utm_source=rss_feed",
     "source": "SCMP"
@@ -1398,5 +1391,12 @@
     "headline": "[속보 11/02 17:26] Award‑winning Australian children’s author Craig Silvey jailed over child exploitation material",
     "link": "https://www.theguardian.com/australia-news/2026/nov/02/australian-author-craig-silvey-jailed-child-exploitation-material-ntwnfb",
     "source": "Guardian"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/02 18:11",
+    "headline": "[속보 11/02 18:11] Sydney deploys heavily armed police unit after Bondi attack",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/sydney-deploys-heavily-armed-police-unit-after-bondi-attack?traffic_source=rss",
+    "source": "AlJazeera"
   }
 ]

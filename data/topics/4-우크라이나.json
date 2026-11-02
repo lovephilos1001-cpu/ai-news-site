@@ -929,5 +929,13 @@
     "headline": "Russia, Ukraine air raid alert apps hit by cyberattacks after truce ends",
     "link": "https://www.aljazeera.com/news/2026/11/2/ukraine-blames-russia-after-air-alert-app-sends-out-false-warnings?traffic_source=rss",
     "source": "AlJazeera"
+  },
+  {
+    "topic_name": "우크라이나",
+    "date_kst": "2026-11-02 19:36",
+    "headline": "[TEST] Ukraine reports fresh strikes near border",
+    "link": "https://example.com/1",
+    "source": "Guardian",
+    "comment": "[테스트] 또 긴장 고조되네 ㄷㄷㄷ"
   }
 ]
