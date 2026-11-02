@@ -1,27 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/14 21:26",
-    "headline": "[속보 10/14 21:26] Saudi Aramco Headquarters Hit as Houthi Attacks Escalate",
-    "link": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Aramco-Headquarters-Hit-as-Houthi-Attacks-Escalate.html",
-    "source": "OilPrice"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/14 22:56",
-    "headline": "[속보 10/14 22:56] Ukrainian accused of Nord Stream pipeline sabotage goes on trial in Germany",
-    "link": "https://www.scmp.com/news/world/russia-central-asia/article/3370911/ukrainian-accused-nord-stream-pipeline-sabotage-goes-trial-germany?utm_source=rss_feed",
-    "source": "SCMP"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/15 01:11",
-    "headline": "[속보 10/15 01:11] Ronaldo’s among three Saudi Arabia games postponed due to Houthi attacks",
-    "link": "https://www.aljazeera.com/sports/2026/10/14/ronaldos-among-three-saudi-arabia-games-postponed-due-to-houthi-attacks?traffic_source=rss",
-    "source": "AlJazeera"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/15 01:26",
     "headline": "[속보 10/15 01:26] Container ship hit by projectile sinks in Strait of Hormuz, Singapore says",
     "link": "https://www.bbc.co.uk/news/articles/crkg7q97z078o?at_medium=RSS&at_campaign=rss",
@@ -1398,5 +1377,26 @@
     "headline": "[속보 11/02 13:26] Police armed with assault rifles patrol Sydney in Australian first after Bondi attack",
     "link": "https://www.scmp.com/news/asia/australasia/article/3372932/police-armed-assault-rifles-patrol-sydney-australian-first-after-bondi-attack",
     "source": "SCMP"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/02 14:56",
+    "headline": "[속보 11/02 14:56] N. Korea slams South Korea-US nuclear drills, vows to accelerate nuclear buildup",
+    "link": "https://www.koreaherald.com/article/10922910",
+    "source": "KoreaHerald"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/02 14:56",
+    "headline": "[속보 11/02 14:56] Daewoo E&C seeks fresh talks with KHNP over Czech nuclear deal",
+    "link": "https://www.koreaherald.com/article/10922861",
+    "source": "KoreaHerald"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/02 14:56",
+    "headline": "[속보 11/02 14:56] Daewoo E&C seeks gov't mediation in dispute over Czech nuclear project",
+    "link": "https://en.yna.co.kr/view/AEN20261102007200320",
+    "source": "YonhapEN"
   }
 ]
