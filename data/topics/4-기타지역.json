@@ -1,27 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/15 01:26",
-    "headline": "[속보 10/15 01:26] Container ship hit by projectile sinks in Strait of Hormuz, Singapore says",
-    "link": "https://www.bbc.co.uk/news/articles/crkg7q97z078o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/15 08:54",
-    "headline": "[속보 10/15 08:54] Student protesters attack government buildings in Albania",
-    "link": "https://www.bbc.co.uk/news/articles/cq80zk5k2ep4o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/15 17:11",
-    "headline": "[속보 10/15 17:11] IMF Warns of Worldwide Fallout as Attacks on Saudi Arabia Escalate",
-    "link": "https://oilprice.com/Latest-Energy-News/World-News/IMF-Warns-of-Worldwide-Fallout-as-Attacks-on-Saudi-Arabia-Escalate.html",
-    "source": "OilPrice"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/15 22:11",
     "headline": "[속보 10/15 22:11] Illinois man arrested over alleged plot to attack Hindu place of worship, police say",
     "link": "https://www.theguardian.com/us-news/2026/oct/15/man-arrested-chicago-suburb-plot-mass-shooting",
@@ -1398,5 +1377,26 @@
     "headline": "[속보 11/02 14:56] Daewoo E&C seeks gov't mediation in dispute over Czech nuclear project",
     "link": "https://en.yna.co.kr/view/AEN20261102007200320",
     "source": "YonhapEN"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/02 16:00",
+    "headline": "Attempted murder probe after petrol bomb thrown at French riot police",
+    "link": "https://www.theguardian.com/world/2026/nov/01/petrol-bomb-thrown-at-french-riot-police",
+    "source": "Guardian"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/02 16:00",
+    "headline": "France launches attempted murder investigation after petrol bomb thrown at police",
+    "link": "https://www.bbc.co.uk/news/articles/cwvg05z184j0o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/02 16:00",
+    "headline": "Armed police start patrols in Sydney after Bondi Beach attack",
+    "link": "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro?at_medium=RSS&at_campaign=rss",
+    "source": "BBC"
   }
 ]
