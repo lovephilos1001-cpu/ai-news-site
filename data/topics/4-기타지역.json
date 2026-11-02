@@ -1,20 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/14 15:26",
-    "headline": "[속보 10/14 15:26] Ukrainian soldier to go on trial over sabotage of Nord Stream gas pipelines",
-    "link": "https://www.theguardian.com/business/2026/oct/14/ukrainian-soldier-to-go-on-trial-over-sabotage-of-nord-stream-gas-pipelines",
-    "source": "Guardian"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/14 16:26",
-    "headline": "[속보 10/14 16:26] Aramco complex hit as Houthis and Saudi coalition trade strikes",
-    "link": "https://www.scmp.com/news/world/middle-east/article/3370793/aramco-facility-hit-houthis-and-saudi-coalition-exchange-attacks?utm_source=rss_feed",
-    "source": "SCMP"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/14 20:49",
     "headline": "[속보 10/14 20:49] Ukrainian soldier goes on trial over sabotage of Nord Stream gas pipelines",
     "link": "https://www.theguardian.com/business/2026/oct/14/ukrainian-soldier-to-go-on-trial-over-sabotage-of-nord-stream-gas-pipelines",
@@ -1397,6 +1383,20 @@
     "date_kst": "11/02 09:41",
     "headline": "[속보 11/02 09:41] N. Korea denounces S Korea-U.S. joint military drills, vows to bolster nuclear deterrent",
     "link": "https://en.yna.co.kr/view/AEN20261102000800315",
+    "source": "YonhapEN"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/02 10:56",
+    "headline": "[속보 11/02 10:56] S. Korea&apos;s Air Force to participate in US-led space war game for 1st time",
+    "link": "https://www.koreaherald.com/article/10922470",
+    "source": "KoreaHerald"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/02 10:56",
+    "headline": "[속보 11/02 10:56] S. Korea's Air Force to participate in U.S.-led space war game for 1st time",
+    "link": "https://en.yna.co.kr/view/AEN20261102003300315",
     "source": "YonhapEN"
   }
 ]
