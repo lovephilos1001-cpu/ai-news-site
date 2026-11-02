@@ -1,20 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/16 05:41",
-    "headline": "[속보 10/16 05:41] At least 5 killed in Houthi attack on Yemen’s presidential palace in Aden",
-    "link": "https://www.aljazeera.com/news/2026/10/15/houthis-target-yemens-presidential-palace-in-aden-with-missiles?traffic_source=rss",
-    "source": "AlJazeera"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/16 05:56",
-    "headline": "[속보 10/16 05:56] Houthi missiles strike Saudi-led forces HQ at presidential palace in Aden",
-    "link": "https://www.theguardian.com/world/2026/oct/15/houthi-missiles-strike-aden-yemen",
-    "source": "Guardian"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/16 08:52",
     "headline": "[속보 10/16 08:52] Houthi missile attack on Yemeni presidential palace kills five, minister says",
     "link": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss",
@@ -1396,6 +1382,20 @@
     "topic_name": "기타 지역",
     "date_kst": "11/02 20:41",
     "headline": "[속보 11/02 20:41] Supermarket freezers in Belgium and Sweden hit by suspected cyber-attack",
+    "link": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/02 21:11",
+    "headline": "[속보 11/02 21:11] Supermarket freezers in Belgium, Sweden and Luxembourg hit by suspected cyber-attack",
+    "link": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/02 21:56",
+    "headline": "[속보 11/02 21:56] Shop freezers in six European countries hit by suspected cyber-attack",
     "link": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
     "source": "BBC"
   }
