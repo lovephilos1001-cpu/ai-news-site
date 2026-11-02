@@ -1,27 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/18 12:11",
-    "headline": "[속보 10/18 12:11] ‘Serious incident’ at Alberta military base causes deaths and injuries, Canada officials say",
-    "link": "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright",
-    "source": "Guardian"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/18 12:11",
-    "headline": "[속보 10/18 12:11] Canada says people killed after incident and fire at Alberta military base",
-    "link": "https://www.scmp.com/news/world/united-states-canada/article/3371281/fatalities-feared-fire-erupts-canadian-military-base-alberta?utm_source=rss_feed",
-    "source": "SCMP"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/18 12:41",
-    "headline": "[속보 10/18 12:41] Deadly fire breaks out at Canada military base",
-    "link": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/18 13:56",
     "headline": "[속보 10/18 13:56] Deaths confirmed in major fire at Canada military base",
     "link": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
@@ -1402,5 +1381,29 @@
     "headline": "[속보 11/03 01:56] Shop fridges and freezers across Europe hit by fresh suspected cyber-attack",
     "link": "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack",
     "source": "Guardian"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/03 05:30",
+    "headline": "Award‑winning Australian children’s author Craig Silvey jailed over child exploitation material",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/02/australian-author-craig-silvey-jailed-child-exploitation-material-ntwnfb",
+    "source": "Guardian",
+    "comment": ""
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/03 05:30",
+    "headline": "Shop fridges and freezers across Europe hit by fresh suspected cyber-attack",
+    "link": "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack",
+    "source": "Guardian",
+    "comment": ""
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/03 05:30",
+    "headline": "Shop freezers in seven European countries hit by cyber-attack",
+    "link": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "comment": ""
   }
 ]
