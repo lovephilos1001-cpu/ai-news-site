@@ -2,13 +2,6 @@
   {
     "topic_name": "기타 지역",
     "date_kst": "10/16 03:56",
-    "headline": "[속보 10/16 03:56] Houthi missile attack on Yemeni presidential palace kills two, minister says",
-    "link": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/16 03:56",
     "headline": "[속보 10/16 03:56] Houthis target Yemen’s presidential palace in Aden with missiles",
     "link": "https://www.aljazeera.com/news/2026/10/15/houthis-target-yemens-presidential-palace-in-aden-with-missiles?traffic_source=rss",
     "source": "AlJazeera"
@@ -1398,5 +1391,12 @@
     "headline": "[속보 11/02 16:41] (LEAD) Daewoo E&C seeks gov't mediation in dispute over Czech nuclear project",
     "link": "https://en.yna.co.kr/view/AEN20261102007251320",
     "source": "YonhapEN"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/02 17:26",
+    "headline": "[속보 11/02 17:26] Award‑winning Australian children’s author Craig Silvey jailed over child exploitation material",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/02/australian-author-craig-silvey-jailed-child-exploitation-material-ntwnfb",
+    "source": "Guardian"
   }
 ]
