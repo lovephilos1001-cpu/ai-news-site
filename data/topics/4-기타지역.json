@@ -1,27 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/16 23:26",
-    "headline": "[속보 10/16 23:26] Palestinians, US journalist attacked in West Bank pogrom: What we know",
-    "link": "https://www.aljazeera.com/news/2026/10/16/palestinians-us-journalist-attacked-in-west-bank-pogrom-what-we-know?traffic_source=rss",
-    "source": "AlJazeera"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/17 19:12",
-    "headline": "[속보 10/17 19:12] Japan’s Takaichi sends offering to controversial Yasukuni war shrine",
-    "link": "https://www.scmp.com/news/asia/east-asia/article/3371219/japans-takaichi-sends-offering-controversial-yasukuni-war-shrine?utm_source=rss_feed",
-    "source": "SCMP"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/17 19:12",
-    "headline": "[속보 10/17 19:12] Seoul expresses regret over Takaichi&apos;s offering to controversial war shrine",
-    "link": "https://www.koreaherald.com/article/10905808",
-    "source": "KoreaHerald"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/18 02:11",
     "headline": "[속보 10/18 02:11] Egypt’s el-Sisi vows to defend Saudi Arabia from Houthi attacks",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/10-17-egypt-saudi-houths-clip?traffic_source=rss",
@@ -1402,5 +1381,26 @@
     "link": "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
     "comment": ""
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/02 23:26",
+    "headline": "[속보 11/02 23:26] Shop freezers in seven European countries hit by suspected cyber-attack",
+    "link": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/02 23:26",
+    "headline": "[속보 11/02 23:26] Suspected cyberattacks trigger supermarket fridge failures across Europe",
+    "link": "https://www.aljazeera.com/news/2026/11/2/freezers-in-sweden-belgium-overheat-following-possible-cyberattacks?traffic_source=rss",
+    "source": "AlJazeera"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/02 23:26",
+    "headline": "[속보 11/02 23:26] Supermarket fridges in Europe hit by new cyberattack: ‘everything is destroyed’",
+    "link": "https://www.scmp.com/news/world/europe/article/3373032/supermarket-fridges-europe-hit-new-cyberattack-everything-destroyed",
+    "source": "SCMP"
   }
 ]
