@@ -873,5 +873,19 @@
     "headline": "[속보 11/02 08:56] Longest truce of Ukraine war ends in Kherson region",
     "link": "https://www.scmp.com/news/world/russia-central-asia/article/3372908/longest-truce-ukraine-war-kherson-region-set-end",
     "source": "SCMP"
+  },
+  {
+    "topic_name": "우크라이나",
+    "date_kst": "11/02 11:11",
+    "headline": "[속보 11/02 11:11] Ukraine blames Russia after air alert app sends out false warnings",
+    "link": "https://www.aljazeera.com/news/2026/11/2/ukraine-blames-russia-after-air-alert-app-sends-out-false-warnings?traffic_source=rss",
+    "source": "AlJazeera"
+  },
+  {
+    "topic_name": "우크라이나",
+    "date_kst": "11/02 11:41",
+    "headline": "[속보 11/02 11:41] Cyber attacks hit Russia, Ukraine after truce ends",
+    "link": "https://www.japantimes.co.jp/news/2026/11/02/world/politics/cyber-attacks-russia-ukraine-truce/",
+    "source": "JapanTimes"
   }
 ]
