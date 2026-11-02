@@ -1,13 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/18 02:11",
-    "headline": "[속보 10/18 02:11] Egypt’s el-Sisi vows to defend Saudi Arabia from Houthi attacks",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/10-17-egypt-saudi-houths-clip?traffic_source=rss",
-    "source": "AlJazeera"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/18 02:41",
     "headline": "[속보 10/18 02:41] Masked settlers attack European diplomats in occupied West Bank",
     "link": "https://www.theguardian.com/world/2026/oct/17/masked-settlers-attack-european-diplomats-occupied-west-bank",
@@ -1402,5 +1395,12 @@
     "headline": "[속보 11/02 23:26] Supermarket fridges in Europe hit by new cyberattack: ‘everything is destroyed’",
     "link": "https://www.scmp.com/news/world/europe/article/3373032/supermarket-fridges-europe-hit-new-cyberattack-everything-destroyed",
     "source": "SCMP"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/03 00:26",
+    "headline": "[속보 11/03 00:26] Shop freezers in seven European countries hit by cyber-attack",
+    "link": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC"
   }
 ]
