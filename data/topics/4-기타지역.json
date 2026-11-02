@@ -1,13 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/18 02:41",
-    "headline": "[속보 10/18 02:41] Masked settlers attack European diplomats in occupied West Bank",
-    "link": "https://www.theguardian.com/world/2026/oct/17/masked-settlers-attack-european-diplomats-occupied-west-bank",
-    "source": "Guardian"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/18 12:11",
     "headline": "[속보 10/18 12:11] ‘Serious incident’ at Alberta military base causes deaths and injuries, Canada officials say",
     "link": "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright",
@@ -1402,5 +1395,12 @@
     "headline": "[속보 11/03 00:26] Shop freezers in seven European countries hit by cyber-attack",
     "link": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
     "source": "BBC"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/03 01:56",
+    "headline": "[속보 11/03 01:56] Shop fridges and freezers across Europe hit by fresh suspected cyber-attack",
+    "link": "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack",
+    "source": "Guardian"
   }
 ]
