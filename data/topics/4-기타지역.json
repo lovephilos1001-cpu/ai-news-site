@@ -1,27 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/18 13:56",
-    "headline": "[속보 10/18 13:56] Deaths confirmed in major fire at Canada military base",
-    "link": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/18 14:41",
-    "headline": "[속보 10/18 14:41] Deaths, injuries after fire at Alberta military base: Canada minister",
-    "link": "https://www.aljazeera.com/news/2026/10/18/deaths-injuries-after-fire-at-alberta-military-base-canada-minister?traffic_source=rss",
-    "source": "AlJazeera"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/18 15:56",
-    "headline": "[속보 10/18 15:56] Several dead or injured in major fire at Canada military base",
-    "link": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/18 16:56",
     "headline": "[속보 10/18 16:56] ‘Serious incident’ causes deaths, injuries at Canada military base",
     "link": "https://www.aljazeera.com/news/2026/10/18/deaths-injuries-after-fire-at-alberta-military-base-canada-minister?traffic_source=rss",
@@ -1405,5 +1384,26 @@
     "link": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
     "comment": ""
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/03 09:41",
+    "headline": "[속보 11/03 09:41] N. Korea tests &apos;dispersal warhead&apos; for cruise missiles following cluster bomb test",
+    "link": "https://www.koreaherald.com/article/10923504",
+    "source": "KoreaHerald"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/03 09:41",
+    "headline": "[속보 11/03 09:41] S. Korea, Bulgaria reaffirm economic ties, nuclear cooperation",
+    "link": "https://en.yna.co.kr/view/AEN20261103002900315",
+    "source": "YonhapEN"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/03 09:41",
+    "headline": "[속보 11/03 09:41] N. Korea tests 'dispersal warhead' for cruise missiles following cluster bomb test",
+    "link": "https://en.yna.co.kr/view/AEN20261103001100315",
+    "source": "YonhapEN"
   }
 ]
