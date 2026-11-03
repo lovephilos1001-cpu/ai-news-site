@@ -1,13 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/18 21:11",
-    "headline": "[속보 10/18 21:11] Oil facilities hit in deadly overnight attack on St Petersburg",
-    "link": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/19 00:56",
     "headline": "[속보 10/19 00:56] Multiple people killed as Canadian authorities tackle active blaze at Alberta military base",
     "link": "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright",
@@ -1405,5 +1398,12 @@
     "headline": "[속보 11/03 12:41] Man and boy arrested after allegedly attacking One Nation volunteer with bat",
     "link": "https://www.bbc.co.uk/news/articles/cwly3jd27m9xo?at_medium=RSS&at_campaign=rss",
     "source": "BBC"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/03 15:26",
+    "headline": "[속보 11/03 15:26] (LEAD) N. Korea tests 'dispersal warhead' for cruise missiles following cluster bomb test",
+    "link": "https://en.yna.co.kr/view/AEN20261103001151315",
+    "source": "YonhapEN"
   }
 ]
