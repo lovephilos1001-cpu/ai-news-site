@@ -1,41 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/19 06:26",
-    "headline": "[속보 10/19 06:26] 4 killed after high winds turn grass fire deadly at Canadian military base, report says",
-    "link": "https://www.scmp.com/news/world/united-states-canada/article/3371281/fatalities-feared-fire-erupts-canadian-military-base-alberta?utm_source=rss_feed",
-    "source": "SCMP"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/19 08:53",
-    "headline": "[속보 10/19 08:53] Major fire at Canada military base leaves four dead, dozens injured",
-    "link": "https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/19 10:32",
-    "headline": "[속보 10/19 10:32] Flydubai captain describes blocking axe blows as co-pilot attacked him",
-    "link": "https://www.theguardian.com/world/2026/oct/18/flydubai-captain-smit-machchhar-blocking-axe-blows-flight-fz1073",
-    "source": "Guardian"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/19 10:32",
-    "headline": "[속보 10/19 10:32] Captain of Flydubai plane describes blocking axe blows as co-pilot attacked",
-    "link": "https://www.japantimes.co.jp/news/2026/10/19/world/flydubai-captain-pilot-attack/",
-    "source": "JapanTimes"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/19 10:32",
-    "headline": "[속보 10/19 10:32] Grass fire at Canadian military base kills 4, injures dozens",
-    "link": "https://www.scmp.com/news/world/united-states-canada/article/3371281/fatalities-feared-fire-erupts-canadian-military-base-alberta?utm_source=rss_feed",
-    "source": "SCMP"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/19 10:41",
     "headline": "[속보 10/19 10:41] Grass fire at Canadian military base kills four and injures 39",
     "link": "https://www.japantimes.co.jp/news/2026/10/19/world/canada-military-base-fire/",
@@ -1406,5 +1371,40 @@
     "headline": "[속보 11/04 00:11] Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries",
     "link": "https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo?at_medium=RSS&at_campaign=rss",
     "source": "BBC"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/04 02:41",
+    "headline": "[속보 11/04 02:41] Seven reported bomb threats against European flights confirmed as false alarms – Europe live",
+    "link": "https://www.theguardian.com/world/live/2026/nov/03/zelenskyy-berlin-merz-europe-sweden-spain-france-belgium-poland-latest-news",
+    "source": "Guardian"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/04 02:41",
+    "headline": "[속보 11/04 02:41] Four planes flying across Europe targeted by bomb threats",
+    "link": "https://www.theguardian.com/world/2026/nov/03/four-planes-flying-across-europe-targeted-by-bomb-threats",
+    "source": "Guardian"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/04 02:41",
+    "headline": "[속보 11/04 02:41] Bomb threats target seven flights across Europe",
+    "link": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/04 02:56",
+    "headline": "[속보 11/04 02:56] Seven planes across Europe searched or diverted after ‘malicious hoax’ bomb threats",
+    "link": "https://www.theguardian.com/world/2026/nov/03/four-planes-flying-across-europe-targeted-by-bomb-threats",
+    "source": "Guardian"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/04 02:56",
+    "headline": "[속보 11/04 02:56] Food suppliers in UK hit by cyber-attacks after freezers targeted in Europe",
+    "link": "https://www.theguardian.com/technology/2026/nov/03/uk-meat-processing-firms-fridges-heat-up-cyber-attacks",
+    "source": "Guardian"
   }
 ]
