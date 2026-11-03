@@ -1,20 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/19 03:41",
-    "headline": "[속보 10/19 03:41] JERUSALEM DAILY: Settlers attack EU diplomats",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/aje-onl-nf_draft-2-yt-short-oct-18-p-daily-1-181026?traffic_source=rss",
-    "source": "AlJazeera"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/19 04:56",
-    "headline": "[속보 10/19 04:56] What we know so far about deadly fire at Canadian military base",
-    "link": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
-    "source": "BBC"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/19 06:26",
     "headline": "[속보 10/19 06:26] 4 killed after high winds turn grass fire deadly at Canadian military base, report says",
     "link": "https://www.scmp.com/news/world/united-states-canada/article/3371281/fatalities-feared-fire-erupts-canadian-military-base-alberta?utm_source=rss_feed",
@@ -1406,5 +1392,19 @@
     "headline": "[속보 11/03 23:56] UK meat processing firms’ fridges heat up after cyber-attacks in Europe",
     "link": "https://www.theguardian.com/technology/2026/nov/03/uk-meat-processing-firms-fridges-heat-up-cyber-attacks",
     "source": "Guardian"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/04 00:11",
+    "headline": "[속보 11/04 00:11] Freezers of UK meat suppliers heat up after cyber-attacks in Europe",
+    "link": "https://www.theguardian.com/technology/2026/nov/03/uk-meat-processing-firms-fridges-heat-up-cyber-attacks",
+    "source": "Guardian"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/04 00:11",
+    "headline": "[속보 11/04 00:11] Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries",
+    "link": "https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC"
   }
 ]
