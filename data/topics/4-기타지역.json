@@ -1,13 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/18 19:56",
-    "headline": "[속보 10/18 19:56] Egypt to provide ‘necessary’ support to Saudi Arabia amid Houthi attacks",
-    "link": "https://www.aljazeera.com/news/2026/10/18/egypt-to-provide-all-necessary-and-possible-support-to-saudi?traffic_source=rss",
-    "source": "AlJazeera"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/18 21:11",
     "headline": "[속보 10/18 21:11] Oil facilities hit in deadly overnight attack on St Petersburg",
     "link": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
@@ -1405,5 +1398,12 @@
     "headline": "[속보 11/03 10:56] N. Korea slams Japan's missile reinforcement, joint drills with U.S.",
     "link": "https://en.yna.co.kr/view/AEN20261103004700315",
     "source": "YonhapEN"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/03 12:41",
+    "headline": "[속보 11/03 12:41] Man and boy arrested after allegedly attacking One Nation volunteer with bat",
+    "link": "https://www.bbc.co.uk/news/articles/cwly3jd27m9xo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC"
   }
 ]
