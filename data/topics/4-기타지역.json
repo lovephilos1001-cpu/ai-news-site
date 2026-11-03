@@ -1,13 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/19 10:41",
-    "headline": "[속보 10/19 10:41] Grass fire at Canadian military base kills four and injures 39",
-    "link": "https://www.japantimes.co.jp/news/2026/10/19/world/canada-military-base-fire/",
-    "source": "JapanTimes"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/19 11:26",
     "headline": "[속보 10/19 11:26] Bomb threat forces Austrian Airlines flight from Tel Aviv to divert to Bulgaria",
     "link": "https://www.scmp.com/news/world/middle-east/article/3371337/bomb-threat-forces-austrian-airlines-flight-tel-aviv-divert-bulgaria?utm_source=rss_feed",
@@ -1406,5 +1399,12 @@
     "headline": "[속보 11/04 02:56] Food suppliers in UK hit by cyber-attacks after freezers targeted in Europe",
     "link": "https://www.theguardian.com/technology/2026/nov/03/uk-meat-processing-firms-fridges-heat-up-cyber-attacks",
     "source": "Guardian"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/04 03:11",
+    "headline": "[속보 11/04 03:11] Seven flights across Europe targeted by suspected bomb threats",
+    "link": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC"
   }
 ]
