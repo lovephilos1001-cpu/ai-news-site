@@ -1,13 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/19 02:56",
-    "headline": "[속보 10/19 02:56] Carney says 4 service members killed and dozens injured in fire at Alberta military base",
-    "link": "https://www.npr.org/2026/10/18/nx-s1-6007276/fire-alberta-deadly-canada-military-base",
-    "source": "NPR"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/19 03:41",
     "headline": "[속보 10/19 03:41] JERUSALEM DAILY: Settlers attack EU diplomats",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/aje-onl-nf_draft-2-yt-short-oct-18-p-daily-1-181026?traffic_source=rss",
@@ -1406,5 +1399,12 @@
     "headline": "[속보 11/03 22:11] Cyberattack disrupts supermarkets across Europe",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/cyberattack-disrupts-supermarkets-across-europe?traffic_source=rss",
     "source": "AlJazeera"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/03 23:56",
+    "headline": "[속보 11/03 23:56] UK meat processing firms’ fridges heat up after cyber-attacks in Europe",
+    "link": "https://www.theguardian.com/technology/2026/nov/03/uk-meat-processing-firms-fridges-heat-up-cyber-attacks",
+    "source": "Guardian"
   }
 ]
