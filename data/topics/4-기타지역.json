@@ -2,13 +2,6 @@
   {
     "topic_name": "기타 지역",
     "date_kst": "10/19 01:41",
-    "headline": "[속보 10/19 01:41] French mayor attacked by settlers during occupied West Bank olive harvest",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/18-10-sv-mayor-of-france-assaulted-by-settlers-ps?traffic_source=rss",
-    "source": "AlJazeera"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/19 01:41",
     "headline": "[속보 10/19 01:41] 4 dead in fire at Alberta military base, Canadian PM Carney says",
     "link": "https://www.scmp.com/news/world/united-states-canada/article/3371281/fatalities-feared-fire-erupts-canadian-military-base-alberta?utm_source=rss_feed",
     "source": "SCMP"
@@ -1406,5 +1399,12 @@
     "link": "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack",
     "source": "Guardian",
     "comment": ""
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/03 16:56",
+    "headline": "[속보 11/03 16:56] Asian Cup postponed in wake of attacks on Saudi Arabia",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c6y0e79yjg44o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC"
   }
 ]
