@@ -10,6 +10,7 @@
 구조화 데이터(점수·분류 등 원본 JSON)는 https://marketbriefwire.com/data/index.json 에 목록이 있습니다.
 
 ## 최근 브리핑
+- [[11/04 05:30] [미래경제포럼] 최태원 "AI·반도체 협력…한일경제연대로 1조달러 시너지"(종합) - 연합뉴스](https://marketbriefwire.com/20261103-2031.html) — 11/04 05:30
 - [[11/03 22:00] Hardware Defense Blocks Memory-Dependent Prefetcher Leakage (KU Leuven)](https://marketbriefwire.com/20261103-1302.html) — 11/03 22:00
 - [[11/03 16:00] Hardware Defense Blocks Memory-Dependent Prefetcher Leakage (KU Leuven)](https://marketbriefwire.com/20261103-0702.html) — 11/03 16:00
 - [[11/03 05:30] Hardware Defense Blocks Memory-Dependent Prefetcher Leakage (KU Leuven)](https://marketbriefwire.com/20261102-2032.html) — 11/03 05:30
@@ -29,4 +30,3 @@
 - [[10/12 05:30] 한국, 남미 광물 공급망 다변화… AI 반도체 리스크 정면 돌파 - 글로벌이코노믹](https://marketbriefwire.com/20261011-2031.html) — 10/12 05:30
 - [[10/11 22:00] 한국, 남미 광물 공급망 다변화… AI 반도체 리스크 정면 돌파 - 글로벌이코노믹](https://marketbriefwire.com/20261011-1301.html) — 10/11 22:00
 - [[10/11 05:30] Manfred Horstmann: GlobalFoundries Bets on FDX Fusion for Physical AI](https://marketbriefwire.com/20261010-2031.html) — 10/11 05:30
-- [[10/10 22:00] 엔비디아 커스텀 HBM 공개…삼성·SK하이닉스 승부처는? - 자본시장뉴스](https://marketbriefwire.com/20261010-1301.html) — 10/10 22:00
