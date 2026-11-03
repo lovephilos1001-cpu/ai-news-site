@@ -966,5 +966,19 @@
     "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
     "comment": ""
+  },
+  {
+    "topic_name": "우크라이나",
+    "date_kst": "11/03 10:26",
+    "headline": "[속보 11/03 10:26] Russian bombing of Ukrainian aid centre kills at least 26, Kyiv says",
+    "link": "https://www.theguardian.com/world/2026/nov/03/russia-bombs-ukrainian-aid-centre-komyshuvakha",
+    "source": "Guardian"
+  },
+  {
+    "topic_name": "우크라이나",
+    "date_kst": "11/03 10:41",
+    "headline": "[속보 11/03 10:41] Multiple Russian strikes kill at least 26 at Ukraine aid centre",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/multiple-russian-strikes-kill-at-least-26-at-ukraine-aid-centre?traffic_source=rss",
+    "source": "AlJazeera"
   }
 ]
