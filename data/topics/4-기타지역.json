@@ -1,13 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/19 00:56",
-    "headline": "[속보 10/19 00:56] Multiple people killed as Canadian authorities tackle active blaze at Alberta military base",
-    "link": "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright",
-    "source": "Guardian"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/19 01:41",
     "headline": "[속보 10/19 01:41] French mayor attacked by settlers during occupied West Bank olive harvest",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/18-10-sv-mayor-of-france-assaulted-by-settlers-ps?traffic_source=rss",
@@ -1405,5 +1398,13 @@
     "headline": "[속보 11/03 15:26] (LEAD) N. Korea tests 'dispersal warhead' for cruise missiles following cluster bomb test",
     "link": "https://en.yna.co.kr/view/AEN20261103001151315",
     "source": "YonhapEN"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/03 16:00",
+    "headline": "Shop fridges and freezers across Europe hit by fresh suspected cyber-attack",
+    "link": "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack",
+    "source": "Guardian",
+    "comment": ""
   }
 ]
