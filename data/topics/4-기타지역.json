@@ -2,13 +2,6 @@
   {
     "topic_name": "기타 지역",
     "date_kst": "10/20 01:41",
-    "headline": "[속보 10/20 01:41] Houthi missile strike on Yemen camp kills 50 security recruits, local authorities say",
-    "link": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/20 01:41",
     "headline": "[속보 10/20 01:41] Dozens killed after Houthi strike on military camp in Shabwa",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/dozens-killed-after-houthi-strike-on-military-camp-in-shabwa?traffic_source=rss",
     "source": "AlJazeera"
@@ -1413,5 +1406,12 @@
     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/seven-flights-across-europe-targeted-by-suspected-bomb-threats?traffic_source=rss",
     "source": "AlJazeera",
     "comment": ""
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/04 16:11",
+    "headline": "[속보 11/04 16:11] Bomb threats cause disruptions across Europe but no explosives found",
+    "link": "https://www.japantimes.co.jp/news/2026/11/04/world/crime-legal/bomb-threats-flights-cruise-europe/",
+    "source": "JapanTimes"
   }
 ]
