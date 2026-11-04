@@ -1,20 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/20 00:11",
-    "headline": "[속보 10/20 00:11] Australian MP critically injured after being hit by car in apparent attack",
-    "link": "https://www.bbc.co.uk/news/articles/cwp9g43g2p07o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/20 00:26",
-    "headline": "[속보 10/20 00:26] Houthi attack on Yemen army camp in Shabwa reportedly kills at least 53",
-    "link": "https://www.aljazeera.com/news/2026/10/19/at-least-18-killed-in-houthi-attack-on-military-camp-in-yemens-shabwa?traffic_source=rss",
-    "source": "AlJazeera"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/20 00:26",
     "headline": "[속보 10/20 00:26] Houthi attack kills 53 at Yemen government training camp",
     "link": "https://www.scmp.com/news/world/middle-east/article/3371416/houthi-attack-kills-53-yemen-government-training-camp?utm_source=rss_feed",
@@ -1410,5 +1396,19 @@
     "headline": "[속보 11/04 14:26] N Korea fires multiple missiles, denies US claims on Binance hack",
     "link": "https://www.aljazeera.com/news/2026/11/4/n-korea-fires-multiple-missiles-denies-us-claims-on-binance-hack?traffic_source=rss",
     "source": "AlJazeera"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/04 15:11",
+    "headline": "[속보 11/04 15:11] (2nd LD) N. Korea fires multiple missiles toward East Sea: JCS",
+    "link": "https://en.yna.co.kr/view/AEN20261104005551315",
+    "source": "YonhapEN"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/04 15:41",
+    "headline": "[속보 11/04 15:41] US midterm elections 2026 live updates: Democrats win Senate control and edge toward House victory",
+    "link": "https://www.theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates",
+    "source": "Guardian"
   }
 ]
