@@ -1,13 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/20 01:56",
-    "headline": "[속보 10/20 01:56] Supreme court rejects effort to revive plea deal for Khalid Sheikh Mohammed in 9/11 attacks",
-    "link": "https://www.theguardian.com/us-news/2026/oct/19/khalid-sheikh-mohammed-september-11-plea-deal",
-    "source": "Guardian"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/20 10:11",
     "headline": "[속보 10/20 10:11] Australian lawmaker in critical condition after vehicle attack",
     "link": "https://www.japantimes.co.jp/news/2026/10/20/asia-pacific/politics/australian-lawmaker-vehicle-attack/",
@@ -1413,5 +1406,12 @@
     "headline": "[속보 11/04 18:49] S. Korea experiences 5th warmest Oct. this year",
     "link": "https://en.yna.co.kr/view/AEN20261104009800315",
     "source": "YonhapEN"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/04 19:11",
+    "headline": "[속보 11/04 19:11] ‘Rejecting hate’: Abdul El-Sayed wins Senate seat despite racist attacks",
+    "link": "https://www.aljazeera.com/news/2026/11/4/rejecting-hate-abdul-el-sayed-wins-senate-seat-despite-racist-attacks?traffic_source=rss",
+    "source": "AlJazeera"
   }
 ]
