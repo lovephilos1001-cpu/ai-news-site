@@ -1,34 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/19 18:51",
-    "headline": "[속보 10/19 18:51] Independent MP Helen Haines in critical condition after ‘attack’ outside Wangaratta office, PM says",
-    "link": "https://www.theguardian.com/australia-news/2026/oct/19/mp-helen-haines-injured-incident-wangaratta-ntwnfb",
-    "source": "Guardian"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/19 18:51",
-    "headline": "[속보 10/19 18:51] How a grass fire at a Canadian military base killed four soldiers",
-    "link": "https://www.aljazeera.com/news/2026/10/19/how-a-grass-fire-at-a-canadian-military-base-killed-four-soldiers?traffic_source=rss",
-    "source": "AlJazeera"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/19 18:51",
-    "headline": "[속보 10/19 18:51] Australian lawmaker Helen Haines in critical condition after vehicle attack",
-    "link": "https://www.scmp.com/news/asia/australasia/article/3371376/australian-lawmaker-helen-haines-critical-condition-after-vehicle-attack?utm_source=rss_feed",
-    "source": "SCMP"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/19 19:11",
-    "headline": "[속보 10/19 19:11] Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
-    "link": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/19 20:11",
     "headline": "[속보 10/19 20:11] ‘Deeply appalled’: politicians condemn alleged attack after independent MP Helen Haines critically injured",
     "link": "https://www.theguardian.com/australia-news/2026/oct/19/mp-helen-haines-injured-incident-wangaratta-ntwnfb",
@@ -1410,5 +1382,33 @@
     "headline": "[속보 11/04 09:56] Bomb threats disrupt flights across Europe, no explosive devices found",
     "link": "https://www.aljazeera.com/news/2026/11/4/bomb-threats-disrupt-flights-across-europe-no-explosive-devices-found?traffic_source=rss",
     "source": "AlJazeera"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/04 10:11",
+    "headline": "[속보 11/04 10:11] N. Korea fires unidentified projectile toward East Sea: JCS",
+    "link": "https://en.yna.co.kr/view/AEN20261029008100315",
+    "source": "YonhapEN"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/04 10:11",
+    "headline": "[속보 11/04 10:11] (URGENT) N. Korea fires unidentified projectile toward East Sea: S. Korean military",
+    "link": "https://en.yna.co.kr/view/AEN20261029008000315",
+    "source": "YonhapEN"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/04 10:26",
+    "headline": "[속보 11/04 10:26] Bomb threats on flights, cruise ship cause disruption in Europe; no devices found",
+    "link": "https://www.japantimes.co.jp/news/2026/11/04/world/crime-legal/bomb-threats-flights-cruise-europe/",
+    "source": "JapanTimes"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/04 10:26",
+    "headline": "[속보 11/04 10:26] Fake bomb threats on flights and cruise ship cause travel disruption in Europe",
+    "link": "https://www.scmp.com/news/world/europe/article/3373186/fake-bomb-threats-flights-and-cruise-ship-cause-travel-disruption-europe",
+    "source": "SCMP"
   }
 ]
