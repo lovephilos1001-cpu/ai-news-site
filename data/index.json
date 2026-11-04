@@ -65,6 +65,11 @@
     {
       "hall": "3",
       "hall_name": "매크로·통화정책",
+      "url": "https://marketbriefwire.com/data/topics/3-election2026.json"
+    },
+    {
+      "hall": "3",
+      "hall_name": "매크로·통화정책",
       "url": "https://marketbriefwire.com/data/topics/3-macro.json"
     },
     {

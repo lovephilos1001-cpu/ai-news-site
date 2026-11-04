@@ -2,13 +2,6 @@
   {
     "topic_name": "기타 지역",
     "date_kst": "10/20 00:11",
-    "headline": "[속보 10/20 00:11] Drone attack near market kills 80 in Sudan",
-    "link": "https://www.theguardian.com/world/2026/oct/19/drone-attack-market-al-dibab-west-kordofan-sudan",
-    "source": "Guardian"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/20 00:11",
     "headline": "[속보 10/20 00:11] Australian MP critically injured after being hit by car in apparent attack",
     "link": "https://www.bbc.co.uk/news/articles/cwp9g43g2p07o?at_medium=RSS&at_campaign=rss",
     "source": "BBC"
@@ -1410,5 +1403,12 @@
     "headline": "[속보 11/04 12:41] (LEAD) N. Korea fires multiple missiles toward East Sea: JCS",
     "link": "https://en.yna.co.kr/view/AEN20261104005500315",
     "source": "YonhapEN"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/04 14:26",
+    "headline": "[속보 11/04 14:26] N Korea fires multiple missiles, denies US claims on Binance hack",
+    "link": "https://www.aljazeera.com/news/2026/11/4/n-korea-fires-multiple-missiles-denies-us-claims-on-binance-hack?traffic_source=rss",
+    "source": "AlJazeera"
   }
 ]
