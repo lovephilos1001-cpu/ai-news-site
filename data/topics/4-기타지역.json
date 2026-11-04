@@ -1,20 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/19 20:11",
-    "headline": "[속보 10/19 20:11] ‘Deeply appalled’: politicians condemn alleged attack after independent MP Helen Haines critically injured",
-    "link": "https://www.theguardian.com/australia-news/2026/oct/19/mp-helen-haines-injured-incident-wangaratta-ntwnfb",
-    "source": "Guardian"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/19 20:26",
-    "headline": "[속보 10/19 20:26] Terrorism squad probes car attack that critically injured Australian lawmaker",
-    "link": "https://www.scmp.com/news/asia/australasia/article/3371376/australian-lawmaker-helen-haines-critical-condition-after-vehicle-attack?utm_source=rss_feed",
-    "source": "SCMP"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/20 00:11",
     "headline": "[속보 10/20 00:11] Drone attack near market kills 80 in Sudan",
     "link": "https://www.theguardian.com/world/2026/oct/19/drone-attack-market-al-dibab-west-kordofan-sudan",
@@ -1410,5 +1396,19 @@
     "headline": "[속보 11/04 10:26] Fake bomb threats on flights and cruise ship cause travel disruption in Europe",
     "link": "https://www.scmp.com/news/world/europe/article/3373186/fake-bomb-threats-flights-and-cruise-ship-cause-travel-disruption-europe",
     "source": "SCMP"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/04 12:11",
+    "headline": "[속보 11/04 12:11] Tenerife striker De Miguel dies after collision in match",
+    "link": "https://www.japantimes.co.jp/sports/2026/11/04/soccer/tenerife-de-miguel-dies/",
+    "source": "JapanTimes"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/04 12:41",
+    "headline": "[속보 11/04 12:41] (LEAD) N. Korea fires multiple missiles toward East Sea: JCS",
+    "link": "https://en.yna.co.kr/view/AEN20261104005500315",
+    "source": "YonhapEN"
   }
 ]
