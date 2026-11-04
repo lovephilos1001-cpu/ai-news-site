@@ -10,6 +10,7 @@
 구조화 데이터(점수·분류 등 원본 JSON)는 https://marketbriefwire.com/data/index.json 에 목록이 있습니다.
 
 ## 최근 브리핑
+- [[11/04 22:00] AMD도 AI 반도체 날개…삼성·SK HBM 공급 기회 커진다 - 마켓인](https://marketbriefwire.com/20261104-1302.html) — 11/04 22:00
 - [[11/04 16:00] [AI픽] AMD GPU·국산 NPU 연계 논의…정부, AI반도체 협력 구체화 - 연합뉴스](https://marketbriefwire.com/20261104-0702.html) — 11/04 16:00
 - [[11/04 05:30] [미래경제포럼] 최태원 "AI·반도체 협력…한일경제연대로 1조달러 시너지"(종합) - 연합뉴스](https://marketbriefwire.com/20261103-2031.html) — 11/04 05:30
 - [[11/03 22:00] Hardware Defense Blocks Memory-Dependent Prefetcher Leakage (KU Leuven)](https://marketbriefwire.com/20261103-1302.html) — 11/03 22:00
@@ -29,4 +30,3 @@
 - [[10/12 22:00] ASML·TSMC 실적 이번주 잇따라 발표…AI 반도체 호황 지속성 시험대 - 아시아타임즈](https://marketbriefwire.com/20261012-1301.html) — 10/12 22:00
 - [[10/12 16:00] ASML·TSMC 실적 이번주 잇따라 발표…AI 반도체 호황 지속성 시험대 - 아시아타임즈](https://marketbriefwire.com/20261012-0701.html) — 10/12 16:00
 - [[10/12 05:30] 한국, 남미 광물 공급망 다변화… AI 반도체 리스크 정면 돌파 - 글로벌이코노믹](https://marketbriefwire.com/20261011-2031.html) — 10/12 05:30
-- [[10/11 22:00] 한국, 남미 광물 공급망 다변화… AI 반도체 리스크 정면 돌파 - 글로벌이코노믹](https://marketbriefwire.com/20261011-1301.html) — 10/11 22:00

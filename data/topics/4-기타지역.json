@@ -1,34 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/20 10:11",
-    "headline": "[속보 10/20 10:11] Australian lawmaker in critical condition after vehicle attack",
-    "link": "https://www.japantimes.co.jp/news/2026/10/20/asia-pacific/politics/australian-lawmaker-vehicle-attack/",
-    "source": "JapanTimes"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/20 10:11",
-    "headline": "[속보 10/20 10:11] Houthi attack on Yemen government camp kills over 50, officials say",
-    "link": "https://www.japantimes.co.jp/news/2026/10/20/world/houthi-attack-yemen-camp/",
-    "source": "JapanTimes"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/20 11:11",
-    "headline": "[속보 10/20 11:11] Saudi Arabia cancels 2026 ‘Davos in the Desert’ amid Houthi attacks",
-    "link": "https://www.aljazeera.com/news/2026/10/20/saudi-arabia-cancels-2026-davos-in-the-desert-amid-houthi-attacks?traffic_source=rss",
-    "source": "AlJazeera"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/20 11:11",
-    "headline": "[속보 10/20 11:11] Saudi Arabia postpones ‘Davos in the Desert’ summit to 2027 after deadly attacks",
-    "link": "https://www.scmp.com/news/world/middle-east/article/3371441/saudi-arabia-postpones-davos-desert-summit-2027-after-deadly-attacks?utm_source=rss_feed",
-    "source": "SCMP"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/20 11:26",
     "headline": "[속보 10/20 11:26] Svitolina announces end of marriage to Monfils as Ukrainian cites toll of war",
     "link": "https://www.japantimes.co.jp/sports/2026/10/20/tennis/svitolina-monfils-ending-marriage/",
@@ -1413,5 +1385,37 @@
     "headline": "[속보 11/04 19:11] ‘Rejecting hate’: Abdul El-Sayed wins Senate seat despite racist attacks",
     "link": "https://www.aljazeera.com/news/2026/11/4/rejecting-hate-abdul-el-sayed-wins-senate-seat-despite-racist-attacks?traffic_source=rss",
     "source": "AlJazeera"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/04 22:00",
+    "headline": "S. Korea experiences 5th warmest Oct. this year",
+    "link": "https://en.yna.co.kr/view/AEN20261104009800315",
+    "source": "YonhapEN",
+    "comment": ""
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/04 22:00",
+    "headline": "(2nd LD) N. Korea fires multiple missiles toward East Sea: JCS",
+    "link": "https://en.yna.co.kr/view/AEN20261104005551315",
+    "source": "YonhapEN",
+    "comment": ""
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/04 22:00",
+    "headline": "(LEAD) N. Korea fires multiple missiles toward East Sea: JCS",
+    "link": "https://en.yna.co.kr/view/AEN20261104005500315",
+    "source": "YonhapEN",
+    "comment": ""
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/04 22:00",
+    "headline": "One dead and another missing in suspected grizzly bear attack in Canada",
+    "link": "https://www.theguardian.com/world/2026/nov/03/grizzly-bear-attack-canada",
+    "source": "Guardian",
+    "comment": ""
   }
 ]
