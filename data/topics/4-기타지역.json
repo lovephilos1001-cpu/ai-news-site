@@ -1,27 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/20 00:26",
-    "headline": "[속보 10/20 00:26] Houthi attack kills 53 at Yemen government training camp",
-    "link": "https://www.scmp.com/news/world/middle-east/article/3371416/houthi-attack-kills-53-yemen-government-training-camp?utm_source=rss_feed",
-    "source": "SCMP"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/20 00:41",
-    "headline": "[속보 10/20 00:41] Houthi attack kills 53 in biggest single loss of life since Yemen civil war reignited",
-    "link": "https://www.theguardian.com/world/2026/oct/19/houthi-attack-yemen-al-alam-camp-biggest-single-loss-of-life-civil-war",
-    "source": "Guardian"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/20 00:56",
-    "headline": "[속보 10/20 00:56] Houthi attack on Yemen army camp in Shabwa kills at least 53: reports",
-    "link": "https://www.aljazeera.com/news/2026/10/19/at-least-18-killed-in-houthi-attack-on-military-camp-in-yemens-shabwa?traffic_source=rss",
-    "source": "AlJazeera"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/20 01:41",
     "headline": "[속보 10/20 01:41] Houthi missile strike on Yemen camp kills 50 security recruits, local authorities say",
     "link": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&at_campaign=rss",
@@ -1410,5 +1389,29 @@
     "headline": "[속보 11/04 15:41] US midterm elections 2026 live updates: Democrats win Senate control and edge toward House victory",
     "link": "https://www.theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates",
     "source": "Guardian"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/04 16:00",
+    "headline": "Seven planes across Europe searched or diverted after ‘malicious hoax’ bomb threats",
+    "link": "https://www.theguardian.com/world/2026/nov/03/four-planes-flying-across-europe-targeted-by-bomb-threats",
+    "source": "Guardian",
+    "comment": ""
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/04 16:00",
+    "headline": "Seven flights across Europe targeted by suspected bomb threats",
+    "link": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "comment": ""
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/04 16:00",
+    "headline": "Seven flights across Europe targeted by suspected bomb threats",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/seven-flights-across-europe-targeted-by-suspected-bomb-threats?traffic_source=rss",
+    "source": "AlJazeera",
+    "comment": ""
   }
 ]
