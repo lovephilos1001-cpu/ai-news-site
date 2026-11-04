@@ -2,13 +2,6 @@
   {
     "topic_name": "기타 지역",
     "date_kst": "10/20 11:41",
-    "headline": "[속보 10/20 11:41] Milan luxury shops close as Italy prepares to deploy troops in the city after days of protests",
-    "link": "https://www.theguardian.com/world/2026/oct/20/milan-luxury-shops-close-italy-to-deploy-troops-youth-protests-europe",
-    "source": "Guardian"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/20 11:41",
     "headline": "[속보 10/20 11:41] Milan luxury shops close for fear of new unrest as government prepares to deploy troops",
     "link": "https://www.japantimes.co.jp/news/2026/10/20/world/milan-luxury-shops-italy-unrest/",
     "source": "JapanTimes"
@@ -1417,5 +1410,12 @@
     "headline": "[속보 11/04 23:56] Blood banks targeted in latest European fridge cyberattacks",
     "link": "https://www.cnbc.com/2026/11/04/blood-bank-fridges-cyberattacks.html",
     "source": "CNBC"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/05 03:26",
+    "headline": "[속보 11/05 03:26] Danish students join European wave of youth strikes over education cuts",
+    "link": "https://www.scmp.com/news/world/europe/article/3373307/danish-students-join-european-wave-youth-strikes-over-education-cuts",
+    "source": "SCMP"
   }
 ]
