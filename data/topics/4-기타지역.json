@@ -1,41 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/22 15:41",
-    "headline": "[속보 10/22 15:41] Hong Kong watchdog warns of hacking risks from flaws in web programming language",
-    "link": "https://www.scmp.com/news/hong-kong/article/3371756/hong-kong-watchdog-warns-hacking-risks-flaws-web-programming-language",
-    "source": "SCMP"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/22 22:11",
-    "headline": "[속보 10/22 22:11] Oil prices jump to five-month high as attacks threaten global supply",
-    "link": "https://www.theguardian.com/business/2026/oct/22/oil-prices-jump-five-month-high-threats-supply",
-    "source": "Guardian"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/22 22:11",
-    "headline": "[속보 10/22 22:11] Two killed in attack on airport in eastern Saudi Arabia, authorities say",
-    "link": "https://www.bbc.co.uk/news/articles/cqwy71ww156ro?at_medium=RSS&at_campaign=rss",
-    "source": "BBC"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/23 00:41",
-    "headline": "[속보 10/23 00:41] Meta strikes deal with Zuckerberg to help him foot billionaire tax bill",
-    "link": "https://www.theguardian.com/technology/2026/oct/22/meta-mark-zuckerberg-california-wealth-tax",
-    "source": "Guardian"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/23 00:56",
-    "headline": "[속보 10/23 00:56] 16-year-old Malaysian student attacks his teacher with axe",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/16-year-old-malaysian-student-attacks-his-teacher-with-axe?traffic_source=rss",
-    "source": "AlJazeera"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/23 01:11",
     "headline": "[속보 10/23 01:11] Meta strikes deal with Mark Zuckerberg to help him foot billionaire tax bill",
     "link": "https://www.theguardian.com/technology/2026/oct/22/meta-mark-zuckerberg-california-wealth-tax",
@@ -1426,5 +1391,45 @@
     "headline": "[속보 11/06 05:26] Protesters march in cities across France as unions stage general strike",
     "link": "https://www.theguardian.com/world/2026/nov/05/protesters-france-march-strikes-education-cost-of-living",
     "source": "Guardian"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/06 05:30",
+    "headline": "South Korea says it will expand naval operations closer to strait of Hormuz",
+    "link": "https://www.theguardian.com/world/2026/nov/05/south-korea-to-expand-anti-piracy-unit-strait-of-hormuz",
+    "source": "Guardian",
+    "comment": ""
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/06 05:30",
+    "headline": "Bomb threats disrupt at least 25 flights across Europe, raising hybrid war fears",
+    "link": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears",
+    "source": "Guardian",
+    "comment": ""
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/06 05:30",
+    "headline": "Protesters march in cities across France as unions stage general strike",
+    "link": "https://www.theguardian.com/world/2026/nov/05/protesters-france-march-strikes-education-cost-of-living",
+    "source": "Guardian",
+    "comment": ""
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/06 05:30",
+    "headline": "Bomb threats disrupt flights across Europe for the second time. Here’s what we know",
+    "link": "https://www.cnbc.com/2026/11/05/bomb-threats-flights-europe.html",
+    "source": "CNBC",
+    "comment": ""
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/06 05:30",
+    "headline": "Who could be behind hoax bomb threats to European air travel?",
+    "link": "https://www.bbc.co.uk/news/articles/cx8dzzjg3g9zo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "comment": ""
   }
 ]
