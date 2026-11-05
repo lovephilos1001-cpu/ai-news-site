@@ -1,13 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/21 16:11",
-    "headline": "[속보 10/21 16:11] France to deploy troops for planned protests after riots and looting",
-    "link": "https://www.scmp.com/news/world/europe/article/3371556/france-deploy-troops-response-protests-after-violent-riots-sweep-cities",
-    "source": "SCMP"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/21 17:11",
     "headline": "[속보 10/21 17:11] Australian MP loses both legs after alleged car attack",
     "link": "https://www.bbc.co.uk/news/articles/ckwyqdqxw6d0o?at_medium=RSS&at_campaign=rss",
@@ -1420,6 +1413,13 @@
     "topic_name": "기타 지역",
     "date_kst": "11/05 19:56",
     "headline": "[속보 11/05 19:56] New bomb threats bring fresh disruptions to flights across Europe",
+    "link": "https://www.aljazeera.com/news/2026/11/5/bomb-threat-diverts-dublin-rome-flight-to-france?traffic_source=rss",
+    "source": "AlJazeera"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/05 20:26",
+    "headline": "[속보 11/05 20:26] New bomb threats bring more disruption to flights across Europe",
     "link": "https://www.aljazeera.com/news/2026/11/5/bomb-threat-diverts-dublin-rome-flight-to-france?traffic_source=rss",
     "source": "AlJazeera"
   }
