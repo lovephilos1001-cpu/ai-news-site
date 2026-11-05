@@ -17,6 +17,7 @@ https://marketbriefwire.com/paid/premium.json — $0.01/요청, x402 프로토�
 x402 사양: https://www.x402.org/
 
 ## 최근 브리핑
+- [[11/05 22:00] 美 반도체 압박에 中 AI '이중고'…해외 우회로·공급망 모두 흔들 - 머니투데이 - 머니투데이](https://marketbriefwire.com/20261105-1302.html) — 11/05 22:00
 - [[11/05 16:00] AMD도 AI 반도체 날개…삼성·SK HBM 공급 기회 커진다 - 마켓인](https://marketbriefwire.com/20261105-0702.html) — 11/05 16:00
 - [[11/05 05:30] [AI픽] AMD GPU·국산 NPU 연계 논의…정부, AI반도체 협력 구체화 - 연합뉴스](https://marketbriefwire.com/20261104-2031.html) — 11/05 05:30
 - [[11/04 22:00] AMD도 AI 반도체 날개…삼성·SK HBM 공급 기회 커진다 - 마켓인](https://marketbriefwire.com/20261104-1302.html) — 11/04 22:00
@@ -36,4 +37,3 @@ x402 사양: https://www.x402.org/
 - [[10/31 22:07] 샘 올트먼, 삼성전자·SK하이닉스 동시 접촉…HBM 공급 확대될까, AI 반도체 전망은 - 톱스타뉴스](https://marketbriefwire.com/20261031-1309.html) — 10/31 22:07
 - [[10/13 16:00] Applied Materials Bets $5B on a New Model for Chip Innovation](https://marketbriefwire.com/20261013-0701.html) — 10/13 16:00
 - [[10/13 05:30] AMD, 삼성·SK하이닉스와 HBM 동맹 강화…2027년 AI 반도체 공급 대폭 확대 - 테크월드](https://marketbriefwire.com/20261012-2031.html) — 10/13 05:30
-- [[10/12 22:00] ASML·TSMC 실적 이번주 잇따라 발표…AI 반도체 호황 지속성 시험대 - 아시아타임즈](https://marketbriefwire.com/20261012-1301.html) — 10/12 22:00

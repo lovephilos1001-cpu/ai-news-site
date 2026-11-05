@@ -1,34 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/21 17:56",
-    "headline": "[속보 10/21 17:56] Australian MP loses both legs in vehicle attack as suspect appears in court",
-    "link": "https://www.aljazeera.com/news/2026/10/21/australian-mp-loses-both-legs-in-vehicle-attack-as-suspect-appears-in-court?traffic_source=rss",
-    "source": "AlJazeera"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/21 17:56",
-    "headline": "[속보 10/21 17:56] Drone attack in disputed Sudan-South Sudan border region kills at least 153",
-    "link": "https://www.aljazeera.com/news/2026/10/21/drone-attack-in-disputed-sudan-south-sudan-border-region-kills-at-least-153?traffic_source=rss",
-    "source": "AlJazeera"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/22 08:56",
-    "headline": "[속보 10/22 08:56] Saudi Arabia cancels 'Davos in the Desert' due to Yemen's Houthi strikes",
-    "link": "https://www.npr.org/2026/10/21/nx-s1-6009545/saudi-arabia-cancels-davos-in-the-desert-due-to-air-strikes",
-    "source": "NPR"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/22 08:56",
-    "headline": "[속보 10/22 08:56] US orders diplomats to leave Saudi Arabia amid Houthi strikes",
-    "link": "https://www.scmp.com/news/world/middle-east/article/3371698/us-orders-diplomats-leave-saudi-arabia-amid-houthi-strikes",
-    "source": "SCMP"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/22 09:41",
     "headline": "[속보 10/22 09:41] Some US diplomats told to leave Saudi Arabia amid Houthi attacks",
     "link": "https://www.theguardian.com/world/2026/oct/22/us-diplomats-told-to-leave-saudi-arabia-amid-houthi-attacks",
@@ -1422,5 +1394,37 @@
     "headline": "[속보 11/05 21:41] European flights diverted again after fresh wave of hoax bomb threats",
     "link": "https://www.scmp.com/news/world/europe/article/3373414/bomb-threat-forces-ireland-italy-flight-divert-french-airbase",
     "source": "SCMP"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/05 22:00",
+    "headline": "Mother and daughter killed in grizzly bear attack, Canadian authorities confirm",
+    "link": "https://www.theguardian.com/world/2026/nov/04/canada-bear-attack-mother-daughter-killed",
+    "source": "Guardian",
+    "comment": ""
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/05 22:00",
+    "headline": "South Korea says it will expand naval operations closer to strait of Hormuz",
+    "link": "https://www.theguardian.com/world/2026/nov/05/south-korea-to-expand-anti-piracy-unit-strait-of-hormuz",
+    "source": "Guardian",
+    "comment": ""
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/05 22:00",
+    "headline": "Multiple planes diverted as bomb threats to commercial flights reported across Europe – live",
+    "link": "https://www.theguardian.com/world/live/2026/nov/05/aer-lingus-plane-bomb-threat-europe-latest-news-updates",
+    "source": "Guardian",
+    "comment": ""
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/05 22:00",
+    "headline": "Mother and daughter die after suspected grizzly bear attack in Canada",
+    "link": "https://www.bbc.co.uk/news/articles/cqvgry8k5d01o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "comment": ""
   }
 ]
