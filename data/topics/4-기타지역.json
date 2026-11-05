@@ -1,27 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/21 01:26",
-    "headline": "[속보 10/21 01:26] France to deploy troops in response to protests after violent riots sweep cities",
-    "link": "https://www.scmp.com/news/world/europe/article/3371556/france-deploy-troops-response-protests-after-violent-riots-sweep-cities",
-    "source": "SCMP"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/21 02:11",
-    "headline": "[속보 10/21 02:11] Alberta voters reject a move toward independence in referendum backing Canadian unity",
-    "link": "https://www.npr.org/2026/10/20/nx-s1-6008832/alberta-referendum-canada",
-    "source": "NPR"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/21 02:56",
-    "headline": "[속보 10/21 02:56] Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
-    "link": "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html",
-    "source": "CNBC"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/21 06:11",
     "headline": "[속보 10/21 06:11] Man charged with attack on Australia MP to face court",
     "link": "https://www.bbc.co.uk/news/articles/c678pnn9mpgno?at_medium=RSS&at_campaign=rss",
@@ -1419,5 +1398,26 @@
     "headline": "[속보 11/05 13:41] South Korea to deploy military mission to keep Strait of Hormuz open",
     "link": "https://www.france24.com/en/asia-pacific/20261105-south-korea-military-mission-strait-of-hormuz",
     "source": "France24"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/05 15:11",
+    "headline": "[속보 11/05 15:11] No talks yet on sanctions over N. Korea&apos;s alleged Binance theft",
+    "link": "https://www.koreaherald.com/article/10927302",
+    "source": "KoreaHerald"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/05 15:11",
+    "headline": "[속보 11/05 15:11] No talks yet on sanctions over N. Korea's alleged Binance theft: unification ministry official",
+    "link": "https://en.yna.co.kr/view/AEN20261105006000315",
+    "source": "YonhapEN"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/05 15:56",
+    "headline": "[속보 11/05 15:56] (LEAD) No talks yet on sanctions over N. Korea's alleged Binance theft: unification ministry official",
+    "link": "https://en.yna.co.kr/view/AEN20261105006051315",
+    "source": "YonhapEN"
   }
 ]
