@@ -1,13 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/20 20:26",
-    "headline": "[속보 10/20 20:26] UK to deploy fighter jets to protect Saudi Arabia from Houthi attacks",
-    "link": "https://www.theguardian.com/uk-news/2026/oct/20/uk-raf-typhoon-fighters-saudi-arabia-houthi-attacks",
-    "source": "Guardian"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/20 20:41",
     "headline": "[속보 10/20 20:41] UK to deploy RAF fighter jets to defend Saudi Arabia from Houthi attacks",
     "link": "https://www.aljazeera.com/news/2026/10/20/uk-to-deploy-raf-fighter-jets-to-defend-saudi-arabia-from-houthi-attacks?traffic_source=rss",
@@ -1419,5 +1412,12 @@
     "headline": "[속보 11/05 09:56] S. Korea to expand anti-piracy mission closer to Hormuz, send more naval assets",
     "link": "https://www.koreaherald.com/article/10926571",
     "source": "KoreaHerald"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/05 10:11",
+    "headline": "[속보 11/05 10:11] (LEAD) S. Korea to expand anti-piracy mission closer to Hormuz, send more naval assets",
+    "link": "https://en.yna.co.kr/view/AEN20261105000751315",
+    "source": "YonhapEN"
   }
 ]
