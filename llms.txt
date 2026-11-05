@@ -9,6 +9,13 @@
 전체 기사 원문은 https://marketbriefwire.com/llms-full.txt 에서 한 번에 받을 수 있습니다.
 구조화 데이터(점수·분류 등 원본 JSON)는 https://marketbriefwire.com/data/index.json 에 목록이 있습니다.
 
+## 유료 피드 (x402, AI 에이전트 전용)
+https://marketbriefwire.com/paid/premium.json — $0.01/요청, x402 프로토콜(Base 메인넷 USDC)로 즉시 결제·즉시 접근.
+사람 로그인·구독·API 키 불필요, HTTP 402 응답에 결제 정보가 자동으로 담겨 옵니다.
+포함 내용: 애널리스트 목표주가 전체 이력(무료 페이지는 종목당 최신 1건만 공개),
+경제사건 10건의 전체 타임라인(무료는 핵심 전환점만), 종목·금리 실시간 스냅샷.
+x402 사양: https://www.x402.org/
+
 ## 최근 브리핑
 - [[11/05 16:00] AMD도 AI 반도체 날개…삼성·SK HBM 공급 기회 커진다 - 마켓인](https://marketbriefwire.com/20261105-0702.html) — 11/05 16:00
 - [[11/05 05:30] [AI픽] AMD GPU·국산 NPU 연계 논의…정부, AI반도체 협력 구체화 - 연합뉴스](https://marketbriefwire.com/20261104-2031.html) — 11/05 05:30

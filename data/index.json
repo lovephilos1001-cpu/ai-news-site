@@ -155,6 +155,11 @@
     {
       "hall": "5",
       "hall_name": "기타 핀테크·신산업",
+      "url": "https://marketbriefwire.com/data/topics/5-pltr.json"
+    },
+    {
+      "hall": "5",
+      "hall_name": "기타 핀테크·신산업",
       "url": "https://marketbriefwire.com/data/topics/5-smci.json"
     },
     {
@@ -258,5 +263,12 @@
       "url": "https://marketbriefwire.com/data/topics/_outlook_cache.json"
     }
   ],
-  "schema_note": "briefings.json: [{slug, headline, body, published_utc, published_kst}]; topics/*.json: [{topic_name, date_kst, headline, link, source}]"
+  "schema_note": "briefings.json: [{slug, headline, body, published_utc, published_kst}]; topics/*.json: [{topic_name, date_kst, headline, link, source}]",
+  "paid_feed": {
+    "url": "https://marketbriefwire.com/paid/premium.json",
+    "protocol": "x402",
+    "price_usd": 0.01,
+    "network": "base",
+    "contents": "analyst_targets_full_history, economic_events_full_timeline, stocks_snapshot, rates_snapshot"
+  }
 }
