@@ -1,27 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/21 06:11",
-    "headline": "[속보 10/21 06:11] Man charged with attack on Australia MP to face court",
-    "link": "https://www.bbc.co.uk/news/articles/c678pnn9mpgno?at_medium=RSS&at_campaign=rss",
-    "source": "BBC"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/21 08:56",
-    "headline": "[속보 10/21 08:56] NATO to send additional patrol planes to Black Sea after drone attacks",
-    "link": "https://www.aljazeera.com/news/2026/10/20/nato-to-send-additional-patrol-planes-to-black-sea-after-drone-attacks?traffic_source=rss",
-    "source": "AlJazeera"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/21 10:41",
-    "headline": "[속보 10/21 10:41] Musk seizes on SpaceX momentum with push toward Tesla merger",
-    "link": "https://www.japantimes.co.jp/business/2026/10/21/musk-tesla-spacex-merger/",
-    "source": "JapanTimes"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/21 12:41",
     "headline": "[속보 10/21 12:41] French government to deploy troops and admits to failures over weekend unrest",
     "link": "https://www.japantimes.co.jp/news/2026/10/21/world/politics/france-troops-unrest/",
@@ -1419,5 +1398,29 @@
     "headline": "[속보 11/05 15:56] (LEAD) No talks yet on sanctions over N. Korea's alleged Binance theft: unification ministry official",
     "link": "https://en.yna.co.kr/view/AEN20261105006051315",
     "source": "YonhapEN"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/05 16:00",
+    "headline": "Mother and daughter killed in grizzly bear attack, Canadian authorities confirm",
+    "link": "https://www.theguardian.com/world/2026/nov/04/canada-bear-attack-mother-daughter-killed",
+    "source": "Guardian",
+    "comment": ""
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/05 16:00",
+    "headline": "South Korea says it will expand naval operations closer to strait of Hormuz",
+    "link": "https://www.theguardian.com/world/2026/nov/05/south-korea-to-expand-anti-piracy-unit-strait-of-hormuz",
+    "source": "Guardian",
+    "comment": ""
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/05 16:00",
+    "headline": "Mother and daughter die after suspected grizzly bear attack in Canada",
+    "link": "https://www.bbc.co.uk/news/articles/cqvgry8k5d01o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "comment": ""
   }
 ]
