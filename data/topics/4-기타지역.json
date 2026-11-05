@@ -1,13 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/21 12:41",
-    "headline": "[속보 10/21 12:41] French government to deploy troops and admits to failures over weekend unrest",
-    "link": "https://www.japantimes.co.jp/news/2026/10/21/world/politics/france-troops-unrest/",
-    "source": "JapanTimes"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/21 14:41",
     "headline": "[속보 10/21 14:41] France to deploy troops for planned protests after nationwide riots",
     "link": "https://www.scmp.com/news/world/europe/article/3371556/france-deploy-troops-response-protests-after-violent-riots-sweep-cities",
@@ -1422,5 +1415,12 @@
     "link": "https://www.bbc.co.uk/news/articles/cqvgry8k5d01o?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
     "comment": ""
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/05 17:11",
+    "headline": "[속보 11/05 17:11] South Korea plans to expand anti-piracy operations closer to Hormuz Strait",
+    "link": "https://www.aljazeera.com/news/2026/11/5/south-korea-plans-to-expand-anti-piracy-operations-closer-to-hormuz-strait?traffic_source=rss",
+    "source": "AlJazeera"
   }
 ]
