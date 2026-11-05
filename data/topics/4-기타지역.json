@@ -1,20 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/21 15:26",
-    "headline": "[속보 10/21 15:26] Drone strike on Abyei market near Sudan-South Sudan border kills 150",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/drone-strike-on-abyei-market-near-sudan-south-sudan-border-kills-150?traffic_source=rss",
-    "source": "AlJazeera"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/21 15:26",
-    "headline": "[속보 10/21 15:26] Drone strike on market in disputed Sudan border region kills at least 153",
-    "link": "https://www.scmp.com/news/world/africa/article/3371608/drone-strike-market-disputed-sudan-border-region-kills-least-153",
-    "source": "SCMP"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/21 16:11",
     "headline": "[속보 10/21 16:11] France to deploy troops for planned protests after riots and looting",
     "link": "https://www.scmp.com/news/world/europe/article/3371556/france-deploy-troops-response-protests-after-violent-riots-sweep-cities",
@@ -1422,5 +1408,19 @@
     "headline": "[속보 11/05 19:52] Bomb threat forces Ireland-Italy  flight to divert to French airbase",
     "link": "https://www.scmp.com/news/world/europe/article/3373414/bomb-threat-forces-ireland-italy-flight-divert-french-airbase",
     "source": "SCMP"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/05 19:56",
+    "headline": "[속보 11/05 19:56] Multiple planes diverted as bomb threats to commercial flights reported across Europe – live",
+    "link": "https://www.theguardian.com/world/live/2026/nov/05/aer-lingus-plane-bomb-threat-europe-latest-news-updates",
+    "source": "Guardian"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/05 19:56",
+    "headline": "[속보 11/05 19:56] New bomb threats bring fresh disruptions to flights across Europe",
+    "link": "https://www.aljazeera.com/news/2026/11/5/bomb-threat-diverts-dublin-rome-flight-to-france?traffic_source=rss",
+    "source": "AlJazeera"
   }
 ]
