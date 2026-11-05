@@ -2,13 +2,6 @@
   {
     "topic_name": "기타 지역",
     "date_kst": "10/20 20:41",
-    "headline": "[속보 10/20 20:41] UK to deploy RAF fighter jets to defend Saudi Arabia from Houthi attacks",
-    "link": "https://www.aljazeera.com/news/2026/10/20/uk-to-deploy-raf-fighter-jets-to-defend-saudi-arabia-from-houthi-attacks?traffic_source=rss",
-    "source": "AlJazeera"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/20 20:41",
     "headline": "[속보 10/20 20:41] Australian MP Helen Haines remains in critical condition after car attack",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/australian-mp-helen-haines-remains-in-critical-condition-after-car-attack-2?traffic_source=rss",
     "source": "AlJazeera"
@@ -1418,6 +1411,13 @@
     "date_kst": "11/05 10:11",
     "headline": "[속보 11/05 10:11] (LEAD) S. Korea to expand anti-piracy mission closer to Hormuz, send more naval assets",
     "link": "https://en.yna.co.kr/view/AEN20261105000751315",
+    "source": "YonhapEN"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/05 10:56",
+    "headline": "[속보 11/05 10:56] (LEAD) N. Korea says test-fired new air defense missile system, long-range cruise missile",
+    "link": "https://en.yna.co.kr/view/AEN20261105000651315",
     "source": "YonhapEN"
   }
 ]
