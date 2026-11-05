@@ -1,13 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/23 01:11",
-    "headline": "[속보 10/23 01:11] Meta strikes deal with Mark Zuckerberg to help him foot billionaire tax bill",
-    "link": "https://www.theguardian.com/technology/2026/oct/22/meta-mark-zuckerberg-california-wealth-tax",
-    "source": "Guardian"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/23 01:26",
     "headline": "[속보 10/23 01:26] Meta strikes deal to stop Mark Zuckerberg leaving California over billionaire tax",
     "link": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
@@ -1431,5 +1424,12 @@
     "link": "https://www.bbc.co.uk/news/articles/cx8dzzjg3g9zo?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
     "comment": ""
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/06 05:41",
+    "headline": "[속보 11/06 05:41] Mass protests in France driven by nationwide strike action",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/mass-protests-in-france-driven-by-nationwide-strike-action?traffic_source=rss",
+    "source": "AlJazeera"
   }
 ]
