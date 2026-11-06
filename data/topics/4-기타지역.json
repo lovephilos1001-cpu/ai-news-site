@@ -1,13 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/26 13:26",
-    "headline": "[속보 10/26 13:26] Houthis claim attack on Riyadh airport hours after flights resume",
-    "link": "https://www.japantimes.co.jp/news/2026/10/26/world/politics/houthi-saudi-arabia-riyadh-airport/",
-    "source": "JapanTimes"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/26 13:56",
     "headline": "[속보 10/26 13:56] Attackers kill nurse, injure health worker responding to DRC Ebola case",
     "link": "https://www.aljazeera.com/news/2026/10/26/attackers-kill-nurse-injure-health-worker-responding-to-drc-ebola-case?traffic_source=rss",
@@ -1436,5 +1429,12 @@
     "headline": "[속보 11/06 20:56] Hoax or bomb threats? What we know about flight disruptions across Europe",
     "link": "https://www.aljazeera.com/news/2026/11/6/hoax-or-bomb-threats-what-we-know-about-flight-disruptions-across-europe?traffic_source=rss",
     "source": "AlJazeera"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/06 21:56",
+    "headline": "[속보 11/06 21:56] Hoax bomb threats repeatedly disrupt flights across Europe this week. Here’s what we know",
+    "link": "https://www.cnbc.com/2026/11/05/bomb-threats-flights-europe.html",
+    "source": "CNBC"
   }
 ]
