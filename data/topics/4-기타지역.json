@@ -1,20 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/26 16:11",
-    "headline": "[속보 10/26 16:11] Saudi-led forces strike Houthi missile facilities after Riyadh airport attack",
-    "link": "https://www.japantimes.co.jp/news/2026/10/26/world/politics/houthi-saudi-arabia-riyadh-airport/",
-    "source": "JapanTimes"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/26 17:11",
-    "headline": "[속보 10/26 17:11] Saudi-led coalition hits Houthi missile sites after Riyadh targeted again",
-    "link": "https://www.scmp.com/news/world/middle-east/article/3372131/saudi-coalition-intercepts-missile-houthis-claim-new-attack-riyadh-airport",
-    "source": "SCMP"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/26 17:26",
     "headline": "[속보 10/26 17:26] Japan companies to compensate customers after major cyberattacks",
     "link": "https://www.scmp.com/news/asia/east-asia/article/3372105/japan-companies-compensate-customers-after-major-cyberattacks",
@@ -1439,5 +1425,19 @@
     "headline": "[속보 11/06 22:56] Further bomb threats disrupt at least another 18 flights across Europe",
     "link": "https://www.theguardian.com/world/2026/nov/06/further-bomb-threats-disrupt-flights-across-europe",
     "source": "Guardian"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/07 00:41",
+    "headline": "[속보 11/07 00:41] ‘Clock is ticking’: European TV channels targeted in wave of hoax bomb threats",
+    "link": "https://www.scmp.com/news/world/europe/article/3373611/clock-ticking-european-tv-channels-targeted-wave-hoax-bomb-threats",
+    "source": "SCMP"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/07 00:56",
+    "headline": "[속보 11/07 00:56] New wave of bomb threats hit European airlines",
+    "link": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC"
   }
 ]
