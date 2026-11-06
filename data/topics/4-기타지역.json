@@ -1,13 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/26 19:56",
-    "headline": "[속보 10/26 19:56] Saudi-led coalition says it struck Houthi missile facilities",
-    "link": "https://www.aljazeera.com/news/2026/10/26/saudi-led-coalition-says-it-struck-houthi-missile-facilities?traffic_source=rss",
-    "source": "AlJazeera"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/26 22:11",
     "headline": "[속보 10/26 22:11] Jordan arrests three suspects over church attack in dawn raid: What to know",
     "link": "https://www.aljazeera.com/news/2026/10/26/jordan-arrests-three-suspects-over-church-attack-in-dawn-raid-what-to-know?traffic_source=rss",
@@ -1439,5 +1432,12 @@
     "headline": "[속보 11/07 01:11] New bomb threats target European broadcasters, air traffic",
     "link": "https://www.aljazeera.com/news/2026/11/6/new-bomb-threats-target-european-broadcasters-air-traffic?traffic_source=rss",
     "source": "AlJazeera"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/07 04:56",
+    "headline": "[속보 11/07 04:56] European flights and broadcasters are targeted with another wave of bomb threats",
+    "link": "https://www.npr.org/2026/11/06/nx-s1-6032612/europe-flights-hoaxes",
+    "source": "NPR"
   }
 ]
