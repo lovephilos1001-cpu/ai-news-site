@@ -1,20 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/25 03:32",
-    "headline": "[속보 10/25 03:32] Australian MP's condition improves after alleged car attack",
-    "link": "https://www.bbc.co.uk/news/articles/c670pr1ryxyno?at_medium=RSS&at_campaign=rss",
-    "source": "BBC"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/25 21:56",
-    "headline": "[속보 10/25 21:56] Saudi Arabia intercepts missiles and drones as fighting with Houthis rages",
-    "link": "https://www.aljazeera.com/news/2026/10/25/saudi-arabia-intercepts-missiles-and-drones-as-fighting-with-houthis-rages?traffic_source=rss",
-    "source": "AlJazeera"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/26 13:26",
     "headline": "[속보 10/26 13:26] Houthis claim attack on Riyadh airport hours after flights resume",
     "link": "https://www.japantimes.co.jp/news/2026/10/26/world/politics/houthi-saudi-arabia-riyadh-airport/",
@@ -1436,5 +1422,19 @@
     "headline": "[속보 11/06 19:41] Oil Prices Head for 12% Weekly Loss Despite Fresh Tanker Attacks",
     "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Head-for-12-Weekly-Loss-Despite-Fresh-Tanker-Attacks.html",
     "source": "OilPrice"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/06 20:56",
+    "headline": "[속보 11/06 20:56] Hoax Bomb threats repeatedly disrupt flights across Europe this week. Here’s what we know",
+    "link": "https://www.cnbc.com/2026/11/05/bomb-threats-flights-europe.html",
+    "source": "CNBC"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/06 20:56",
+    "headline": "[속보 11/06 20:56] Hoax or bomb threats? What we know about flight disruptions across Europe",
+    "link": "https://www.aljazeera.com/news/2026/11/6/hoax-or-bomb-threats-what-we-know-about-flight-disruptions-across-europe?traffic_source=rss",
+    "source": "AlJazeera"
   }
 ]
