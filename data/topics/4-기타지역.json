@@ -1,13 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/23 02:56",
-    "headline": "[속보 10/23 02:56] US-sanctioned ICC wins top EU human rights award",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/us-sanctioned-icc-wins-top-eu-human-rights-award?traffic_source=rss",
-    "source": "AlJazeera"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/23 07:41",
     "headline": "[속보 10/23 07:41] US-sanctioned ICC wins Sakharov Prize, EU’s top human rights award",
     "link": "https://www.aljazeera.com/news/2026/10/22/us-sanctioned-icc-wins-sakharov-prize-eus-top-human-rights-award?traffic_source=rss",
@@ -1431,5 +1424,12 @@
     "headline": "[속보 11/06 06:41] Hoax bomb threats force emergency landings, evacuations across Europe",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/hoax-bomb-threats-force-emergency-landings-evacuations-across-europe?traffic_source=rss",
     "source": "AlJazeera"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/06 10:11",
+    "headline": "[속보 11/06 10:11] New wave of bomb hoaxes hits dozens of flights across Europe",
+    "link": "https://www.japantimes.co.jp/news/2026/11/06/world/crime-legal/europe-bomb-hoaxes-second-wave/",
+    "source": "JapanTimes"
   }
 ]
