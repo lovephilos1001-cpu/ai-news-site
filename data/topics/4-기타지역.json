@@ -1,13 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/26 17:26",
-    "headline": "[속보 10/26 17:26] Japan companies to compensate customers after major cyberattacks",
-    "link": "https://www.scmp.com/news/asia/east-asia/article/3372105/japan-companies-compensate-customers-after-major-cyberattacks",
-    "source": "SCMP"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/26 19:56",
     "headline": "[속보 10/26 19:56] Saudi-led coalition says it struck Houthi missile facilities",
     "link": "https://www.aljazeera.com/news/2026/10/26/saudi-led-coalition-says-it-struck-houthi-missile-facilities?traffic_source=rss",
@@ -1439,5 +1432,12 @@
     "headline": "[속보 11/07 00:56] New wave of bomb threats hit European airlines",
     "link": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss",
     "source": "BBC"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/07 01:11",
+    "headline": "[속보 11/07 01:11] New bomb threats target European broadcasters, air traffic",
+    "link": "https://www.aljazeera.com/news/2026/11/6/new-bomb-threats-target-european-broadcasters-air-traffic?traffic_source=rss",
+    "source": "AlJazeera"
   }
 ]
