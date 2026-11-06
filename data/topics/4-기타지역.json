@@ -1,41 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/23 16:41",
-    "headline": "[속보 10/23 16:41] Europe needs a war economy",
-    "link": "https://www.aljazeera.com/opinions/2026/10/23/europe-needs-a-war-economy?traffic_source=rss",
-    "source": "AlJazeera"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/23 18:41",
-    "headline": "[속보 10/23 18:41] Australia’s energy transition offers a warning to the world",
-    "link": "https://www.japantimes.co.jp/commentary/2026/10/23/world/australias-energy-transition/",
-    "source": "JapanTimes"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/23 19:56",
-    "headline": "[속보 10/23 19:56] South Korea invites North for military talks over border",
-    "link": "https://www.aljazeera.com/news/2026/10/23/south-korea-invites-north-for-military-talks-over-border?traffic_source=rss",
-    "source": "AlJazeera"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/24 03:26",
-    "headline": "[속보 10/24 03:26] Macron condemns ‘racist terrorist attack’ after deadly shooting near Paris",
-    "link": "https://www.scmp.com/news/world/europe/article/3371985/macron-condemns-racist-terrorist-attack-after-deadly-shooting-near-paris",
-    "source": "SCMP"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/24 04:11",
-    "headline": "[속보 10/24 04:11] Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
-    "link": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/24 04:56",
     "headline": "[속보 10/24 04:56] One killed as Elysee calls Paris area shooting ‘racist, terrorist attack’",
     "link": "https://www.aljazeera.com/news/2026/10/23/one-person-killed-in-suspected-islamophobic-shooting-near-paris?traffic_source=rss",
@@ -1431,5 +1396,45 @@
     "headline": "[속보 11/06 13:41] S. Korea to see warm, wet winter due to powerful El Nino",
     "link": "https://en.yna.co.kr/view/AEN20261106004500315",
     "source": "YonhapEN"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/06 16:00",
+    "headline": "Bomb threats disrupt dozens of flights across Europe, raising hybrid war fears",
+    "link": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears",
+    "source": "Guardian",
+    "comment": ""
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/06 16:00",
+    "headline": "Protesters march in cities across France as unions stage general strike",
+    "link": "https://www.theguardian.com/world/2026/nov/05/protesters-france-march-strikes-education-cost-of-living",
+    "source": "Guardian",
+    "comment": ""
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/06 16:00",
+    "headline": "Hoax bomb threats force emergency landings, evacuations across Europe",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/hoax-bomb-threats-force-emergency-landings-evacuations-across-europe?traffic_source=rss",
+    "source": "AlJazeera",
+    "comment": ""
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/06 16:00",
+    "headline": "New wave of bomb hoaxes hits dozens of flights across Europe",
+    "link": "https://www.japantimes.co.jp/news/2026/11/06/world/crime-legal/europe-bomb-hoaxes-second-wave/",
+    "source": "JapanTimes",
+    "comment": ""
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/06 16:00",
+    "headline": "Record-breaking El Nino raises prospect of warmer, wetter winter in Korea",
+    "link": "https://www.koreaherald.com/article/10928548",
+    "source": "KoreaHerald",
+    "comment": ""
   }
 ]
