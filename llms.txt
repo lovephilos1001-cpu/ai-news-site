@@ -17,6 +17,7 @@ https://marketbriefwire.com/paid/premium.json — $0.01/요청, x402 프로토�
 x402 사양: https://www.x402.org/
 
 ## 최근 브리핑
+- [[11/06 22:00] Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc](https://marketbriefwire.com/20261106-1302.html) — 11/06 22:00
 - [[11/06 16:00] Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc](https://marketbriefwire.com/20261106-0702.html) — 11/06 16:00
 - [[11/06 05:30] Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc](https://marketbriefwire.com/20261105-2031.html) — 11/06 05:30
 - [[11/05 22:00] 美 반도체 압박에 中 AI '이중고'…해외 우회로·공급망 모두 흔들 - 머니투데이 - 머니투데이](https://marketbriefwire.com/20261105-1302.html) — 11/05 22:00
@@ -36,4 +37,3 @@ x402 사양: https://www.x402.org/
 - [[11/01 05:30] “AI·반도체부터 해상풍력까지”…전남광주 과학기술계, 통합특별시 미래 청사진 제시 - 전자신문](https://marketbriefwire.com/20261031-2032.html) — 11/01 05:30
 - [[10/31 22:40] Intel’s Q3 Results Show Supply Chain Disruptions and PC Plunge](https://marketbriefwire.com/20261031-1342.html) — 10/31 22:40
 - [[10/31 22:36] 샘 올트먼, 삼성전자·SK하이닉스 동시 접촉…HBM 공급 확대될까, AI 반도체 전망은 - 톱스타뉴스](https://marketbriefwire.com/20261031-1338.html) — 10/31 22:36
-- [[10/31 22:07] 샘 올트먼, 삼성전자·SK하이닉스 동시 접촉…HBM 공급 확대될까, AI 반도체 전망은 - 톱스타뉴스](https://marketbriefwire.com/20261031-1309.html) — 10/31 22:07
