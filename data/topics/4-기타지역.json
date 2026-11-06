@@ -1,34 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/23 07:41",
-    "headline": "[속보 10/23 07:41] US-sanctioned ICC wins Sakharov Prize, EU’s top human rights award",
-    "link": "https://www.aljazeera.com/news/2026/10/22/us-sanctioned-icc-wins-sakharov-prize-eus-top-human-rights-award?traffic_source=rss",
-    "source": "AlJazeera"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/23 11:41",
-    "headline": "[속보 10/23 11:41] 'This is despicable': Amy Acton responds to Ohio attack ad featuring her estranged mother",
-    "link": "https://www.bbc.co.uk/news/articles/c6z981l59wnwo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/23 15:56",
-    "headline": "[속보 10/23 15:56] Africa faces ‘complex’ Ebola outbreak after spread to Nigeria, WHO warns",
-    "link": "https://www.japantimes.co.jp/news/2026/10/23/world/science-health/africa-complex-ebola-outbreak/",
-    "source": "JapanTimes"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/23 15:56",
-    "headline": "[속보 10/23 15:56] WHO warns Africa faces ‘complex’ Ebola outbreak as virus reaches Nigeria",
-    "link": "https://www.scmp.com/news/world/africa/article/3371887/who-warns-africa-faces-complex-ebola-outbreak-virus-reaches-nigeria",
-    "source": "SCMP"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/23 16:41",
     "headline": "[속보 10/23 16:41] Europe needs a war economy",
     "link": "https://www.aljazeera.com/opinions/2026/10/23/europe-needs-a-war-economy?traffic_source=rss",
@@ -1431,5 +1403,33 @@
     "headline": "[속보 11/06 10:11] New wave of bomb hoaxes hits dozens of flights across Europe",
     "link": "https://www.japantimes.co.jp/news/2026/11/06/world/crime-legal/europe-bomb-hoaxes-second-wave/",
     "source": "JapanTimes"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/06 13:26",
+    "headline": "[속보 11/06 13:26] Bomb threats disrupt dozens of flights across Europe, raising hybrid war fears",
+    "link": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears",
+    "source": "Guardian"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/06 13:26",
+    "headline": "[속보 11/06 13:26] Bank of England raises rates for first time since 2023 and warns more likely",
+    "link": "https://www.japantimes.co.jp/business/2026/11/06/economy/boe-raises-rates/",
+    "source": "JapanTimes"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/06 13:41",
+    "headline": "[속보 11/06 13:41] Record-breaking El Nino raises prospect of warmer, wetter winter in Korea",
+    "link": "https://www.koreaherald.com/article/10928548",
+    "source": "KoreaHerald"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/06 13:41",
+    "headline": "[속보 11/06 13:41] S. Korea to see warm, wet winter due to powerful El Nino",
+    "link": "https://en.yna.co.kr/view/AEN20261106004500315",
+    "source": "YonhapEN"
   }
 ]
