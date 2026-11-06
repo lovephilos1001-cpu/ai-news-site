@@ -1,34 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/26 22:11",
-    "headline": "[속보 10/26 22:11] Jordan arrests three suspects over church attack in dawn raid: What to know",
-    "link": "https://www.aljazeera.com/news/2026/10/26/jordan-arrests-three-suspects-over-church-attack-in-dawn-raid-what-to-know?traffic_source=rss",
-    "source": "AlJazeera"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/26 22:11",
-    "headline": "[속보 10/26 22:11] Jordan arrests 3 relatives over deadly church attack after shoot-out",
-    "link": "https://www.scmp.com/news/world/middle-east/article/3372198/jordan-arrests-3-relatives-over-deadly-church-attack-after-shoot-out",
-    "source": "SCMP"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/26 22:56",
-    "headline": "[속보 10/26 22:56] Chris Brown given suspended sentence over bottle attack at London club",
-    "link": "https://www.theguardian.com/music/2026/oct/26/chris-brown-suspended-sentence-bottle-attack-london-club",
-    "source": "Guardian"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/26 22:56",
-    "headline": "[속보 10/26 22:56] Chris Brown given suspended eight-month prison sentence over nightclub attack",
-    "link": "https://www.bbc.co.uk/news/articles/cq3dje4g4d5jo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/27 00:56",
     "headline": "[속보 10/27 00:56] Egyptian parliament authorises military aid for Saudi Arabia",
     "link": "https://www.aljazeera.com/news/2026/10/26/egyptian-parliament-authorises-military-aid-for-saudi-arabia?traffic_source=rss",
@@ -1439,5 +1411,37 @@
     "headline": "[속보 11/07 04:56] European flights and broadcasters are targeted with another wave of bomb threats",
     "link": "https://www.npr.org/2026/11/06/nx-s1-6032612/europe-flights-hoaxes",
     "source": "NPR"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/07 05:30",
+    "headline": "Further bomb threats disrupt at least another 18 flights across Europe",
+    "link": "https://www.theguardian.com/world/2026/nov/06/further-bomb-threats-disrupt-flights-across-europe",
+    "source": "Guardian",
+    "comment": ""
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/07 05:30",
+    "headline": "European flights and broadcasters are targeted with another wave of bomb threats",
+    "link": "https://www.npr.org/2026/11/06/nx-s1-6032612/europe-flights-hoaxes",
+    "source": "NPR",
+    "comment": ""
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/07 05:30",
+    "headline": "New wave of bomb threats hit European airlines",
+    "link": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "comment": ""
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/07 05:30",
+    "headline": "‘Clock is ticking’: European TV channels targeted in wave of hoax bomb threats",
+    "link": "https://www.scmp.com/news/world/europe/article/3373611/clock-ticking-european-tv-channels-targeted-wave-hoax-bomb-threats",
+    "source": "SCMP",
+    "comment": ""
   }
 ]
