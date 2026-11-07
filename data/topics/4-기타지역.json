@@ -1,13 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/27 09:56",
-    "headline": "[속보 10/27 09:56] England’s Harry Kane wins Ballon d’Or, Alexia Putellas takes women’s award",
-    "link": "https://www.aljazeera.com/sports/2026/10/26/englands-harry-kane-wins-ballon-dor-alexia-putellas-takes-womens-award?traffic_source=rss",
-    "source": "AlJazeera"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/27 10:26",
     "headline": "[속보 10/27 10:26] Australia to host USS Colorado as first US nuclear submarine under Aukus pact",
     "link": "https://www.scmp.com/news/asia/australasia/article/3372225/australia-host-uss-colorado-first-us-nuclear-submarine-under-aukus-pact",
@@ -1446,5 +1439,12 @@
     "headline": "[속보 11/07 19:26] Spate of bomb threats poses serious challenge to airline industry",
     "link": "https://www.bbc.co.uk/news/articles/cv8ezz9yn6pyo?at_medium=RSS&at_campaign=rss",
     "source": "BBC"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/07 20:26",
+    "headline": "[속보 11/07 20:26] Court issues arrest warrant for woman accused of stabbing doctor at hospital",
+    "link": "https://www.koreaherald.com/article/10929349",
+    "source": "KoreaHerald"
   }
 ]
