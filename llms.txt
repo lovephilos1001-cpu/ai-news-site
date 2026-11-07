@@ -17,6 +17,7 @@ https://marketbriefwire.com/paid/premium.json — $0.01/요청, x402 프로토�
 x402 사양: https://www.x402.org/
 
 ## 최근 브리핑
+- [[11/07 22:00] Investors brace for lower Anthropic valuation, calling $1.5 trillion a 'stretch'](https://marketbriefwire.com/20261107-1302.html) — 11/07 22:00
 - [[11/07 16:00] Investors brace for lower Anthropic valuation, calling $1.5 trillion a 'stretch'](https://marketbriefwire.com/20261107-0702.html) — 11/07 16:00
 - [[11/07 05:30] "TSMC, 첨단 AI 메모리 반도체 생산 검토…엔비디아 요청" - 연합인포맥스](https://marketbriefwire.com/20261106-2032.html) — 11/07 05:30
 - [[11/06 22:00] Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc](https://marketbriefwire.com/20261106-1302.html) — 11/06 22:00
@@ -36,4 +37,3 @@ x402 사양: https://www.x402.org/
 - [[11/02 05:30] 이재용, AI 반도체 승부처 ‘패키징’ 챙긴다… 日소부장 협력 확대 - 서울신문](https://marketbriefwire.com/20261101-2031.html) — 11/02 05:30
 - [[11/01 22:00] 이재용, 일본서 첨단 패키징 점검…소부장 협력 모색 - 매일경제 마켓](https://marketbriefwire.com/20261101-1302.html) — 11/01 22:00
 - [[11/01 16:00] “월요일 주식앱 열기 겁난다”…AI·반도체 주가에 불어닥친 삭풍 - 서울신문](https://marketbriefwire.com/20261101-0702.html) — 11/01 16:00
-- [[11/01 05:30] “AI·반도체부터 해상풍력까지”…전남광주 과학기술계, 통합특별시 미래 청사진 제시 - 전자신문](https://marketbriefwire.com/20261031-2032.html) — 11/01 05:30

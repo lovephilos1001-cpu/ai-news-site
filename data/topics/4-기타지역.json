@@ -1,34 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/27 10:26",
-    "headline": "[속보 10/27 10:26] Australia to host USS Colorado as first US nuclear submarine under Aukus pact",
-    "link": "https://www.scmp.com/news/asia/australasia/article/3372225/australia-host-uss-colorado-first-us-nuclear-submarine-under-aukus-pact",
-    "source": "SCMP"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/27 10:41",
-    "headline": "[속보 10/27 10:41] Kane crowned Ballon d’Or winner as Putellas wins women’s award",
-    "link": "https://www.japantimes.co.jp/sports/2026/10/27/soccer/ballon-kane-putellas/",
-    "source": "JapanTimes"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/27 12:11",
-    "headline": "[속보 10/27 12:11] Jordan says 'terrorists' killed in Syria in retaliatory strike over church attack",
-    "link": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/27 12:41",
-    "headline": "[속보 10/27 12:41] Jordan carries out deadly strike in Syria in retaliation for church attack",
-    "link": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/27 14:26",
     "headline": "[속보 10/27 14:26] Jordan strikes Syria after church attack, killing at least seven people",
     "link": "https://www.aljazeera.com/news/2026/10/26/jordan-launches-air-strikes-in-syria-in-response-to-a-fatal-church-shooting?traffic_source=rss",
@@ -1446,5 +1418,37 @@
     "headline": "[속보 11/07 20:26] Court issues arrest warrant for woman accused of stabbing doctor at hospital",
     "link": "https://www.koreaherald.com/article/10929349",
     "source": "KoreaHerald"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/07 22:00",
+    "headline": "Further bomb threats disrupt at least another 18 flights across Europe",
+    "link": "https://www.theguardian.com/world/2026/nov/06/further-bomb-threats-disrupt-flights-across-europe",
+    "source": "Guardian",
+    "comment": ""
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/07 22:00",
+    "headline": "European flights and broadcasters are targeted with another wave of bomb threats",
+    "link": "https://www.npr.org/2026/11/06/nx-s1-6032612/europe-flights-hoaxes",
+    "source": "NPR",
+    "comment": ""
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/07 22:00",
+    "headline": "New wave of bomb threats hit European airlines",
+    "link": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "comment": ""
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/07 22:00",
+    "headline": "Spate of bomb threats poses serious challenge to airline industry",
+    "link": "https://www.bbc.co.uk/news/articles/cv8ezz9yn6pyo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "comment": ""
   }
 ]
