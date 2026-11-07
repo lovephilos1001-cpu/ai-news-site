@@ -1,34 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/28 06:11",
-    "headline": "[속보 10/28 06:11] US says it killed five people in strike on alleged drug boat",
-    "link": "https://www.aljazeera.com/news/2026/10/27/us-says-it-killed-five-people-in-strike-on-alleged-drug-boat?traffic_source=rss",
-    "source": "AlJazeera"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/28 14:56",
-    "headline": "[속보 10/28 14:56] Oil prices rise as Houthi attacks on Saudi Arabian refinery raise supply worries",
-    "link": "https://www.cnbc.com/2026/10/28/oil-price-today-wti-brent-hormuz.html",
-    "source": "CNBC"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/28 14:56",
-    "headline": "[속보 10/28 14:56] Oil Prices Climb as Houthi Attacks Reignite Saudi Supply Fears",
-    "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Climb-as-Houthi-Attacks-Reignite-Saudi-Supply-Fears.html",
-    "source": "OilPrice"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/28 22:41",
-    "headline": "[속보 10/28 22:41] AI-powered cyberattacks on websites surge",
-    "link": "https://www.japantimes.co.jp/news/2026/10/28/japan/crime-legal/cyberattacks-ai-website-weaknesses/",
-    "source": "JapanTimes"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/29 04:11",
     "headline": "[속보 10/29 04:11] Why the Shipping Industry Is Turning Its Attention to Nuclear Power",
     "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Why-the-Shipping-Industry-Is-Turning-Its-Attention-to-Nuclear-Power.html",
@@ -1450,5 +1422,37 @@
     "headline": "[속보 11/08 04:56] What we know so far after Polish gunman in military clothing opens fire in Krakow",
     "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
     "source": "BBC"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/08 05:30",
+    "headline": "Houthis say at least 25 killed in Saudi air strike",
+    "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "comment": ""
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/08 05:30",
+    "headline": "Malaysian king warns against defying house arrest order for ex-PM Najib",
+    "link": "https://www.aljazeera.com/news/2026/11/7/malaysian-king-warns-against-defying-house-arrest-order-for-ex-pm-najib?traffic_source=rss",
+    "source": "AlJazeera",
+    "comment": ""
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/08 05:30",
+    "headline": "Houthis report 25 killed in Yemen strikes",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/houthis-report-25-killed-in-yemen-strikes?traffic_source=rss",
+    "source": "AlJazeera",
+    "comment": ""
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/08 05:30",
+    "headline": "Guatemalan lawmaker and three police officers killed in armed attack",
+    "link": "https://www.aljazeera.com/news/2026/11/7/guatemalan-lawmaker-and-three-police-officers-killed-in-armed-attack?traffic_source=rss",
+    "source": "AlJazeera",
+    "comment": ""
   }
 ]
