@@ -1,27 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/28 04:11",
-    "headline": "[속보 10/28 04:11] The Diesel Crisis Is Here To Stay",
-    "link": "https://oilprice.com/Energy/Crude-Oil/The-Diesel-Crisis-Is-Here-To-Stay.html",
-    "source": "OilPrice"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/28 04:26",
-    "headline": "[속보 10/28 04:26] Deadly tornado strikes construction site in Turkiye",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/deadly-tornado-strikes-construction-site-in-turkiye?traffic_source=rss",
-    "source": "AlJazeera"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/28 06:11",
-    "headline": "[속보 10/28 06:11] US military says strike on alleged drug vessel in eastern Pacific kills five people",
-    "link": "https://www.theguardian.com/us-news/2026/oct/27/us-military-strike-vessel-eastern-pacific",
-    "source": "Guardian"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/28 06:11",
     "headline": "[속보 10/28 06:11] US says it killed five people in strike on alleged drug boat",
     "link": "https://www.aljazeera.com/news/2026/10/27/us-says-it-killed-five-people-in-strike-on-alleged-drug-boat?traffic_source=rss",
@@ -1450,5 +1429,26 @@
     "headline": "[속보 11/08 03:11] Houthis report 25 killed in Yemen strikes",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/houthis-report-25-killed-in-yemen-strikes?traffic_source=rss",
     "source": "AlJazeera"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/08 04:41",
+    "headline": "[속보 11/08 04:41] Malaysian king warns against defying house arrest order for ex-PM Najib",
+    "link": "https://www.aljazeera.com/news/2026/11/7/malaysian-king-warns-against-defying-house-arrest-order-for-ex-pm-najib?traffic_source=rss",
+    "source": "AlJazeera"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/08 04:41",
+    "headline": "[속보 11/08 04:41] Malaysia’s king warns against challenging Najib’s house arrest",
+    "link": "https://www.scmp.com/news/asia/southeast-asia/article/3373642/malaysias-king-warns-against-challenging-najibs-house-arrest",
+    "source": "SCMP"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/08 04:56",
+    "headline": "[속보 11/08 04:56] What we know so far after Polish gunman in military clothing opens fire in Krakow",
+    "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC"
   }
 ]
