@@ -1,13 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/27 09:26",
-    "headline": "[속보 10/27 09:26] Jordan attacks Syria in response to Karak church attack",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/jordan-attacks-syria-in-response-to-karak-church-attack?traffic_source=rss",
-    "source": "AlJazeera"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/27 09:56",
     "headline": "[속보 10/27 09:56] England’s Harry Kane wins Ballon d’Or, Alexia Putellas takes women’s award",
     "link": "https://www.aljazeera.com/sports/2026/10/26/englands-harry-kane-wins-ballon-dor-alexia-putellas-takes-womens-award?traffic_source=rss",
@@ -1446,5 +1439,12 @@
     "link": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
     "comment": ""
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/07 19:26",
+    "headline": "[속보 11/07 19:26] Spate of bomb threats poses serious challenge to airline industry",
+    "link": "https://www.bbc.co.uk/news/articles/cv8ezz9yn6pyo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC"
   }
 ]
