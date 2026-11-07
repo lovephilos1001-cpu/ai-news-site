@@ -1,20 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/27 17:41",
-    "headline": "[속보 10/27 17:41] IEA Warns of Dangerous Concentration in Global Clean Energy Supply Chains",
-    "link": "https://oilprice.com/Latest-Energy-News/World-News/IEA-Warns-of-Dangerous-Concentration-in-Global-Clean-Energy-Supply-Chains.html",
-    "source": "OilPrice"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/27 19:18",
-    "headline": "[속보 10/27 19:18] Jordan attacks militants in Syria in retaliation for church attack",
-    "link": "https://www.theguardian.com/world/2026/oct/26/jordan-attacks-militants-syria-retaliation-for-last-week-church-attack",
-    "source": "Guardian"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/28 04:11",
     "headline": "[속보 10/28 04:11] The Diesel Crisis Is Here To Stay",
     "link": "https://oilprice.com/Energy/Crude-Oil/The-Diesel-Crisis-Is-Here-To-Stay.html",
@@ -1450,5 +1436,19 @@
     "headline": "[속보 11/08 01:26] Guatemalan lawmaker, 3 police officers killed in armed attack",
     "link": "https://www.scmp.com/news/world/americas/article/3373663/guatemalan-lawmaker-3-police-officers-killed-armed-attack",
     "source": "SCMP"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/08 03:11",
+    "headline": "[속보 11/08 03:11] Houthis say at least 25 killed in Saudi air strike",
+    "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/08 03:11",
+    "headline": "[속보 11/08 03:11] Houthis report 25 killed in Yemen strikes",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/houthis-report-25-killed-in-yemen-strikes?traffic_source=rss",
+    "source": "AlJazeera"
   }
 ]
