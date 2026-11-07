@@ -1,27 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/27 00:56",
-    "headline": "[속보 10/27 00:56] Egyptian parliament authorises military aid for Saudi Arabia",
-    "link": "https://www.aljazeera.com/news/2026/10/26/egyptian-parliament-authorises-military-aid-for-saudi-arabia?traffic_source=rss",
-    "source": "AlJazeera"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/27 08:50",
-    "headline": "[속보 10/27 08:50] Jordan arrests three suspects over deadly church attack",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/jordan-arrests-three-suspects-over-deadly-church-attack?traffic_source=rss",
-    "source": "AlJazeera"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/27 09:26",
-    "headline": "[속보 10/27 09:26] Jordan attacks militants in Syria in retaliation for last week’s church attack",
-    "link": "https://www.theguardian.com/world/2026/oct/26/jordan-attacks-militants-syria-retaliation-for-last-week-church-attack",
-    "source": "Guardian"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/27 09:26",
     "headline": "[속보 10/27 09:26] Jordan attacks Syria in response to Karak church attack",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/jordan-attacks-syria-in-response-to-karak-church-attack?traffic_source=rss",
@@ -1442,6 +1421,30 @@
     "headline": "‘Clock is ticking’: European TV channels targeted in wave of hoax bomb threats",
     "link": "https://www.scmp.com/news/world/europe/article/3373611/clock-ticking-european-tv-channels-targeted-wave-hoax-bomb-threats",
     "source": "SCMP",
+    "comment": ""
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/07 16:00",
+    "headline": "Further bomb threats disrupt at least another 18 flights across Europe",
+    "link": "https://www.theguardian.com/world/2026/nov/06/further-bomb-threats-disrupt-flights-across-europe",
+    "source": "Guardian",
+    "comment": ""
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/07 16:00",
+    "headline": "European flights and broadcasters are targeted with another wave of bomb threats",
+    "link": "https://www.npr.org/2026/11/06/nx-s1-6032612/europe-flights-hoaxes",
+    "source": "NPR",
+    "comment": ""
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/07 16:00",
+    "headline": "New wave of bomb threats hit European airlines",
+    "link": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
     "comment": ""
   }
 ]
