@@ -1,34 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "11/01 05:30",
-    "headline": "Protests under way in Germany and France as minister warns against use of Halloween masks – Europe live",
-    "link": "https://www.theguardian.com/world/live/2026/oct/31/france-germany-protests-paris-europe-latest-news-updates",
-    "source": "Guardian"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "11/01 10:56",
-    "headline": "[속보 11/01 10:56] N. Korea tests cluster bomb mountable on tactical ballistic missiles",
-    "link": "https://www.koreaherald.com/article/10921603",
-    "source": "KoreaHerald"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "11/01 10:56",
-    "headline": "[속보 11/01 10:56] (LEAD) N. Korea tests cluster bomb mountable on tactical ballistic missiles",
-    "link": "https://en.yna.co.kr/view/AEN20261101000451315",
-    "source": "YonhapEN"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "11/01 16:00",
-    "headline": "N. Korea tests cluster bomb mountable on tactical ballistic missiles",
-    "link": "https://www.koreaherald.com/article/10921603",
-    "source": "KoreaHerald"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "11/01 22:00",
     "headline": "Ethiopian PM puts ministers through military training",
     "link": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&at_campaign=rss",
@@ -1462,6 +1434,38 @@
     "headline": "US military officials visit HD Hyundai shipyard to assess shipbuilding capabilities",
     "link": "https://www.koreaherald.com/article/10929802",
     "source": "KoreaHerald",
+    "comment": ""
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/09 05:30",
+    "headline": "US military officials visit HD Hyundai shipyard to assess shipbuilding capabilities",
+    "link": "https://www.koreaherald.com/article/10929802",
+    "source": "KoreaHerald",
+    "comment": ""
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/09 05:30",
+    "headline": "U.S. military officials visit HD Hyundai shipyard to assess shipbuilding capabilities",
+    "link": "https://en.yna.co.kr/view/AEN20261108003800315",
+    "source": "YonhapEN",
+    "comment": ""
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/09 05:30",
+    "headline": "Lisa Nandy wary of ‘circular arguments’ about rejoining EU",
+    "link": "https://www.theguardian.com/politics/2026/nov/08/lisa-nandy-wary-of-circular-arguments-about-rejoining-eu",
+    "source": "Guardian",
+    "comment": ""
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/09 05:30",
+    "headline": "Houthis say at least 33 killed in Saudi air strike",
+    "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
     "comment": ""
   }
 ]
