@@ -1,34 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/31 03:56",
-    "headline": "[속보 10/31 03:56] Oman rescues 25 from burning oil tanker in Strait of Hormuz",
-    "link": "https://www.aljazeera.com/news/2026/10/30/oman-rescues-25-from-burning-oil-tanker-in-strait-of-hormuz?traffic_source=rss",
-    "source": "AlJazeera"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/31 03:56",
-    "headline": "[속보 10/31 03:56] Brent Hits $117 as Tanker Catches Fire in Strait of Hormuz",
-    "link": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Hits-117-as-Tanker-Catches-Fire-in-Strait-of-Hormuz.html",
-    "source": "OilPrice"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/31 12:11",
-    "headline": "[속보 10/31 12:11] Hundreds evacuated from Melania-brokered ceasefire town of Oleshky",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/hundreds-evacuated-from-melania-brokered-ceasefire-town-of-oleshky?traffic_source=rss",
-    "source": "AlJazeera"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "11/01 05:30",
-    "headline": "Storm warnings for Melbourne, Canberra, Sydney and Brisbane as cold front ‘packs a punch’",
-    "link": "https://www.theguardian.com/australia-news/2026/oct/31/weather-bom-storm-warnings-melbourne-canberra-sydney-brisbane",
-    "source": "Guardian"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "11/01 05:30",
     "headline": "Protests under way in Germany and France as minister warns against use of Halloween masks – Europe live",
     "link": "https://www.theguardian.com/world/live/2026/oct/31/france-germany-protests-paris-europe-latest-news-updates",
@@ -1459,5 +1431,37 @@
     "headline": "[속보 11/08 20:56] U.S. military officials visit HD Hyundai shipyard to assess shipbuilding capabilities",
     "link": "https://en.yna.co.kr/view/AEN20261108003800315",
     "source": "YonhapEN"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/08 22:00",
+    "headline": "US military attacks cargo ship in the Gulf of Oman",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/us-military-attacks-cargo-ship-in-the-gulf-of-oman?traffic_source=rss",
+    "source": "AlJazeera",
+    "comment": ""
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/08 22:00",
+    "headline": "Saudi Aramco building in Riyadh damaged in ‘attempted’ attack",
+    "link": "https://www.aljazeera.com/news/2026/11/8/saudi-arabia-intercepts-houthi-missiles-targeting-riyadh-eastern-province?traffic_source=rss",
+    "source": "AlJazeera",
+    "comment": ""
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/08 22:00",
+    "headline": "Saudi Aramco building in Riyadh damaged in attempted attack",
+    "link": "https://www.scmp.com/news/world/middle-east/article/3373700/saudi-aramco-building-riyadh-damaged-attempted-attack",
+    "source": "SCMP",
+    "comment": ""
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/08 22:00",
+    "headline": "US military officials visit HD Hyundai shipyard to assess shipbuilding capabilities",
+    "link": "https://www.koreaherald.com/article/10929802",
+    "source": "KoreaHerald",
+    "comment": ""
   }
 ]

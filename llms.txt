@@ -17,6 +17,7 @@ https://marketbriefwire.com/paid/premium.json — $0.01/요청, x402 프로토�
 x402 사양: https://www.x402.org/
 
 ## 최근 브리핑
+- [[11/08 22:00] AI·서버 주도로 재편되는 대만 반도체 공급망… 韓 소부장·팹리스에 새 협력 창구 열린다 - 기계신문](https://marketbriefwire.com/20261108-1302.html) — 11/08 22:00
 - [[11/08 16:00] AI·서버 주도로 재편되는 대만 반도체 공급망… 韓 소부장·팹리스에 새 협력 창구 열린다 - 기계신문](https://marketbriefwire.com/20261108-0702.html) — 11/08 16:00
 - [[11/08 05:30] Investors brace for lower Anthropic valuation, calling $1.5 trillion a 'stretch'](https://marketbriefwire.com/20261107-2032.html) — 11/08 05:30
 - [[11/07 22:00] Investors brace for lower Anthropic valuation, calling $1.5 trillion a 'stretch'](https://marketbriefwire.com/20261107-1302.html) — 11/07 22:00
@@ -36,4 +37,3 @@ x402 사양: https://www.x402.org/
 - [[11/03 05:30] Hardware Defense Blocks Memory-Dependent Prefetcher Leakage (KU Leuven)](https://marketbriefwire.com/20261102-2032.html) — 11/03 05:30
 - [[11/02 22:00] AI 반도체 넘어 냉각·전력·부품으로⋯ K-데이터센터 공급망 커진다 - 브릿지경제](https://marketbriefwire.com/20261102-1302.html) — 11/02 22:00
 - [[11/02 16:00] AI 반도체 넘어 냉각·전력·부품으로⋯ K-데이터센터 공급망 커진다 - 브릿지경제](https://marketbriefwire.com/20261102-0702.html) — 11/02 16:00
-- [[11/02 05:30] 이재용, AI 반도체 승부처 ‘패키징’ 챙긴다… 日소부장 협력 확대 - 서울신문](https://marketbriefwire.com/20261101-2031.html) — 11/02 05:30
