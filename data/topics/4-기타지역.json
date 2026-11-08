@@ -1,34 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/30 16:41",
-    "headline": "[속보 10/30 16:41] Houthi forces claim six attacks on Saudi airports, oil facilities",
-    "link": "https://www.aljazeera.com/news/2026/10/30/houthi-forces-claim-six-attacks-on-saudi-airports-oil-facilities?traffic_source=rss",
-    "source": "AlJazeera"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/30 16:41",
-    "headline": "[속보 10/30 16:41] Houthis Claim Fresh Strikes on Saudi Oil Refineries and Aramco Facilities",
-    "link": "https://oilprice.com/Latest-Energy-News/World-News/Houthis-Claim-Fresh-Strikes-on-Saudi-Oil-Refineries-and-Aramco-Facilities.html",
-    "source": "OilPrice"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/30 20:41",
-    "headline": "[속보 10/30 20:41] BP Quadruples Profit to Record as War Boosts Refining and Trading",
-    "link": "https://oilprice.com/Latest-Energy-News/World-News/BP-Quadruples-Profit-to-Record-as-War-Boosts-Refining-and-Trading.html",
-    "source": "OilPrice"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "10/31 01:11",
-    "headline": "[속보 10/31 01:11] Late Canadian Army officer named Korean War hero of Nov.",
-    "link": "https://www.koreaherald.com/article/10920981",
-    "source": "KoreaHerald"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/31 03:56",
     "headline": "[속보 10/31 03:56] Oman rescues 25 from burning oil tanker in Strait of Hormuz",
     "link": "https://www.aljazeera.com/news/2026/10/30/oman-rescues-25-from-burning-oil-tanker-in-strait-of-hormuz?traffic_source=rss",
@@ -1459,5 +1431,33 @@
     "headline": "[속보 11/08 17:56] US military says it fired on commercial vessel in Gulf of Oman after it attempted to breach blockade",
     "link": "https://www.koreaherald.com/article/10929590",
     "source": "KoreaHerald"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/08 20:41",
+    "headline": "[속보 11/08 20:41] Saudi Aramco building in Riyadh damaged in ‘attempted’ attack",
+    "link": "https://www.aljazeera.com/news/2026/11/8/saudi-arabia-intercepts-houthi-missiles-targeting-riyadh-eastern-province?traffic_source=rss",
+    "source": "AlJazeera"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/08 20:41",
+    "headline": "[속보 11/08 20:41] Saudi Aramco building in Riyadh damaged in attempted attack",
+    "link": "https://www.scmp.com/news/world/middle-east/article/3373700/saudi-aramco-building-riyadh-damaged-attempted-attack",
+    "source": "SCMP"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/08 20:56",
+    "headline": "[속보 11/08 20:56] US military officials visit HD Hyundai shipyard to assess shipbuilding capabilities",
+    "link": "https://www.koreaherald.com/article/10929802",
+    "source": "KoreaHerald"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/08 20:56",
+    "headline": "[속보 11/08 20:56] U.S. military officials visit HD Hyundai shipyard to assess shipbuilding capabilities",
+    "link": "https://en.yna.co.kr/view/AEN20261108003800315",
+    "source": "YonhapEN"
   }
 ]
