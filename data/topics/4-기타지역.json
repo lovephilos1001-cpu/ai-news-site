@@ -1,13 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "10/29 04:11",
-    "headline": "[속보 10/29 04:11] Why the Shipping Industry Is Turning Its Attention to Nuclear Power",
-    "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Why-the-Shipping-Industry-Is-Turning-Its-Attention-to-Nuclear-Power.html",
-    "source": "OilPrice"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "10/29 06:41",
     "headline": "[속보 10/29 06:41] Here are five key takeaways from the Fed rate decision and Warsh news conference",
     "link": "https://www.cnbc.com/2026/10/28/fed-rate-decision-warsh-takeaways.html",
@@ -1454,5 +1447,12 @@
     "link": "https://www.aljazeera.com/news/2026/11/7/guatemalan-lawmaker-and-three-police-officers-killed-in-armed-attack?traffic_source=rss",
     "source": "AlJazeera",
     "comment": ""
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/08 12:56",
+    "headline": "[속보 11/08 12:56] New mass protests in France as police seek to thwart banned rally",
+    "link": "https://www.koreaherald.com/article/10929593",
+    "source": "KoreaHerald"
   }
 ]
