@@ -1,13 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "11/02 16:41",
-    "headline": "[속보 11/02 16:41] (LEAD) Daewoo E&C seeks gov't mediation in dispute over Czech nuclear project",
-    "link": "https://en.yna.co.kr/view/AEN20261102007251320",
-    "source": "YonhapEN"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "11/02 17:26",
     "headline": "[속보 11/02 17:26] Award‑winning Australian children’s author Craig Silvey jailed over child exploitation material",
     "link": "https://www.theguardian.com/australia-news/2026/nov/02/australian-author-craig-silvey-jailed-child-exploitation-material-ntwnfb",
@@ -1476,5 +1469,12 @@
     "headline": "[속보 11/10 02:56] French PM brings forward minimum wage hike to calm protesters",
     "link": "https://www.scmp.com/news/world/europe/article/3373836/french-pm-brings-forward-minimum-wage-hike-calm-protesters",
     "source": "SCMP"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/10 05:26",
+    "headline": "[속보 11/10 05:26] Explosion at Turkish steel plant kills at least 16 people",
+    "link": "https://www.aljazeera.com/news/2026/11/9/explosion-at-turkish-steel-plant-kills-at-least-16-people?traffic_source=rss",
+    "source": "AlJazeera"
   }
 ]
