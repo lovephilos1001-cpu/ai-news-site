@@ -1,20 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "11/02 09:11",
-    "headline": "[속보 11/02 09:11] Seoul to launch emergency response system for Czech nuclear project",
-    "link": "https://www.koreaherald.com/article/10922159",
-    "source": "KoreaHerald"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "11/02 09:41",
-    "headline": "[속보 11/02 09:41] France launches attempted murder investigation after petrol bomb thrown at police",
-    "link": "https://www.bbc.co.uk/news/articles/cwvg05z184j0o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "11/02 09:41",
     "headline": "[속보 11/02 09:41] N. Korea denounces S Korea-US joint military drills, vows to bolster nuclear deterrent",
     "link": "https://www.koreaherald.com/article/10922223",
@@ -1467,5 +1453,19 @@
     "headline": "[속보 11/09 10:41] Hanwha Aerospace to conduct ship-based Chunmoo missile tests in U.S.",
     "link": "https://en.yna.co.kr/view/AEN20261109002600320",
     "source": "YonhapEN"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/09 11:56",
+    "headline": "[속보 11/09 11:56] Drone attack on Iraqi Kurdistan gas field triggers mass blackout",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/drone-attack-on-iraqi-kurdistan-gas-field-triggers-mass-blackout?traffic_source=rss",
+    "source": "AlJazeera"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/09 11:56",
+    "headline": "[속보 11/09 11:56] Drone attack on Iraq gas field causes power outages",
+    "link": "https://www.scmp.com/news/world/middle-east/article/3373721/attack-iraq-gas-complex-disrupts-supply-regions-power-plants-authorities-say",
+    "source": "SCMP"
   }
 ]
