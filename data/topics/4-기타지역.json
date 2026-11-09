@@ -1,13 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "11/02 20:41",
-    "headline": "[속보 11/02 20:41] Supermarket freezers in Belgium and Sweden hit by suspected cyber-attack",
-    "link": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "11/02 21:11",
     "headline": "[속보 11/02 21:11] Supermarket freezers in Belgium, Sweden and Luxembourg hit by suspected cyber-attack",
     "link": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
@@ -1479,5 +1472,12 @@
     "link": "https://www.theguardian.com/technology/2026/nov/09/cyber-attack-french-supermarket-freezers-iran-europe",
     "source": "Guardian",
     "comment": ""
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/10 05:56",
+    "headline": "[속보 11/10 05:56] Deadly explosion at Iron and steel plant in Turkiye",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/deadly-explosion-at-iron-and-steel-plant-in-turkiye?traffic_source=rss",
+    "source": "AlJazeera"
   }
 ]
