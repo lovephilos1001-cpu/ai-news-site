@@ -253,6 +253,11 @@
       "url": "https://marketbriefwire.com/data/topics/7-fashionhot10usmale.json"
     },
     {
+      "hall": "8",
+      "hall_name": "미국 정치",
+      "url": "https://marketbriefwire.com/data/topics/8-trumpelectionfraudclaims.json"
+    },
+    {
       "hall": "_commodity_cache",
       "hall_name": "",
       "url": "https://marketbriefwire.com/data/topics/_commodity_cache.json"

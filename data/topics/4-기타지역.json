@@ -1,13 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "11/02 21:56",
-    "headline": "[속보 11/02 21:56] Shop freezers in six European countries hit by suspected cyber-attack",
-    "link": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "11/02 22:00",
     "headline": "Award‑winning Australian children’s author Craig Silvey jailed over child exploitation material",
     "link": "https://www.theguardian.com/australia-news/2026/nov/02/australian-author-craig-silvey-jailed-child-exploitation-material-ntwnfb",
@@ -1479,5 +1472,12 @@
     "headline": "[속보 11/10 06:11] Why Sudan's Civil War Is Becoming a U.S. National Security Threat",
     "link": "https://oilprice.com/Geopolitics/Africa/Why-Sudans-Civil-War-Is-Becoming-a-US-National-Security-Threat.html",
     "source": "OilPrice"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/10 07:26",
+    "headline": "[속보 11/10 07:26] Saudi Arabia reports new attack on key East-West pipeline",
+    "link": "https://www.aljazeera.com/news/2026/11/9/saudi-arabia-reports-new-attack-on-key-east-west-pipeline?traffic_source=rss",
+    "source": "AlJazeera"
   }
 ]
