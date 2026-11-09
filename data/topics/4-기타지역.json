@@ -1,34 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "11/02 14:56",
-    "headline": "[속보 11/02 14:56] Daewoo E&C seeks gov't mediation in dispute over Czech nuclear project",
-    "link": "https://en.yna.co.kr/view/AEN20261102007200320",
-    "source": "YonhapEN"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "11/02 16:00",
-    "headline": "Attempted murder probe after petrol bomb thrown at French riot police",
-    "link": "https://www.theguardian.com/world/2026/nov/01/petrol-bomb-thrown-at-french-riot-police",
-    "source": "Guardian"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "11/02 16:00",
-    "headline": "France launches attempted murder investigation after petrol bomb thrown at police",
-    "link": "https://www.bbc.co.uk/news/articles/cwvg05z184j0o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "11/02 16:00",
-    "headline": "Armed police start patrols in Sydney after Bondi Beach attack",
-    "link": "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro?at_medium=RSS&at_campaign=rss",
-    "source": "BBC"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "11/02 16:26",
     "headline": "[속보 11/02 16:26] UN warns of security risks in Western Sahara as peacekeeping mission ends",
     "link": "https://www.aljazeera.com/news/2026/11/1/un-warns-of-security-risks-in-western-sahara-as-peacekeeping-mission-ends?traffic_source=rss",
@@ -1471,6 +1443,38 @@
     "headline": "Lisa Nandy wary of ‘circular arguments’ about rejoining EU",
     "link": "https://www.theguardian.com/politics/2026/nov/08/lisa-nandy-wary-of-circular-arguments-about-rejoining-eu",
     "source": "Guardian",
+    "comment": ""
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/09 22:00",
+    "headline": "Late Hyosung honorary chairman receives Korea-U.S. Friendship Award",
+    "link": "https://en.yna.co.kr/view/AEN20261109002100320",
+    "source": "YonhapEN",
+    "comment": ""
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/09 22:00",
+    "headline": "‘It’s a feeling of being screwed over’: once-quiet village despairs over ‘monster’ warehouse",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/09/astley-village-despair-monster-warehouse-inquiry",
+    "source": "Guardian",
+    "comment": ""
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/09 22:00",
+    "headline": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
+    "link": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "comment": ""
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/09 22:00",
+    "headline": "Usman Khawaja’s ‘Sandpapergate’ claims are ‘accurate’, says David Warner",
+    "link": "https://www.aljazeera.com/sports/2026/11/9/usman-khawajas-sandpapergate-claims-are-accurate-says-david-warner?traffic_source=rss",
+    "source": "AlJazeera",
     "comment": ""
   }
 ]
