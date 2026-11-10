@@ -17,6 +17,7 @@ https://marketbriefwire.com/paid/premium.json — $0.01/요청, x402 프로토�
 x402 사양: https://www.x402.org/
 
 ## 최근 브리핑
+- [[11/10 22:35] Reducing Lithography Learning Cycles To Accelerate FOPLP Ramps](https://marketbriefwire.com/20261110-1337.html) — 11/10 22:35
 - [[11/10 16:00] Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.](https://marketbriefwire.com/20261110-0702.html) — 11/10 16:00
 - [[11/10 05:30] AI 반도체 수요에 3분기 웨이퍼 출하량 전년比 13% 증가 - Chosunbiz](https://marketbriefwire.com/20261109-2032.html) — 11/10 05:30
 - [[11/09 22:00] AI 반도체 수요에 3분기 웨이퍼 출하량 전년比 13% 증가 - Chosunbiz](https://marketbriefwire.com/20261109-1302.html) — 11/09 22:00
@@ -36,4 +37,3 @@ x402 사양: https://www.x402.org/
 - [[11/05 05:30] [AI픽] AMD GPU·국산 NPU 연계 논의…정부, AI반도체 협력 구체화 - 연합뉴스](https://marketbriefwire.com/20261104-2031.html) — 11/05 05:30
 - [[11/04 22:00] AMD도 AI 반도체 날개…삼성·SK HBM 공급 기회 커진다 - 마켓인](https://marketbriefwire.com/20261104-1302.html) — 11/04 22:00
 - [[11/04 16:00] [AI픽] AMD GPU·국산 NPU 연계 논의…정부, AI반도체 협력 구체화 - 연합뉴스](https://marketbriefwire.com/20261104-0702.html) — 11/04 16:00
-- [[11/04 05:30] [미래경제포럼] 최태원 "AI·반도체 협력…한일경제연대로 1조달러 시너지"(종합) - 연합뉴스](https://marketbriefwire.com/20261103-2031.html) — 11/04 05:30
