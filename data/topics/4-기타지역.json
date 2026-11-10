@@ -1,22 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "11/03 05:30",
-    "headline": "Shop fridges and freezers across Europe hit by fresh suspected cyber-attack",
-    "link": "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack",
-    "source": "Guardian",
-    "comment": ""
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "11/03 05:30",
-    "headline": "Shop freezers in seven European countries hit by cyber-attack",
-    "link": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "comment": ""
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "11/03 09:41",
     "headline": "[속보 11/03 09:41] N. Korea tests &apos;dispersal warhead&apos; for cruise missiles following cluster bomb test",
     "link": "https://www.koreaherald.com/article/10923504",
@@ -1475,5 +1459,21 @@
     "headline": "[속보 11/11 00:41] Hegseth promises to defend ‘warriors’ as he faces impeachment",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/hegseth-promises-to-defend-warriors-as-he-faces-impeachment?traffic_source=rss",
     "source": "AlJazeera"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/11 05:30",
+    "headline": "FDA warns of rare eye condition causing blindness from GLP-1 weight loss medications",
+    "link": "https://www.theguardian.com/us-news/2026/nov/10/fda-glp-1-weight-loss-blindness-risk",
+    "source": "Guardian",
+    "comment": ""
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/11 05:30",
+    "headline": "Makers of GLP-1 drugs ordered to add warnings about rare eye condition that can lead to blindness",
+    "link": "https://www.bbc.co.uk/news/articles/crwydyde0lp3o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "comment": ""
   }
 ]
