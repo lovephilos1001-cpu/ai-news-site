@@ -1,27 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "11/02 23:26",
-    "headline": "[속보 11/02 23:26] Shop freezers in seven European countries hit by suspected cyber-attack",
-    "link": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "11/02 23:26",
-    "headline": "[속보 11/02 23:26] Suspected cyberattacks trigger supermarket fridge failures across Europe",
-    "link": "https://www.aljazeera.com/news/2026/11/2/freezers-in-sweden-belgium-overheat-following-possible-cyberattacks?traffic_source=rss",
-    "source": "AlJazeera"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "11/02 23:26",
-    "headline": "[속보 11/02 23:26] Supermarket fridges in Europe hit by new cyberattack: ‘everything is destroyed’",
-    "link": "https://www.scmp.com/news/world/europe/article/3373032/supermarket-fridges-europe-hit-new-cyberattack-everything-destroyed",
-    "source": "SCMP"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "11/03 00:26",
     "headline": "[속보 11/03 00:26] Shop freezers in seven European countries hit by cyber-attack",
     "link": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
@@ -1475,5 +1454,26 @@
     "headline": "[속보 11/10 10:26] Int'l Memorial Day for U.N. Korean War veterans to be held in Busan",
     "link": "https://en.yna.co.kr/view/AEN20261110002800315",
     "source": "YonhapEN"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/10 11:11",
+    "headline": "[속보 11/10 11:11] S. Korea, US hold combined air resupply exercise for wartime readiness",
+    "link": "https://www.koreaherald.com/article/10931910",
+    "source": "KoreaHerald"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/10 11:11",
+    "headline": "[속보 11/10 11:11] S. Korea, U.S. hold combined air resupply exercise for wartime readiness",
+    "link": "https://en.yna.co.kr/view/AEN20261110003400315",
+    "source": "YonhapEN"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/10 11:26",
+    "headline": "[속보 11/10 11:26] Explosion rips through steel plant in Turkey, killing at least 17",
+    "link": "https://www.scmp.com/news/world/europe/article/3373832/turkey-steel-factory-blast-kills-6",
+    "source": "SCMP"
   }
 ]
