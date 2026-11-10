@@ -1,22 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "11/02 22:00",
-    "headline": "Shop freezers in six European countries hit by suspected cyber-attack",
-    "link": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "comment": ""
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "11/02 22:00",
-    "headline": "Armed police start patrols in Sydney after Bondi Beach attack",
-    "link": "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "comment": ""
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "11/02 23:26",
     "headline": "[속보 11/02 23:26] Shop freezers in seven European countries hit by suspected cyber-attack",
     "link": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
@@ -1476,6 +1460,20 @@
     "date_kst": "11/10 09:26",
     "headline": "[속보 11/10 09:26] IAEA chief welcomes S. Korea's nonproliferation commitment amid nuclear submarine plans",
     "link": "https://en.yna.co.kr/view/AEN20261110000200315",
+    "source": "YonhapEN"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/10 10:26",
+    "headline": "[속보 11/10 10:26] Intl Memorial Day for UN Korean War veterans to be held in Busan",
+    "link": "https://www.koreaherald.com/article/10931752",
+    "source": "KoreaHerald"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/10 10:26",
+    "headline": "[속보 11/10 10:26] Int'l Memorial Day for U.N. Korean War veterans to be held in Busan",
+    "link": "https://en.yna.co.kr/view/AEN20261110002800315",
     "source": "YonhapEN"
   }
 ]
