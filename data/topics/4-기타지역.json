@@ -2,14 +2,6 @@
   {
     "topic_name": "기타 지역",
     "date_kst": "11/03 05:30",
-    "headline": "Award‑winning Australian children’s author Craig Silvey jailed over child exploitation material",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/02/australian-author-craig-silvey-jailed-child-exploitation-material-ntwnfb",
-    "source": "Guardian",
-    "comment": ""
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "11/03 05:30",
     "headline": "Shop fridges and freezers across Europe hit by fresh suspected cyber-attack",
     "link": "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack",
     "source": "Guardian",
@@ -1476,5 +1468,12 @@
     "link": "https://www.scmp.com/news/world/europe/article/3373832/turkey-steel-factory-blast-kills-6",
     "source": "SCMP",
     "comment": ""
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/11 00:41",
+    "headline": "[속보 11/11 00:41] Hegseth promises to defend ‘warriors’ as he faces impeachment",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/hegseth-promises-to-defend-warriors-as-he-faces-impeachment?traffic_source=rss",
+    "source": "AlJazeera"
   }
 ]
