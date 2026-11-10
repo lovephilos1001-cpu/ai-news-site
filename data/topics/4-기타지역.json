@@ -2,22 +2,6 @@
   {
     "topic_name": "기타 지역",
     "date_kst": "11/02 22:00",
-    "headline": "Award‑winning Australian children’s author Craig Silvey jailed over child exploitation material",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/02/australian-author-craig-silvey-jailed-child-exploitation-material-ntwnfb",
-    "source": "Guardian",
-    "comment": ""
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "11/02 22:00",
-    "headline": "Supermarket freezers across Europe hit by second suspected cyber-attack",
-    "link": "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack",
-    "source": "Guardian",
-    "comment": ""
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "11/02 22:00",
     "headline": "Shop freezers in six European countries hit by suspected cyber-attack",
     "link": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
@@ -1479,5 +1463,19 @@
     "headline": "[속보 11/10 07:26] Saudi Arabia reports new attack on key East-West pipeline",
     "link": "https://www.aljazeera.com/news/2026/11/9/saudi-arabia-reports-new-attack-on-key-east-west-pipeline?traffic_source=rss",
     "source": "AlJazeera"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/10 09:26",
+    "headline": "[속보 11/10 09:26] IAEA chief welcomes S. Korea&apos;s nonproliferation commitment amid nuclear submarine plans",
+    "link": "https://www.koreaherald.com/article/10931569",
+    "source": "KoreaHerald"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/10 09:26",
+    "headline": "[속보 11/10 09:26] IAEA chief welcomes S. Korea's nonproliferation commitment amid nuclear submarine plans",
+    "link": "https://en.yna.co.kr/view/AEN20261110000200315",
+    "source": "YonhapEN"
   }
 ]
