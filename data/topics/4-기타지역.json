@@ -1,20 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "11/04 10:26",
-    "headline": "[속보 11/04 10:26] Fake bomb threats on flights and cruise ship cause travel disruption in Europe",
-    "link": "https://www.scmp.com/news/world/europe/article/3373186/fake-bomb-threats-flights-and-cruise-ship-cause-travel-disruption-europe",
-    "source": "SCMP"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "11/04 12:11",
-    "headline": "[속보 11/04 12:11] Tenerife striker De Miguel dies after collision in match",
-    "link": "https://www.japantimes.co.jp/sports/2026/11/04/soccer/tenerife-de-miguel-dies/",
-    "source": "JapanTimes"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "11/04 12:41",
     "headline": "[속보 11/04 12:41] (LEAD) N. Korea fires multiple missiles toward East Sea: JCS",
     "link": "https://en.yna.co.kr/view/AEN20261104005500315",
@@ -1477,5 +1463,19 @@
     "headline": "[속보 11/12 00:56] Kenya discharges last Ebola patient in major milestone towards virus-free status",
     "link": "https://www.bbc.co.uk/news/articles/cwe9kzv0g0v7o?at_medium=RSS&at_campaign=rss",
     "source": "BBC"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/12 01:26",
+    "headline": "[속보 11/12 01:26] Hoax bomb threats made to hundreds of schools in Scotland and Northern Ireland",
+    "link": "https://www.theguardian.com/education/2026/nov/11/bomb-threats-hoax-schools-scotland-northern-ireland",
+    "source": "Guardian"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/12 01:26",
+    "headline": "[속보 11/12 01:26] Bessent moved to military base amid 'growing threats': Source",
+    "link": "https://www.cnbc.com/2026/11/11/us-iran-war-trump-hormuz-bessent-threats.html",
+    "source": "CNBC"
   }
 ]
