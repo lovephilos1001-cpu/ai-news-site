@@ -1,20 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "11/04 09:56",
-    "headline": "[속보 11/04 09:56] Bomb threats disrupt flights across Europe, no explosive devices found",
-    "link": "https://www.aljazeera.com/news/2026/11/4/bomb-threats-disrupt-flights-across-europe-no-explosive-devices-found?traffic_source=rss",
-    "source": "AlJazeera"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "11/04 10:11",
-    "headline": "[속보 11/04 10:11] N. Korea fires unidentified projectile toward East Sea: JCS",
-    "link": "https://en.yna.co.kr/view/AEN20261029008100315",
-    "source": "YonhapEN"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "11/04 10:11",
     "headline": "[속보 11/04 10:11] (URGENT) N. Korea fires unidentified projectile toward East Sea: S. Korean military",
     "link": "https://en.yna.co.kr/view/AEN20261029008000315",
@@ -1477,5 +1463,19 @@
     "headline": "[속보 11/11 22:41] At least 300 schools evacuated in Italy after email bomb alerts",
     "link": "https://www.aljazeera.com/news/2026/11/11/at-least-300-italian-schools-evacuated-after-email-bomb-alerts?traffic_source=rss",
     "source": "AlJazeera"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/11 23:11",
+    "headline": "[속보 11/11 23:11] Millions join Spain’s first general strike in 14 years in protest at rising housing costs",
+    "link": "https://www.theguardian.com/world/2026/nov/11/spain-general-strike-housing-costs",
+    "source": "Guardian"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/11 23:26",
+    "headline": "[속보 11/11 23:26] Spain sees widespread disruption in first general strike for 14 years",
+    "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC"
   }
 ]
