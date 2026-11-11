@@ -1,13 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "11/03 12:41",
-    "headline": "[속보 11/03 12:41] Man and boy arrested after allegedly attacking One Nation volunteer with bat",
-    "link": "https://www.bbc.co.uk/news/articles/cwly3jd27m9xo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "11/03 15:26",
     "headline": "[속보 11/03 15:26] (LEAD) N. Korea tests 'dispersal warhead' for cruise missiles following cluster bomb test",
     "link": "https://en.yna.co.kr/view/AEN20261103001151315",
@@ -1475,5 +1468,12 @@
     "headline": "[속보 11/11 14:26] HD Construction Equipment honors 122 Korean War dead in Ethiopia",
     "link": "https://www.koreaherald.com/article/10933779",
     "source": "KoreaHerald"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/11 15:11",
+    "headline": "[속보 11/11 15:11] (LEAD) Memorial wall set up for fallen elite Ethiopian troops fighting in Korean War",
+    "link": "https://en.yna.co.kr/view/AEN20261111003351315",
+    "source": "YonhapEN"
   }
 ]
