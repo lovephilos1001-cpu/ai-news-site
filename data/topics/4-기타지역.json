@@ -1,13 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "11/03 22:11",
-    "headline": "[속보 11/03 22:11] Cyberattack disrupts supermarkets across Europe",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/cyberattack-disrupts-supermarkets-across-europe?traffic_source=rss",
-    "source": "AlJazeera"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "11/03 23:56",
     "headline": "[속보 11/03 23:56] UK meat processing firms’ fridges heat up after cyber-attacks in Europe",
     "link": "https://www.theguardian.com/technology/2026/nov/03/uk-meat-processing-firms-fridges-heat-up-cyber-attacks",
@@ -1478,5 +1471,12 @@
     "link": "https://www.koreaherald.com/article/10933719",
     "source": "KoreaHerald",
     "comment": ""
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/11 17:51",
+    "headline": "[속보 11/11 17:51] Railway workers threaten Dec. 10 strike",
+    "link": "https://www.koreaherald.com/article/10933949",
+    "source": "KoreaHerald"
   }
 ]
