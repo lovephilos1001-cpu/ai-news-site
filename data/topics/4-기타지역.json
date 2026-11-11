@@ -1,20 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "11/04 10:11",
-    "headline": "[속보 11/04 10:11] (URGENT) N. Korea fires unidentified projectile toward East Sea: S. Korean military",
-    "link": "https://en.yna.co.kr/view/AEN20261029008000315",
-    "source": "YonhapEN"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "11/04 10:26",
-    "headline": "[속보 11/04 10:26] Bomb threats on flights, cruise ship cause disruption in Europe; no devices found",
-    "link": "https://www.japantimes.co.jp/news/2026/11/04/world/crime-legal/bomb-threats-flights-cruise-europe/",
-    "source": "JapanTimes"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "11/04 10:26",
     "headline": "[속보 11/04 10:26] Fake bomb threats on flights and cruise ship cause travel disruption in Europe",
     "link": "https://www.scmp.com/news/world/europe/article/3373186/fake-bomb-threats-flights-and-cruise-ship-cause-travel-disruption-europe",
@@ -1476,6 +1462,20 @@
     "date_kst": "11/11 23:26",
     "headline": "[속보 11/11 23:26] Spain sees widespread disruption in first general strike for 14 years",
     "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/12 00:56",
+    "headline": "[속보 11/12 00:56] Six thousand Italian schools hit by threats in suspected bomb hoax",
+    "link": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/12 00:56",
+    "headline": "[속보 11/12 00:56] Kenya discharges last Ebola patient in major milestone towards virus-free status",
+    "link": "https://www.bbc.co.uk/news/articles/cwe9kzv0g0v7o?at_medium=RSS&at_campaign=rss",
     "source": "BBC"
   }
 ]
