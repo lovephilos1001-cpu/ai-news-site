@@ -1,13 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "11/04 12:41",
-    "headline": "[속보 11/04 12:41] (LEAD) N. Korea fires multiple missiles toward East Sea: JCS",
-    "link": "https://en.yna.co.kr/view/AEN20261104005500315",
-    "source": "YonhapEN"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "11/04 14:26",
     "headline": "[속보 11/04 14:26] N Korea fires multiple missiles, denies US claims on Binance hack",
     "link": "https://www.aljazeera.com/news/2026/11/4/n-korea-fires-multiple-missiles-denies-us-claims-on-binance-hack?traffic_source=rss",
@@ -1477,5 +1470,12 @@
     "headline": "[속보 11/12 01:26] Bessent moved to military base amid 'growing threats': Source",
     "link": "https://www.cnbc.com/2026/11/11/us-iran-war-trump-hormuz-bessent-threats.html",
     "source": "CNBC"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/12 02:11",
+    "headline": "[속보 11/12 02:11] Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
+    "link": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC"
   }
 ]
