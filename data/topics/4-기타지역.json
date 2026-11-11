@@ -1,27 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "11/04 02:41",
-    "headline": "[속보 11/04 02:41] Bomb threats target seven flights across Europe",
-    "link": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "11/04 02:56",
-    "headline": "[속보 11/04 02:56] Seven planes across Europe searched or diverted after ‘malicious hoax’ bomb threats",
-    "link": "https://www.theguardian.com/world/2026/nov/03/four-planes-flying-across-europe-targeted-by-bomb-threats",
-    "source": "Guardian"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "11/04 02:56",
-    "headline": "[속보 11/04 02:56] Food suppliers in UK hit by cyber-attacks after freezers targeted in Europe",
-    "link": "https://www.theguardian.com/technology/2026/nov/03/uk-meat-processing-firms-fridges-heat-up-cyber-attacks",
-    "source": "Guardian"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "11/04 03:11",
     "headline": "[속보 11/04 03:11] Seven flights across Europe targeted by suspected bomb threats",
     "link": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss",
@@ -1478,5 +1457,26 @@
     "headline": "[속보 11/11 20:56] Over 300 Italian schools evacuated after receiving same emailed bomb alert",
     "link": "https://www.scmp.com/news/world/europe/article/3374103/over-300-italian-schools-evacuated-after-receiving-same-emailed-bomb-alert",
     "source": "SCMP"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/11 21:41",
+    "headline": "[속보 11/11 21:41] Hundreds of Italian schools hit by threats in suspected bomb hoax",
+    "link": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/11 21:41",
+    "headline": "[속보 11/11 21:41] Workers across Spain stage first general strike in 14 years",
+    "link": "https://www.aljazeera.com/news/2026/11/11/spains-first-general-strike-in-14-years-begins?traffic_source=rss",
+    "source": "AlJazeera"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/11 21:41",
+    "headline": "[속보 11/11 21:41] Military-linked Chinese university bought Nvidia H200 chips despite US blacklist, records show",
+    "link": "https://www.koreaherald.com/article/10934237",
+    "source": "KoreaHerald"
   }
 ]
