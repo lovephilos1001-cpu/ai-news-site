@@ -1,13 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "11/03 10:26",
-    "headline": "[속보 11/03 10:26] Launch ceremony set for latest indigenously-built attack submarine",
-    "link": "https://www.koreaherald.com/article/10923741",
-    "source": "KoreaHerald"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "11/03 10:56",
     "headline": "[속보 11/03 10:56] N. Korea slams Japan&apos;s missile reinforcement, joint drills with US",
     "link": "https://www.koreaherald.com/article/10923850",
@@ -1475,5 +1468,12 @@
     "headline": "[속보 11/11 12:11] El Salvador fires missiles on Haitian gang hideout",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/el-salvador-fires-missiles-on-haitian-gang-hideout?traffic_source=rss",
     "source": "AlJazeera"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/11 13:56",
+    "headline": "[속보 11/11 13:56] Rail workers threaten indefinite strike from Dec. 10",
+    "link": "https://www.koreaherald.com/article/10933719",
+    "source": "KoreaHerald"
   }
 ]
