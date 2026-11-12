@@ -2,14 +2,6 @@
   {
     "topic_name": "기타 지역",
     "date_kst": "11/04 22:00",
-    "headline": "(LEAD) N. Korea fires multiple missiles toward East Sea: JCS",
-    "link": "https://en.yna.co.kr/view/AEN20261104005500315",
-    "source": "YonhapEN",
-    "comment": ""
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "11/04 22:00",
     "headline": "One dead and another missing in suspected grizzly bear attack in Canada",
     "link": "https://www.theguardian.com/world/2026/nov/03/grizzly-bear-attack-canada",
     "source": "Guardian",
@@ -1475,5 +1467,12 @@
     "link": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
     "comment": ""
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/12 17:11",
+    "headline": "[속보 11/12 17:11] S. Korean composer Lee Hanurij wins top award at Geneva Competition",
+    "link": "https://en.yna.co.kr/view/AEN20261112006000315",
+    "source": "YonhapEN"
   }
 ]
