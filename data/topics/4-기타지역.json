@@ -2,14 +2,6 @@
   {
     "topic_name": "기타 지역",
     "date_kst": "11/05 05:30",
-    "headline": "French blood banks hacked in latest cyber-attack on Europe",
-    "link": "https://www.theguardian.com/technology/2026/nov/04/france-national-blood-service-hack-cyber-attack-europe",
-    "source": "Guardian",
-    "comment": ""
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "11/05 05:30",
     "headline": "Blood banks targeted in latest European fridge cyberattacks",
     "link": "https://www.cnbc.com/2026/11/04/blood-bank-fridges-cyberattacks.html",
     "source": "CNBC",
@@ -1473,5 +1465,12 @@
     "headline": "[속보 11/13 03:26] Pete Hegseth awards medal to soldier who reprimanded him near Tomb of the Unknown Soldier",
     "link": "https://www.theguardian.com/us-news/2026/nov/12/pete-hegseth-medal-soldier-reprimand",
     "source": "Guardian"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/13 03:56",
+    "headline": "[속보 11/13 03:56] Hegseth awards medal to war memorial guard who reprimanded him and group",
+    "link": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss",
+    "source": "BBC"
   }
 ]
