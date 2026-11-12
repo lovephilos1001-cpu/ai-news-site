@@ -17,6 +17,7 @@ https://marketbriefwire.com/paid/premium.json — $0.01/요청, x402 프로토�
 x402 사양: https://www.x402.org/
 
 ## 최근 브리핑
+- [[11/12 16:00] 이재용 "온양, AI 반도체 심장 HBM 거점으로 탈바꿈" - 뉴스핌](https://marketbriefwire.com/20261112-0702.html) — 11/12 16:00
 - [[11/11 22:00] 슈가스AI, DB글로벌칩과 피지컬 AI 반도체 협력…공급망·해외 판로 확대 추진 - 전자신문](https://marketbriefwire.com/20261111-1302.html) — 11/11 22:00
 - [[11/11 16:00] Reducing Lithography Learning Cycles To Accelerate FOPLP Ramps](https://marketbriefwire.com/20261111-0702.html) — 11/11 16:00
 - [[11/11 05:30] Reducing Lithography Learning Cycles To Accelerate FOPLP Ramps](https://marketbriefwire.com/20261110-2031.html) — 11/11 05:30
@@ -36,4 +37,3 @@ x402 사양: https://www.x402.org/
 - [[11/06 16:00] Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc](https://marketbriefwire.com/20261106-0702.html) — 11/06 16:00
 - [[11/06 05:30] Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc](https://marketbriefwire.com/20261105-2031.html) — 11/06 05:30
 - [[11/05 22:00] 美 반도체 압박에 中 AI '이중고'…해외 우회로·공급망 모두 흔들 - 머니투데이 - 머니투데이](https://marketbriefwire.com/20261105-1302.html) — 11/05 22:00
-- [[11/05 16:00] AMD도 AI 반도체 날개…삼성·SK HBM 공급 기회 커진다 - 마켓인](https://marketbriefwire.com/20261105-0702.html) — 11/05 16:00
