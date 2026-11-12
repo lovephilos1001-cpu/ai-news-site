@@ -1,28 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "11/04 16:00",
-    "headline": "Seven flights across Europe targeted by suspected bomb threats",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/seven-flights-across-europe-targeted-by-suspected-bomb-threats?traffic_source=rss",
-    "source": "AlJazeera",
-    "comment": ""
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "11/04 16:11",
-    "headline": "[속보 11/04 16:11] Bomb threats cause disruptions across Europe but no explosives found",
-    "link": "https://www.japantimes.co.jp/news/2026/11/04/world/crime-legal/bomb-threats-flights-cruise-europe/",
-    "source": "JapanTimes"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "11/04 18:49",
-    "headline": "[속보 11/04 18:49] S. Korea experiences 5th warmest Oct. this year",
-    "link": "https://en.yna.co.kr/view/AEN20261104009800315",
-    "source": "YonhapEN"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "11/04 19:11",
     "headline": "[속보 11/04 19:11] ‘Rejecting hate’: Abdul El-Sayed wins Senate seat despite racist attacks",
     "link": "https://www.aljazeera.com/news/2026/11/4/rejecting-hate-abdul-el-sayed-wins-senate-seat-despite-racist-attacks?traffic_source=rss",
@@ -1475,5 +1453,26 @@
     "headline": "[속보 11/12 09:00] Hoax bomb threats target schools across Italy, UK and Ireland",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/hoax-bomb-threats-target-schools-across-italy-uk-and-ireland?traffic_source=rss",
     "source": "AlJazeera"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/12 10:41",
+    "headline": "[속보 11/12 10:41] Millions of Spaniards stage first general strike in 14 years as anger over housing leads to clashes",
+    "link": "https://www.japantimes.co.jp/news/2026/11/12/world/spain-strike-14-years-housing/",
+    "source": "JapanTimes"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/12 10:41",
+    "headline": "[속보 11/12 10:41] Clashes erupt as millions join Spain’s first general strike in 14 years",
+    "link": "https://www.scmp.com/news/world/europe/article/3374082/spanish-workers-stage-huge-general-strike-1st-14-years-angry-over-housing",
+    "source": "SCMP"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/12 10:56",
+    "headline": "[속보 11/12 10:56] Military-linked Chinese university bought Nvidia H200 chips despite U.S. blacklist, records show",
+    "link": "https://www.japantimes.co.jp/business/2026/11/12/tech/chinese-university-nvidia-chips-us-blacklist/",
+    "source": "JapanTimes"
   }
 ]
