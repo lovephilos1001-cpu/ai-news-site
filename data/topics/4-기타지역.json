@@ -1,21 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "11/04 22:00",
-    "headline": "One dead and another missing in suspected grizzly bear attack in Canada",
-    "link": "https://www.theguardian.com/world/2026/nov/03/grizzly-bear-attack-canada",
-    "source": "Guardian",
-    "comment": ""
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "11/04 23:56",
-    "headline": "[속보 11/04 23:56] French blood banks hacked in latest cyber-attack on Europe",
-    "link": "https://www.theguardian.com/technology/2026/nov/04/france-national-blood-service-hack-cyber-attack-europe",
-    "source": "Guardian"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "11/04 23:56",
     "headline": "[속보 11/04 23:56] Blood banks targeted in latest European fridge cyberattacks",
     "link": "https://www.cnbc.com/2026/11/04/blood-bank-fridges-cyberattacks.html",
@@ -1474,5 +1459,19 @@
     "headline": "[속보 11/12 17:11] S. Korean composer Lee Hanurij wins top award at Geneva Competition",
     "link": "https://en.yna.co.kr/view/AEN20261112006000315",
     "source": "YonhapEN"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/12 22:56",
+    "headline": "[속보 11/12 22:56] More than 1,800 Italian schools targeted by new hoax bomb alerts",
+    "link": "https://www.aljazeera.com/news/2026/11/12/more-than-1800-italian-schools-targeted-by-new-hoax-bomb-alerts?traffic_source=rss",
+    "source": "AlJazeera"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/12 22:56",
+    "headline": "[속보 11/12 22:56] N. Korean FM reaffirms &apos;steadfast will&apos; for nuclear possession",
+    "link": "https://www.koreaherald.com/article/10935602",
+    "source": "KoreaHerald"
   }
 ]
