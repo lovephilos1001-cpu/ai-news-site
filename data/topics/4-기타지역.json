@@ -1,13 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "11/05 09:11",
-    "headline": "[속보 11/05 09:11] N. Korea says it test-fired new air defense missile system",
-    "link": "https://www.koreaherald.com/article/10926441",
-    "source": "KoreaHerald"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "11/05 09:56",
     "headline": "[속보 11/05 09:56] S. Korea to expand anti-piracy mission closer to Hormuz, send more naval assets",
     "link": "https://www.koreaherald.com/article/10926571",
@@ -1472,5 +1465,12 @@
     "link": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
     "comment": ""
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/13 13:56",
+    "headline": "[속보 11/13 13:56] Binance says all asset losses from N. Korea-linked cyberattack covered",
+    "link": "https://www.koreaherald.com/article/10936353",
+    "source": "KoreaHerald"
   }
 ]
