@@ -540,5 +540,37 @@
     "headline": "[속보 11/13 12:59] Israeli strike on Gaza hospital deadliest since election",
     "link": "https://www.japantimes.co.jp/news/2026/11/13/world/israel-gaza-post-election-strike/",
     "source": "JapanTimes"
+  },
+  {
+    "topic_name": "이스라엘",
+    "date_kst": "11/13 16:00",
+    "headline": "Israeli airstrike on Nasser hospital in Gaza kills surgeon and five others",
+    "link": "https://www.theguardian.com/world/2026/nov/12/israeli-airstrike-nasser-hospital-gaza-kills-surgeon",
+    "source": "Guardian",
+    "comment": ""
+  },
+  {
+    "topic_name": "이스라엘",
+    "date_kst": "11/13 16:00",
+    "headline": "An Israeli strike on a Gaza hospital kills 6 people, including a doctor and a child",
+    "link": "https://www.npr.org/2026/11/12/nx-s1-6038339/israeli-strike-gaza-hospital",
+    "source": "NPR",
+    "comment": ""
+  },
+  {
+    "topic_name": "이스라엘",
+    "date_kst": "11/13 16:00",
+    "headline": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+    "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "comment": ""
+  },
+  {
+    "topic_name": "이스라엘",
+    "date_kst": "11/13 16:00",
+    "headline": "Israeli strike on Gaza hospital deadliest since election",
+    "link": "https://www.japantimes.co.jp/news/2026/11/13/world/israel-gaza-post-election-strike/",
+    "source": "JapanTimes",
+    "comment": ""
   }
 ]
