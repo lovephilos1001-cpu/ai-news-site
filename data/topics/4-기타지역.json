@@ -1,13 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "11/05 10:56",
-    "headline": "[속보 11/05 10:56] (LEAD) N. Korea says test-fired new air defense missile system, long-range cruise missile",
-    "link": "https://en.yna.co.kr/view/AEN20261105000651315",
-    "source": "YonhapEN"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "11/05 11:11",
     "headline": "[속보 11/05 11:11] Mother and daughter killed in grizzly bear attack, Canadian authorities confirm",
     "link": "https://www.theguardian.com/world/2026/nov/04/canada-bear-attack-mother-daughter-killed",
@@ -1473,5 +1466,12 @@
     "headline": "[속보 11/14 02:41] Iraq’s Oil Production Soars to 2019 High as Hormuz Flows Surge",
     "link": "https://oilprice.com/Latest-Energy-News/World-News/Iraqs-Oil-Production-Soars-to-2019-High-as-Hormuz-Flows-Surge.html",
     "source": "OilPrice"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/14 04:41",
+    "headline": "[속보 11/14 04:41] IRGC says tanker caught fire after hitting mines in Strait of Hormuz",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/irgc-says-tanker-caught-fire-after-hitting-mines-in-strait-of-hormuz?traffic_source=rss",
+    "source": "AlJazeera"
   }
 ]
