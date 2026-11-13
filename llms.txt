@@ -17,6 +17,7 @@ https://marketbriefwire.com/paid/premium.json — $0.01/요청, x402 프로토�
 x402 사양: https://www.x402.org/
 
 ## 최근 브리핑
+- [[11/13 22:00] Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services](https://marketbriefwire.com/20261113-1302.html) — 11/13 22:00
 - [[11/13 16:00] Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services](https://marketbriefwire.com/20261113-0702.html) — 11/13 16:00
 - [[11/13 05:30] Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services](https://marketbriefwire.com/20261112-2031.html) — 11/13 05:30
 - [[11/12 16:00] 이재용 "온양, AI 반도체 심장 HBM 거점으로 탈바꿈" - 뉴스핌](https://marketbriefwire.com/20261112-0702.html) — 11/12 16:00
@@ -36,4 +37,3 @@ x402 사양: https://www.x402.org/
 - [[11/07 16:00] Investors brace for lower Anthropic valuation, calling $1.5 trillion a 'stretch'](https://marketbriefwire.com/20261107-0702.html) — 11/07 16:00
 - [[11/07 05:30] "TSMC, 첨단 AI 메모리 반도체 생산 검토…엔비디아 요청" - 연합인포맥스](https://marketbriefwire.com/20261106-2032.html) — 11/07 05:30
 - [[11/06 22:00] Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc](https://marketbriefwire.com/20261106-1302.html) — 11/06 22:00
-- [[11/06 16:00] Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc](https://marketbriefwire.com/20261106-0702.html) — 11/06 16:00
