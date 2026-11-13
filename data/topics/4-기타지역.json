@@ -1,20 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "11/05 11:11",
-    "headline": "[속보 11/05 11:11] N. Korea says test-fired new air defense missile system, long-range cruise missile",
-    "link": "https://www.koreaherald.com/article/10926818",
-    "source": "KoreaHerald"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "11/05 13:11",
-    "headline": "[속보 11/05 13:11] Mother and daughter die after suspected grizzly bear attack in Canada",
-    "link": "https://www.bbc.co.uk/news/articles/cqvgry8k5d01o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "11/05 13:41",
     "headline": "[속보 11/05 13:41] South Korea says it will expand naval operations closer to strait of Hormuz",
     "link": "https://www.theguardian.com/world/2026/nov/05/south-korea-to-expand-anti-piracy-unit-strait-of-hormuz",
@@ -1475,5 +1461,19 @@
     "link": "https://oilprice.com/Latest-Energy-News/World-News/Iraqs-Oil-Production-Soars-to-2019-High-as-Hormuz-Flows-Surge.html",
     "source": "OilPrice",
     "comment": ""
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/14 05:56",
+    "headline": "[속보 11/14 05:56] Tanker collides with cruise ship on Mississippi River in New Orleans",
+    "link": "https://www.theguardian.com/us-news/2026/nov/13/mississippi-river-crash-new-orleans",
+    "source": "Guardian"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/14 05:56",
+    "headline": "[속보 11/14 05:56] Tanker hits New Orleans cruise boat carrying 129 passengers",
+    "link": "https://www.scmp.com/news/world/united-states-canada/article/3374410/tanker-hits-new-orleans-cruise-boat-carrying-129-passengers",
+    "source": "SCMP"
   }
 ]
