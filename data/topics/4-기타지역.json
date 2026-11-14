@@ -1,34 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "11/05 19:52",
-    "headline": "[속보 11/05 19:52] Bomb threat diverts Dublin-Rome flight to France",
-    "link": "https://www.aljazeera.com/news/2026/11/5/bomb-threat-diverts-dublin-rome-flight-to-france?traffic_source=rss",
-    "source": "AlJazeera"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "11/05 19:52",
-    "headline": "[속보 11/05 19:52] Bomb threat forces Ireland-Italy  flight to divert to French airbase",
-    "link": "https://www.scmp.com/news/world/europe/article/3373414/bomb-threat-forces-ireland-italy-flight-divert-french-airbase",
-    "source": "SCMP"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "11/05 19:56",
-    "headline": "[속보 11/05 19:56] Multiple planes diverted as bomb threats to commercial flights reported across Europe – live",
-    "link": "https://www.theguardian.com/world/live/2026/nov/05/aer-lingus-plane-bomb-threat-europe-latest-news-updates",
-    "source": "Guardian"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "11/05 19:56",
-    "headline": "[속보 11/05 19:56] New bomb threats bring fresh disruptions to flights across Europe",
-    "link": "https://www.aljazeera.com/news/2026/11/5/bomb-threat-diverts-dublin-rome-flight-to-france?traffic_source=rss",
-    "source": "AlJazeera"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "11/05 20:26",
     "headline": "[속보 11/05 20:26] New bomb threats bring more disruption to flights across Europe",
     "link": "https://www.aljazeera.com/news/2026/11/5/bomb-threat-diverts-dublin-rome-flight-to-france?traffic_source=rss",
@@ -1476,5 +1448,37 @@
     "headline": "[속보 11/14 21:26] Watch: Cruise ship overturns after collision with tanker in New Orleans",
     "link": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
     "source": "BBC"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/14 22:00",
+    "headline": "Setback for SpaceX Starship rocket's double-catch test",
+    "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "comment": ""
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/14 22:00",
+    "headline": "Watch: Cruise ship overturns after collision with tanker in New Orleans",
+    "link": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "comment": ""
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/14 22:00",
+    "headline": "Miracle on the Mississippi: everyone safe after tanker hits and sinks New Orleans cruise",
+    "link": "https://www.scmp.com/news/world/united-states-canada/article/3374410/tanker-hits-new-orleans-cruise-boat-carrying-129-passengers",
+    "source": "SCMP",
+    "comment": ""
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/14 22:00",
+    "headline": "Son Heung-min laments unrewarded effort against Saudi Arabia after 3-2 loss",
+    "link": "https://www.koreaherald.com/article/10936907",
+    "source": "KoreaHerald",
+    "comment": ""
   }
 ]
