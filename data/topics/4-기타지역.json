@@ -1,36 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "11/05 21:11",
-    "headline": "[속보 11/05 21:11] European flights diverted again after wave of hoax bomb threats",
-    "link": "https://www.scmp.com/news/world/europe/article/3373414/bomb-threat-forces-ireland-italy-flight-divert-french-airbase",
-    "source": "SCMP"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "11/05 21:41",
-    "headline": "[속보 11/05 21:41] European flights diverted again after fresh wave of hoax bomb threats",
-    "link": "https://www.scmp.com/news/world/europe/article/3373414/bomb-threat-forces-ireland-italy-flight-divert-french-airbase",
-    "source": "SCMP"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "11/05 22:00",
-    "headline": "Mother and daughter killed in grizzly bear attack, Canadian authorities confirm",
-    "link": "https://www.theguardian.com/world/2026/nov/04/canada-bear-attack-mother-daughter-killed",
-    "source": "Guardian",
-    "comment": ""
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "11/05 22:00",
-    "headline": "South Korea says it will expand naval operations closer to strait of Hormuz",
-    "link": "https://www.theguardian.com/world/2026/nov/05/south-korea-to-expand-anti-piracy-unit-strait-of-hormuz",
-    "source": "Guardian",
-    "comment": ""
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "11/05 22:00",
     "headline": "Multiple planes diverted as bomb threats to commercial flights reported across Europe – live",
     "link": "https://www.theguardian.com/world/live/2026/nov/05/aer-lingus-plane-bomb-threat-europe-latest-news-updates",
@@ -1480,5 +1450,37 @@
     "headline": "[속보 11/14 23:26] Second catch attempt for SpaceX Starship rocket",
     "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
     "source": "BBC"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/15 05:30",
+    "headline": "Second catch attempt for SpaceX Starship rocket",
+    "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "comment": ""
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/15 05:30",
+    "headline": "Watch: Cruise ship overturns after collision with tanker in New Orleans",
+    "link": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "comment": ""
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/15 05:30",
+    "headline": "Miracle on the Mississippi: everyone safe after tanker hits and sinks New Orleans cruise",
+    "link": "https://www.scmp.com/news/world/united-states-canada/article/3374410/tanker-hits-new-orleans-cruise-boat-carrying-129-passengers",
+    "source": "SCMP",
+    "comment": ""
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/15 05:30",
+    "headline": "Family of Watford woman set alight ‘desperate for answers’ after attack",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/14/family-of-watford-woman-set-alight-desperate-for-answers-after-attack",
+    "source": "Guardian",
+    "comment": ""
   }
 ]
