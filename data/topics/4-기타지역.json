@@ -2,13 +2,6 @@
   {
     "topic_name": "기타 지역",
     "date_kst": "11/06 00:56",
-    "headline": "[속보 11/06 00:56] Bomb threats disrupt at least 15 flights across Europe, raising hybrid war fears",
-    "link": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears",
-    "source": "Guardian"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "11/06 00:56",
     "headline": "[속보 11/06 00:56] Bomb threats disrupt flights across Europe for the second time. Here’s what we know",
     "link": "https://www.cnbc.com/2026/11/05/bomb-threats-flights-europe.html",
     "source": "CNBC"
@@ -1480,5 +1473,12 @@
     "headline": "[속보 11/15 06:26] Second catch attempt as SpaceX Starship rocket heads back to Earth",
     "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
     "source": "BBC"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/15 07:26",
+    "headline": "[속보 11/15 07:26] SpaceX catches upper stage of Starship rocket in historic first",
+    "link": "https://www.cnbc.com/2026/11/14/spacex-plans-to-try-first-ever-catch-of-starship-rocket-from-orbit.html",
+    "source": "CNBC"
   }
 ]
