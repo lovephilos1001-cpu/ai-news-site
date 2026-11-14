@@ -1,13 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "11/05 15:11",
-    "headline": "[속보 11/05 15:11] No talks yet on sanctions over N. Korea's alleged Binance theft: unification ministry official",
-    "link": "https://en.yna.co.kr/view/AEN20261105006000315",
-    "source": "YonhapEN"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "11/05 15:56",
     "headline": "[속보 11/05 15:56] (LEAD) No talks yet on sanctions over N. Korea's alleged Binance theft: unification ministry official",
     "link": "https://en.yna.co.kr/view/AEN20261105006051315",
@@ -1475,5 +1468,12 @@
     "headline": "[속보 11/14 09:11] Setback for SpaceX Starship rocket's double-catch test",
     "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
     "source": "BBC"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/14 20:12",
+    "headline": "[속보 11/14 20:12] Son Heung-min laments unrewarded effort against Saudi Arabia after 3-2 loss",
+    "link": "https://www.koreaherald.com/article/10936907",
+    "source": "KoreaHerald"
   }
 ]
