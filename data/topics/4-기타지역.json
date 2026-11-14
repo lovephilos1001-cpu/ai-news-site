@@ -1,22 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "11/05 22:00",
-    "headline": "Multiple planes diverted as bomb threats to commercial flights reported across Europe – live",
-    "link": "https://www.theguardian.com/world/live/2026/nov/05/aer-lingus-plane-bomb-threat-europe-latest-news-updates",
-    "source": "Guardian",
-    "comment": ""
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "11/05 22:00",
-    "headline": "Mother and daughter die after suspected grizzly bear attack in Canada",
-    "link": "https://www.bbc.co.uk/news/articles/cqvgry8k5d01o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "comment": ""
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "11/06 00:56",
     "headline": "[속보 11/06 00:56] Bomb threats disrupt at least 15 flights across Europe, raising hybrid war fears",
     "link": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears",
@@ -1482,5 +1466,19 @@
     "link": "https://www.theguardian.com/uk-news/2026/nov/14/family-of-watford-woman-set-alight-desperate-for-answers-after-attack",
     "source": "Guardian",
     "comment": ""
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/15 06:26",
+    "headline": "[속보 11/15 06:26] SpaceX succeeds at first-ever catch of Starship rocket from orbit",
+    "link": "https://www.cnbc.com/2026/11/14/spacex-plans-to-try-first-ever-catch-of-starship-rocket-from-orbit.html",
+    "source": "CNBC"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/15 06:26",
+    "headline": "[속보 11/15 06:26] Second catch attempt as SpaceX Starship rocket heads back to Earth",
+    "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC"
   }
 ]
