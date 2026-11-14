@@ -1,13 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "11/05 17:11",
-    "headline": "[속보 11/05 17:11] South Korea plans to expand anti-piracy operations closer to Hormuz Strait",
-    "link": "https://www.aljazeera.com/news/2026/11/5/south-korea-plans-to-expand-anti-piracy-operations-closer-to-hormuz-strait?traffic_source=rss",
-    "source": "AlJazeera"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "11/05 19:52",
     "headline": "[속보 11/05 19:52] Bomb threat diverts Dublin-Rome flight to France",
     "link": "https://www.aljazeera.com/news/2026/11/5/bomb-threat-diverts-dublin-rome-flight-to-france?traffic_source=rss",
@@ -1476,5 +1469,12 @@
     "link": "https://en.yna.co.kr/view/AEN20261114000700315",
     "source": "YonhapEN",
     "comment": ""
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/14 21:26",
+    "headline": "[속보 11/14 21:26] Watch: Cruise ship overturns after collision with tanker in New Orleans",
+    "link": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC"
   }
 ]
