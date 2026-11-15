@@ -1,14 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "11/06 05:30",
-    "headline": "Who could be behind hoax bomb threats to European air travel?",
-    "link": "https://www.bbc.co.uk/news/articles/cx8dzzjg3g9zo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "comment": ""
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "11/06 05:41",
     "headline": "[속보 11/06 05:41] Mass protests in France driven by nationwide strike action",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/mass-protests-in-france-driven-by-nationwide-strike-action?traffic_source=rss",
@@ -1483,5 +1475,12 @@
     "link": "https://www.aljazeera.com/news/2026/11/15/jordan-sentences-three-men-to-death-by-hanging-after-deadly-church-attack?traffic_source=rss",
     "source": "AlJazeera",
     "comment": ""
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/15 23:11",
+    "headline": "[속보 11/15 23:11] Explosive attack targets investigative journalist’s home in Panama",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/explosive-attack-targets-investigative-journalists-home-in-panama?traffic_source=rss",
+    "source": "AlJazeera"
   }
 ]
