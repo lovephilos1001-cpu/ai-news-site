@@ -1,13 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "11/06 05:26",
-    "headline": "[속보 11/06 05:26] Protesters march in cities across France as unions stage general strike",
-    "link": "https://www.theguardian.com/world/2026/nov/05/protesters-france-march-strikes-education-cost-of-living",
-    "source": "Guardian"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "11/06 05:30",
     "headline": "South Korea says it will expand naval operations closer to strait of Hormuz",
     "link": "https://www.theguardian.com/world/2026/nov/05/south-korea-to-expand-anti-piracy-unit-strait-of-hormuz",
@@ -1485,5 +1478,12 @@
     "link": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
     "comment": ""
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/15 16:41",
+    "headline": "[속보 11/15 16:41] Tatsuhiro Sakamoto strikes late as Japan stuns Brazil in friendly",
+    "link": "https://www.japantimes.co.jp/sports/2026/11/15/soccer/japan-beats-brazil-singapore/",
+    "source": "JapanTimes"
   }
 ]
