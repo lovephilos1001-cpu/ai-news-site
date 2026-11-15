@@ -1,13 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "11/06 05:41",
-    "headline": "[속보 11/06 05:41] Mass protests in France driven by nationwide strike action",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/mass-protests-in-france-driven-by-nationwide-strike-action?traffic_source=rss",
-    "source": "AlJazeera"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "11/06 06:41",
     "headline": "[속보 11/06 06:41] Hoax bomb threats force emergency landings, evacuations across Europe",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/hoax-bomb-threats-force-emergency-landings-evacuations-across-europe?traffic_source=rss",
@@ -1482,5 +1475,13 @@
     "headline": "[속보 11/15 23:11] Explosive attack targets investigative journalist’s home in Panama",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/explosive-attack-targets-investigative-journalists-home-in-panama?traffic_source=rss",
     "source": "AlJazeera"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/16 05:30",
+    "headline": "SpaceX catches upper stage of Starship rocket in historic first",
+    "link": "https://www.cnbc.com/2026/11/14/spacex-plans-to-try-first-ever-catch-of-starship-rocket-from-orbit.html",
+    "source": "CNBC",
+    "comment": ""
   }
 ]
