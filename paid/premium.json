@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-10-06T13:28:43Z",
+  "generated_at_utc": "2026-11-15T10:55:54Z",
   "site": "AI 마켓 브리핑 아카이브",
-  "description": "애널리스트 목표주가 전체 이력(무료는 종목당 최신 1건만) + 경제사건 전체 타임라인(무료는 핵심 전환점만, 여기엔 원인·세부 연결고리까지 전부) + 종목 현황·금리 스냅샷 — AI 에이전트용 x402 결제 콘텐츠",
+  "description": "애널리스트 목표주가 전체 이력(무료는 종목당 최신 1건만) + 경제사건 전체 타임라인(무료는 핵심 전환점만, 여기엔 원인·세부 연결고리까지 전부) + 금리 사이클 심층분석(무료는 연도별 경로 개요만, 여기엔 메커니즘·수혜/피해군·2027 시나리오 확률 breakdown까지 전부) + 종목 현황·금리 스냅샷 — AI 에이전트용 x402 결제 콘텐츠",
   "analyst_targets_full_history": {},
   "economic_events_full_timeline": {
     "great-depression-1929": {
@@ -795,238 +795,609 @@
           "tier": "major"
         }
       ]
+    },
+    "oil-price-history": {
+      "name": "유가의 역사(1973~2022)",
+      "timeline": [
+        {
+          "date": "1973-10-06",
+          "fact": "제4차 중동전쟁(욤키푸르전쟁) 발발 — 이집트·시리아가 이스라엘 공격",
+          "source": "위키백과",
+          "link": "https://en.wikipedia.org/wiki/1973_oil_crisis",
+          "tier": "major"
+        },
+        {
+          "date": "1973-10-17",
+          "fact": "OAPEC(아랍석유수출국기구), 이스라엘 지지국 대상 석유 금수조치 발표 — 1972년 WTI 약 $3.60/배럴 수준이었음",
+          "source": "위키백과",
+          "link": "https://en.wikipedia.org/wiki/1973_oil_crisis",
+          "tier": "major"
+        },
+        {
+          "date": "1973-12",
+          "fact": "OAPEC 회원국, 독자적으로 수출가격 설정 시작 — 유가가 10월 대비 130% 급등해 배럴당 $11.65 기록",
+          "source": "Troy Historic Village",
+          "link": "https://www.troyhistoricvillage.org/?p=3248",
+          "tier": "detail"
+        },
+        {
+          "date": "1974-03-18",
+          "fact": "금수조치 종료 — 금수 기간 중 전세계 기준유가가 배럴당 약 $3에서 $12 근방까지 약 300% 상승",
+          "source": "미국 공군역사연구소",
+          "link": "https://afhistory.org/october-20-1973",
+          "tier": "detail"
+        },
+        {
+          "date": "1978-1979",
+          "fact": "이란혁명으로 이란 유전 파업·생산 급감 — 하루 480만 배럴(당시 세계생산의 약 7%) 생산 감소",
+          "source": "브루킹스연구소",
+          "link": "https://www.brookings.edu/articles/what-irans-1979-revolution-meant-for-us-and-global-oil-markets/",
+          "tier": "major"
+        },
+        {
+          "date": "1979-04-05",
+          "fact": "카터 행정부, 미국 원유가격 단계적 자유화(규제완화) 시작 — 당시 평균 원유가 배럴당 $15.85",
+          "source": "브루킹스연구소",
+          "link": "https://www.brookings.edu/articles/what-irans-1979-revolution-meant-for-us-and-global-oil-markets/",
+          "tier": "detail"
+        },
+        {
+          "date": "1980",
+          "fact": "공황성 사재기까지 겹치며 유가가 배럴당 $13(1979년 중반)에서 $39.50 근방까지 급등 — 2008년 3월까지 사상 최고 실질유가로 남음",
+          "source": "위키백과",
+          "link": "https://en.wikipedia.org/wiki/1979_oil_crisis",
+          "tier": "major"
+        },
+        {
+          "date": "1980",
+          "fact": "이란-이라크 전쟁 발발로 양국 원유생산 동반 급감, 전세계적 경기침체 유발",
+          "source": "위키백과",
+          "link": "https://en.wikipedia.org/wiki/1979_oil_crisis",
+          "tier": "detail"
+        },
+        {
+          "date": "2008-07-10",
+          "fact": "WTI 선물, 전일대비 $5.60 상승해 배럴당 $141.65로 마감",
+          "source": "Bloomberg 보도 기반(Heraldnet 재인용)",
+          "link": "https://www.heraldnet.com/?p=262128",
+          "tier": "detail"
+        },
+        {
+          "date": "2008-07-11",
+          "fact": "WTI 선물 장중 배럴당 $147.27 기록 — 이란-이스라엘 긴장·나이지리아 무장세력 활동 등이 배경, 사상 최고치",
+          "source": "Bloomberg 보도 기반(Heraldnet 재인용)",
+          "link": "https://www.heraldnet.com/?p=262128",
+          "tier": "major"
+        },
+        {
+          "date": "2014-06",
+          "fact": "미국 셰일오일 증산으로 공급과잉 시작 — 당시 유가 배럴당 $110대에서 하락 전환",
+          "source": "CNBC",
+          "link": "https://www.cnbc.com/2018/05/15/oil-prices-have-rebounded-since-opec-refused-to-cut-output-in-2014.html",
+          "tier": "detail"
+        },
+        {
+          "date": "2014-11-27",
+          "fact": "OPEC 빈 총회서 감산 거부 결정(사우디 주도, 셰일업체 견제 목적) — 브렌트유가 전날 $77.75에서 다음날 $70.15로 급락",
+          "source": "CNBC",
+          "link": "https://www.cnbc.com/2018/05/15/oil-prices-have-rebounded-since-opec-refused-to-cut-output-in-2014.html",
+          "tier": "major"
+        },
+        {
+          "date": "2016-01",
+          "fact": "브렌트유, 배럴당 $27.10까지 하락 — 2014년 고점 대비 약 4분의 3 증발한 저점",
+          "source": "CNBC",
+          "link": "https://www.cnbc.com/2018/05/15/oil-prices-have-rebounded-since-opec-refused-to-cut-output-in-2014.html",
+          "tier": "major"
+        },
+        {
+          "date": "2016-12",
+          "fact": "OPEC, 러시아 등 비OPEC 산유국과 하루 180만 배럴 감산 합의",
+          "source": "MPRA(뮌헨대 논문저장소)",
+          "link": "https://mpra.ub.uni-muenchen.de/78657/1/MPRA_paper_78657.pdf",
+          "tier": "detail"
+        },
+        {
+          "date": "2020-04-20",
+          "fact": "WTI 5월물 선물, 사상 처음으로 마이너스(-$37.63/배럴)로 마감 — 코로나 봉쇄로 수요 약 30% 급감 + 쿠싱 저장시설 포화 겹침",
+          "source": "미국 의회조사국(CRS)",
+          "link": "https://www.everycrsreport.com/reports/IN11354.html",
+          "tier": "major"
+        },
+        {
+          "date": "2022-02-24",
+          "fact": "러시아, 우크라이나 침공 — WTI·브렌트유 모두 배럴당 $100 돌파(브렌트 장중 $97.56~$105.79 변동)",
+          "source": "미국 에너지정보청(EIA)",
+          "link": "https://www.eia.gov/todayinenergy/detail.php?id=51498",
+          "tier": "major"
+        },
+        {
+          "date": "2022-03-02",
+          "fact": "WTI 종가 배럴당 $110 돌파, 브렌트유는 $115 근접 — 러시아 제재 우려로 지정학적 리스크 프리미엄 반영",
+          "source": "미국 에너지정보청(EIA)",
+          "link": "https://www.eia.gov/todayinenergy/detail.php?id=51498",
+          "tier": "detail"
+        },
+        {
+          "date": "2022-03-08",
+          "fact": "바이든 대통령, 러시아산 원유·LNG·석탄 수입 금지 발표",
+          "source": "미국 에너지정보청(EIA)",
+          "link": "https://www.eia.gov/todayinenergy/detail.php?id=51498",
+          "tier": "detail"
+        }
+      ]
+    },
+    "cpi-ppi-inflation-history": {
+      "name": "CPI·PPI 인플레이션의 역사(1970년대~2023년)",
+      "timeline": [
+        {
+          "date": "1978",
+          "fact": "'도매물가지수(WPI)'로 불리던 지표가 '생산자물가지수(PPI)'로 명칭 변경 — 산출 방법론은 그대로 유지",
+          "source": "미국 노동통계국(BLS)",
+          "link": "https://www.bls.gov/opub/hom/ppi/history.htm",
+          "tier": "detail"
+        },
+        {
+          "date": "1979-08-06",
+          "fact": "폭주하는 인플레이션 속에 폴 볼커, 연준(Fed) 의장 취임",
+          "source": "CBS News(AP 부고 재인용)",
+          "link": "https://www.cbsnews.com/news/paul-volcker-died-federal-reserve-chairman-fought-runaway-inflation-dead-age-92-cause-of-death-not-released-2019-12-09",
+          "tier": "major"
+        },
+        {
+          "date": "1979-10-06",
+          "fact": "'토요일밤의 특별조치' — 연준이 기준금리 직접관리 대신 은행 준비금 총량관리로 전환, 금리가 시장에서 급등하도록 허용",
+          "source": "세인트루이스 연준(FRASER)",
+          "link": "https://fraser.stlouisfed.org/blog/?p=2106",
+          "tier": "detail"
+        },
+        {
+          "date": "1980",
+          "fact": "연준, 기준금리를 그해 말까지 사상최고치 20%까지 끌어올림(Volcker 쇼크) — 프라임레이트는 21.5%까지",
+          "source": "세인트루이스 연준(FRASER)",
+          "link": "https://fraser.stlouisfed.org/blog/?p=2106",
+          "tier": "major"
+        },
+        {
+          "date": "1980-03",
+          "fact": "미국 CPI 전년대비 상승률 14.8%로 정점 — 2차 오일쇼크와 겹치며 공식 통계 기준 역대 최고치",
+          "source": "CEPR/VoxEU(美 노동통계국 데이터 재인용)",
+          "link": "https://cepr.org/voxeu/columns/past-and-present-inflation-are-more-similar-you-think",
+          "tier": "major"
+        },
+        {
+          "date": "1982-12",
+          "fact": "고금리발 경기침체로 실업률 10.8%까지 급등 — 대공황 이후 최고 수준",
+          "source": "CBS News(AP 부고 재인용)",
+          "link": "https://www.cbsnews.com/news/paul-volcker-died-federal-reserve-chairman-fought-runaway-inflation-dead-age-92-cause-of-death-not-released-2019-12-09",
+          "tier": "detail"
+        },
+        {
+          "date": "1983",
+          "fact": "연 중반 인플레이션이 3% 밑으로 진정되며 Volcker식 disinflation 완료",
+          "source": "CEPR/VoxEU",
+          "link": "https://cepr.org/voxeu/columns/past-and-present-inflation-are-more-similar-you-think",
+          "tier": "major"
+        },
+        {
+          "date": "2012-01-25",
+          "fact": "연준(FOMC), 사상 처음으로 명시적 2% 인플레이션 목표(PCE 기준) 공식 채택",
+          "source": "샌프란시스코 연준",
+          "link": "https://www.frbsf.org/research-and-insights/publications/economic-letter/evolution-of-fomc-explicit-inflation-target",
+          "tier": "major"
+        },
+        {
+          "date": "2015-12",
+          "fact": "유가 폭락 겹치며 CPI 연간상승률(12월 기준) 0.7%로 2008년 이후 최저 — 에너지지수는 -12.6%, 근원CPI는 2.1%로 오히려 가속",
+          "source": "미국 노동통계국(BLS, Beyond the Numbers)",
+          "link": "https://www.bls.gov/opub/btn/volume-5/the-consumer-price-index-continued-its-slowdown-in-2015.htm",
+          "tier": "major"
+        },
+        {
+          "date": "2022-03",
+          "fact": "PPI(최종수요) 전년대비 11.2% 상승 — 2010년 11월 해당 계열 집계 시작 이후 최대폭",
+          "source": "미국 노동통계국(BLS)",
+          "link": "https://www.bls.gov/opub/ted/2022/producer-prices-for-final-demand-up-11-2-percent-for-the-year-ended-march-2022.htm",
+          "tier": "major"
+        },
+        {
+          "date": "2022-06-10",
+          "fact": "CPI 발표, 전년대비 9.1% 상승 — 1981년 11월 이후 최대폭(40여년來 최고치)",
+          "source": "IndustryWeek",
+          "link": "https://www.industryweek.com/the-economy/article/21246426/us-consumer-prices-surge-to-new-40-year-high-of-91",
+          "tier": "major"
+        },
+        {
+          "date": "2022-06-15",
+          "fact": "연준, 기준금리 0.75%p 인상(1994년 이후 최대폭) — 목표범위 1.5~1.75%로 상향",
+          "source": "The Mortgage Reports(NBC 계열 보도 종합)",
+          "link": "https://themortgagereports.com/92743/fed-hikes-rate-by-75-basis-points-june-2022",
+          "tier": "major"
+        },
+        {
+          "date": "2023-06",
+          "fact": "CPI 전년대비 3.0%로 둔화 — 12개월 연속 둔화, 2022년 9.1% 정점 대비 대폭 하락(근원CPI는 4.8%)",
+          "source": "Anadolu Agency(AA)",
+          "link": "https://aa.com.tr/en/americas/us-consumer-inflation-eases-sharply-to-3-in-june/2943945",
+          "tier": "major"
+        }
+      ]
+    },
+    "unemployment-gdp-history": {
+      "name": "실업률·GDP·고용의 역사(1933~2023)",
+      "timeline": [
+        {
+          "date": "1929-1933",
+          "fact": "1929~1933년 사이 실질GDP 약 29% 감소",
+          "source": "세인트루이스 연준",
+          "link": "https://www.stlouisfed.org/the-great-depression/curriculum/economic-episodes-in-american-history-part-3",
+          "tier": "major"
+        },
+        {
+          "date": "1933",
+          "fact": "대공황 실업률 정점 24.9%(약 1,283만명) — 공식 통계 집계 전이라 후대 재구성한 수치",
+          "source": "세인트루이스 연준",
+          "link": "https://www.stlouisfed.org/the-great-depression/curriculum/economic-episodes-in-american-history-part-3",
+          "tier": "major"
+        },
+        {
+          "date": "1938-06",
+          "fact": "'루즈벨트 침체'(1937-05~1938-06, NBER) — 뉴딜 회복기 중 재정긴축+연준 긴축 겹치며 '대공황 속 공황', 실업률 14.3%(1937)→19.0%(1938)로 급등, 실질GDP -4.5%(1938)",
+          "source": "FEE(Foundation for Economic Education)",
+          "link": "https://fee.org/articles/americas-depression-within-a-depression-193739/",
+          "tier": "major"
+        },
+        {
+          "date": "1945-10",
+          "fact": "2차대전 종전發 군수생산 급감 침체(1945-02~1945-10, NBER) — 실질GDP 추정 -11%(측정방식 따라 -5~12%로 상이), 그런데도 공식 실업률은 1.9~3.9%에 그침(제대군인 민간고용 급속 흡수로 예상됐던 대량실업 미발생)",
+          "source": "History.com",
+          "link": "https://www.history.com/articles/us-economic-recessions-timeline",
+          "tier": "detail"
+        },
+        {
+          "date": "1949-10",
+          "fact": "전후 첫 '정상' 경기침체(1948-11~1949-10, NBER) 끝에 실업률 7.9%로 정점(그해 초 3.8%→) — 실질GDP -1.7%",
+          "source": "미국 노동통계국(BLS)",
+          "link": "https://www.bls.gov/spotlight/2012/recession/data_cps_unemp_1948.htm",
+          "tier": "major"
+        },
+        {
+          "date": "1954-05",
+          "fact": "한국전쟁 종전發 군비축소 침체(1953-07~1954-05, NBER) 끝에 실업률 5.9%로 정점(1953년 7월 2.6%→, 2배 이상 급등) — 실질GDP -2.7%",
+          "source": "History.com",
+          "link": "https://www.history.com/articles/us-economic-recessions-timeline",
+          "tier": "major"
+        },
+        {
+          "date": "1958-07",
+          "fact": "침체(1957-08~1958-04, NBER) 종료 후에도 실업률 계속 상승해 7.5%로 정점(1957년초 4%대→) — 당시까지 전후 최고 수준",
+          "source": "세인트루이스 연준(FRASER, 1958년 5월 연준회보)",
+          "link": "https://fraser.stlouisfed.org/files/docs/publications/FRB/1950s/frb_051958.pdf",
+          "tier": "major"
+        },
+        {
+          "date": "1961-05",
+          "fact": "'아이젠하워 침체'(1960-04~1961-02, NBER) 종료 3개월 후 실업률 7.1%로 정점(1960년 5월 약 5%대→)",
+          "source": "연준(Federal Reserve Bulletin, 1961-06, FRASER)",
+          "link": "https://fraser.stlouisfed.org/title/federal-reserve-bulletin-62/june-1961-21318/fulltext",
+          "tier": "major"
+        },
+        {
+          "date": "1970-12",
+          "fact": "침체(1969-12~1970-11, NBER) 종료 한 달 후 실업률 6.1%로 정점(1969년 12월 3.5%→) — 실질GDP -0.6%로 비교적 경미했지만 고용 회복은 지연",
+          "source": "BLS 통계 재구성(Monthly Labor Review, 2018)",
+          "link": "https://www.bls.gov/opub/mlr/2018/images/data/haugen-figure1.stm",
+          "tier": "major"
+        },
+        {
+          "date": "1975-05",
+          "fact": "1차 오일쇼크發 침체(1973-11~1975-03) 이후 실업률 9.0%로 정점 — 침체 자체는 끝났는데도 실업률은 몇 달 더 올라간 전형적 지연 패턴, 전후 최대 230만개 일자리 감소",
+          "source": "San José State University(BLS 데이터 재구성)",
+          "link": "https://www.sjsu.edu/faculty/watkins/rec1974.htm",
+          "tier": "major"
+        },
+        {
+          "date": "1980-06",
+          "fact": "1차 오일쇼크·초긴축發 침체(1980-01~1980-07, NBER) 중 실업률 7.8%로 정점 — 이후 1981년 7월까지 7.2~7.5%대에 머물다 곧바로 2차 침체(1981-82, Volcker 긴축)로 이어진 '이중침체'의 전반부",
+          "source": "연준(Federal Reserve History, Recession of 1981-82 에세이)",
+          "link": "https://www.federalreservehistory.org/essays/recession_of_1981_82",
+          "tier": "major"
+        },
+        {
+          "date": "1982-11",
+          "fact": "Volcker 긴축發 이중침체(1981-07~1982-11) 끝에 실업률 10.8%로 정점 — 2009년 금융위기(10.2%)보다도 높은, 대공황 이후 최고 수준",
+          "source": "AP(NBC 재인용)",
+          "link": "https://nbcdfw.com/news/national-international/paul-volcker-the-carter-reagan-fed-chairman-who-beat-inflation-dies-at-age-92/2270348",
+          "tier": "major"
+        },
+        {
+          "date": "1984",
+          "fact": "Volcker 디스인플레이션 이후 실질GDP 약 6.8~7.2% 성장 — 1951년 이후 최고 성장률(레이건이 \"미국의 아침\"으로 자평)",
+          "source": "Christian Science Monitor",
+          "link": "https://www.csmonitor.com/1985/0201/eco.html",
+          "tier": "detail"
+        },
+        {
+          "date": "1992-06",
+          "fact": "1990~91년 침체(1990-07~1991-03) 종료 15개월 뒤에도 실업률이 6.8%→7.8%까지 계속 상승 — 당시 언론이 \"고용없는 회복(jobless recovery)\"이라 부른 최초 사례",
+          "source": "클리블랜드 연준",
+          "link": "https://www.clevelandfed.org/publications/economic-commentary/1996/ec-19960901-reducing-working-hours-american-workers-salvation",
+          "tier": "major"
+        },
+        {
+          "date": "2001-11",
+          "fact": "닷컴버블 침체 공식 종료(1차 NBER 판정: 2001-03 시작~2001-11 종료) — 실질GDP는 2001년 3분기 한때 -1.1%(이후 수정), 실업률은 침체 종료 후에도 계속 상승해 2003-06 6.3~6.4%까지 지연 정점(아래 2003-06 항목 참조)",
+          "source": "전미경제연구소(NBER)/미국 노동통계국(BLS)",
+          "link": "https://www.bls.gov/news.release/archives/jec_07032003.pdf",
+          "tier": "major"
+        },
+        {
+          "date": "2003-06",
+          "fact": "2001년 닷컴버블 침체(2001-03 시작, 2001-11 종료) 이후 실업률 6.3%로 정점 — 침체 종료 19개월 후로, 당시까지 전후 가장 긴 \"고용없는 회복\" 기록",
+          "source": "뉴욕 연준",
+          "link": "https://www.newyorkfed.org/medialibrary/media/research/epr/05v11n1/0508vrom.pdf",
+          "tier": "major"
+        },
+        {
+          "date": "2009-06",
+          "fact": "2009년 6월부터 2020년 2월까지 128개월간 경기확장 — 1854년 이래 미국 역사상 최장 확장기(NBER 공식 판정)",
+          "source": "전미경제연구소(NBER, talkbusiness.net 재인용)",
+          "link": "https://talkbusiness.net/2020/06/nber-u-s-enters-recession-ending-longest-economic-expansion-in-u-s-history/",
+          "tier": "major"
+        },
+        {
+          "date": "2009-10",
+          "fact": "금융위기發 실업률 10.2%로 급등 — 1983년 4월 이후 26년來 최고",
+          "source": "미국 노동통계국(BLS, ABC News 재인용)",
+          "link": "https://abcnews.go.com/amp/Business/unemployment-rate-hits-102-percent/story?id=9014098",
+          "tier": "major"
+        },
+        {
+          "date": "2020-04",
+          "fact": "비농업고용 2,050만명 감소 — 1948년 집계 시작 이후 단월 기준 최대 감소폭",
+          "source": "미국 노동통계국(BLS, Employment Situation 2020-05-08)",
+          "link": "https://www.bls.gov/news.release/archives/empsit_05082020.pdf",
+          "tier": "major"
+        },
+        {
+          "date": "2020-04",
+          "fact": "실업률 14.7%로 급등 — 대공황 이후 최고치(2월 3.5%→4월 14.7%, 두 달 만에 급변)",
+          "source": "AP(CBS News 재인용)",
+          "link": "https://www.cbsnews.com/amp/pittsburgh/news/unemployment-reaches-14-percent",
+          "tier": "major"
+        },
+        {
+          "date": "2020-Q2",
+          "fact": "실질GDP 연율 -31.4%로 급락(최초 발표는 -32.9%) — 1947년 집계 시작 이후 최대 분기 감소폭",
+          "source": "미국 경제분석국(BEA, CityAM 재인용)",
+          "link": "https://www.cityam.com/?p=1443245",
+          "tier": "major"
+        },
+        {
+          "date": "2023",
+          "fact": "실질GDP +2.5% 성장, 실업률 11월 기준 3.7% 유지 — 2022년 10월 수익률곡선 역전 이후 \"역대급으로 예견됐던 침체\"가 현실화되지 않으며 \"연착륙\" 논쟁 시작",
+          "source": "Research Affiliates",
+          "link": "https://www.researchaffiliates.com/publications/articles/1018-can-we-achieve-a-soft-landing",
+          "tier": "detail"
+        },
+        {
+          "date": "2023-01",
+          "fact": "실업률 3.4%로 1969년 이후 최저 수준 — 1월 비농업고용 51만7천명 증가",
+          "source": "미국 노동통계국(BLS)",
+          "link": "https://www.bls.gov/opub/ted/2023/unemployment-rate-3-4-percent-in-april-2023.htm",
+          "tier": "major"
+        },
+        {
+          "date": "2026-06",
+          "fact": "2022-10 수익률곡선 역전 이후 약 3년 8개월이 지난 현재까지도 NBER 공식 침체선언 없음(Sahm Rule 0.47로 트리거 0.50 밑, 수익률곡선도 이미 정상화) — 1966~67년과 함께 역전 신호가 침체로 이어지지 않은 소수 사례로 남는 중",
+          "source": "시장 데이터 집계(Manifold Markets 댓글 요약, 2026-06 기준 — NBER 공식 발표가 아닌 당시 시장지표 스냅샷)",
+          "link": "https://manifold.markets/event/will-the-us-enter-a-recession-in-20",
+          "tier": "detail"
+        }
+      ]
+    },
+    "housing-market-history": {
+      "name": "주택시장의 역사(Case-Shiller·주택착공)",
+      "timeline": [
+        {
+          "date": "2006-07",
+          "fact": "케이스실러 전미 주택가격지수(184.62) 사상 최고치 기록 후 하락 전환 — 서브프라임 버블의 정점",
+          "source": "S&P Dow Jones Indices(therealdeal.com 재인용)",
+          "link": "https://therealdeal.com/2016/11/29/us-home-prices-surpassed-2006-peak-in-september/",
+          "tier": "major"
+        },
+        {
+          "date": "2008-12",
+          "fact": "주택착공건수 55만건(연율)으로 사상최저 — 단독주택 착공은 39.8만건으로 역대 최저",
+          "source": "RISMedia(상무부 데이터 재인용)",
+          "link": "https://www.rismedia.com/2009/01/25/housing-starts-continue-to-plummet-hit-record-lows-in-december/",
+          "tier": "major"
+        },
+        {
+          "date": "2012-01",
+          "fact": "케이스실러 전미 주택가격지수, 2006년 고점 대비 약 27.4% 하락한 바닥 기록",
+          "source": "HousingWire/NBC News",
+          "link": "https://www.housingwire.com/articles/sp-home-prices-see-new-bottom-recovery-on-deck/",
+          "tier": "major"
+        },
+        {
+          "date": "2016-09",
+          "fact": "케이스실러 전미 주택가격지수, 2006년 고점을 명목가 기준으로 재돌파 — 붕괴 후 10년 만에 회복",
+          "source": "S&P Dow Jones Indices",
+          "link": "https://press.spglobal.com/2016-11-29-The-S-P-CoreLogic-Case-Shiller-National-Index-Reaches-New-High-As-Home-Price-Gains-Continue",
+          "tier": "detail"
+        },
+        {
+          "date": "2021",
+          "fact": "케이스실러 전미지수 연간 +18.8%(이후 수정 18.9%) 상승 — 지수 35년 역사상 최대 연간상승률, 팬데믹發 주택붐",
+          "source": "S&P Dow Jones Indices",
+          "link": "https://www.spglobal.com/spdji/en/index-announcements/article/sp-corelogic-case-shiller-index-reports-188-annual-home-price-gain-for-calendar-2021",
+          "tier": "major"
+        },
+        {
+          "date": "2022",
+          "fact": "케이스실러 전미지수 연간상승률 5.8%로 급격 둔화(2021년 18.9% 대비) — 그래도 35년 역사상 15번째로 높은 연간상승률",
+          "source": "Inman",
+          "link": "https://inman.com/2023/02/28/home-prices-cooled-sharply-to-end-2022-but-affordability-still-elusive",
+          "tier": "major"
+        },
+        {
+          "date": "2022-04",
+          "fact": "연간상승률이 10대도시 19.8%·20대도시 21.3%로 정점 찍고 하락 전환 — 연준 금리인상 본격화와 겹침",
+          "source": "Scotsman Guide",
+          "link": "https://www.scotsmanguide.com/news/caseshiller-index-decelerates-annually-for-seventh-straight-month/",
+          "tier": "detail"
+        }
+      ]
+    },
+    "money-supply-sentiment-history": {
+      "name": "통화량(M2)·소비자심리·PCE의 역사",
+      "timeline": [
+        {
+          "date": "2021-02",
+          "fact": "팬데믹 부양책·연준 자산매입 겹치며 M2 통화량 전년대비 약 +25~27%로 급증 — 1959년 집계 시작 이후 최대 증가폭",
+          "source": "Mercatus Center(Peter Ireland, 2022)",
+          "link": "https://mercatus.org/media/75856/download",
+          "tier": "major"
+        },
+        {
+          "date": "2022-02",
+          "fact": "PCE(개인소비지출) 물가지수 전년대비 6.4% 상승 — 1982년 1월 이후 최대폭(근원PCE는 5.4%로 1983년 4월 이후 최대)",
+          "source": "CNN Business(kvia.com 재인용)",
+          "link": "https://kvia.com/news/business-technology/cnn-business-consumer-3/2022/03/31/the-feds-favorite-inflation-measure-ticked-even-higher-last-month/",
+          "tier": "major"
+        },
+        {
+          "date": "2022-06",
+          "fact": "미시간대 소비자심리지수 50.0으로 역대 최저(1970년대 중반 집계 이후) — 응답자 47%가 인플레이션이 생활수준을 깎아먹는다고 답변",
+          "source": "Bloomberg",
+          "link": "https://www.bloomberg.com/news/articles/2022-06-10/us-consumer-sentiment-slumps-to-record-low-on-inflation-woes",
+          "tier": "major"
+        },
+        {
+          "date": "2022-06",
+          "fact": "PCE 물가지수 전년대비 7.1%로 최종 정점 — 연준이 공식 2% 목표로 쓰는 지표 기준",
+          "source": "CNN Business(kvia.com 재인용)",
+          "link": "https://kvia.com/news/business-technology/cnn-business-consumer-3/2022/03/31/the-feds-favorite-inflation-measure-ticked-even-higher-last-month/",
+          "tier": "major"
+        },
+        {
+          "date": "2022-12",
+          "fact": "M2 통화량, 1959년 집계 역사상 최초로 전년대비 감소 전환",
+          "source": "Reuters(technews.tw 재인용)",
+          "link": "https://technews.tw/?p=1055532",
+          "tier": "major"
+        },
+        {
+          "date": "2023-04",
+          "fact": "M2 전년대비 -4.6%로 역대 최대 감소폭(1959년 집계 이후) — 연준 급격한 금리인상(제로 근접→5%대) 겹침",
+          "source": "S&P Global Market Intelligence",
+          "link": "https://www.spglobal.com/market-intelligence/en/news-insights/articles/2023/5/us-money-supply-falls-at-unprecedented-rate-possibly-cooling-inflation-75941751",
+          "tier": "major"
+        }
+      ]
+    },
+    "industrial-production-history": {
+      "name": "산업생산지수의 역사(1919~2020)",
+      "timeline": [
+        {
+          "date": "1919",
+          "fact": "연준, 산업생산지수 데이터 집계 시작(공식 지수 최초 발표는 1922년) — 현존하는 미국 경제지표 중 가장 긴 역사를 가진 지표 중 하나",
+          "source": "연준(Federal Reserve)",
+          "link": "https://www.federalreserve.gov/releases/G17/100_years_of_ip_data.htm",
+          "tier": "detail"
+        },
+        {
+          "date": "1929-1933",
+          "fact": "대공황 기간 산업생산 약 47% 감소",
+          "source": "브리태니커 백과사전",
+          "link": "https://britannica.com/question/How-did-the-Great-Depression-affect-the-American-economy",
+          "tier": "major"
+        },
+        {
+          "date": "2008-12",
+          "fact": "2007년 12월 대비 2008년 12월 산업생산 7.8% 감소 — 금융위기 본격화",
+          "source": "연준 G.17 발표(2009-01-16)",
+          "link": "https://www.federalreserve.gov/Releases/G17/20090116",
+          "tier": "major"
+        },
+        {
+          "date": "2009-03",
+          "fact": "제조업 가동률(capacity utilization) 69.3%로 사상 최저 — 1967년 집계 시작 이후 최저치",
+          "source": "연준 G.17 발표",
+          "link": "https://www.federalreserve.gov/Releases/g17/20090415/",
+          "tier": "detail"
+        },
+        {
+          "date": "2020-04",
+          "fact": "코로나19 봉쇄로 산업생산 전월대비 11.2% 급락 — 101년 지수 역사상 최대 단월 감소폭, 자동차 생산은 70% 이상 급감",
+          "source": "CNBC",
+          "link": "https://www.cnbc.com/2020/05/15/industrial-production-april-2020.html",
+          "tier": "major"
+        }
+      ]
     }
   },
-  "stocks_snapshot": [
-    {
-      "ticker": "NVDA",
-      "name": "엔비디아",
-      "price": 239.11,
-      "pct": 2.19
-    },
-    {
-      "ticker": "AMD",
-      "name": "AMD",
-      "price": 631.91,
-      "pct": -0.29
-    },
-    {
-      "ticker": "ARM",
-      "name": "Arm홀딩스",
-      "price": 303.04,
-      "pct": -1.44
-    },
-    {
-      "ticker": "INTC",
-      "name": "인텔",
-      "price": 116.28,
-      "pct": -2.56
-    },
-    {
-      "ticker": "SOXL",
-      "name": "반도체3배",
-      "price": 164.36,
-      "pct": 0.37
-    },
-    {
-      "ticker": "005930.KS",
-      "name": "삼성전자",
-      "price": 272000.0,
-      "pct": -1.18
-    },
-    {
-      "ticker": "000660.KS",
-      "name": "SK하이닉스",
-      "price": 1780000.0,
-      "pct": -3.0
-    },
-    {
-      "ticker": "META",
-      "name": "메타",
-      "price": 742.19,
-      "pct": 1.94
-    },
-    {
-      "ticker": "MSFT",
-      "name": "마이크로소프트",
-      "price": 525.49,
-      "pct": 1.47
-    },
-    {
-      "ticker": "GOOGL",
-      "name": "알파벳",
-      "price": 346.62,
-      "pct": 0.88
-    },
-    {
-      "ticker": "AMZN",
-      "name": "아마존",
-      "price": 251.51,
-      "pct": -0.01
-    },
-    {
-      "ticker": "AAPL",
-      "name": "애플",
-      "price": 333.13,
-      "pct": -0.2
-    },
-    {
-      "ticker": "TQQQ",
-      "name": "나스닥3배",
-      "price": 83.12,
-      "pct": 2.62
-    },
-    {
-      "ticker": "COIN",
-      "name": "코인베이스",
-      "price": 188.19,
-      "pct": 2.84
-    },
-    {
-      "ticker": "SMCI",
-      "name": "슈퍼마이크로",
-      "price": 43.2,
-      "pct": -1.1
-    },
-    {
-      "ticker": "CRWD",
-      "name": "크라우드스트라이크",
-      "price": 272.76,
-      "pct": 1.0
-    },
-    {
-      "ticker": "MSTR",
-      "name": "마이크로스트래티지",
-      "price": 164.45,
-      "pct": 2.76
-    },
-    {
-      "ticker": "HOOD",
-      "name": "로빈후드",
-      "price": 114.14,
-      "pct": 1.24
-    },
-    {
-      "ticker": "PANW",
-      "name": "팔로알토",
-      "price": 406.83,
-      "pct": 0.87
-    },
-    {
-      "ticker": "NET",
-      "name": "클라우드플레어",
-      "price": 359.63,
-      "pct": 3.11
-    },
-    {
-      "ticker": "RKLB",
-      "name": "로켓랩",
-      "price": 73.06,
-      "pct": -1.16
-    },
-    {
-      "ticker": "SPCX",
-      "name": "스페이스X",
-      "price": 171.1,
-      "pct": 7.63
-    },
-    {
-      "ticker": "PLTR",
-      "name": "팔란티어",
-      "price": 189.43,
-      "pct": 0.34
+  "rate_cycle_deep_research": {
+    "rate-cycle-mechanism-2026": {
+      "title": "금리 사이클 메커니즘 심층분석 — 수혜/피해 구조와 2027 시나리오 확률",
+      "framework": "매크로 전이경로 분석",
+      "data_asof": "2026-11-15",
+      "intro": "무료 개요(연도별 금리 경로)에 이어, 왜 \"동결\"이 해결책이 아닌지, AI버블이 꺼지면 경제충격이 어떤 경로로 퍼지는지, 지금 이득 보는 그룹들이 각각 어떤 조건에서 원점으로 돌아가는지, 2027년 침체확률을 기관별로 비교한 심층분석입니다. 투자 자문이 아니며, 결론을 그대로 따라가지 말고 구조 이해의 재료로만 쓰세요.",
+      "sections": [
+        {
+          "heading": "동결이 '해결'은 아닌 이유",
+          "body": "<p>동결의 본질은 문제를 고치는 게 아니라 양쪽 리스크를 피하면서 시간을 버는 것이다.</p>\n<p><b>동결이 막아주는 것</b>: 인상 시 생길 추가 충격(가계·증시 압박) 방지 / 인하 시 생길 리스크\n(코어 인플레 +0.3%로 안 끝난 상태에서 너무 빨리 풀면 재점화, AI버블 추가 과열) 방지 / 셧다운 후유증으로\n데이터 질이 나쁜 상태에서 섣부른 판단 대신 더 깨끗한 데이터(12/10 CPI 등)를 기다릴 시간 확보.</p>\n<p><b>동결로는 안 풀리는 것</b>: 카드 연체율 15년來 최고(금리 안 내리면 가계 빚 부담 그대로) /\n실질임금 정체(물가가 완전히 안 꺾였으니 체감 생활비 부담 그대로) / AI버블 논쟁(동결 자체가 버블을\n꺼지게도 더 부풀게도 안 함).</p>"
+        },
+        {
+          "heading": "주택시장 쳇바퀴 — 락인 효과 상세",
+          "body": "<p>미국 주담대의 약 90%가 30년 고정금리라, 한 번 낮은 금리로 고정하면 30년 내내 그 금리가\n유지된다(한국처럼 2~3년마다 재조정되는 구조가 아님). 2026년 2분기 기준 미국 주담대 중 19.2%가 여전히\n3% 미만 금리로 잠겨있다 — 이 집단은 본인이 이직·이혼·사망·파산 등으로 강제로 팔아야 하는 사정이 생기지\n않는 한, 연준이 뭘 하든 자기 금리를 그대로 유지한다.</p>\n<p>이게 매물 품귀 → 렌트비 상승 → CPI 셰터(주거비) 항목 상승으로 이어지는데, 셰터 CPI는 실시간 렌트가\n아니라 기존 계약 전체의 평균이라 측정 자체가 후행적이다 — 실시간 민간 렌트 지수가 먼저 꺾여도 공식\nCPI 셰터 항목이 따라잡는 데 시간이 걸린다. 다음 CPI(12/10)에서 셰터 항목 상승폭이 꺾이는지가 이 루프가\n풀리기 시작했는지를 보는 가장 빠른 신호다.</p>"
+        },
+        {
+          "heading": "AI버블 붕괴 시 경제충격 전이경로(5단계)",
+          "body": "<ol>\n<li><b>부(富)효과 역전</b> — AI/빅테크 소수 종목이 지수 비중을 과도하게 차지한 상태에서 무너지면\n주식 보유자 전체의 자산가치가 한꺼번에 줄어 소비가 위축됨.</li>\n<li><b>AI capex 자체가 최근 GDP 성장의 큰 축</b> — 데이터센터·GPU 투자 둔화 시 성장률에 직접 구멍.</li>\n<li><b>신뢰충격(confidence shock)</b> — Fitch 다운사이드 시나리오가 명시한 표현. 버블 붕괴가 AI\n섹터에 국한되지 않고 기업·투자자 전반의 위험선호를 얼어붙게 만들어 무관한 업종까지 대출·고용·투자를\n보수적으로 돌림.</li>\n<li><b>이미 약해진 가계가 먼저 터짐</b> — 카드 연체율이 이미 15년來 최고인 상태라, 자산가치 충격이\n오면 이 집단의 소비가 가장 먼저 끊김.</li>\n<li><b>연준의 대응 여력 제한</b> — 인플레가 완전히 안 잡힌 상태(코어 +0.3%)라, 충격이 와도 2008·2020년\n때처럼 바로 큰 폭 인하로 받쳐주기 조심스러움.</li>\n</ol>"
+        },
+        {
+          "heading": "지금 이득 보는 6개 그룹과 원점 회귀 조건",
+          "body": "<table>\n<tr><th>그룹</th><th>지금 이득의 원천</th><th>원점/손실로 가는 조건</th></tr>\n<tr><td>현금성자산·단기채권 보유자</td><td>고금리로 무위험 이자수익</td><td>금리 인하 시작 → 수익률 즉시 축소(원금 손실은 아님)</td></tr>\n<tr><td>3%대 고정 모기지 기존 집주인</td><td>낮은 고정금리로 주거비 부담 없음</td><td>금리와 무관, 본인의 강제매각 사정(이직·이혼·사망·파산)이 생겨야만 깨짐</td></tr>\n<tr><td>임대인(렌트수익)</td><td>공급부족으로 렌트비 상승</td><td>신규 매물·건설 공급 회복 또는 침체로 공실률 상승 시 인상 여력 축소</td></tr>\n<tr><td>AI/빅테크 주식 보유자</td><td>반등 국면 수익(금리 인하는 오히려 호재)</td><td>인상이 아니라 \"버블 자체의 신뢰충격\"이 트리거 — 인하와 무관하게도 터질 수 있음</td></tr>\n<tr><td>은행·대출기관</td><td>고금리로 이자마진 확대</td><td>인하보다 연체·부도 확산이 더 직접적 트리거(이미 카드 연체율 15년來 최고)</td></tr>\n<tr><td>달러 보유자</td><td>강달러</td><td>연준이 타국보다 먼저·빠르게 인하 시작하면 약세 전환</td></tr>\n</table>\n<p>즉 \"금리 인하 하나\"가 6개 그룹을 전부 원점으로 돌리지 않는다 — 현금·달러 그룹만 인하에 직접 연동되고,\n나머지는 개인 사정·공급·버블 신뢰충격·연체 확산 등 다른 변수가 스위치다.</p>"
+        },
+        {
+          "heading": "2027년 침체확률 — 기관별 비교",
+          "body": "<table>\n<tr><th>기관/소스</th><th>추산</th><th>방법론 메모</th></tr>\n<tr><td>Kalshi(예측시장)</td><td class=\"num\">41%</td><td>2026년 17.5% 대비 급등 — 시장참여자 베팅 기반</td></tr>\n<tr><td>Fitch(다운사이드 시나리오)</td><td class=\"num\">GDP -0.6%(기준선 +2.1%)</td><td>\"AI 주식 대량매도 + 신뢰충격\" 가정 시나리오, 확률이 아니라 조건부 결과값</td></tr>\n<tr><td>YCharts/FRED(모델 기반)</td><td class=\"num\">15% 이하</td><td>전통적 선행지표(장단기금리차 등) 기반 모델 추정</td></tr>\n<tr><td>David Rosenberg(경제학자)</td><td class=\"num\">정량 수치 없음</td><td>\"매우 significant한 침체 위험\"이라고 구두 경고, 구체 확률 미제시</td></tr>\n</table>\n<p>기관마다 편차가 매우 큼(15%~41%) — 이는 2027 전망의 핵심 불확실성이 \"유가\"가 아니라\n\"AI버블이 언제·어떻게 꺾이느냐\"에 쏠려있기 때문. Fitch 시나리오의 GDP -0.6%는 역성장이지만\n2020년 코로나 충격(-3.4%, 2분기 연율 -31%)과는 규모가 다름 — \"침체\"는 맞아도 \"코로나급 붕괴\"로\n보기는 어려움.</p>"
+        },
+        {
+          "heading": "산타랠리 조건부 매트릭스",
+          "body": "<table>\n<tr><th>12월 FOMC 결과</th><th>위험자산(코인·AI주) 영향</th></tr>\n<tr><td>인상</td><td>악재 확정 — 산타랠리 없음, 할인율 상승으로 밸류에이션 압박</td></tr>\n<tr><td>동결(매파적 뉘앙스)</td><td>최악은 피했지만 랠리의 충분조건은 아님 — \"일단 안 죽었다\" 정도</td></tr>\n<tr><td>동결(비둘기적 뉘앙스, \"다음엔 내린다\" 시사)</td><td>랠리 기대 일부 살아있음</td></tr>\n<tr><td>인하</td><td>가장 직접적인 랠리 호재</td></tr>\n</table>"
+        }
+      ],
+      "sources": [
+        {
+          "name": "newsbytesapp — AI bubble burst recession risk (Fitch)",
+          "url": "https://www.newsbytesapp.com/news/business/ai-bubble-burst-could-trigger-us-recession-fitch-warns/story"
+        },
+        {
+          "name": "National Mortgage Professional — mortgage rate lock-in",
+          "url": "https://nationalmortgageprofessional.com/news/mortgage-rate-lock-more-high-rate-loans-few-signs-thaw"
+        },
+        {
+          "name": "Financer.com — Mortgage statistics 2026",
+          "url": "https://financer.com/loans/mortgage-statistics/"
+        },
+        {
+          "name": "eMarketer — credit card delinquency 15-year high",
+          "url": "https://www.emarketer.com/content/credit-card-delinquencies-levels-not-seen-since-great-recession-per-new-york-fed"
+        },
+        {
+          "name": "kptv — Nov 5 2026 selloff worst day since 2025 tariffs",
+          "url": "https://www.kptv.com/2026/11/05/brutal-sell-off-ai-stocks-sends-wall-street-reeling-sp-500-sees-worst-day-since-2025-liberation-day-tariffs/"
+        },
+        {
+          "name": "Federal Reserve — 2026-10-28 FOMC Statement",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm"
+        }
+      ]
     }
-  ],
-  "rates_snapshot": {
-    "금리(미국 국채)": [
-      {
-        "name": "미국 13주 단기금리",
-        "value": 4.035,
-        "pct": 0.42,
-        "unit": "%"
-      },
-      {
-        "name": "미국 5년물 국채",
-        "value": 5.034,
-        "pct": -0.63,
-        "unit": "%"
-      },
-      {
-        "name": "미국 10년물 국채",
-        "value": 5.284,
-        "pct": -0.51,
-        "unit": "%"
-      },
-      {
-        "name": "미국 30년물 국채",
-        "value": 5.655,
-        "pct": -0.18,
-        "unit": "%"
-      }
-    ],
-    "환율": [
-      {
-        "name": "달러인덱스(DXY)",
-        "value": 101.858,
-        "pct": -0.3,
-        "unit": ""
-      },
-      {
-        "name": "원/달러",
-        "value": 1339.18,
-        "pct": -0.34,
-        "unit": "원"
-      },
-      {
-        "name": "엔/달러",
-        "value": 158.043,
-        "pct": 0.06,
-        "unit": "엔"
-      },
-      {
-        "name": "위안/달러",
-        "value": 6.692,
-        "pct": -0.18,
-        "unit": "위안"
-      },
-      {
-        "name": "유로/달러",
-        "value": 1.125,
-        "pct": 0.32,
-        "unit": "달러"
-      }
-    ],
-    "주가지수": [
-      {
-        "name": "S&P500",
-        "value": 7774.22,
-        "pct": 0.66,
-        "unit": ""
-      },
-      {
-        "name": "나스닥",
-        "value": 27471.422,
-        "pct": 1.05,
-        "unit": ""
-      },
-      {
-        "name": "코스피",
-        "value": 6939.39,
-        "pct": -0.63,
-        "unit": ""
-      },
-      {
-        "name": "닛케이225",
-        "value": 70773.797,
-        "pct": 1.21,
-        "unit": ""
-      },
-      {
-        "name": "상하이종합",
-        "value": 3842.993,
-        "pct": 0.27,
-        "unit": ""
-      }
-    ]
-  }
+  },
+  "stocks_snapshot": [],
+  "rates_snapshot": {}
 }
