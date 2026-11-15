@@ -2,22 +2,6 @@
   {
     "topic_name": "기타 지역",
     "date_kst": "11/06 05:30",
-    "headline": "Protesters march in cities across France as unions stage general strike",
-    "link": "https://www.theguardian.com/world/2026/nov/05/protesters-france-march-strikes-education-cost-of-living",
-    "source": "Guardian",
-    "comment": ""
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "11/06 05:30",
-    "headline": "Bomb threats disrupt flights across Europe for the second time. Here’s what we know",
-    "link": "https://www.cnbc.com/2026/11/05/bomb-threats-flights-europe.html",
-    "source": "CNBC",
-    "comment": ""
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "11/06 05:30",
     "headline": "Who could be behind hoax bomb threats to European air travel?",
     "link": "https://www.bbc.co.uk/news/articles/cx8dzzjg3g9zo?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
@@ -1483,5 +1467,21 @@
     "headline": "[속보 11/15 21:26] Jordan sentences 3 men to death over deadly church attack",
     "link": "https://www.scmp.com/news/world/middle-east/article/3374499/jordan-sentences-3-men-death-over-deadly-church-attack",
     "source": "SCMP"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/15 22:00",
+    "headline": "SpaceX catches upper stage of Starship rocket in historic first",
+    "link": "https://www.cnbc.com/2026/11/14/spacex-plans-to-try-first-ever-catch-of-starship-rocket-from-orbit.html",
+    "source": "CNBC",
+    "comment": ""
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/15 22:00",
+    "headline": "Jordan sentences three men to death by hanging after deadly church attack",
+    "link": "https://www.aljazeera.com/news/2026/11/15/jordan-sentences-three-men-to-death-by-hanging-after-deadly-church-attack?traffic_source=rss",
+    "source": "AlJazeera",
+    "comment": ""
   }
 ]
