@@ -1,35 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "11/06 16:00",
-    "headline": "Record-breaking El Nino raises prospect of warmer, wetter winter in Korea",
-    "link": "https://www.koreaherald.com/article/10928548",
-    "source": "KoreaHerald",
-    "comment": ""
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "11/06 19:41",
-    "headline": "[속보 11/06 19:41] European skies on high alert after hoax bomb threats this week – Europe live",
-    "link": "https://www.theguardian.com/world/live/2026/nov/06/high-alert-hoax-bomb-threats-france-air-lingus-belgium-pope-leo-europe-live",
-    "source": "Guardian"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "11/06 19:41",
-    "headline": "[속보 11/06 19:41] Hoax bomb threats target European airlines and airports for second time in a week",
-    "link": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "11/06 19:41",
-    "headline": "[속보 11/06 19:41] Oil Prices Head for 12% Weekly Loss Despite Fresh Tanker Attacks",
-    "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Head-for-12-Weekly-Loss-Despite-Fresh-Tanker-Attacks.html",
-    "source": "OilPrice"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "11/06 20:56",
     "headline": "[속보 11/06 20:56] Hoax Bomb threats repeatedly disrupt flights across Europe this week. Here’s what we know",
     "link": "https://www.cnbc.com/2026/11/05/bomb-threats-flights-europe.html",
@@ -1482,5 +1453,37 @@
     "headline": "[속보 11/16 17:41] Ecuador’s president denies existence of US military base",
     "link": "https://www.aljazeera.com/news/2026/11/16/ecuadors-president-denies-us-has-military-base-in-country?traffic_source=rss",
     "source": "AlJazeera"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/16 22:00",
+    "headline": "MP Helen Haines’s first words since leaving hospital after alleged attack led to double amputation",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/16/mp-helen-haines-out-of-hospital-after-attack-leg-amputation-ntwnfb",
+    "source": "Guardian",
+    "comment": ""
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/16 22:00",
+    "headline": "Australian MP 'full of gratitude' upon leaving hospital after alleged car attack",
+    "link": "https://www.bbc.co.uk/news/articles/cmpqr9j81888o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "comment": ""
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/16 22:00",
+    "headline": "Ecuador’s president denies existence of US military base",
+    "link": "https://www.aljazeera.com/news/2026/11/16/ecuadors-president-denies-us-has-military-base-in-country?traffic_source=rss",
+    "source": "AlJazeera",
+    "comment": ""
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/16 22:00",
+    "headline": "Delaware hit by rare November tornado",
+    "link": "https://www.theguardian.com/environment/2026/nov/16/delaware-hit-by-rare-november-tornado",
+    "source": "Guardian",
+    "comment": ""
   }
 ]
