@@ -2,14 +2,6 @@
   {
     "topic_name": "기타 지역",
     "date_kst": "11/06 22:00",
-    "headline": "Bomb threats disrupt dozens of flights across Europe, raising hybrid war fears",
-    "link": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears",
-    "source": "Guardian",
-    "comment": ""
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "11/06 22:00",
     "headline": "Hoax bomb threats repeatedly disrupt flights across Europe this week. Here’s what we know",
     "link": "https://www.cnbc.com/2026/11/05/bomb-threats-flights-europe.html",
     "source": "CNBC",
@@ -1487,5 +1479,12 @@
     "link": "https://www.theguardian.com/environment/2026/nov/16/delaware-hit-by-rare-november-tornado",
     "source": "Guardian",
     "comment": ""
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/17 05:41",
+    "headline": "[속보 11/17 05:41] Suspect in custody after bomb found at Illinois ethanol plant",
+    "link": "https://www.theguardian.com/us-news/2026/nov/16/illinois-bomb-ethanol-plant-suspect",
+    "source": "Guardian"
   }
 ]
