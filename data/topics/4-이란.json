@@ -1,13 +1,6 @@
 [
   {
     "topic_name": "이란",
-    "date_kst": "10/02 11:37",
-    "headline": "Treasury sanctions operation targets Iran's auto, rail industries in latest economic attack",
-    "link": "https://www.cnbc.com/2026/10/01/treasury-sanctions-iran-auto-rail.html",
-    "source": "CNBC"
-  },
-  {
-    "topic_name": "이란",
     "date_kst": "10/02 12:00",
     "headline": "Treasury sanctions operation targets Iran's auto, rail industries in latest economic attack",
     "link": "https://www.cnbc.com/2026/10/01/treasury-sanctions-iran-auto-rail.html",
@@ -1443,5 +1436,13 @@
     "headline": "[속보 11/17 00:41] Iran Claims Two More Oil Tankers Hit Mines in Strait of Hormuz",
     "link": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Claims-Two-More-Oil-Tankers-Hit-Mines-in-Strait-of-Hormuz.html",
     "source": "OilPrice"
+  },
+  {
+    "topic_name": "이란",
+    "date_kst": "11/17 05:30",
+    "headline": "Iran Claims Two More Oil Tankers Hit Mines in Strait of Hormuz",
+    "link": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Claims-Two-More-Oil-Tankers-Hit-Mines-in-Strait-of-Hormuz.html",
+    "source": "OilPrice",
+    "comment": ""
   }
 ]

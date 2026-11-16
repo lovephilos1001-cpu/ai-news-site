@@ -1,20 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "11/06 20:56",
-    "headline": "[속보 11/06 20:56] Hoax or bomb threats? What we know about flight disruptions across Europe",
-    "link": "https://www.aljazeera.com/news/2026/11/6/hoax-or-bomb-threats-what-we-know-about-flight-disruptions-across-europe?traffic_source=rss",
-    "source": "AlJazeera"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "11/06 21:56",
-    "headline": "[속보 11/06 21:56] Hoax bomb threats repeatedly disrupt flights across Europe this week. Here’s what we know",
-    "link": "https://www.cnbc.com/2026/11/05/bomb-threats-flights-europe.html",
-    "source": "CNBC"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "11/06 22:00",
     "headline": "Bomb threats disrupt dozens of flights across Europe, raising hybrid war fears",
     "link": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears",
@@ -1485,5 +1471,21 @@
     "headline": "[속보 11/17 00:41] Oil tankers hit sea mines in the Strait of Hormuz",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/oil-tankers-hit-sea-mines-in-the-strait-of-hormuz?traffic_source=rss",
     "source": "AlJazeera"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/17 05:30",
+    "headline": "Oil tankers hit sea mines in the Strait of Hormuz",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/oil-tankers-hit-sea-mines-in-the-strait-of-hormuz?traffic_source=rss",
+    "source": "AlJazeera",
+    "comment": ""
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/17 05:30",
+    "headline": "Delaware hit by rare November tornado",
+    "link": "https://www.theguardian.com/environment/2026/nov/16/delaware-hit-by-rare-november-tornado",
+    "source": "Guardian",
+    "comment": ""
   }
 ]
