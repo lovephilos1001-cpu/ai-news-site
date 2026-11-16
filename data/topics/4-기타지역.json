@@ -1,13 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "11/06 13:41",
-    "headline": "[속보 11/06 13:41] S. Korea to see warm, wet winter due to powerful El Nino",
-    "link": "https://en.yna.co.kr/view/AEN20261106004500315",
-    "source": "YonhapEN"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "11/06 16:00",
     "headline": "Bomb threats disrupt dozens of flights across Europe, raising hybrid war fears",
     "link": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears",
@@ -1481,6 +1474,13 @@
     "topic_name": "기타 지역",
     "date_kst": "11/16 12:41",
     "headline": "[속보 11/16 12:41] MP Helen Haines’ first words since leaving hospital after alleged attack led to double amputation",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/16/mp-helen-haines-out-of-hospital-after-attack-leg-amputation-ntwnfb",
+    "source": "Guardian"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/16 14:26",
+    "headline": "[속보 11/16 14:26] MP Helen Haines’s first words since leaving hospital after alleged attack led to double amputation",
     "link": "https://www.theguardian.com/australia-news/2026/nov/16/mp-helen-haines-out-of-hospital-after-attack-leg-amputation-ntwnfb",
     "source": "Guardian"
   }
