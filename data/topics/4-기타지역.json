@@ -1,13 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "11/06 10:11",
-    "headline": "[속보 11/06 10:11] New wave of bomb hoaxes hits dozens of flights across Europe",
-    "link": "https://www.japantimes.co.jp/news/2026/11/06/world/crime-legal/europe-bomb-hoaxes-second-wave/",
-    "source": "JapanTimes"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "11/06 13:26",
     "headline": "[속보 11/06 13:26] Bomb threats disrupt dozens of flights across Europe, raising hybrid war fears",
     "link": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears",
@@ -1483,5 +1476,12 @@
     "headline": "[속보 11/16 05:41] Jordan sentences three men to death over deadly church attack in Karak",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/jordan-sentences-three-men-to-death-over-deadly-church-attack-in-karak?traffic_source=rss",
     "source": "AlJazeera"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/16 11:26",
+    "headline": "[속보 11/16 11:26] Prince Harry tells Ukrainians they are ‘going to win war’ on surprise trip to Lviv",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/15/prince-harry-ukraine-war-surprise-trip-invictus-games",
+    "source": "Guardian"
   }
 ]
