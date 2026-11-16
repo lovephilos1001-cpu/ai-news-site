@@ -17,6 +17,7 @@ https://marketbriefwire.com/paid/premium.json — $0.01/요청, x402 프로토�
 x402 사양: https://www.x402.org/
 
 ## 최근 브리핑
+- [[11/16 16:00] Bessent calls for ‘dramatic shakeup’ at Nvidia, urges outside CEO](https://marketbriefwire.com/20261116-0702.html) — 11/16 16:00
 - [[11/16 05:30] Bessent calls for ‘dramatic shakeup’ at Nvidia, urges outside CEO](https://marketbriefwire.com/20261115-2032.html) — 11/16 05:30
 - [[11/15 22:00] 최태원 "AI 반도체 넘어 서비스까지…성장 선순환 만들어야" - 매일경제 마켓](https://marketbriefwire.com/20261115-1302.html) — 11/15 22:00
 - [[11/15 16:00] "트럼프, AI 반도체 수출통제 풀며 엔비디아 주식 샀다" - 연합뉴스](https://marketbriefwire.com/20261115-0702.html) — 11/15 16:00
@@ -36,4 +37,3 @@ x402 사양: https://www.x402.org/
 - [[11/10 05:30] AI 반도체 수요에 3분기 웨이퍼 출하량 전년比 13% 증가 - Chosunbiz](https://marketbriefwire.com/20261109-2032.html) — 11/10 05:30
 - [[11/09 22:00] AI 반도체 수요에 3분기 웨이퍼 출하량 전년比 13% 증가 - Chosunbiz](https://marketbriefwire.com/20261109-1302.html) — 11/09 22:00
 - [[11/09 16:00] TSMC, 3D D램 제조 진출설⋯ AI 반도체 공급망 통째로 삼키나 - 브릿지경제](https://marketbriefwire.com/20261109-0702.html) — 11/09 16:00
-- [[11/09 05:30] AI·서버 주도로 재편되는 대만 반도체 공급망… 韓 소부장·팹리스에 새 협력 창구 열린다 - 기계신문](https://marketbriefwire.com/20261108-2032.html) — 11/09 05:30

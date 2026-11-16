@@ -2,30 +2,6 @@
   {
     "topic_name": "기타 지역",
     "date_kst": "11/06 16:00",
-    "headline": "Bomb threats disrupt dozens of flights across Europe, raising hybrid war fears",
-    "link": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears",
-    "source": "Guardian",
-    "comment": ""
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "11/06 16:00",
-    "headline": "Protesters march in cities across France as unions stage general strike",
-    "link": "https://www.theguardian.com/world/2026/nov/05/protesters-france-march-strikes-education-cost-of-living",
-    "source": "Guardian",
-    "comment": ""
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "11/06 16:00",
-    "headline": "Hoax bomb threats force emergency landings, evacuations across Europe",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/hoax-bomb-threats-force-emergency-landings-evacuations-across-europe?traffic_source=rss",
-    "source": "AlJazeera",
-    "comment": ""
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "11/06 16:00",
     "headline": "New wave of bomb hoaxes hits dozens of flights across Europe",
     "link": "https://www.japantimes.co.jp/news/2026/11/06/world/crime-legal/europe-bomb-hoaxes-second-wave/",
     "source": "JapanTimes",
@@ -1483,5 +1459,29 @@
     "headline": "[속보 11/16 14:26] MP Helen Haines’s first words since leaving hospital after alleged attack led to double amputation",
     "link": "https://www.theguardian.com/australia-news/2026/nov/16/mp-helen-haines-out-of-hospital-after-attack-leg-amputation-ntwnfb",
     "source": "Guardian"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/16 16:00",
+    "headline": "MP Helen Haines’s first words since leaving hospital after alleged attack led to double amputation",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/16/mp-helen-haines-out-of-hospital-after-attack-leg-amputation-ntwnfb",
+    "source": "Guardian",
+    "comment": ""
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/16 16:00",
+    "headline": "Prince Harry tells Ukrainians they are ‘going to win war’ on surprise trip to Lviv",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/15/prince-harry-ukraine-war-surprise-trip-invictus-games",
+    "source": "Guardian",
+    "comment": ""
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/16 16:00",
+    "headline": "Australian MP 'full of gratitude' upon leaving hospital after alleged car attack",
+    "link": "https://www.bbc.co.uk/news/articles/cmpqr9j81888o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "comment": ""
   }
 ]
