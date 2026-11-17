@@ -1,13 +1,6 @@
 [
   {
     "topic_name": "이란",
-    "date_kst": "10/02 17:26",
-    "headline": "[속보 10/02 17:26] U.S. urges Europe to ‘immediately’ release diesel reserves as Iran war fuels record prices",
-    "link": "https://www.cnbc.com/2026/10/02/diesel-oil-trump-europe-export-ban.html",
-    "source": "CNBC"
-  },
-  {
-    "topic_name": "이란",
     "date_kst": "10/05 00:26",
     "headline": "[속보 10/05 00:26] Is Trump’s war on Iran a threat to Japan?",
     "link": "https://www.japantimes.co.jp/commentary/2026/10/04/japan/iran-war-japan-threat/",
@@ -1445,5 +1438,13 @@
     "headline": "[속보 11/17 22:37] US rejects Iran&apos;s claim of drone strike on radar in Bahrain",
     "link": "https://www.koreaherald.com/article/10940399",
     "source": "KoreaHerald"
+  },
+  {
+    "topic_name": "이란",
+    "date_kst": "11/17 22:37",
+    "headline": "US rejects Iran&apos;s claim of drone strike on radar in Bahrain",
+    "link": "https://www.koreaherald.com/article/10940399",
+    "source": "KoreaHerald",
+    "comment": ""
   }
 ]
