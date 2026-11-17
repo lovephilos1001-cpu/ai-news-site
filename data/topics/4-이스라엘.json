@@ -609,5 +609,19 @@
     "link": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
     "comment": ""
+  },
+  {
+    "topic_name": "이스라엘",
+    "date_kst": "11/17 23:26",
+    "headline": "[속보 11/17 23:26] Ed Miliband announces first sanctions on Israeli firms working in West Bank",
+    "link": "https://www.theguardian.com/world/2026/nov/17/ed-miliband-israel-west-bank-settlements-sanctions",
+    "source": "Guardian"
+  },
+  {
+    "topic_name": "이스라엘",
+    "date_kst": "11/17 23:26",
+    "headline": "[속보 11/17 23:26] UK sanctions eight Israeli construction firms over West Bank settlements",
+    "link": "https://www.aljazeera.com/news/2026/11/17/uk-sanctions-8-israeli-firms-over-occupied-west-bank-settlements-gaza-aid?traffic_source=rss",
+    "source": "AlJazeera"
   }
 ]
