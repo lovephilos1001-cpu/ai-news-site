@@ -1,14 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "11/06 22:00",
-    "headline": "Hoax or bomb threats? What we know about flight disruptions across Europe",
-    "link": "https://www.aljazeera.com/news/2026/11/6/hoax-or-bomb-threats-what-we-know-about-flight-disruptions-across-europe?traffic_source=rss",
-    "source": "AlJazeera",
-    "comment": ""
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "11/06 22:56",
     "headline": "[속보 11/06 22:56] Further bomb threats disrupt at least another 18 flights across Europe",
     "link": "https://www.theguardian.com/world/2026/nov/06/further-bomb-threats-disrupt-flights-across-europe",
@@ -1485,5 +1477,12 @@
     "headline": "[속보 11/17 09:41] Military toughens screening of smart wearables amid scrutiny over AI cheating",
     "link": "https://www.koreaherald.com/article/10939332",
     "source": "KoreaHerald"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/17 11:41",
+    "headline": "[속보 11/17 11:41] Third US aircraft carrier brings thousands more troops to Middle East",
+    "link": "https://www.theguardian.com/us-news/2026/nov/16/aircraft-middle-east-trump-military",
+    "source": "Guardian"
   }
 ]
