@@ -17,6 +17,7 @@ https://marketbriefwire.com/paid/premium.json — $0.01/요청, x402 프로토�
 x402 사양: https://www.x402.org/
 
 ## 최근 브리핑
+- [[11/17 16:00] Taking a Tour of Canada’s Particle Accelerator](https://marketbriefwire.com/20261117-0702.html) — 11/17 16:00
 - [[11/17 05:30] Taking a Tour of Canada’s Particle Accelerator](https://marketbriefwire.com/20261116-2032.html) — 11/17 05:30
 - [[11/16 22:00] Bessent calls for ‘dramatic shakeup’ at Nvidia, urges outside CEO](https://marketbriefwire.com/20261116-1302.html) — 11/16 22:00
 - [[11/16 16:00] Bessent calls for ‘dramatic shakeup’ at Nvidia, urges outside CEO](https://marketbriefwire.com/20261116-0702.html) — 11/16 16:00
@@ -36,4 +37,3 @@ x402 사양: https://www.x402.org/
 - [[11/11 05:30] Reducing Lithography Learning Cycles To Accelerate FOPLP Ramps](https://marketbriefwire.com/20261110-2031.html) — 11/11 05:30
 - [[11/10 22:35] Reducing Lithography Learning Cycles To Accelerate FOPLP Ramps](https://marketbriefwire.com/20261110-1337.html) — 11/10 22:35
 - [[11/10 16:00] Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.](https://marketbriefwire.com/20261110-0702.html) — 11/10 16:00
-- [[11/10 05:30] AI 반도체 수요에 3분기 웨이퍼 출하량 전년比 13% 증가 - Chosunbiz](https://marketbriefwire.com/20261109-2032.html) — 11/10 05:30
