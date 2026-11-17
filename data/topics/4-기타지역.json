@@ -2,14 +2,6 @@
   {
     "topic_name": "기타 지역",
     "date_kst": "11/07 05:30",
-    "headline": "New wave of bomb threats hit European airlines",
-    "link": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "comment": ""
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "11/07 05:30",
     "headline": "‘Clock is ticking’: European TV channels targeted in wave of hoax bomb threats",
     "link": "https://www.scmp.com/news/world/europe/article/3373611/clock-ticking-european-tv-channels-targeted-wave-hoax-bomb-threats",
     "source": "SCMP",
@@ -1485,5 +1477,13 @@
     "headline": "[속보 11/18 01:11] How the attack on Crimean Bridge unfolded",
     "link": "https://www.bbc.co.uk/news/articles/crz9dgz28zwdo?at_medium=RSS&at_campaign=rss",
     "source": "BBC"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/18 05:30",
+    "headline": "UN climate chief warns of AI &apos;double-edged sword&apos; at COP31",
+    "link": "https://www.koreaherald.com/article/10939914",
+    "source": "KoreaHerald",
+    "comment": ""
   }
 ]
