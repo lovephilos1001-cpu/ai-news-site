@@ -1,13 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "11/06 22:56",
-    "headline": "[속보 11/06 22:56] Further bomb threats disrupt at least another 18 flights across Europe",
-    "link": "https://www.theguardian.com/world/2026/nov/06/further-bomb-threats-disrupt-flights-across-europe",
-    "source": "Guardian"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "11/07 00:41",
     "headline": "[속보 11/07 00:41] ‘Clock is ticking’: European TV channels targeted in wave of hoax bomb threats",
     "link": "https://www.scmp.com/news/world/europe/article/3373611/clock-ticking-european-tv-channels-targeted-wave-hoax-bomb-threats",
@@ -1484,5 +1477,12 @@
     "headline": "[속보 11/17 11:41] Third US aircraft carrier brings thousands more troops to Middle East",
     "link": "https://www.theguardian.com/us-news/2026/nov/16/aircraft-middle-east-trump-military",
     "source": "Guardian"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/17 14:41",
+    "headline": "[속보 11/17 14:41] California sues OpenAI over Hugging Face attack",
+    "link": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC"
   }
 ]
