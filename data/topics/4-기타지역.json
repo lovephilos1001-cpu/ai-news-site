@@ -2,14 +2,6 @@
   {
     "topic_name": "기타 지역",
     "date_kst": "11/07 22:00",
-    "headline": "New wave of bomb threats hit European airlines",
-    "link": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "comment": ""
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "11/07 22:00",
     "headline": "Spate of bomb threats poses serious challenge to airline industry",
     "link": "https://www.bbc.co.uk/news/articles/cv8ezz9yn6pyo?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
@@ -1483,5 +1475,12 @@
     "link": "https://www.scmp.com/news/world/united-states-canada/article/3374809/axe-wielding-irish-man-charged-destroying-us60-million-us-military-plane",
     "source": "SCMP",
     "comment": ""
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/18 16:56",
+    "headline": "[속보 11/18 16:56] Rubio says US not 'under systemic attack' after series of tech outages",
+    "link": "https://www.bbc.co.uk/news/articles/crkgvxxwpwz2o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC"
   }
 ]
