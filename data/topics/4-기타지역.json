@@ -1,22 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "11/07 16:00",
-    "headline": "European flights and broadcasters are targeted with another wave of bomb threats",
-    "link": "https://www.npr.org/2026/11/06/nx-s1-6032612/europe-flights-hoaxes",
-    "source": "NPR",
-    "comment": ""
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "11/07 16:00",
-    "headline": "New wave of bomb threats hit European airlines",
-    "link": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "comment": ""
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "11/07 19:26",
     "headline": "[속보 11/07 19:26] Spate of bomb threats poses serious challenge to airline industry",
     "link": "https://www.bbc.co.uk/news/articles/cv8ezz9yn6pyo?at_medium=RSS&at_campaign=rss",
@@ -1483,5 +1467,19 @@
     "headline": "[속보 11/18 05:41] American soldier arrested by UK police on suspicion of spying taken into US military custody",
     "link": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
     "source": "BBC"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/18 13:28",
+    "headline": "[속보 11/18 13:28] Prosecutors allege man ‘destroyed’ US military plane at Irish airport",
+    "link": "https://www.aljazeera.com/news/2026/11/18/prosecutors-allege-man-destroyed-us-military-plane-at-irish-airport?traffic_source=rss",
+    "source": "AlJazeera"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/18 13:28",
+    "headline": "[속보 11/18 13:28] Axe-wielding Irish man charged with destroying US$60 million US military plane",
+    "link": "https://www.scmp.com/news/world/united-states-canada/article/3374809/axe-wielding-irish-man-charged-destroying-us60-million-us-military-plane",
+    "source": "SCMP"
   }
 ]
