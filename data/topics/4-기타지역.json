@@ -2,14 +2,6 @@
   {
     "topic_name": "기타 지역",
     "date_kst": "11/08 05:30",
-    "headline": "Houthis report 25 killed in Yemen strikes",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/houthis-report-25-killed-in-yemen-strikes?traffic_source=rss",
-    "source": "AlJazeera",
-    "comment": ""
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "11/08 05:30",
     "headline": "Guatemalan lawmaker and three police officers killed in armed attack",
     "link": "https://www.aljazeera.com/news/2026/11/7/guatemalan-lawmaker-and-three-police-officers-killed-in-armed-attack?traffic_source=rss",
     "source": "AlJazeera",
@@ -1482,5 +1474,12 @@
     "headline": "[속보 11/19 06:26] US Defence Secretary Hegseth reveals military partnership on Venezuela trip",
     "link": "https://www.aljazeera.com/news/2026/11/18/us-defence-secretary-announces-military-partnership-on-trip-to-venezuela?traffic_source=rss",
     "source": "AlJazeera"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/19 08:11",
+    "headline": "[속보 11/19 08:11] Equinor Hack Adds to Wave of Cyberattacks on Energy Companies",
+    "link": "https://oilprice.com/Energy/Energy-General/Equinor-Hack-Adds-to-Wave-of-Cyberattacks-on-Energy-Companies.html",
+    "source": "OilPrice"
   }
 ]
