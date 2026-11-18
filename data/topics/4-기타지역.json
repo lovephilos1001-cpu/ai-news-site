@@ -1,34 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "11/08 03:11",
-    "headline": "[속보 11/08 03:11] Houthis say at least 25 killed in Saudi air strike",
-    "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "11/08 03:11",
-    "headline": "[속보 11/08 03:11] Houthis report 25 killed in Yemen strikes",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/houthis-report-25-killed-in-yemen-strikes?traffic_source=rss",
-    "source": "AlJazeera"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "11/08 04:41",
-    "headline": "[속보 11/08 04:41] Malaysian king warns against defying house arrest order for ex-PM Najib",
-    "link": "https://www.aljazeera.com/news/2026/11/7/malaysian-king-warns-against-defying-house-arrest-order-for-ex-pm-najib?traffic_source=rss",
-    "source": "AlJazeera"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "11/08 04:41",
-    "headline": "[속보 11/08 04:41] Malaysia’s king warns against challenging Najib’s house arrest",
-    "link": "https://www.scmp.com/news/asia/southeast-asia/article/3373642/malaysias-king-warns-against-challenging-najibs-house-arrest",
-    "source": "SCMP"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "11/08 04:56",
     "headline": "[속보 11/08 04:56] What we know so far after Polish gunman in military clothing opens fire in Krakow",
     "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
@@ -1484,5 +1456,33 @@
     "link": "https://www.bbc.co.uk/news/articles/crz9dgz28zwdo?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
     "comment": ""
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/19 05:41",
+    "headline": "[속보 11/19 05:41] Hegseth boasts about Maduro’s capture while vowing to deepen US military cooperation with Venezuela",
+    "link": "https://www.theguardian.com/world/2026/nov/18/pete-hegseth-venezuela-nicolas-maduro-military",
+    "source": "Guardian"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/19 05:41",
+    "headline": "[속보 11/19 05:41] Irishman charged with destroying US military aircraft with axe",
+    "link": "https://www.bbc.co.uk/news/articles/cwd01jjl5zzzo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/19 05:41",
+    "headline": "[속보 11/19 05:41] US and Venezuela sign deal to re-establish military ties during Hegseth visit",
+    "link": "https://www.scmp.com/news/world/americas/article/3374965/us-and-venezuela-sign-deal-re-establish-military-ties-during-hegseth-visit",
+    "source": "SCMP"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/19 05:56",
+    "headline": "[속보 11/19 05:56] Hegseth boasts of Maduro’s capture while vowing to deepen US military cooperation with Venezuela",
+    "link": "https://www.theguardian.com/world/2026/nov/18/pete-hegseth-venezuela-nicolas-maduro-military",
+    "source": "Guardian"
   }
 ]
