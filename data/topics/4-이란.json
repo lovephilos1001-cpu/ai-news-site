@@ -1,13 +1,6 @@
 [
   {
     "topic_name": "이란",
-    "date_kst": "10/05 04:11",
-    "headline": "[속보 10/05 04:11] War on Iran: Is escalation more likely than a deal?",
-    "link": "https://www.aljazeera.com/video/the-bottom-line/2026/10/4/war-on-iran-is-escalation-more-likely-than-a-deal-2?traffic_source=rss",
-    "source": "AlJazeera"
-  },
-  {
-    "topic_name": "이란",
     "date_kst": "10/05 10:37",
     "headline": "All U.S. bombers leave UK air base on concerns of suspected terror plots; more tankers struck near Iran in the Middle East",
     "link": "https://www.cnbc.com/2026/10/04/more-tankers-struck-in-gulf-waters-as-iran-reiterates-conditions.html",
@@ -1447,5 +1440,12 @@
     "headline": "[속보 11/18 13:28] US strikes Iranian island in Hormuz",
     "link": "https://www.koreaherald.com/article/10941167",
     "source": "KoreaHerald"
+  },
+  {
+    "topic_name": "이란",
+    "date_kst": "11/18 15:41",
+    "headline": "[속보 11/18 15:41] Kuwait reports drone attacks as Iran, US trade attacks on Qeshm and Bahrain",
+    "link": "https://www.aljazeera.com/news/2026/11/17/kuwait-reports-drone-attacks-as-iran-us-trade-attacks-on-qeshm-and-bahrain?traffic_source=rss",
+    "source": "AlJazeera"
   }
 ]
