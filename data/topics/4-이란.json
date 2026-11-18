@@ -1,20 +1,6 @@
 [
   {
     "topic_name": "이란",
-    "date_kst": "10/05 10:37",
-    "headline": "All U.S. bombers leave UK air base on concerns of suspected terror plots; more tankers struck near Iran in the Middle East",
-    "link": "https://www.cnbc.com/2026/10/04/more-tankers-struck-in-gulf-waters-as-iran-reiterates-conditions.html",
-    "source": "CNBC"
-  },
-  {
-    "topic_name": "이란",
-    "date_kst": "10/05 10:49",
-    "headline": "All U.S. bombers leave UK air base on concerns of suspected terror plots; more tankers struck near Iran in the Middle East",
-    "link": "https://www.cnbc.com/2026/10/04/more-tankers-struck-in-gulf-waters-as-iran-reiterates-conditions.html",
-    "source": "CNBC"
-  },
-  {
-    "topic_name": "이란",
     "date_kst": "10/05 16:00",
     "headline": "All U.S. bombers leave UK air base on concerns of suspected terror plots; more tankers struck near Iran in the Middle East",
     "link": "https://www.cnbc.com/2026/10/04/more-tankers-struck-in-gulf-waters-as-iran-reiterates-conditions.html",
@@ -1447,5 +1433,19 @@
     "headline": "[속보 11/18 15:41] Kuwait reports drone attacks as Iran, US trade attacks on Qeshm and Bahrain",
     "link": "https://www.aljazeera.com/news/2026/11/17/kuwait-reports-drone-attacks-as-iran-us-trade-attacks-on-qeshm-and-bahrain?traffic_source=rss",
     "source": "AlJazeera"
+  },
+  {
+    "topic_name": "이란",
+    "date_kst": "11/18 16:41",
+    "headline": "[속보 11/18 16:41] Gulf nations on alert after U.S. strikes Iranian island",
+    "link": "https://www.japantimes.co.jp/news/2026/11/18/world/politics/gulf-us-strikes-iran-island/",
+    "source": "JapanTimes"
+  },
+  {
+    "topic_name": "이란",
+    "date_kst": "11/18 16:41",
+    "headline": "[속보 11/18 16:41] Bahrain and Kuwait repel drone attacks after US strikes Iranian island",
+    "link": "https://www.scmp.com/news/world/middle-east/article/3374869/bahrain-and-kuwait-repel-drone-attacks-after-us-strikes-iranian-island",
+    "source": "SCMP"
   }
 ]
