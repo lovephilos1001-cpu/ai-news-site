@@ -1,28 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "11/07 22:00",
-    "headline": "Spate of bomb threats poses serious challenge to airline industry",
-    "link": "https://www.bbc.co.uk/news/articles/cv8ezz9yn6pyo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "comment": ""
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "11/08 01:26",
-    "headline": "[속보 11/08 01:26] Guatemalan lawmaker and three police officers killed in armed attack",
-    "link": "https://www.aljazeera.com/news/2026/11/7/guatemalan-lawmaker-and-three-police-officers-killed-in-armed-attack?traffic_source=rss",
-    "source": "AlJazeera"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "11/08 01:26",
-    "headline": "[속보 11/08 01:26] Guatemalan lawmaker, 3 police officers killed in armed attack",
-    "link": "https://www.scmp.com/news/world/americas/article/3373663/guatemalan-lawmaker-3-police-officers-killed-armed-attack",
-    "source": "SCMP"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "11/08 03:11",
     "headline": "[속보 11/08 03:11] Houthis say at least 25 killed in Saudi air strike",
     "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
@@ -1482,5 +1460,29 @@
     "headline": "[속보 11/18 16:56] Rubio says US not 'under systemic attack' after series of tech outages",
     "link": "https://www.bbc.co.uk/news/articles/crkgvxxwpwz2o?at_medium=RSS&at_campaign=rss",
     "source": "BBC"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/18 22:00",
+    "headline": "Rubio says US not 'under systemic attack' after series of tech outages",
+    "link": "https://www.bbc.co.uk/news/articles/crkgvxxwpwz2o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "comment": ""
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/18 22:00",
+    "headline": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
+    "link": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "comment": ""
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/18 22:00",
+    "headline": "How the attack on Crimean Bridge unfolded",
+    "link": "https://www.bbc.co.uk/news/articles/crz9dgz28zwdo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "comment": ""
   }
 ]

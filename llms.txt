@@ -17,6 +17,7 @@ https://marketbriefwire.com/paid/premium.json — $0.01/요청, x402 프로토�
 x402 사양: https://www.x402.org/
 
 ## 최근 브리핑
+- [[11/18 22:00] Marc Hijink on ASML’s Culture, Supply Chain, and Geopolitics](https://marketbriefwire.com/20261118-1302.html) — 11/18 22:00
 - [[11/18 16:00] Marc Hijink on ASML’s Culture, Supply Chain, and Geopolitics](https://marketbriefwire.com/20261118-0702.html) — 11/18 16:00
 - [[11/18 05:30] 세미파이브, 차세대 로직칩 개발…"HBM 없이 AI반도체 제조" - 한국경제](https://marketbriefwire.com/20261117-2032.html) — 11/18 05:30
 - [[11/17 22:37] "HBM 없어도 AI 반도체 만든다"…세미파이브, 차세대 3D-IC 기술 공개 - 한국경제](https://marketbriefwire.com/20261117-1339.html) — 11/17 22:37
@@ -36,4 +37,3 @@ x402 사양: https://www.x402.org/
 - [[11/13 05:30] Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services](https://marketbriefwire.com/20261112-2031.html) — 11/13 05:30
 - [[11/12 16:00] 이재용 "온양, AI 반도체 심장 HBM 거점으로 탈바꿈" - 뉴스핌](https://marketbriefwire.com/20261112-0702.html) — 11/12 16:00
 - [[11/11 22:00] 슈가스AI, DB글로벌칩과 피지컬 AI 반도체 협력…공급망·해외 판로 확대 추진 - 전자신문](https://marketbriefwire.com/20261111-1302.html) — 11/11 22:00
-- [[11/11 16:00] Reducing Lithography Learning Cycles To Accelerate FOPLP Ramps](https://marketbriefwire.com/20261111-0702.html) — 11/11 16:00
