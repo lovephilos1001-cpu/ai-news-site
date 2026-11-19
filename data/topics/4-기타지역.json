@@ -1,14 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "11/08 05:30",
-    "headline": "Guatemalan lawmaker and three police officers killed in armed attack",
-    "link": "https://www.aljazeera.com/news/2026/11/7/guatemalan-lawmaker-and-three-police-officers-killed-in-armed-attack?traffic_source=rss",
-    "source": "AlJazeera",
-    "comment": ""
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "11/08 12:56",
     "headline": "[속보 11/08 12:56] New mass protests in France as police seek to thwart banned rally",
     "link": "https://www.koreaherald.com/article/10929593",
@@ -1481,5 +1473,12 @@
     "headline": "[속보 11/19 08:11] Equinor Hack Adds to Wave of Cyberattacks on Energy Companies",
     "link": "https://oilprice.com/Energy/Energy-General/Equinor-Hack-Adds-to-Wave-of-Cyberattacks-on-Energy-Companies.html",
     "source": "OilPrice"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/19 10:56",
+    "headline": "[속보 11/19 10:56] Hegseth unveils new US-Venezuela military deal",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/hegseth-unveils-new-us-venezuela-military-deal?traffic_source=rss",
+    "source": "AlJazeera"
   }
 ]
