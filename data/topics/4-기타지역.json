@@ -2,14 +2,6 @@
   {
     "topic_name": "기타 지역",
     "date_kst": "11/08 16:00",
-    "headline": "Malaysian king warns against defying house arrest order for ex-PM Najib",
-    "link": "https://www.aljazeera.com/news/2026/11/7/malaysian-king-warns-against-defying-house-arrest-order-for-ex-pm-najib?traffic_source=rss",
-    "source": "AlJazeera",
-    "comment": ""
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "11/08 16:00",
     "headline": "Malaysia’s king warns against challenging Najib’s house arrest",
     "link": "https://www.scmp.com/news/asia/southeast-asia/article/3373642/malaysias-king-warns-against-challenging-najibs-house-arrest",
     "source": "SCMP",
@@ -1480,5 +1472,12 @@
     "headline": "[속보 11/19 12:11] Hegseth hails ‘compliant’ Venezuela as US signs new military pact",
     "link": "https://www.scmp.com/news/world/americas/article/3374965/us-and-venezuela-sign-deal-re-establish-military-ties-during-hegseth-visit",
     "source": "SCMP"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/19 13:41",
+    "headline": "[속보 11/19 13:41] US and Venezuela sign a deal to reestablish military ties, Hegseth says in visit to Caracas",
+    "link": "https://www.koreaherald.com/article/10942706",
+    "source": "KoreaHerald"
   }
 ]
