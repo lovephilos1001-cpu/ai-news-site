@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-19T05:19:16Z",
+  "generated_at_utc": "2026-11-19T08:33:20Z",
   "site": "AI 마켓 브리핑 아카이브",
   "description": "애널리스트 목표주가 전체 이력(무료는 종목당 최신 1건만) + 경제사건 전체 타임라인(무료는 핵심 전환점만, 여기엔 원인·세부 연결고리까지 전부) + 금리 사이클 심층분석(무료는 연도별 경로 개요만, 여기엔 메커니즘·수혜/피해군·2027 시나리오 확률 breakdown까지 전부) + 종목 현황·금리 스냅샷 — AI 에이전트용 x402 결제 콘텐츠",
   "analyst_targets_full_history": {},
@@ -1432,6 +1432,56 @@
         {
           "name": "Federal Reserve — 2026-10-28 FOMC Statement",
           "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm"
+        }
+      ]
+    },
+    "year-end-rally-four-gate-deepdive-2026": {
+      "title": "크리스마스 랠리 4관문 심층분석 — 베팅구조·호르무즈 검증·IPO 유동성 메커니즘",
+      "framework": "시나리오 게이트 분석",
+      "data_asof": "2026-11-19",
+      "intro": "무료 개요(4관문 목록)에 이어, 각 관문이 실제로 얼마나 단단한지를 베팅시장 가격구조·공개 데이터 교차검증·유동성 메커니즘으로 파헤친다. 투자 자문이 아니며, 결론을 그대로 따라가지 말고 체크포인트 캘린더로만 쓸 것.",
+      "sections": [
+        {
+          "heading": "1관문 — 베팅시장 가격이 숨기고 있는 함정",
+          "body": "<p>예측시장(폴리마켓, 2026-11-16 스냅샷) 기준 12월 FOMC 결과는 4개의 상호배타적\n버킷으로 쪼개져 있다:</p>\n<table>\n<tr><th>결과</th><th>확률</th><th>랠리 관점에서의 의미</th></tr>\n<tr><td>25bp 인상</td><td class=\"num\">87.5%</td><td>베이스케이스 — 통과</td></tr>\n<tr><td>50bp 이상 인상</td><td class=\"num\">9.3%</td><td>매파 서프라이즈 — 랠리 서사 즉시 무효화</td></tr>\n<tr><td>동결</td><td class=\"num\">3.4%</td><td>단기 호재지만 \"왜 갑자기 멈췄나\" 불안 동반</td></tr>\n<tr><td>25bp 인하</td><td class=\"num\">0.7%</td><td>사실상 미반영 시나리오</td></tr>\n</table>\n<p><b>베팅 구조의 함정</b>: 이 네 버킷은 겹치지 않는 개별 마켓이다. \"인상에 베팅했으니 인상만\n나오면 다 번다\"는 전제는 성립하지 않는다 — 실제 결과가 50bp로 나오면 25bp 버킷(87.5%, 훨씬\n더 많은 자금이 몰려있는 쪽)에 건 포지션은 방향은 맞혔지만 폭을 틀려서 그대로 손실 처리된다.\n가격 구조로 보면 25bp 버킷은 비싸게 사서 적게 받는 '안전빵'(약 $0.875에 사서 $1 받음), 50bp+\n버킷은 싸게 사서 크게 받는 '로또형' 포지션(약 $0.093에 사서 $1 받음) — 시장가격 자체가 이미\n그 확률·배당 균형을 반영해놓은 구조라 어느 쪽이 '정답'인지는 원래 없다.</p>"
+        },
+        {
+          "heading": "2관문 — CPI와 FOMC의 시차 문제",
+          "body": "<p>FOMC(12/8~9)는 11월 CPI(12/10 발표) 없이 10월 데이터만으로 결정을 내린다\n— 즉 연준은 11월 CPI를 보지 못한 채 베팅하는 셈이고, 시장은 그 결정이 사후에 맞았는지를\nCPI로 확인하게 된다. 최근 1개월간 유가·구리값이 하락한 점을 근거로 11월 CPI는 월간 마이너스\n가능성이 거론된다. 이 관문은 1관문과 완전히 독립적이지 않다 — 같은 디스인플레 흐름의\n연장선이라 1관문이 베이스케이스대로 가면 2관문도 같이 통과할 확률이 높게 연동된다.</p>"
+        },
+        {
+          "heading": "3관문 — 호르무즈 변수, 공개 데이터로 검증한 결과",
+          "body": "<p>이 관문은 '좋은 일이 일어나야' 통과하는 게 아니라 '추가 악재만 없으면'\n통과하는 소극적 조건이다. 그런데 바로 이 점 때문에 제일 불안정하다 — 2026년 현재 호르무즈\n해역은 실제 선박 피격(10월 중순 GFS Pride 침몰 등)이 벌어진 전쟁 리스크 지역이고, 유가·탱커\n시장 데이터 자체도 출처마다 크게 엇갈린다:</p>\n<ul>\n<li>원유 흐름(Hormuz 통과 기준) 추정치: 기관별로 일 6~9백만 배럴(전쟁 전 대비 크게 위축)부터\n일 15.3백만 배럴(전쟁 전 90% 수준 회복, 우회로 포함)까지 — 같은 시점 추정치가 2배 넘게 벌어짐.</li>\n<li>탱커 선박 동향(2026-10-15 스냅샷): 걸프 동쪽 방향 밸러스트(공선) VLCC는 전주 대비 +4%,\n잉여선박도 +6% 증가 — \"공급이 계속 줄고 있다\"는 단순 서사와 반대로 움직인 구간도 있었다.</li>\n</ul>\n<p>결론적으로 이 변수는 '방향'조차 기관마다 다르게 집계되는 고불확실성 구간이다 — 추가 공격\n발생 시 유가 급등→CPI 재상승 우려→연준 매파 복귀 리스크로 1·2관문 결과를 소급해서 무력화할\n수 있는 유일한 변수이기도 하다.</p>"
+        },
+        {
+          "heading": "4관문 — IPO발 매도압력은 공매도가 아니라 유동성 로테이션이다",
+          "body": "<p>대형 AI 기업의 IPO를 앞두고 기관투자자들이 청약 자금을 마련하기 위해\n기존에 들고 있던 다른 자산을 현금화하면, 그 과정에서 IPO 대상 기업과 무관한 종목들에까지\n매도 압력이 번진다 — 공매도(하락 베팅)와는 다른 메커니즘이다(공매도는 '내릴 것'에 베팅하고\n주식을 빌려 먼저 파는 것, 이건 '자금 이동을 위한 보유자산 현금화'). IPO가 마무리되고 그\n자금이 신규 상장주에 다 투입되면, 더 이상 다른 종목을 팔 이유가 없어지며 억눌려있던 매수세가\n복귀한다. 이 관문의 특징은 넷 중 가장 검증이 어렵다는 점 — \"매도가 끝났다\"는 주장은 시장\n참가자들 사이에 도는 서사일 뿐, 락업 해제 등 2차 매도 이슈가 남아있는지는 사전에 확인되지\n않는다.</p>"
+        },
+        {
+          "heading": "종합 — 어느 관문이 제일 위험한가",
+          "body": "<p>1·2관문은 세트로 통과할 공산이 상대적으로 크다(같은 디스인플레 흐름의\n연장선). 3·4관문은 각각 독립적인 꼬리 리스크/미검증 변수로 남아있다 — 특히 3관문은 '발생하면\n크게 터지는데 언제 터질지 예측 불가능한' 성격이라 넷 중 가장 다루기 까다롭다. \"계절적으로\n오를 확률이 높다\"는 통계보다, 이번 연말은 저 체크포인트들이 순서대로 깨지지 않는지 확인하는\n작업이 더 중요한 해다.</p>"
+        }
+      ],
+      "sources": [
+        {
+          "name": "CryptoSlate — Fed Decision in December 2026 (Polymarket tracker)",
+          "url": "https://cryptoslate.com/predictions/market/fed-decision-in-december-2026/"
+        },
+        {
+          "name": "Federal Reserve — 2026-10-28 FOMC Statement",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm"
+        },
+        {
+          "name": "Morningstar/Dow Jones — Oil Prices Stay Below $100 as Traders Weigh Iran",
+          "url": "https://www.morningstar.com/news/dow-jones/2026110516494/oil-prices-stay-below-100-as-traders-weigh-iran-2"
+        },
+        {
+          "name": "Cyprus Shipping News — Faster Ballast, Slower Laden: VLCC Supply Signals Diverge",
+          "url": "https://cyprusshippingnews.com/2026/10/20/faster-ballast-slower-laden-vlcc-supply-signals-diverge/"
+        },
+        {
+          "name": "Rudaw — Kpler interview on Strait of Hormuz flow recovery",
+          "url": "https://rudaw.net/english/categories/middleeast/1080185"
         }
       ]
     }
