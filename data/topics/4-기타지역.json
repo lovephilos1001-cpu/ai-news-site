@@ -1,20 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "11/09 09:41",
-    "headline": "[속보 11/09 09:41] Innospace to launch upgraded suborbital rocket in Brazil on Nov. 29",
-    "link": "https://www.koreaherald.com/article/10930098",
-    "source": "KoreaHerald"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "11/09 10:11",
-    "headline": "[속보 11/09 10:11] Houthi missile debris damages Aramco Tower in Riyadh financial district",
-    "link": "https://www.scmp.com/news/world/middle-east/article/3373700/saudi-aramco-building-riyadh-damaged-attempted-attack",
-    "source": "SCMP"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "11/09 10:26",
     "headline": "[속보 11/09 10:26] Late Hyosung honorary chairman receives Korea-US Friendship Award",
     "link": "https://www.koreaherald.com/article/10930307",
@@ -1473,5 +1459,21 @@
     "headline": "[속보 11/20 16:41] EU and Britain to agree steps towards relations reset",
     "link": "https://www.aljazeera.com/news/2026/11/20/eu-and-britain-to-agree-steps-towards-relations-reset?traffic_source=rss",
     "source": "AlJazeera"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/20 22:00",
+    "headline": "Korea Herald managing editor wins Korea University journalism award",
+    "link": "https://www.koreaherald.com/article/10944244",
+    "source": "KoreaHerald",
+    "comment": ""
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/20 22:00",
+    "headline": "EU and Britain to agree steps towards relations reset",
+    "link": "https://www.aljazeera.com/news/2026/11/20/eu-and-britain-to-agree-steps-towards-relations-reset?traffic_source=rss",
+    "source": "AlJazeera",
+    "comment": ""
   }
 ]
