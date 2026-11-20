@@ -1,13 +1,6 @@
 [
   {
     "topic_name": "우크라이나",
-    "date_kst": "10/01 17:41",
-    "headline": "[속보 10/01 17:41] Russia launches largest attack on Ukraine energy infrastructure since spring",
-    "link": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC"
-  },
-  {
-    "topic_name": "우크라이나",
     "date_kst": "10/02 13:28",
     "headline": "Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row",
     "link": "https://www.bbc.co.uk/news/articles/cm1dld14weero?at_medium=RSS&at_campaign=rss",
@@ -1420,5 +1413,13 @@
     "headline": "[속보 11/21 01:41] Russian missiles and drone hit Poland during attacks on Ukraine",
     "link": "https://www.theguardian.com/world/2026/nov/20/russian-missiles-drone-poland-attacks-ukraine",
     "source": "Guardian"
+  },
+  {
+    "topic_name": "우크라이나",
+    "date_kst": "11/21 05:30",
+    "headline": "8 killed in Ukraine as Russia hits back after Crimea bridge attacks",
+    "link": "https://www.scmp.com/news/world/europe/article/3375281/8-killed-ukraine-russia-hits-back-after-crimea-bridge-attacks",
+    "source": "SCMP",
+    "comment": ""
   }
 ]
