@@ -1,11 +1,12 @@
 {
-  "generated_at_utc": "2026-11-21T14:41:07Z",
+  "generated_at_utc": "2026-11-21T19:21:42Z",
   "title": "단일종목 레버리지 ETP 거래량 이상치 → 매수가능 레버리지ETF 신호 변환 모델",
   "win_rate_table": [
     {
       "ticker": "BIB",
       "kind": "avoid",
       "n": 39,
+      "episode_n": 27,
       "mean_5d_pct": 1.88,
       "winrate_pct": 56.4,
       "grade": "↔엇갈림(참고만)"
@@ -14,6 +15,7 @@
       "ticker": "CURE",
       "kind": "avoid",
       "n": 22,
+      "episode_n": 15,
       "mean_5d_pct": -3.39,
       "winrate_pct": 50.0,
       "grade": "↔엇갈림(참고만)"
@@ -22,6 +24,7 @@
       "ticker": "DFEN",
       "kind": "avoid",
       "n": 16,
+      "episode_n": 6,
       "mean_5d_pct": -5.78,
       "winrate_pct": 31.2,
       "grade": "💪둘다나쁨(회피확정)"
@@ -30,6 +33,7 @@
       "ticker": "DPST",
       "kind": "avoid",
       "n": 23,
+      "episode_n": 10,
       "mean_5d_pct": -8.15,
       "winrate_pct": 52.2,
       "grade": "↔엇갈림(참고만)"
@@ -38,6 +42,7 @@
       "ticker": "DRN",
       "kind": "avoid",
       "n": 39,
+      "episode_n": 26,
       "mean_5d_pct": -0.13,
       "winrate_pct": 46.2,
       "grade": "↔엇갈림(참고만)"
@@ -46,6 +51,7 @@
       "ticker": "DUSL",
       "kind": "avoid",
       "n": 17,
+      "episode_n": 11,
       "mean_5d_pct": -7.39,
       "winrate_pct": 35.3,
       "grade": "💪둘다나쁨(회피확정)"
@@ -54,6 +60,7 @@
       "ticker": "ERX",
       "kind": "avoid",
       "n": 34,
+      "episode_n": 16,
       "mean_5d_pct": -3.59,
       "winrate_pct": 52.9,
       "grade": "↔엇갈림(참고만)"
@@ -62,6 +69,7 @@
       "ticker": "FAS",
       "kind": "avoid",
       "n": 23,
+      "episode_n": 10,
       "mean_5d_pct": -7.47,
       "winrate_pct": 43.5,
       "grade": "↔엇갈림(참고만)"
@@ -70,6 +78,7 @@
       "ticker": "GUSH",
       "kind": "avoid",
       "n": 35,
+      "episode_n": 12,
       "mean_5d_pct": -3.77,
       "winrate_pct": 42.9,
       "grade": "↔엇갈림(참고만)"
@@ -78,6 +87,7 @@
       "ticker": "JNUG",
       "kind": "avoid",
       "n": 16,
+      "episode_n": 11,
       "mean_5d_pct": -11.44,
       "winrate_pct": 31.2,
       "grade": "💪둘다나쁨(회피확정)"
@@ -86,6 +96,7 @@
       "ticker": "LABU",
       "kind": "avoid",
       "n": 26,
+      "episode_n": 13,
       "mean_5d_pct": 0.68,
       "winrate_pct": 57.7,
       "grade": "↔엇갈림(참고만)"
@@ -94,6 +105,7 @@
       "ticker": "NAIL",
       "kind": "avoid",
       "n": 19,
+      "episode_n": 14,
       "mean_5d_pct": -4.96,
       "winrate_pct": 42.1,
       "grade": "↔엇갈림(참고만)"
@@ -102,6 +114,7 @@
       "ticker": "NUGT",
       "kind": "avoid",
       "n": 29,
+      "episode_n": 20,
       "mean_5d_pct": -1.62,
       "winrate_pct": 51.7,
       "grade": "↔엇갈림(참고만)"
@@ -110,6 +123,7 @@
       "ticker": "PILL",
       "kind": "avoid",
       "n": 23,
+      "episode_n": 13,
       "mean_5d_pct": -5.59,
       "winrate_pct": 39.1,
       "grade": "💪둘다나쁨(회피확정)"
@@ -118,6 +132,7 @@
       "ticker": "QLD",
       "kind": "avoid",
       "n": 26,
+      "episode_n": 19,
       "mean_5d_pct": 0.49,
       "winrate_pct": 61.5,
       "grade": "❌실제론괜찮음(이 종목만)"
@@ -126,6 +141,7 @@
       "ticker": "RETL",
       "kind": "avoid",
       "n": 51,
+      "episode_n": 29,
       "mean_5d_pct": -1.33,
       "winrate_pct": 54.9,
       "grade": "↔엇갈림(참고만)"
@@ -134,6 +150,7 @@
       "ticker": "ROM",
       "kind": "avoid",
       "n": 44,
+      "episode_n": 27,
       "mean_5d_pct": 1.78,
       "winrate_pct": 65.9,
       "grade": "❌실제론괜찮음(이 종목만)"
@@ -142,6 +159,7 @@
       "ticker": "SOXL",
       "kind": "avoid",
       "n": 29,
+      "episode_n": 14,
       "mean_5d_pct": 7.54,
       "winrate_pct": 58.6,
       "grade": "↔엇갈림(참고만)"
@@ -150,6 +168,7 @@
       "ticker": "SPXL",
       "kind": "avoid",
       "n": 34,
+      "episode_n": 16,
       "mean_5d_pct": -4.53,
       "winrate_pct": 44.1,
       "grade": "↔엇갈림(참고만)"
@@ -158,6 +177,7 @@
       "ticker": "SSO",
       "kind": "avoid",
       "n": 28,
+      "episode_n": 20,
       "mean_5d_pct": -0.44,
       "winrate_pct": 50.0,
       "grade": "↔엇갈림(참고만)"
@@ -166,6 +186,7 @@
       "ticker": "TECL",
       "kind": "avoid",
       "n": 27,
+      "episode_n": 18,
       "mean_5d_pct": 0.67,
       "winrate_pct": 51.9,
       "grade": "↔엇갈림(참고만)"
@@ -174,6 +195,7 @@
       "ticker": "TNA",
       "kind": "avoid",
       "n": 15,
+      "episode_n": 9,
       "mean_5d_pct": -0.23,
       "winrate_pct": 46.7,
       "grade": "↔엇갈림(참고만)"
@@ -182,6 +204,7 @@
       "ticker": "TQQQ",
       "kind": "avoid",
       "n": 21,
+      "episode_n": 15,
       "mean_5d_pct": 5.76,
       "winrate_pct": 76.2,
       "grade": "❌실제론괜찮음(이 종목만)"
@@ -190,6 +213,7 @@
       "ticker": "UDOW",
       "kind": "avoid",
       "n": 32,
+      "episode_n": 19,
       "mean_5d_pct": -1.85,
       "winrate_pct": 43.8,
       "grade": "↔엇갈림(참고만)"
@@ -198,6 +222,7 @@
       "ticker": "UPRO",
       "kind": "avoid",
       "n": 27,
+      "episode_n": 18,
       "mean_5d_pct": -4.52,
       "winrate_pct": 40.7,
       "grade": "↔엇갈림(참고만)"
@@ -206,6 +231,7 @@
       "ticker": "URE",
       "kind": "avoid",
       "n": 43,
+      "episode_n": 31,
       "mean_5d_pct": 0.55,
       "winrate_pct": 53.5,
       "grade": "↔엇갈림(참고만)"
@@ -214,6 +240,7 @@
       "ticker": "USD",
       "kind": "avoid",
       "n": 33,
+      "episode_n": 21,
       "mean_5d_pct": 2.47,
       "winrate_pct": 57.6,
       "grade": "↔엇갈림(참고만)"
@@ -222,6 +249,7 @@
       "ticker": "UTSL",
       "kind": "avoid",
       "n": 26,
+      "episode_n": 14,
       "mean_5d_pct": -2.65,
       "winrate_pct": 42.3,
       "grade": "↔엇갈림(참고만)"
@@ -230,6 +258,7 @@
       "ticker": "UWM",
       "kind": "avoid",
       "n": 22,
+      "episode_n": 18,
       "mean_5d_pct": -2.94,
       "winrate_pct": 63.6,
       "grade": "↔엇갈림(참고만)"
@@ -238,6 +267,7 @@
       "ticker": "UYG",
       "kind": "avoid",
       "n": 26,
+      "episode_n": 18,
       "mean_5d_pct": -3.06,
       "winrate_pct": 57.7,
       "grade": "↔엇갈림(참고만)"
@@ -246,6 +276,7 @@
       "ticker": "WANT",
       "kind": "avoid",
       "n": 24,
+      "episode_n": 11,
       "mean_5d_pct": 1.36,
       "winrate_pct": 50.0,
       "grade": "↔엇갈림(참고만)"
@@ -254,6 +285,7 @@
       "ticker": "YINN",
       "kind": "avoid",
       "n": 25,
+      "episode_n": 16,
       "mean_5d_pct": -3.98,
       "winrate_pct": 44.0,
       "grade": "↔엇갈림(참고만)"
@@ -262,6 +294,7 @@
       "ticker": "BIB",
       "kind": "buy",
       "n": 13,
+      "episode_n": 9,
       "mean_5d_pct": 2.15,
       "winrate_pct": 76.9,
       "grade": "💪둘다좋음"
@@ -270,6 +303,7 @@
       "ticker": "CURE",
       "kind": "buy",
       "n": 20,
+      "episode_n": 15,
       "mean_5d_pct": -0.43,
       "winrate_pct": 50.0,
       "grade": "↔엇갈림(참고만)"
@@ -278,6 +312,7 @@
       "ticker": "DFEN",
       "kind": "buy",
       "n": 6,
+      "episode_n": 5,
       "mean_5d_pct": 0.21,
       "winrate_pct": 50.0,
       "grade": "⚠표본적음"
@@ -286,6 +321,7 @@
       "ticker": "DPST",
       "kind": "buy",
       "n": 6,
+      "episode_n": 6,
       "mean_5d_pct": 4.32,
       "winrate_pct": 83.3,
       "grade": "⚠표본적음"
@@ -294,6 +330,7 @@
       "ticker": "DRN",
       "kind": "buy",
       "n": 11,
+      "episode_n": 8,
       "mean_5d_pct": -2.51,
       "winrate_pct": 36.4,
       "grade": "❌실제론나쁨(이 종목만)"
@@ -302,6 +339,7 @@
       "ticker": "DUSL",
       "kind": "buy",
       "n": 16,
+      "episode_n": 9,
       "mean_5d_pct": -0.58,
       "winrate_pct": 43.8,
       "grade": "↔엇갈림(참고만)"
@@ -310,6 +348,7 @@
       "ticker": "ERX",
       "kind": "buy",
       "n": 5,
+      "episode_n": 3,
       "mean_5d_pct": 2.31,
       "winrate_pct": 80.0,
       "grade": "⚠표본적음"
@@ -318,6 +357,7 @@
       "ticker": "FAS",
       "kind": "buy",
       "n": 7,
+      "episode_n": 7,
       "mean_5d_pct": 1.69,
       "winrate_pct": 71.4,
       "grade": "⚠표본적음"
@@ -326,22 +366,25 @@
       "ticker": "GUSH",
       "kind": "buy",
       "n": 2,
+      "episode_n": 2,
       "mean_5d_pct": 6.11,
       "winrate_pct": 50.0,
-      "grade": "⚠표본적음"
+      "grade": "⚠독립사건적음"
     },
     {
       "ticker": "JNUG",
       "kind": "buy",
       "n": 3,
+      "episode_n": 2,
       "mean_5d_pct": 9.73,
       "winrate_pct": 100.0,
-      "grade": "⚠표본적음"
+      "grade": "⚠독립사건적음"
     },
     {
       "ticker": "LABU",
       "kind": "buy",
       "n": 3,
+      "episode_n": 3,
       "mean_5d_pct": 5.83,
       "winrate_pct": 33.3,
       "grade": "⚠표본적음"
@@ -350,6 +393,7 @@
       "ticker": "NAIL",
       "kind": "buy",
       "n": 16,
+      "episode_n": 10,
       "mean_5d_pct": -1.64,
       "winrate_pct": 50.0,
       "grade": "↔엇갈림(참고만)"
@@ -358,6 +402,7 @@
       "ticker": "NUGT",
       "kind": "buy",
       "n": 10,
+      "episode_n": 6,
       "mean_5d_pct": -1.36,
       "winrate_pct": 50.0,
       "grade": "↔엇갈림(참고만)"
@@ -366,6 +411,7 @@
       "ticker": "PILL",
       "kind": "buy",
       "n": 11,
+      "episode_n": 6,
       "mean_5d_pct": 2.57,
       "winrate_pct": 63.6,
       "grade": "💪둘다좋음"
@@ -374,14 +420,16 @@
       "ticker": "QLD",
       "kind": "buy",
       "n": 4,
+      "episode_n": 2,
       "mean_5d_pct": 0.49,
       "winrate_pct": 25.0,
-      "grade": "⚠표본적음"
+      "grade": "⚠독립사건적음"
     },
     {
       "ticker": "RETL",
       "kind": "buy",
       "n": 26,
+      "episode_n": 18,
       "mean_5d_pct": 2.23,
       "winrate_pct": 69.2,
       "grade": "💪둘다좋음"
@@ -390,6 +438,7 @@
       "ticker": "ROM",
       "kind": "buy",
       "n": 12,
+      "episode_n": 12,
       "mean_5d_pct": 2.44,
       "winrate_pct": 83.3,
       "grade": "💪둘다좋음"
@@ -398,6 +447,7 @@
       "ticker": "SOXL",
       "kind": "buy",
       "n": 5,
+      "episode_n": 5,
       "mean_5d_pct": 3.95,
       "winrate_pct": 80.0,
       "grade": "⚠표본적음"
@@ -406,6 +456,7 @@
       "ticker": "SPXL",
       "kind": "buy",
       "n": 5,
+      "episode_n": 5,
       "mean_5d_pct": 1.45,
       "winrate_pct": 80.0,
       "grade": "⚠표본적음"
@@ -414,6 +465,7 @@
       "ticker": "SSO",
       "kind": "buy",
       "n": 5,
+      "episode_n": 5,
       "mean_5d_pct": 0.11,
       "winrate_pct": 40.0,
       "grade": "⚠표본적음"
@@ -422,6 +474,7 @@
       "ticker": "TECL",
       "kind": "buy",
       "n": 5,
+      "episode_n": 4,
       "mean_5d_pct": -0.15,
       "winrate_pct": 80.0,
       "grade": "⚠표본적음"
@@ -430,6 +483,7 @@
       "ticker": "TQQQ",
       "kind": "buy",
       "n": 4,
+      "episode_n": 3,
       "mean_5d_pct": 1.14,
       "winrate_pct": 50.0,
       "grade": "⚠표본적음"
@@ -438,6 +492,7 @@
       "ticker": "UDOW",
       "kind": "buy",
       "n": 7,
+      "episode_n": 5,
       "mean_5d_pct": 0.05,
       "winrate_pct": 57.1,
       "grade": "⚠표본적음"
@@ -446,6 +501,7 @@
       "ticker": "UPRO",
       "kind": "buy",
       "n": 3,
+      "episode_n": 3,
       "mean_5d_pct": 0.21,
       "winrate_pct": 66.7,
       "grade": "⚠표본적음"
@@ -454,6 +510,7 @@
       "ticker": "URE",
       "kind": "buy",
       "n": 28,
+      "episode_n": 14,
       "mean_5d_pct": -0.6,
       "winrate_pct": 42.9,
       "grade": "↔엇갈림(참고만)"
@@ -462,6 +519,7 @@
       "ticker": "USD",
       "kind": "buy",
       "n": 21,
+      "episode_n": 18,
       "mean_5d_pct": 3.3,
       "winrate_pct": 90.5,
       "grade": "💪둘다좋음"
@@ -470,6 +528,7 @@
       "ticker": "UTSL",
       "kind": "buy",
       "n": 21,
+      "episode_n": 11,
       "mean_5d_pct": 1.67,
       "winrate_pct": 52.4,
       "grade": "↔엇갈림(참고만)"
@@ -478,6 +537,7 @@
       "ticker": "UWM",
       "kind": "buy",
       "n": 7,
+      "episode_n": 4,
       "mean_5d_pct": -0.32,
       "winrate_pct": 28.6,
       "grade": "⚠표본적음"
@@ -486,6 +546,7 @@
       "ticker": "UYG",
       "kind": "buy",
       "n": 15,
+      "episode_n": 13,
       "mean_5d_pct": 0.26,
       "winrate_pct": 66.7,
       "grade": "↔엇갈림(참고만)"
@@ -494,6 +555,7 @@
       "ticker": "WANT",
       "kind": "buy",
       "n": 3,
+      "episode_n": 3,
       "mean_5d_pct": 1.73,
       "winrate_pct": 100.0,
       "grade": "⚠표본적음"
@@ -502,6 +564,7 @@
       "ticker": "YINN",
       "kind": "buy",
       "n": 17,
+      "episode_n": 13,
       "mean_5d_pct": -0.4,
       "winrate_pct": 52.9,
       "grade": "↔엇갈림(참고만)"
