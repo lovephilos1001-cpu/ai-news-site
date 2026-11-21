@@ -1,0 +1,301 @@
+{
+  "generated_at_utc": "2026-11-21T03:00:37Z",
+  "title": "단일종목 레버리지 ETP 거래량 이상치 → 매수가능 레버리지ETF 신호 변환 모델",
+  "disclaimer": "이것은 투자자문이 아닙니다. 거래량이 평소 대비 몇 배 뛰었는지를 감지하는 순수 통계 도구이며, 매수/매도 판단과 타이밍은 전적으로 본인 책임입니다.",
+  "background": "그래닛셰어즈 단일종목 3배 ETP(영국 LSE 상장, 56개 롱+숏)는 매수가 막힌 사용자를 위해, 같은 '거래량 이상치' 신호를 실제 매수 가능한 미국 상장 레버리지 섹터/지수 ETF로 옮겨서 활용하는 구조.",
+  "methodology": {
+    "detection": "최신 거래일 거래량 vs 과거 20일 중 스파이크(중앙값 3배 초과)를 제외한 '평온한 날'들의 중앙값. 이 기준 대비 N배(기본 8배) 이상이면 이상치로 판정. 최소유동성(평소 500주 미만) 종목은 노이즈로 제외.",
+    "validated_case_study": {
+      "pair": "3LNV.L/3SNV.L(NVIDIA 단일종목 3배 ETP) → SOXL/SOXS(반도체 3배 ETF)",
+      "date_range": "2026-10-06 ~ 2026-11-20",
+      "finding": "NVIDIA 단일종목 ETP 거래량 이상치가 뜬 26개 거래일 중 25일에서 SOXL 거래량도 동시에 평소(20일 기준) 대비 1.1~5.45배로 상승. 같은 기간 SOXL 종가가 -38.7%~+22.3%까지 요동쳐서 분할조정 버그를 의심했으나, SOXL 분할이력엔 해당 기간 분할 이벤트가 없었고 비레버리지 반도체지수 SOXX로 교차검증한 결과 2026-11-05 -12.1%, 2026-11-20 -10.5% 같은 실제 단일일 급락이 확인됨(3배 레버리지 감안시 SOXL 수치와 거의 정확히 일치) — 즉 2026년 10월말~11월 실제 반도체 섹터 대폭락(SOXX 3주간 -28%) 와중에 두 신호가 동시에 터진 것으로 결론.",
+      "conclusion": "NVIDIA 단일종목 ETP 거래량 이상치는 노이즈가 아니라 반도체 섹터 전체 변동성의 선행/동행 지표로 기능하며, SOXL(매수 가능)로 대체 거래 가능성이 있음."
+    }
+  },
+  "ticker_map": [
+    {
+      "single_stock_long": "3LNV.L",
+      "single_stock_short": "3SNV.L",
+      "name": "NVIDIA",
+      "target_etf_bull": "SOXL",
+      "target_etf_bear": "SOXS",
+      "confidence": "강(실측검증됨)",
+      "note": "2026-11-21 실측: SOXL 거래량, NVIDIA ETP 스파이크일 26일 중 25일 평소대비 1.1~5.45배 동반상승. SOXX 교차검증으로 실제 반도체섹터 급락 확인."
+    },
+    {
+      "single_stock_long": "3LAM.L",
+      "single_stock_short": "3SMD.L",
+      "name": "AMD",
+      "target_etf_bull": "SOXL",
+      "target_etf_bear": "SOXS",
+      "confidence": "강(구조적, 미실측)",
+      "note": "AMD도 SOX 지수 구성종목 — NVIDIA와 같은 섹터 메커니즘일 가능성 높으나 개별 실측은 아직 안 함."
+    },
+    {
+      "single_stock_long": "3LAP.L",
+      "single_stock_short": "3SAP.L",
+      "name": "Apple",
+      "target_etf_bull": "TQQQ",
+      "target_etf_bear": "SQQQ",
+      "confidence": "강(구조적, 미실측)",
+      "note": "나스닥100 최대 비중 종목. TECL/TECS(기술섹터)도 대안."
+    },
+    {
+      "single_stock_long": "3LMS.L",
+      "single_stock_short": "3SMS.L",
+      "name": "Microsoft",
+      "target_etf_bull": "TQQQ",
+      "target_etf_bear": "SQQQ",
+      "confidence": "강(구조적, 미실측)",
+      "note": ""
+    },
+    {
+      "single_stock_long": "3LFB.L",
+      "single_stock_short": "3SFB.L",
+      "name": "Meta",
+      "target_etf_bull": "TQQQ",
+      "target_etf_bear": "SQQQ",
+      "confidence": "보통(구조적, 미실측)",
+      "note": ""
+    },
+    {
+      "single_stock_long": "3LZN.L",
+      "single_stock_short": "3SZN.L",
+      "name": "Amazon",
+      "target_etf_bull": "TQQQ",
+      "target_etf_bear": "SQQQ",
+      "confidence": "보통(구조적, 미실측)",
+      "note": ""
+    },
+    {
+      "single_stock_long": "3LNF.L",
+      "single_stock_short": "3SNF.L",
+      "name": "Netflix",
+      "target_etf_bull": "TQQQ",
+      "target_etf_bear": "SQQQ",
+      "confidence": "보통(구조적, 미실측)",
+      "note": ""
+    },
+    {
+      "single_stock_long": "3LAL.L",
+      "single_stock_short": "3SAL.L",
+      "name": "Alphabet",
+      "target_etf_bull": "TQQQ",
+      "target_etf_bear": "SQQQ",
+      "confidence": "강(구조적, 미실측)",
+      "note": ""
+    },
+    {
+      "single_stock_long": "3LTS.L",
+      "single_stock_short": "3STS.L",
+      "name": "Tesla",
+      "target_etf_bull": "TQQQ",
+      "target_etf_bear": "SQQQ",
+      "confidence": "약(간접적)",
+      "note": "나스닥100 구성종목이긴 하나 전기차 전용 레버리지 ETF가 추적목록에 없어 대체재일 뿐."
+    },
+    {
+      "single_stock_long": "3FNG.L",
+      "single_stock_short": null,
+      "name": "FAANG Index",
+      "target_etf_bull": "TQQQ",
+      "target_etf_bear": "SQQQ",
+      "confidence": "강(구조적, 미실측)",
+      "note": "구성 로직이 나스닥100 대형기술주와 거의 겹침."
+    },
+    {
+      "single_stock_long": "3LNI.L",
+      "single_stock_short": "3SNI.L",
+      "name": "NIO",
+      "target_etf_bull": "YINN",
+      "target_etf_bear": "YANG",
+      "confidence": "보통(구조적, 미실측)",
+      "note": ""
+    },
+    {
+      "single_stock_long": "3LAA.L",
+      "single_stock_short": "3SAA.L",
+      "name": "Alibaba",
+      "target_etf_bull": "YINN",
+      "target_etf_bear": "YANG",
+      "confidence": "강(구조적, 미실측)",
+      "note": ""
+    },
+    {
+      "single_stock_long": "3LMO.L",
+      "single_stock_short": "3SMO.L",
+      "name": "Moderna",
+      "target_etf_bull": "LABU",
+      "target_etf_bear": "LABD",
+      "confidence": "보통(구조적, 미실측)",
+      "note": ""
+    },
+    {
+      "single_stock_long": "3LAZ.L",
+      "single_stock_short": "3SAZ.L",
+      "name": "AstraZeneca",
+      "target_etf_bull": "PILL",
+      "target_etf_bear": null,
+      "confidence": "보통(구조적, 미실측)",
+      "note": "PILL은 숏 상품 없음(바이오/제약 롱온리 3배)."
+    },
+    {
+      "single_stock_long": "3LRD.L",
+      "single_stock_short": "3SRD.L",
+      "name": "Shell",
+      "target_etf_bull": "ERX",
+      "target_etf_bear": "ERY",
+      "confidence": "보통(구조적, 미실측)",
+      "note": ""
+    },
+    {
+      "single_stock_long": "3LBP.L",
+      "single_stock_short": "3SBP.L",
+      "name": "BP",
+      "target_etf_bull": "ERX",
+      "target_etf_bear": "ERY",
+      "confidence": "보통(구조적, 미실측)",
+      "note": ""
+    },
+    {
+      "single_stock_long": "3LBA.L",
+      "single_stock_short": "3SBA.L",
+      "name": "BAE Systems",
+      "target_etf_bull": "DFEN",
+      "target_etf_bear": null,
+      "confidence": "약(지역 불일치)",
+      "note": "DFEN은 미국 방산 위주 — 영국 방산주와 구성이 다름, 매크로 동조 정도만 기대."
+    },
+    {
+      "single_stock_long": "3LRR.L",
+      "single_stock_short": "3SRR.L",
+      "name": "Rolls-Royce",
+      "target_etf_bull": "DFEN",
+      "target_etf_bear": null,
+      "confidence": "약(지역 불일치)",
+      "note": "BAE와 동일 사유."
+    },
+    {
+      "single_stock_long": "3LLL.L",
+      "single_stock_short": "3SLL.L",
+      "name": "Lloyds",
+      "target_etf_bull": "FAS",
+      "target_etf_bear": "FAZ",
+      "confidence": "약(지역 불일치)",
+      "note": "FAS/FAZ는 미국 금융섹터 위주 — 영국 은행주와 구성 다름."
+    },
+    {
+      "single_stock_long": "3LBC.L",
+      "single_stock_short": "3SBC.L",
+      "name": "Barclays",
+      "target_etf_bull": "FAS",
+      "target_etf_bear": "FAZ",
+      "confidence": "약(지역 불일치)",
+      "note": "Lloyds와 동일 사유."
+    },
+    {
+      "single_stock_long": "3LSQ.L",
+      "single_stock_short": "3SSQ.L",
+      "name": "Block(Square)",
+      "target_etf_bull": "FAS",
+      "target_etf_bear": "FAZ",
+      "confidence": "약(핀테크≠은행)",
+      "note": ""
+    },
+    {
+      "single_stock_long": "3LPP.L",
+      "single_stock_short": null,
+      "name": "PayPal",
+      "target_etf_bull": "FAS",
+      "target_etf_bear": "FAZ",
+      "confidence": "약(핀테크≠은행)",
+      "note": ""
+    },
+    {
+      "single_stock_long": "3LPA.L",
+      "single_stock_short": "3SPA.L",
+      "name": "Palantir",
+      "target_etf_bull": "TQQQ",
+      "target_etf_bear": "SQQQ",
+      "confidence": "약(비중 작음)",
+      "note": "나스닥100 구성종목이나 비중이 작아 지수 레버리지ETF에 미치는 영향 제한적."
+    },
+    {
+      "single_stock_long": "3LCO.L",
+      "single_stock_short": null,
+      "name": "Coinbase",
+      "target_etf_bull": null,
+      "target_etf_bear": null,
+      "confidence": "없음",
+      "note": "추적목록(ETF_TICKERS)에 코인베이스/암호화폐거래소 전용 레버리지ETF 없음."
+    },
+    {
+      "single_stock_long": "3LMI.L",
+      "single_stock_short": "3SMI.L",
+      "name": "MicroStrategy",
+      "target_etf_bull": null,
+      "target_etf_bear": null,
+      "confidence": "없음",
+      "note": "비트코인 프록시 종목 — 추적목록에 적합한 레버리지ETF 없음."
+    },
+    {
+      "single_stock_long": "3LGL.L",
+      "single_stock_short": "3SGL.L",
+      "name": "Glencore",
+      "target_etf_bull": null,
+      "target_etf_bear": null,
+      "confidence": "없음",
+      "note": "NUGT/DUST는 금광주 전용이라 다각화 광물기업(Glencore)과 안 맞음."
+    },
+    {
+      "single_stock_long": "3LRI.L",
+      "single_stock_short": "3SRI.L",
+      "name": "Rio Tinto",
+      "target_etf_bull": null,
+      "target_etf_bear": null,
+      "confidence": "없음",
+      "note": "Glencore와 동일 사유."
+    },
+    {
+      "single_stock_long": "3LVO.L",
+      "single_stock_short": "3SVO.L",
+      "name": "Vodafone",
+      "target_etf_bull": null,
+      "target_etf_bear": null,
+      "confidence": "없음",
+      "note": "추적목록에 통신섹터 레버리지ETF 없음."
+    },
+    {
+      "single_stock_long": "3LDO.L",
+      "single_stock_short": "3SDO.L",
+      "name": "Diageo",
+      "target_etf_bull": null,
+      "target_etf_bear": null,
+      "confidence": "없음",
+      "note": "추적목록에 필수소비재 레버리지ETF 없음."
+    },
+    {
+      "single_stock_long": "3LUB.L",
+      "single_stock_short": null,
+      "name": "Uber",
+      "target_etf_bull": null,
+      "target_etf_bear": null,
+      "confidence": "없음",
+      "note": "추적목록에 해당 섹터 레버리지ETF 없음."
+    },
+    {
+      "single_stock_long": "3LPO.L",
+      "single_stock_short": null,
+      "name": "Spotify",
+      "target_etf_bull": null,
+      "target_etf_bear": null,
+      "confidence": "없음",
+      "note": "Uber와 동일 사유."
+    }
+  ],
+  "ticker_map_summary": {
+    "total": 31,
+    "강한_매칭": 7,
+    "매칭_없음": 8
+  }
+}
