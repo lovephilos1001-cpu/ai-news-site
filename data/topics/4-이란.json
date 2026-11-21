@@ -1,20 +1,6 @@
 [
   {
     "topic_name": "이란",
-    "date_kst": "10/08 22:00",
-    "headline": "The Hormuz bonus: Sailor salaries soar for transits amid Iran war",
-    "link": "https://www.aljazeera.com/news/2026/10/8/the-hormuz-bonus-sailor-salaries-soar-for-transits-amid-iran-war?traffic_source=rss",
-    "source": "AlJazeera"
-  },
-  {
-    "topic_name": "이란",
-    "date_kst": "10/09 03:16",
-    "headline": "[속보 10/09 03:16] Trump says U.S. will not attack Iran before midterm election",
-    "link": "https://www.cnbc.com/2026/10/08/iran-war-trump-midterm-election.html",
-    "source": "CNBC"
-  },
-  {
-    "topic_name": "이란",
     "date_kst": "10/09 03:16",
     "headline": "[속보 10/09 03:16] Trump says US will not attack Iran before November’s midterm elections",
     "link": "https://www.scmp.com/news/world/united-states-canada/article/3370235/trump-says-us-will-not-attack-iran-novembers-midterm-elections?utm_source=rss_feed",
@@ -1448,5 +1434,21 @@
     "headline": "[속보 11/22 03:26] Iran foreign minister wants diplomacy to end war; Trump says terms unacceptable",
     "link": "https://www.japantimes.co.jp/news/2026/11/21/world/politics/iran-diplomacy-terms-unacceptable/",
     "source": "JapanTimes"
+  },
+  {
+    "topic_name": "이란",
+    "date_kst": "11/22 05:30",
+    "headline": "Trump says he wants ‘permanent’ deal to stop Iran getting nuclear weapons",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-clip-trump-iran-permanent-nuclear-deal?traffic_source=rss",
+    "source": "AlJazeera",
+    "comment": ""
+  },
+  {
+    "topic_name": "이란",
+    "date_kst": "11/22 05:30",
+    "headline": "Iran foreign minister wants diplomacy to end war; Trump says terms unacceptable",
+    "link": "https://www.japantimes.co.jp/news/2026/11/21/world/politics/iran-diplomacy-terms-unacceptable/",
+    "source": "JapanTimes",
+    "comment": ""
   }
 ]
