@@ -17,6 +17,7 @@ https://marketbriefwire.com/paid/premium.json — $0.01/요청, x402 프로토�
 x402 사양: https://www.x402.org/
 
 ## 최근 브리핑
+- [[11/21 22:00] Federal Reserve announces College Fed Challenge winners](https://marketbriefwire.com/20261121-1302.html) — 11/21 22:00
 - [[11/21 16:00] [소부장 테크페어] PI첨단소재, AI·HBM 겨냥 폴리이미드 기술 고도화 - 전자신문](https://marketbriefwire.com/20261121-0702.html) — 11/21 16:00
 - [[11/21 05:30] Federal Reserve Board releases results from survey of senior financial officers at banks about their strategies and practices for managing reserve balances](https://marketbriefwire.com/20261120-2032.html) — 11/21 05:30
 - [[11/20 22:00] Federal Reserve Board issues enforcement action with former employee of First Security Bancorp](https://marketbriefwire.com/20261120-1302.html) — 11/20 22:00
@@ -36,4 +37,3 @@ x402 사양: https://www.x402.org/
 - [[11/15 22:00] 최태원 "AI 반도체 넘어 서비스까지…성장 선순환 만들어야" - 매일경제 마켓](https://marketbriefwire.com/20261115-1302.html) — 11/15 22:00
 - [[11/15 16:00] "트럼프, AI 반도체 수출통제 풀며 엔비디아 주식 샀다" - 연합뉴스](https://marketbriefwire.com/20261115-0702.html) — 11/15 16:00
 - [[11/15 05:30] "트럼프, AI 반도체 수출통제 풀며 엔비디아 주식 샀다" - 연합뉴스](https://marketbriefwire.com/20261114-2032.html) — 11/15 05:30
-- [[11/14 22:00] "트럼프, AI 반도체 수출통제 풀며 엔비디아 주식 샀다" - 연합뉴스](https://marketbriefwire.com/20261114-1302.html) — 11/14 22:00

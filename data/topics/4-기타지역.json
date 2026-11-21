@@ -1,36 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "11/09 13:56",
-    "headline": "[속보 11/09 13:56] Poland calls Krakow shooting rampage &apos;terrorist&apos; attack",
-    "link": "https://www.koreaherald.com/article/10930567",
-    "source": "KoreaHerald"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "11/09 14:41",
-    "headline": "[속보 11/09 14:41] Late Hyosung honorary chair given Korea-US Friendship Award",
-    "link": "https://www.koreaherald.com/article/10930806",
-    "source": "KoreaHerald"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "11/09 16:00",
-    "headline": "Drone attack on Iraqi Kurdistan gas field triggers mass blackout",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/drone-attack-on-iraqi-kurdistan-gas-field-triggers-mass-blackout?traffic_source=rss",
-    "source": "AlJazeera",
-    "comment": ""
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "11/09 16:00",
-    "headline": "Drone attack on Iraq gas complex causes power outages",
-    "link": "https://www.scmp.com/news/world/middle-east/article/3373721/attack-iraq-gas-complex-disrupts-supply-regions-power-plants-authorities-say",
-    "source": "SCMP",
-    "comment": ""
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "11/09 16:00",
     "headline": "Poland calls Krakow shooting rampage &apos;terrorist&apos; attack",
     "link": "https://www.koreaherald.com/article/10930567",
@@ -1481,5 +1451,37 @@
     "headline": "[속보 11/21 16:56] Lee reiterates 100 mln-won reward for reporting cheating on CSAT",
     "link": "https://www.koreaherald.com/article/10944726",
     "source": "KoreaHerald"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/21 22:00",
+    "headline": "Lee reiterates 100 mln-won reward for reporting cheating on CSAT",
+    "link": "https://www.koreaherald.com/article/10944726",
+    "source": "KoreaHerald",
+    "comment": ""
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/21 22:00",
+    "headline": "Lee reiterates 100 mln-won reward for reporting cheating on CSAT",
+    "link": "https://en.yna.co.kr/view/AEN20261121001300320",
+    "source": "YonhapEN",
+    "comment": ""
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/21 22:00",
+    "headline": "Haitians excited but uneasy as El Salvador troops fight gangs",
+    "link": "https://www.theguardian.com/world/2026/nov/21/excitement-unease-haiti-el-salvador-troops-gangs-war-bukele",
+    "source": "Guardian",
+    "comment": ""
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/21 22:00",
+    "headline": "Teenager allegedly organised arsons and kidnapping on Signal during Melbourne hospitality wars",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/21/teenager-allegedly-organised-arsons-and-kidnapping-on-signal-during-melbourne-hospitality-wars-ntwnfb",
+    "source": "Guardian",
+    "comment": ""
   }
 ]
