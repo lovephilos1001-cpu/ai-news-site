@@ -1,27 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "11/09 10:41",
-    "headline": "[속보 11/09 10:41] Hanwha Aerospace to conduct ship-based Chunmoo missile tests in U.S.",
-    "link": "https://en.yna.co.kr/view/AEN20261109002600320",
-    "source": "YonhapEN"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "11/09 11:56",
-    "headline": "[속보 11/09 11:56] Drone attack on Iraqi Kurdistan gas field triggers mass blackout",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/drone-attack-on-iraqi-kurdistan-gas-field-triggers-mass-blackout?traffic_source=rss",
-    "source": "AlJazeera"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "11/09 11:56",
-    "headline": "[속보 11/09 11:56] Drone attack on Iraq gas field causes power outages",
-    "link": "https://www.scmp.com/news/world/middle-east/article/3373721/attack-iraq-gas-complex-disrupts-supply-regions-power-plants-authorities-say",
-    "source": "SCMP"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "11/09 12:56",
     "headline": "[속보 11/09 12:56] Drone attack on Iraq gas complex causes power outages",
     "link": "https://www.scmp.com/news/world/middle-east/article/3373721/attack-iraq-gas-complex-disrupts-supply-regions-power-plants-authorities-say",
@@ -1474,6 +1453,30 @@
   {
     "topic_name": "기타 지역",
     "date_kst": "11/21 05:30",
+    "headline": "Vape users hospitalised after losing consciousness, prompting public health warning in New South Wales",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/20/vape-users-hospitalised-after-losing-consciousness-prompting-public-health-warning-in-new-south-wales",
+    "source": "Guardian",
+    "comment": ""
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/21 16:00",
+    "headline": "‘Weak and dizzy’: the secretive ICE force-feeding tactics that ended a Cuban father’s hunger strike",
+    "link": "https://www.theguardian.com/us-news/2026/nov/20/ice-cuba-hunger-strike-force-feeding",
+    "source": "Guardian",
+    "comment": ""
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/21 16:00",
+    "headline": "Teenager allegedly organised arsons and kidnapping on Signal during Melbourne hospitality wars",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/21/teenager-allegedly-organised-arsons-and-kidnapping-on-signal-during-melbourne-hospitality-wars-ntwnfb",
+    "source": "Guardian",
+    "comment": ""
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/21 16:00",
     "headline": "Vape users hospitalised after losing consciousness, prompting public health warning in New South Wales",
     "link": "https://www.theguardian.com/australia-news/2026/nov/20/vape-users-hospitalised-after-losing-consciousness-prompting-public-health-warning-in-new-south-wales",
     "source": "Guardian",
