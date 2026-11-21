@@ -1,14 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "11/09 16:00",
-    "headline": "Lisa Nandy wary of ‘circular arguments’ about rejoining EU",
-    "link": "https://www.theguardian.com/politics/2026/nov/08/lisa-nandy-wary-of-circular-arguments-about-rejoining-eu",
-    "source": "Guardian",
-    "comment": ""
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "11/09 22:00",
     "headline": "Late Hyosung honorary chairman receives Korea-U.S. Friendship Award",
     "link": "https://en.yna.co.kr/view/AEN20261109002100320",
@@ -1480,6 +1472,13 @@
     "date_kst": "11/22 02:56",
     "headline": "[속보 11/22 02:56] Mexico captures FBI-wanted cartel boss in military raid",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/mexico-captures-fbi-wanted-cartel-boss-in-military-raid?traffic_source=rss",
+    "source": "AlJazeera"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/22 05:26",
+    "headline": "[속보 11/22 05:26] French presidential candidate blames media for racist attack",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/french-presidential-candidate-blames-media-for-racist-attack?traffic_source=rss",
     "source": "AlJazeera"
   }
 ]
