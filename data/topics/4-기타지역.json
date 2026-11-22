@@ -1,14 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "11/09 22:00",
-    "headline": "Usman Khawaja’s ‘Sandpapergate’ claims are ‘accurate’, says David Warner",
-    "link": "https://www.aljazeera.com/sports/2026/11/9/usman-khawajas-sandpapergate-claims-are-accurate-says-david-warner?traffic_source=rss",
-    "source": "AlJazeera",
-    "comment": ""
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "11/10 02:56",
     "headline": "[속보 11/10 02:56] French PM brings forward minimum wage hike to calm protesters",
     "link": "https://www.scmp.com/news/world/europe/article/3373836/french-pm-brings-forward-minimum-wage-hike-calm-protesters",
@@ -1480,5 +1472,12 @@
     "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/UK-Races-to-Rewrite-Nuclear-Rules-by-2027.html",
     "source": "OilPrice",
     "comment": ""
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/22 14:26",
+    "headline": "[속보 11/22 14:26] Poland is a warning for vengeful U.S. Democrats",
+    "link": "https://www.japantimes.co.jp/commentary/2026/11/22/world/poland-vengeful-us-democrats/",
+    "source": "JapanTimes"
   }
 ]
