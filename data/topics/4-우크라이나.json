@@ -1,13 +1,6 @@
 [
   {
     "topic_name": "우크라이나",
-    "date_kst": "10/04 16:00",
-    "headline": "Ukraine’s surprise robot offensive exposes a vulnerability in Putin’s war machine",
-    "link": "https://www.cnbc.com/2026/10/04/russia-ukraine-war-putin-zelenskyy-donbas-lyman.html",
-    "source": "CNBC"
-  },
-  {
-    "topic_name": "우크라이나",
     "date_kst": "10/04 21:26",
     "headline": "[속보 10/04 21:26] Russia strikes Kyiv bridge as Germany’s Merz visits, pledges aid",
     "link": "https://www.scmp.com/news/world/europe/article/3369698/russia-strikes-kyiv-bridge-germanys-merz-visits-pledges-aid?utm_source=rss_feed",
@@ -1423,5 +1416,13 @@
     "headline": "[속보 11/22 11:26] Ukraine strains Russian logistics with Crimean bridge strikes",
     "link": "https://www.japantimes.co.jp/news/2026/11/22/world/ukraine-russia-logistics-crimean-bridge-strikes/",
     "source": "JapanTimes"
+  },
+  {
+    "topic_name": "우크라이나",
+    "date_kst": "11/22 16:00",
+    "headline": "Ukraine strains Russian logistics with Crimean bridge strikes",
+    "link": "https://www.japantimes.co.jp/news/2026/11/22/world/ukraine-russia-logistics-crimean-bridge-strikes/",
+    "source": "JapanTimes",
+    "comment": ""
   }
 ]

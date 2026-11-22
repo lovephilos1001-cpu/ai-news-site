@@ -1,28 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "11/10 02:56",
-    "headline": "[속보 11/10 02:56] French PM brings forward minimum wage hike to calm protesters",
-    "link": "https://www.scmp.com/news/world/europe/article/3373836/french-pm-brings-forward-minimum-wage-hike-calm-protesters",
-    "source": "SCMP"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "11/10 05:26",
-    "headline": "[속보 11/10 05:26] Explosion at Turkish steel plant kills at least 16 people",
-    "link": "https://www.aljazeera.com/news/2026/11/9/explosion-at-turkish-steel-plant-kills-at-least-16-people?traffic_source=rss",
-    "source": "AlJazeera"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "11/10 05:30",
-    "headline": "Explosion at Turkish steel plant kills at least 16 people",
-    "link": "https://www.aljazeera.com/news/2026/11/9/explosion-at-turkish-steel-plant-kills-at-least-16-people?traffic_source=rss",
-    "source": "AlJazeera",
-    "comment": ""
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "11/10 05:30",
     "headline": "French PM brings forward minimum wage hike to calm protesters",
     "link": "https://www.scmp.com/news/world/europe/article/3373836/french-pm-brings-forward-minimum-wage-hike-calm-protesters",
@@ -1479,5 +1457,29 @@
     "headline": "[속보 11/22 14:26] Poland is a warning for vengeful U.S. Democrats",
     "link": "https://www.japantimes.co.jp/commentary/2026/11/22/world/poland-vengeful-us-democrats/",
     "source": "JapanTimes"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/22 16:00",
+    "headline": "Poland is a warning for vengeful U.S. Democrats",
+    "link": "https://www.japantimes.co.jp/commentary/2026/11/22/world/poland-vengeful-us-democrats/",
+    "source": "JapanTimes",
+    "comment": ""
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/22 16:00",
+    "headline": "Lee reiterates 100 mln-won reward for reporting cheating on CSAT",
+    "link": "https://www.koreaherald.com/article/10944726",
+    "source": "KoreaHerald",
+    "comment": ""
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/22 16:00",
+    "headline": "Lee reiterates 100 mln-won reward for reporting cheating on CSAT",
+    "link": "https://en.yna.co.kr/view/AEN20261121001300320",
+    "source": "YonhapEN",
+    "comment": ""
   }
 ]
