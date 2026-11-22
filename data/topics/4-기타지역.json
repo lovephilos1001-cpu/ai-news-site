@@ -1,14 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "11/10 05:30",
-    "headline": "Cyber-attack on French supermarket freezers has geopolitical context",
-    "link": "https://www.theguardian.com/technology/2026/nov/09/cyber-attack-french-supermarket-freezers-iran-europe",
-    "source": "Guardian",
-    "comment": ""
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "11/10 05:56",
     "headline": "[속보 11/10 05:56] Deadly explosion at Iron and steel plant in Turkiye",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/deadly-explosion-at-iron-and-steel-plant-in-turkiye?traffic_source=rss",
@@ -1481,5 +1473,12 @@
     "link": "https://www.japantimes.co.jp/commentary/2026/11/22/world/poland-vengeful-us-democrats/",
     "source": "JapanTimes",
     "comment": ""
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/23 00:41",
+    "headline": "[속보 11/23 00:41] Netanyahu rival condemns settler arson attacks on Palestinian villages in West Bank",
+    "link": "https://www.theguardian.com/world/2026/nov/22/netanyahu-rival-condemns-settler-arson-attacks-palestinian-villages-west-bank",
+    "source": "Guardian"
   }
 ]
