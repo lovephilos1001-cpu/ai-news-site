@@ -1,13 +1,6 @@
 [
   {
     "topic_name": "트럼프 트루스소셜 데일리 포스트",
-    "date_kst": "11/07 23:30",
-    "headline": "Image post from November 7, 2026",
-    "link": "https://www.trumpstruth.org/statuses/43502",
-    "source": "Truth Social(트럼프 본인 계정, trumpstruth.org 아카이브 미러)"
-  },
-  {
-    "topic_name": "트럼프 트루스소셜 데일리 포스트",
     "date_kst": "11/07 23:33",
     "headline": "Quote post from November 7, 2026",
     "link": "https://www.trumpstruth.org/statuses/43503",
@@ -1397,6 +1390,13 @@
     "date_kst": "11/23 05:55",
     "headline": "Image post from November 22, 2026",
     "link": "https://www.trumpstruth.org/statuses/43704",
+    "source": "Truth Social(트럼프 본인 계정, trumpstruth.org 아카이브 미러)"
+  },
+  {
+    "topic_name": "트럼프 트루스소셜 데일리 포스트",
+    "date_kst": "11/23 06:09",
+    "headline": "Video post from November 22, 2026",
+    "link": "https://www.trumpstruth.org/statuses/43705",
     "source": "Truth Social(트럼프 본인 계정, trumpstruth.org 아카이브 미러)"
   }
 ]
