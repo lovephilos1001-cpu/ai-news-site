@@ -1,13 +1,6 @@
 [
   {
     "topic_name": "이란",
-    "date_kst": "10/09 05:30",
-    "headline": "Treasury sanctions 17 tankers linked to Iran's 'shadow fleet' in economic pressure campaign",
-    "link": "https://www.cnbc.com/2026/10/08/iran-treasury-sanctions-shadow-fleet.html",
-    "source": "CNBC"
-  },
-  {
-    "topic_name": "이란",
     "date_kst": "10/09 09:41",
     "headline": "[속보 10/09 09:41] Trump says U.S. won’t attack Iran before midterm elections",
     "link": "https://www.japantimes.co.jp/news/2026/10/09/world/no-iran-attack-midterms/",
@@ -1451,5 +1444,13 @@
     "headline": "[속보 11/22 22:41] Bahrain says Iran struck industrial site as tankers hit in Hormuz",
     "link": "https://www.japantimes.co.jp/news/2026/11/22/world/bahrain-iran-attack-hormuz/",
     "source": "JapanTimes"
+  },
+  {
+    "topic_name": "이란",
+    "date_kst": "11/23 05:30",
+    "headline": "Bahrain says Iran struck industrial site as tankers hit in Hormuz",
+    "link": "https://www.japantimes.co.jp/news/2026/11/22/world/bahrain-iran-attack-hormuz/",
+    "source": "JapanTimes",
+    "comment": ""
   }
 ]

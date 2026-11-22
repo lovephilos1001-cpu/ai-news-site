@@ -17,6 +17,7 @@ https://marketbriefwire.com/paid/premium.json — $0.01/요청, x402 프로토�
 x402 사양: https://www.x402.org/
 
 ## 최근 브리핑
+- [[11/23 05:30] 中기업, 엔비디아 칩 수급난… AI 반도체 공급망 구축 박차[AI 생태계 덮친 젠슨 황 리스크] - 파이낸셜뉴스](https://marketbriefwire.com/20261122-2032.html) — 11/23 05:30
 - [[11/22 22:00] 中기업, 엔비디아 칩 수급난… AI 반도체 공급망 구축 박차[AI 생태계 덮친 젠슨 황 리스크] - 파이낸셜뉴스](https://marketbriefwire.com/20261122-1302.html) — 11/22 22:00
 - [[11/22 16:00] 삼성·TSMC, 중국향 칩 출하 중단…美 규제 모바일까지 확산 - 동행일보](https://marketbriefwire.com/20261122-0702.html) — 11/22 16:00
 - [[11/22 05:30] Federal Reserve announces College Fed Challenge winners](https://marketbriefwire.com/20261121-2032.html) — 11/22 05:30
@@ -36,4 +37,3 @@ x402 사양: https://www.x402.org/
 - [[11/17 05:30] Taking a Tour of Canada’s Particle Accelerator](https://marketbriefwire.com/20261116-2032.html) — 11/17 05:30
 - [[11/16 22:00] Bessent calls for ‘dramatic shakeup’ at Nvidia, urges outside CEO](https://marketbriefwire.com/20261116-1302.html) — 11/16 22:00
 - [[11/16 16:00] Bessent calls for ‘dramatic shakeup’ at Nvidia, urges outside CEO](https://marketbriefwire.com/20261116-0702.html) — 11/16 16:00
-- [[11/16 05:30] Bessent calls for ‘dramatic shakeup’ at Nvidia, urges outside CEO](https://marketbriefwire.com/20261115-2032.html) — 11/16 05:30
