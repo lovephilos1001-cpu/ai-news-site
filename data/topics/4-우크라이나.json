@@ -1,13 +1,6 @@
 [
   {
     "topic_name": "우크라이나",
-    "date_kst": "10/03 05:30",
-    "headline": "Intensified Russian strikes are tearing Kyiv apart, warns mayor",
-    "link": "https://www.bbc.co.uk/news/articles/c6wyv44y4ywjo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC"
-  },
-  {
-    "topic_name": "우크라이나",
     "date_kst": "10/04 16:00",
     "headline": "Ukraine’s surprise robot offensive exposes a vulnerability in Putin’s war machine",
     "link": "https://www.cnbc.com/2026/10/04/russia-ukraine-war-putin-zelenskyy-donbas-lyman.html",
@@ -1423,5 +1416,12 @@
     "link": "https://www.theguardian.com/world/2026/nov/21/kyiv-russian-attacks-bridges",
     "source": "Guardian",
     "comment": ""
+  },
+  {
+    "topic_name": "우크라이나",
+    "date_kst": "11/22 11:26",
+    "headline": "[속보 11/22 11:26] Ukraine strains Russian logistics with Crimean bridge strikes",
+    "link": "https://www.japantimes.co.jp/news/2026/11/22/world/ukraine-russia-logistics-crimean-bridge-strikes/",
+    "source": "JapanTimes"
   }
 ]
