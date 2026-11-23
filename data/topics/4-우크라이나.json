@@ -1,13 +1,6 @@
 [
   {
     "topic_name": "우크라이나",
-    "date_kst": "10/08 19:41",
-    "headline": "[속보 10/08 19:41] South Korea recalls Ukraine envoy over prisoner-of-war row",
-    "link": "https://www.bbc.co.uk/news/articles/ckwy48rrz95vo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC"
-  },
-  {
-    "topic_name": "우크라이나",
     "date_kst": "10/08 19:56",
     "headline": "[속보 10/08 19:56] Russian attack on Ukraine’s Kramatorsk kills at least 12 people",
     "link": "https://www.aljazeera.com/news/2026/10/8/russia-attack-in-ukraines-kramatorsk-kills-12?traffic_source=rss",
@@ -1428,5 +1421,12 @@
     "link": "https://www.theguardian.com/world/2026/nov/23/ukraine-naval-drones-strike-russian-warship-libya",
     "source": "Guardian",
     "comment": ""
+  },
+  {
+    "topic_name": "우크라이나",
+    "date_kst": "11/24 03:56",
+    "headline": "[속보 11/24 03:56] What Russian warship did Ukraine just sink?",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/what-russian-warship-did-ukraine-just-sink?traffic_source=rss",
+    "source": "AlJazeera"
   }
 ]
