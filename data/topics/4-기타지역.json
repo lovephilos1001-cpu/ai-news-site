@@ -1,14 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "11/10 16:00",
-    "headline": "Explosion rips through steel plant in Turkey, killing at least 17",
-    "link": "https://www.scmp.com/news/world/europe/article/3373832/turkey-steel-factory-blast-kills-6",
-    "source": "SCMP",
-    "comment": ""
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "11/11 00:41",
     "headline": "[속보 11/11 00:41] Hegseth promises to defend ‘warriors’ as he faces impeachment",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/hegseth-promises-to-defend-warriors-as-he-faces-impeachment?traffic_source=rss",
@@ -1481,6 +1473,13 @@
     "topic_name": "기타 지역",
     "date_kst": "11/24 00:26",
     "headline": "[속보 11/24 00:26] Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 35%",
+    "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+    "source": "CNBC"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/24 01:11",
+    "headline": "[속보 11/24 01:11] Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 33%",
     "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
     "source": "CNBC"
   }
