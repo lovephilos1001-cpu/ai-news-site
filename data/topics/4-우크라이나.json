@@ -2,13 +2,6 @@
   {
     "topic_name": "우크라이나",
     "date_kst": "10/04 22:14",
-    "headline": "Ukraine’s surprise robot offensive exposes a vulnerability in Putin’s war machine",
-    "link": "https://www.cnbc.com/2026/10/04/russia-ukraine-war-putin-zelenskyy-donbas-lyman.html",
-    "source": "CNBC"
-  },
-  {
-    "topic_name": "우크라이나",
-    "date_kst": "10/04 22:14",
     "headline": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
     "link": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
     "source": "BBC"
@@ -1426,5 +1419,12 @@
     "link": "https://www.japantimes.co.jp/news/2026/11/22/world/ukraine-russia-logistics-crimean-bridge-strikes/",
     "source": "JapanTimes",
     "comment": ""
+  },
+  {
+    "topic_name": "우크라이나",
+    "date_kst": "11/23 14:11",
+    "headline": "[속보 11/23 14:11] Child rescued in Ukraine after Russian drone attack kills 10",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/child-rescued-in-ukraine-after-russian-drone-attack-kills-10?traffic_source=rss",
+    "source": "AlJazeera"
   }
 ]
