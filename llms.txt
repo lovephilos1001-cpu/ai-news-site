@@ -17,6 +17,7 @@ https://marketbriefwire.com/paid/premium.json — $0.01/요청, x402 프로토�
 x402 사양: https://www.x402.org/
 
 ## 최근 브리핑
+- [[11/24 05:30] [AI픽] 정부, AI반도체 글로벌 협력 확대·공급망 안정화 논의 - 연합뉴스](https://marketbriefwire.com/20261123-2031.html) — 11/24 05:30
 - [[11/23 22:00] The Enigma of SoftBank’s $1 Trillion SK Hynix Buyout Attempt](https://marketbriefwire.com/20261123-1302.html) — 11/23 22:00
 - [[11/23 16:00] [AI픽] 정부, AI반도체 글로벌 협력 확대·공급망 안정화 논의 - 매일경제 마켓](https://marketbriefwire.com/20261123-0702.html) — 11/23 16:00
 - [[11/23 05:30] 中기업, 엔비디아 칩 수급난… AI 반도체 공급망 구축 박차[AI 생태계 덮친 젠슨 황 리스크] - 파이낸셜뉴스](https://marketbriefwire.com/20261122-2032.html) — 11/23 05:30
@@ -36,4 +37,3 @@ x402 사양: https://www.x402.org/
 - [[11/18 05:30] 세미파이브, 차세대 로직칩 개발…"HBM 없이 AI반도체 제조" - 한국경제](https://marketbriefwire.com/20261117-2032.html) — 11/18 05:30
 - [[11/17 22:37] "HBM 없어도 AI 반도체 만든다"…세미파이브, 차세대 3D-IC 기술 공개 - 한국경제](https://marketbriefwire.com/20261117-1339.html) — 11/17 22:37
 - [[11/17 16:00] Taking a Tour of Canada’s Particle Accelerator](https://marketbriefwire.com/20261117-0702.html) — 11/17 16:00
-- [[11/17 05:30] Taking a Tour of Canada’s Particle Accelerator](https://marketbriefwire.com/20261116-2032.html) — 11/17 05:30

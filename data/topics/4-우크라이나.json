@@ -1,20 +1,6 @@
 [
   {
     "topic_name": "우크라이나",
-    "date_kst": "10/08 20:26",
-    "headline": "[속보 10/08 20:26] Russian attack on buses in Ukraine’s Kramatorsk kills at least 33 people",
-    "link": "https://www.aljazeera.com/news/2026/10/8/russia-attack-in-ukraines-kramatorsk-kills-12?traffic_source=rss",
-    "source": "AlJazeera"
-  },
-  {
-    "topic_name": "우크라이나",
-    "date_kst": "10/08 21:11",
-    "headline": "[속보 10/08 21:11] At least 33 dead in Russian bomb blast in east Ukraine stronghold",
-    "link": "https://www.scmp.com/news/world/russia-central-asia/article/3370213/least-33-dead-russian-bomb-blast-east-ukraine-stronghold?utm_source=rss_feed",
-    "source": "SCMP"
-  },
-  {
-    "topic_name": "우크라이나",
     "date_kst": "10/08 21:56",
     "headline": "[속보 10/08 21:56] Former ambassador on NATO's meeting in Ukraine and the ongoing war",
     "link": "https://www.npr.org/2026/10/08/nx-s1-5993774/former-ambassador-on-natos-meeting-in-ukraine-and-the-ongoing-war",
@@ -1428,5 +1414,21 @@
     "headline": "[속보 11/24 05:11] Zelenskyy hails Ukraine's attack on a Russian warship docked at a naval base in Libya",
     "link": "https://www.npr.org/2026/11/23/g-s1-155017/ukraine-attack-russian-warship-libya",
     "source": "NPR"
+  },
+  {
+    "topic_name": "우크라이나",
+    "date_kst": "11/24 05:30",
+    "headline": "Zelenskyy hails Ukraine's attack on a Russian warship docked at a naval base in Libya",
+    "link": "https://www.npr.org/2026/11/23/g-s1-155017/ukraine-attack-russian-warship-libya",
+    "source": "NPR",
+    "comment": ""
+  },
+  {
+    "topic_name": "우크라이나",
+    "date_kst": "11/24 05:30",
+    "headline": "What Russian warship did Ukraine just sink?",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/what-russian-warship-did-ukraine-just-sink?traffic_source=rss",
+    "source": "AlJazeera",
+    "comment": ""
   }
 ]
