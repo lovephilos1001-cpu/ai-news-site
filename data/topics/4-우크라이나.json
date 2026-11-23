@@ -1,34 +1,6 @@
 [
   {
     "topic_name": "우크라이나",
-    "date_kst": "10/05 01:53",
-    "headline": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
-    "link": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC"
-  },
-  {
-    "topic_name": "우크라이나",
-    "date_kst": "10/05 01:53",
-    "headline": "Watch: What we know about Russian strikes on Kyiv bridges",
-    "link": "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC"
-  },
-  {
-    "topic_name": "우크라이나",
-    "date_kst": "10/05 10:37",
-    "headline": "Ukraine’s surprise robot offensive exposes a vulnerability in Putin’s war machine",
-    "link": "https://www.cnbc.com/2026/10/04/russia-ukraine-war-putin-zelenskyy-donbas-lyman.html",
-    "source": "CNBC"
-  },
-  {
-    "topic_name": "우크라이나",
-    "date_kst": "10/05 10:49",
-    "headline": "Ukraine’s surprise robot offensive exposes a vulnerability in Putin’s war machine",
-    "link": "https://www.cnbc.com/2026/10/04/russia-ukraine-war-putin-zelenskyy-donbas-lyman.html",
-    "source": "CNBC"
-  },
-  {
-    "topic_name": "우크라이나",
     "date_kst": "10/06 16:00",
     "headline": "Fuel from South Korea being shipped to Russia as Ukraine war grinds on",
     "link": "https://www.theguardian.com/world/2026/oct/06/oil-tankers-south-korea-russia-ukraine-war",
@@ -1427,5 +1399,33 @@
     "headline": "[속보 11/23 16:56] Zelenskyy says Ukraine behind drone attacks on Russian ships near Libya",
     "link": "https://www.aljazeera.com/news/2026/11/23/zelenskyy-says-ukraine-behind-drone-attacks-on-russian-ships-near-libya?traffic_source=rss",
     "source": "AlJazeera"
+  },
+  {
+    "topic_name": "우크라이나",
+    "date_kst": "11/23 21:09",
+    "headline": "[속보 11/23 21:09] Ukraine confirms it used naval drones to strike two Russian ships off Libya",
+    "link": "https://www.theguardian.com/world/2026/nov/23/ukraine-naval-drones-strike-russian-warship-libya",
+    "source": "Guardian"
+  },
+  {
+    "topic_name": "우크라이나",
+    "date_kst": "11/23 21:09",
+    "headline": "[속보 11/23 21:09] Zelenskyy says Ukraine behind attacks on Russian ships near Libya",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/zelenskyy-says-ukraine-behind-attacks-on-russian-ships-near-libya?traffic_source=rss",
+    "source": "AlJazeera"
+  },
+  {
+    "topic_name": "우크라이나",
+    "date_kst": "11/23 21:09",
+    "headline": "[속보 11/23 21:09] Zelenskyy says Ukraine was behind drone attacks on Russian ships off Libya",
+    "link": "https://www.aljazeera.com/news/2026/11/23/zelenskyy-says-ukraine-behind-drone-attacks-on-russian-ships-near-libya?traffic_source=rss",
+    "source": "AlJazeera"
+  },
+  {
+    "topic_name": "우크라이나",
+    "date_kst": "11/23 21:09",
+    "headline": "[속보 11/23 21:09] Zelensky says Ukraine sank Russian warship in sea drone attack at Libya base",
+    "link": "https://www.scmp.com/news/world/africa/article/3375407/suspected-ukrainian-sea-drones-hit-russian-warship-libyan-naval-base-officials-say",
+    "source": "SCMP"
   }
 ]
