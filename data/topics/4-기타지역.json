@@ -1,13 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "11/10 14:41",
-    "headline": "[속보 11/10 14:41] Samsung SDI&apos;s backup battery for AI data centers wins CES award",
-    "link": "https://www.koreaherald.com/article/10932079",
-    "source": "KoreaHerald"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "11/10 16:00",
     "headline": "Explosion rips through steel plant in Turkey, killing at least 17",
     "link": "https://www.scmp.com/news/world/europe/article/3373832/turkey-steel-factory-blast-kills-6",
@@ -1481,6 +1474,13 @@
     "topic_name": "기타 지역",
     "date_kst": "11/23 23:26",
     "headline": "[속보 11/23 23:26] Nvidia reinstates Jensen Huang as CEO. Stock skyrockets 31%",
+    "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+    "source": "CNBC"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/24 00:26",
+    "headline": "[속보 11/24 00:26] Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 35%",
     "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
     "source": "CNBC"
   }
