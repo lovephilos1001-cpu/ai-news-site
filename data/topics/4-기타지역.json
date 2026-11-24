@@ -1,13 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "11/11 19:11",
-    "headline": "[속보 11/11 19:11] Spanish workers stage huge general strike, first in 14 years, angry over housing",
-    "link": "https://www.scmp.com/news/world/europe/article/3374082/spanish-workers-stage-huge-general-strike-1st-14-years-angry-over-housing",
-    "source": "SCMP"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "11/11 19:41",
     "headline": "[속보 11/11 19:41] Spain’s first general strike in 14 years begins",
     "link": "https://www.aljazeera.com/news/2026/11/11/spains-first-general-strike-in-14-years-begins?traffic_source=rss",
@@ -1479,5 +1472,13 @@
     "headline": "[속보 11/24 22:33] Seoul Metro labor, management hold final talks ahead of planned strike",
     "link": "https://en.yna.co.kr/view/AEN20261124006100315",
     "source": "YonhapEN"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/24 22:33",
+    "headline": "Wars choke global food routes, threatening aid for 7.3 million, WFP warns",
+    "link": "https://www.aljazeera.com/news/2026/11/24/wars-choke-global-food-routes-threatening-aid-for-7-3-million-wfp-warns?traffic_source=rss",
+    "source": "AlJazeera",
+    "comment": ""
   }
 ]

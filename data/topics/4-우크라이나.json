@@ -1,20 +1,6 @@
 [
   {
     "topic_name": "우크라이나",
-    "date_kst": "10/09 03:16",
-    "headline": "[속보 10/09 03:16] Dozens killed in Russian strike on civilian buses in eastern Ukraine",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/8/dozens-killed-in-russian-strike-on-civilian-buses-in-eastern-ukraine?traffic_source=rss",
-    "source": "AlJazeera"
-  },
-  {
-    "topic_name": "우크라이나",
-    "date_kst": "10/09 05:30",
-    "headline": "South Korea recalls Ukraine envoy over prisoner-of-war row",
-    "link": "https://www.bbc.co.uk/news/articles/ckwy48rrz95vo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC"
-  },
-  {
-    "topic_name": "우크라이나",
     "date_kst": "10/09 10:56",
     "headline": "[속보 10/09 10:56] Ukraine’s Zelensky accuses US of inaction as Russian strikes kill nearly 80 in 2 days",
     "link": "https://www.scmp.com/news/world/europe/article/3370253/ukraines-zelensky-accuses-us-inaction-russian-strikes-kill-nearly-80-2-days?utm_source=rss_feed",
@@ -1433,5 +1419,21 @@
     "headline": "[속보 11/24 22:33] Russian strike kills two in Ukraine, days after ship attack off Libya",
     "link": "https://www.aljazeera.com/news/2026/11/24/russian-attack-kills-two-people-in-ukraines-zaporizhzhia?traffic_source=rss",
     "source": "AlJazeera"
+  },
+  {
+    "topic_name": "우크라이나",
+    "date_kst": "11/24 22:33",
+    "headline": "What strike on Russian ship in Libya says about spread of Ukraine war",
+    "link": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "comment": ""
+  },
+  {
+    "topic_name": "우크라이나",
+    "date_kst": "11/24 22:33",
+    "headline": "Russian strike kills two in Ukraine, days after ship attack off Libya",
+    "link": "https://www.aljazeera.com/news/2026/11/24/russian-attack-kills-two-people-in-ukraines-zaporizhzhia?traffic_source=rss",
+    "source": "AlJazeera",
+    "comment": ""
   }
 ]
