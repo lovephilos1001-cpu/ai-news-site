@@ -2,20 +2,6 @@
   {
     "topic_name": "우크라이나",
     "date_kst": "10/08 21:56",
-    "headline": "[속보 10/08 21:56] Former ambassador on NATO's meeting in Ukraine and the ongoing war",
-    "link": "https://www.npr.org/2026/10/08/nx-s1-5993774/former-ambassador-on-natos-meeting-in-ukraine-and-the-ongoing-war",
-    "source": "NPR"
-  },
-  {
-    "topic_name": "우크라이나",
-    "date_kst": "10/08 21:56",
-    "headline": "[속보 10/08 21:56] Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
-    "link": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC"
-  },
-  {
-    "topic_name": "우크라이나",
-    "date_kst": "10/08 21:56",
     "headline": "[속보 10/08 21:56] Russian attack on buses in Ukraine’s Kramatorsk kills at least 30 people",
     "link": "https://www.aljazeera.com/news/2026/10/8/russia-attack-in-ukraines-kramatorsk-kills-12?traffic_source=rss",
     "source": "AlJazeera"
@@ -1430,5 +1416,19 @@
     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/what-russian-warship-did-ukraine-just-sink?traffic_source=rss",
     "source": "AlJazeera",
     "comment": ""
+  },
+  {
+    "topic_name": "우크라이나",
+    "date_kst": "11/24 10:11",
+    "headline": "[속보 11/24 10:11] What strike on Russian ship in Libya says about spread of Ukraine war",
+    "link": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC"
+  },
+  {
+    "topic_name": "우크라이나",
+    "date_kst": "11/24 10:11",
+    "headline": "[속보 11/24 10:11] Ukraine strike on Russian warship off Libya highlights Kyiv’s broadened reach",
+    "link": "https://www.japantimes.co.jp/news/2026/11/24/world/ukraine-russian-warship-libyan-coast/",
+    "source": "JapanTimes"
   }
 ]
