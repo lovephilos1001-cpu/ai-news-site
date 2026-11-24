@@ -1,28 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "11/11 16:00",
-    "headline": "Rail workers threaten indefinite strike from Dec. 10",
-    "link": "https://www.koreaherald.com/article/10933719",
-    "source": "KoreaHerald",
-    "comment": ""
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "11/11 17:51",
-    "headline": "[속보 11/11 17:51] Railway workers threaten Dec. 10 strike",
-    "link": "https://www.koreaherald.com/article/10933949",
-    "source": "KoreaHerald"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "11/11 19:11",
-    "headline": "[속보 11/11 19:11] Spain's first general strike in 14 years demands solutions to housing crisis",
-    "link": "https://www.npr.org/2026/11/11/nx-s1-6037314/spain-general-strike",
-    "source": "NPR"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "11/11 19:11",
     "headline": "[속보 11/11 19:11] Spanish workers stage huge general strike, first in 14 years, angry over housing",
     "link": "https://www.scmp.com/news/world/europe/article/3374082/spanish-workers-stage-huge-general-strike-1st-14-years-angry-over-housing",
@@ -1480,5 +1458,26 @@
     "headline": "[속보 11/24 17:26] Wars choke global food routes, threatening aid for 7.3 million, WFP warns",
     "link": "https://www.aljazeera.com/news/2026/11/24/wars-choke-global-food-routes-threatening-aid-for-7-3-million-wfp-warns?traffic_source=rss",
     "source": "AlJazeera"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/24 22:33",
+    "headline": "[속보 11/24 22:33] Final talks between Seoul Metro labor, management in deadlock ahead of planned strike",
+    "link": "https://www.koreaherald.com/article/10947991",
+    "source": "KoreaHerald"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/24 22:33",
+    "headline": "[속보 11/24 22:33] (LEAD) Final talks between Seoul Metro labor, management in deadlock ahead of planned strike",
+    "link": "https://en.yna.co.kr/view/AEN20261124006151315",
+    "source": "YonhapEN"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/24 22:33",
+    "headline": "[속보 11/24 22:33] Seoul Metro labor, management hold final talks ahead of planned strike",
+    "link": "https://en.yna.co.kr/view/AEN20261124006100315",
+    "source": "YonhapEN"
   }
 ]

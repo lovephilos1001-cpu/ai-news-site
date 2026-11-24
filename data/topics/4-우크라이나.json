@@ -1,13 +1,6 @@
 [
   {
     "topic_name": "우크라이나",
-    "date_kst": "10/08 22:00",
-    "headline": "South Korea recalls Ukraine envoy over prisoner-of-war row",
-    "link": "https://www.bbc.co.uk/news/articles/ckwy48rrz95vo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC"
-  },
-  {
-    "topic_name": "우크라이나",
     "date_kst": "10/09 03:16",
     "headline": "[속보 10/09 03:16] Dozens killed in Russian strike on civilian buses in eastern Ukraine",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/8/dozens-killed-in-russian-strike-on-civilian-buses-in-eastern-ukraine?traffic_source=rss",
@@ -1433,5 +1426,12 @@
     "link": "https://www.bbc.co.uk/news/videos/c6wy93q5wwqvo?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
     "comment": ""
+  },
+  {
+    "topic_name": "우크라이나",
+    "date_kst": "11/24 22:33",
+    "headline": "[속보 11/24 22:33] Russian strike kills two in Ukraine, days after ship attack off Libya",
+    "link": "https://www.aljazeera.com/news/2026/11/24/russian-attack-kills-two-people-in-ukraines-zaporizhzhia?traffic_source=rss",
+    "source": "AlJazeera"
   }
 ]
