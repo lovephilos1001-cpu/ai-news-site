@@ -2,13 +2,6 @@
   {
     "topic_name": "이란",
     "date_kst": "10/09 16:00",
-    "headline": "Trump says U.S. will not attack Iran before midterm election",
-    "link": "https://www.cnbc.com/2026/10/08/iran-war-trump-midterm-election.html",
-    "source": "CNBC"
-  },
-  {
-    "topic_name": "이란",
-    "date_kst": "10/09 16:00",
     "headline": "Trump says US will not strike Iran before midterm elections",
     "link": "https://www.aljazeera.com/news/2026/10/9/trump-says-us-will-not-strike-iran-before-midterm-elections?traffic_source=rss",
     "source": "AlJazeera"
@@ -1452,5 +1445,12 @@
     "headline": "[속보 11/23 21:41] Trump Says Strikes on Iran Could Resume After New Year",
     "link": "https://oilprice.com/Latest-Energy-News/World-News/Trump-Says-Strikes-on-Iran-Could-Resume-After-New-Year.html",
     "source": "OilPrice"
+  },
+  {
+    "topic_name": "이란",
+    "date_kst": "11/24 14:11",
+    "headline": "[속보 11/24 14:11] Iran war live: Iran says three ships catch fire after hitting Hormuz mines",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/11/24/iran-war-live-iran-says-three-ships-catch-fire-after-hitting-hormuz-mines?traffic_source=rss",
+    "source": "AlJazeera"
   }
 ]
