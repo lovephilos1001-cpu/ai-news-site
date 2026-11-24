@@ -1,27 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "11/11 12:11",
-    "headline": "[속보 11/11 12:11] El Salvador fires missiles on Haitian gang hideout",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/el-salvador-fires-missiles-on-haitian-gang-hideout?traffic_source=rss",
-    "source": "AlJazeera"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "11/11 13:56",
-    "headline": "[속보 11/11 13:56] Rail workers threaten indefinite strike from Dec. 10",
-    "link": "https://www.koreaherald.com/article/10933719",
-    "source": "KoreaHerald"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "11/11 14:11",
-    "headline": "[속보 11/11 14:11] Memorial wall set up in Ethiopia for fallen elite troops of Korean War",
-    "link": "https://www.koreaherald.com/article/10933733",
-    "source": "KoreaHerald"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "11/11 14:26",
     "headline": "[속보 11/11 14:26] HD Construction Equipment honors 122 Korean War dead in Ethiopia",
     "link": "https://www.koreaherald.com/article/10933779",
@@ -1481,5 +1460,26 @@
     "headline": "[속보 11/24 12:11] Drone attack on police base in Colombia injures three, including infant",
     "link": "https://www.aljazeera.com/news/2026/11/23/drone-attack-on-colombia-police-base-injures-civilians-including-infant?traffic_source=rss",
     "source": "AlJazeera"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/24 13:11",
+    "headline": "[속보 11/24 13:11] U.N. food agency chief warns wars jeopardize food aid for 7.3 million more people",
+    "link": "https://www.japantimes.co.jp/news/2026/11/24/world/politics/un-wars-food-aid-7-million-people/",
+    "source": "JapanTimes"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/24 13:11",
+    "headline": "[속보 11/24 13:11] UN food agency chief warns wars jeopardize food aid for 7.3 million more people",
+    "link": "https://www.koreaherald.com/article/10947447",
+    "source": "KoreaHerald"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/24 13:41",
+    "headline": "[속보 11/24 13:41] 17th statue honoring Japan&apos;s wartime sex slavery victims to be unveiled in South Africa",
+    "link": "https://www.koreaherald.com/article/10947488",
+    "source": "KoreaHerald"
   }
 ]

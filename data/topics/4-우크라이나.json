@@ -1,13 +1,6 @@
 [
   {
     "topic_name": "우크라이나",
-    "date_kst": "10/08 21:56",
-    "headline": "[속보 10/08 21:56] Russian attack on buses in Ukraine’s Kramatorsk kills at least 30 people",
-    "link": "https://www.aljazeera.com/news/2026/10/8/russia-attack-in-ukraines-kramatorsk-kills-12?traffic_source=rss",
-    "source": "AlJazeera"
-  },
-  {
-    "topic_name": "우크라이나",
     "date_kst": "10/08 22:00",
     "headline": "Russian attack on buses in Ukraine’s Kramatorsk kills at least 30 people",
     "link": "https://www.aljazeera.com/news/2026/10/8/russia-attack-in-ukraines-kramatorsk-kills-12?traffic_source=rss",
@@ -1430,5 +1423,12 @@
     "headline": "[속보 11/24 10:11] Ukraine strike on Russian warship off Libya highlights Kyiv’s broadened reach",
     "link": "https://www.japantimes.co.jp/news/2026/11/24/world/ukraine-russian-warship-libyan-coast/",
     "source": "JapanTimes"
+  },
+  {
+    "topic_name": "우크라이나",
+    "date_kst": "11/24 13:11",
+    "headline": "[속보 11/24 13:11] Zelenskyy hails Ukraine&apos;s attack on a Russian warship docked at naval base in Libya",
+    "link": "https://www.koreaherald.com/article/10947444",
+    "source": "KoreaHerald"
   }
 ]
