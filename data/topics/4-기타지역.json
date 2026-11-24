@@ -2,13 +2,6 @@
   {
     "topic_name": "기타 지역",
     "date_kst": "11/11 21:41",
-    "headline": "[속보 11/11 21:41] Hundreds of Italian schools hit by threats in suspected bomb hoax",
-    "link": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "11/11 21:41",
     "headline": "[속보 11/11 21:41] Workers across Spain stage first general strike in 14 years",
     "link": "https://www.aljazeera.com/news/2026/11/11/spains-first-general-strike-in-14-years-begins?traffic_source=rss",
     "source": "AlJazeera"
@@ -1480,5 +1473,13 @@
     "headline": "[속보 11/25 04:11] Myanmar, Syria top list as global landmine casualties hit 5-year high of 7,000",
     "link": "https://www.scmp.com/news/world/middle-east/article/3375629/myanmar-syria-top-list-global-landmine-casualties-hit-5-year-high-7000",
     "source": "SCMP"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/25 05:30",
+    "headline": "Global landmine casualties hit a five-year high, driven by Myanmar, Syria",
+    "link": "https://www.aljazeera.com/news/2026/11/24/global-landmine-casualties-hit-a-five-year-high-driven-by-myanmar-syria?traffic_source=rss",
+    "source": "AlJazeera",
+    "comment": ""
   }
 ]

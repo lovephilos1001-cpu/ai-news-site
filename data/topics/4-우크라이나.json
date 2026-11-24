@@ -1,13 +1,6 @@
 [
   {
     "topic_name": "우크라이나",
-    "date_kst": "10/10 22:00",
-    "headline": "Russian attacks kill 15 in Ukraine after Trump strikes diesel deal with Putin",
-    "link": "https://www.scmp.com/news/world/europe/article/3370451/russian-attacks-kill-15-ukraine-after-trump-strikes-diesel-deal-putin?utm_source=rss_feed",
-    "source": "SCMP"
-  },
-  {
-    "topic_name": "우크라이나",
     "date_kst": "10/10 22:56",
     "headline": "[속보 10/10 22:56] Russian attacks kill 17 in Ukraine after Trump strikes diesel deal with Putin",
     "link": "https://www.scmp.com/news/world/europe/article/3370451/russian-attacks-kill-15-ukraine-after-trump-strikes-diesel-deal-putin?utm_source=rss_feed",
@@ -1435,5 +1428,13 @@
     "headline": "[속보 11/25 04:11] Is Libya a new front in the Ukraine war?",
     "link": "https://www.aljazeera.com/video/inside-story/2026/11/24/is-libya-a-new-front-in-the-ukraine-war?traffic_source=rss",
     "source": "AlJazeera"
+  },
+  {
+    "topic_name": "우크라이나",
+    "date_kst": "11/25 05:30",
+    "headline": "Is Libya a new front in the Ukraine war?",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/11/24/is-libya-a-new-front-in-the-ukraine-war?traffic_source=rss",
+    "source": "AlJazeera",
+    "comment": ""
   }
 ]
