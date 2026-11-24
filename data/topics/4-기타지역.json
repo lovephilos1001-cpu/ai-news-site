@@ -1,13 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "11/11 05:41",
-    "headline": "[속보 11/11 05:41] Makers of GLP-1 drugs ordered to add warnings about rare eye condition that can lead to blindness",
-    "link": "https://www.bbc.co.uk/news/articles/crwydyde0lp3o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "11/11 12:11",
     "headline": "[속보 11/11 12:11] El Salvador fires missiles on Haitian gang hideout",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/el-salvador-fires-missiles-on-haitian-gang-hideout?traffic_source=rss",
@@ -1481,5 +1474,12 @@
     "headline": "[속보 11/24 11:56] UK sanctions top Myanmar military leaders after Rohingya genocide ruling",
     "link": "https://www.bbc.co.uk/news/articles/c6wy4ng1rznxo?at_medium=RSS&at_campaign=rss",
     "source": "BBC"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/24 12:11",
+    "headline": "[속보 11/24 12:11] Drone attack on police base in Colombia injures three, including infant",
+    "link": "https://www.aljazeera.com/news/2026/11/23/drone-attack-on-colombia-police-base-injures-civilians-including-infant?traffic_source=rss",
+    "source": "AlJazeera"
   }
 ]
