@@ -2,13 +2,6 @@
   {
     "topic_name": "이란",
     "date_kst": "10/09 16:00",
-    "headline": "Trump says US will not strike Iran before midterm elections",
-    "link": "https://www.aljazeera.com/news/2026/10/9/trump-says-us-will-not-strike-iran-before-midterm-elections?traffic_source=rss",
-    "source": "AlJazeera"
-  },
-  {
-    "topic_name": "이란",
-    "date_kst": "10/09 16:00",
     "headline": "Treasury sanctions 17 tankers linked to Iran's 'shadow fleet' in economic pressure campaign",
     "link": "https://www.cnbc.com/2026/10/08/iran-treasury-sanctions-shadow-fleet.html",
     "source": "CNBC"
@@ -1450,6 +1443,13 @@
     "topic_name": "이란",
     "date_kst": "11/24 14:11",
     "headline": "[속보 11/24 14:11] Iran war live: Iran says three ships catch fire after hitting Hormuz mines",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/11/24/iran-war-live-iran-says-three-ships-catch-fire-after-hitting-hormuz-mines?traffic_source=rss",
+    "source": "AlJazeera"
+  },
+  {
+    "topic_name": "이란",
+    "date_kst": "11/24 16:56",
+    "headline": "[속보 11/24 16:56] Iran war live: IRGC says three ships catch fire after hitting Hormuz mines",
     "link": "https://www.aljazeera.com/news/liveblog/2026/11/24/iran-war-live-iran-says-three-ships-catch-fire-after-hitting-hormuz-mines?traffic_source=rss",
     "source": "AlJazeera"
   }
