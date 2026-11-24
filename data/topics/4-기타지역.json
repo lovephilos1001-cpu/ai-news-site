@@ -1,13 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "11/11 19:41",
-    "headline": "[속보 11/11 19:41] Spain’s first general strike in 14 years begins",
-    "link": "https://www.aljazeera.com/news/2026/11/11/spains-first-general-strike-in-14-years-begins?traffic_source=rss",
-    "source": "AlJazeera"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "11/11 20:56",
     "headline": "[속보 11/11 20:56] Hundreds of schools in Italy, UK evacuated over 'hoax' bomb threats",
     "link": "https://www.cnbc.com/2026/11/11/hoax-bomb-threats-schools-italy-uk.html",
@@ -1480,5 +1473,12 @@
     "link": "https://www.aljazeera.com/news/2026/11/24/wars-choke-global-food-routes-threatening-aid-for-7-3-million-wfp-warns?traffic_source=rss",
     "source": "AlJazeera",
     "comment": ""
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/25 00:41",
+    "headline": "[속보 11/25 00:41] Saudi-led coalition condemns ‘terrorist attack’ on tower in Riyadh",
+    "link": "https://www.aljazeera.com/news/2026/11/24/saudi-led-coalition-condemns-terrorist-attack-on-tower-in-riyadh?traffic_source=rss",
+    "source": "AlJazeera"
   }
 ]
