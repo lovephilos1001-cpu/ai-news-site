@@ -2,13 +2,6 @@
   {
     "topic_name": "기타 지역",
     "date_kst": "11/11 05:41",
-    "headline": "[속보 11/11 05:41] FDA warns of rare eye condition causing blindness from GLP-1 weight loss medications",
-    "link": "https://www.theguardian.com/us-news/2026/nov/10/fda-glp-1-weight-loss-blindness-risk",
-    "source": "Guardian"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "11/11 05:41",
     "headline": "[속보 11/11 05:41] Makers of GLP-1 drugs ordered to add warnings about rare eye condition that can lead to blindness",
     "link": "https://www.bbc.co.uk/news/articles/crwydyde0lp3o?at_medium=RSS&at_campaign=rss",
     "source": "BBC"
@@ -1481,5 +1474,12 @@
     "headline": "[속보 11/24 06:11] Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 31%",
     "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
     "source": "CNBC"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/24 11:56",
+    "headline": "[속보 11/24 11:56] UK sanctions top Myanmar military leaders after Rohingya genocide ruling",
+    "link": "https://www.bbc.co.uk/news/articles/c6wy4ng1rznxo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC"
   }
 ]
