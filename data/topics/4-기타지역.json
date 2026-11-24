@@ -1,20 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "11/11 20:56",
-    "headline": "[속보 11/11 20:56] Hundreds of schools in Italy, UK evacuated over 'hoax' bomb threats",
-    "link": "https://www.cnbc.com/2026/11/11/hoax-bomb-threats-schools-italy-uk.html",
-    "source": "CNBC"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "11/11 20:56",
-    "headline": "[속보 11/11 20:56] Over 300 Italian schools evacuated after receiving same emailed bomb alert",
-    "link": "https://www.scmp.com/news/world/europe/article/3374103/over-300-italian-schools-evacuated-after-receiving-same-emailed-bomb-alert",
-    "source": "SCMP"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "11/11 21:41",
     "headline": "[속보 11/11 21:41] Hundreds of Italian schools hit by threats in suspected bomb hoax",
     "link": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
@@ -1480,5 +1466,19 @@
     "headline": "[속보 11/25 00:41] Saudi-led coalition condemns ‘terrorist attack’ on tower in Riyadh",
     "link": "https://www.aljazeera.com/news/2026/11/24/saudi-led-coalition-condemns-terrorist-attack-on-tower-in-riyadh?traffic_source=rss",
     "source": "AlJazeera"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/25 04:11",
+    "headline": "[속보 11/25 04:11] Global landmine casualties hit a five-year high, driven by Myanmar, Syria",
+    "link": "https://www.aljazeera.com/news/2026/11/24/global-landmine-casualties-hit-a-five-year-high-driven-by-myanmar-syria?traffic_source=rss",
+    "source": "AlJazeera"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/25 04:11",
+    "headline": "[속보 11/25 04:11] Myanmar, Syria top list as global landmine casualties hit 5-year high of 7,000",
+    "link": "https://www.scmp.com/news/world/middle-east/article/3375629/myanmar-syria-top-list-global-landmine-casualties-hit-5-year-high-7000",
+    "source": "SCMP"
   }
 ]
