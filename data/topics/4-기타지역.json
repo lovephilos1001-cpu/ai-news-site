@@ -1,13 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "11/11 22:41",
-    "headline": "[속보 11/11 22:41] At least 300 schools evacuated in Italy after email bomb alerts",
-    "link": "https://www.aljazeera.com/news/2026/11/11/at-least-300-italian-schools-evacuated-after-email-bomb-alerts?traffic_source=rss",
-    "source": "AlJazeera"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "11/11 23:11",
     "headline": "[속보 11/11 23:11] Millions join Spain’s first general strike in 14 years in protest at rising housing costs",
     "link": "https://www.theguardian.com/world/2026/nov/11/spain-general-strike-housing-costs",
@@ -1478,5 +1471,12 @@
     "headline": "[속보 11/25 11:56] 2 warlords and a peace-seeker in Shenzhen",
     "link": "https://www.scmp.com/opinion/china-opinion/article/3375418/two-warlords-and-peace-seeker-shenzhen",
     "source": "SCMP"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/25 12:26",
+    "headline": "[속보 11/25 12:26] Ten hostages released in standoff with gunmen at Colombia supermarket",
+    "link": "https://www.aljazeera.com/news/2026/11/24/hostage-situation-reported-in-colombia-as-armed-men-flee-into-supermarket?traffic_source=rss",
+    "source": "AlJazeera"
   }
 ]
