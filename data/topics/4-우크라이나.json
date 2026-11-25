@@ -1,13 +1,6 @@
 [
   {
     "topic_name": "우크라이나",
-    "date_kst": "10/10 22:56",
-    "headline": "[속보 10/10 22:56] Russian attacks kill 17 in Ukraine after Trump strikes diesel deal with Putin",
-    "link": "https://www.scmp.com/news/world/europe/article/3370451/russian-attacks-kill-15-ukraine-after-trump-strikes-diesel-deal-putin?utm_source=rss_feed",
-    "source": "SCMP"
-  },
-  {
-    "topic_name": "우크라이나",
     "date_kst": "10/11 00:56",
     "headline": "[속보 10/11 00:56] Russian attacks kill 20 in Ukraine after Trump strikes diesel deal with Putin",
     "link": "https://www.scmp.com/news/world/europe/article/3370451/russian-attacks-kill-15-ukraine-after-trump-strikes-diesel-deal-putin?utm_source=rss_feed",
@@ -1436,5 +1429,12 @@
     "link": "https://www.aljazeera.com/video/inside-story/2026/11/24/is-libya-a-new-front-in-the-ukraine-war?traffic_source=rss",
     "source": "AlJazeera",
     "comment": ""
+  },
+  {
+    "topic_name": "우크라이나",
+    "date_kst": "11/25 14:11",
+    "headline": "[속보 11/25 14:11] U.K. warns of Russian sabotage threat to companies that supply Ukraine",
+    "link": "https://www.japantimes.co.jp/business/2026/11/25/companies/uk-russia-sabotage-companies-ukraine/",
+    "source": "JapanTimes"
   }
 ]
