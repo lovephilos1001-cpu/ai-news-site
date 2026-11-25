@@ -1,37 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "11/11 22:00",
-    "headline": "Hundreds of schools in Italy, UK evacuated over 'hoax' bomb threats",
-    "link": "https://www.cnbc.com/2026/11/11/hoax-bomb-threats-schools-italy-uk.html",
-    "source": "CNBC",
-    "comment": ""
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "11/11 22:00",
-    "headline": "Spain's first general strike in 14 years demands solutions to housing crisis",
-    "link": "https://www.npr.org/2026/11/11/nx-s1-6037314/spain-general-strike",
-    "source": "NPR",
-    "comment": ""
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "11/11 22:00",
-    "headline": "Hundreds of Italian schools hit by threats in suspected bomb hoax",
-    "link": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "comment": ""
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "11/11 22:11",
-    "headline": "[속보 11/11 22:11] Hoax bomb alerts sent to schools in Italy, UK and Ireland",
-    "link": "https://www.scmp.com/news/world/europe/article/3374103/over-300-italian-schools-evacuated-after-receiving-same-emailed-bomb-alert",
-    "source": "SCMP"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "11/11 22:41",
     "headline": "[속보 11/11 22:41] At least 300 schools evacuated in Italy after email bomb alerts",
     "link": "https://www.aljazeera.com/news/2026/11/11/at-least-300-italian-schools-evacuated-after-email-bomb-alerts?traffic_source=rss",
@@ -1481,5 +1450,33 @@
     "headline": "[속보 11/25 06:11] (LEAD) Seoul Metro labor, management reach last-minute deal to avoid strike",
     "link": "https://en.yna.co.kr/view/AEN20261125000451315",
     "source": "YonhapEN"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/25 11:11",
+    "headline": "[속보 11/25 11:11] Gunmen hold dozens hostage in Colombia supermarket",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/gunmen-hold-dozens-hostage-in-colombia-supermarket?traffic_source=rss",
+    "source": "AlJazeera"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/25 11:11",
+    "headline": "[속보 11/25 11:11] Gunmen hold hostages in Colombia supermarket after failed armoured car raid",
+    "link": "https://www.scmp.com/news/world/americas/article/3375682/gunmen-hold-hostages-colombia-supermarket-after-failed-armoured-car-raid",
+    "source": "SCMP"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/25 11:56",
+    "headline": "[속보 11/25 11:56] Pakistani astronaut launches into space aboard Chinese rocket",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/pakistani-astronaut-launches-into-space-aboard-chinese-rocket?traffic_source=rss",
+    "source": "AlJazeera"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/25 11:56",
+    "headline": "[속보 11/25 11:56] 2 warlords and a peace-seeker in Shenzhen",
+    "link": "https://www.scmp.com/opinion/china-opinion/article/3375418/two-warlords-and-peace-seeker-shenzhen",
+    "source": "SCMP"
   }
 ]
