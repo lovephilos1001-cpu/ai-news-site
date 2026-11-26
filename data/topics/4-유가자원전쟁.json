@@ -1,20 +1,6 @@
 [
   {
     "topic_name": "유가·자원전쟁",
-    "date_kst": "10/01 17:41",
-    "headline": "[속보 10/01 17:41] Russia launches largest attack on Ukraine energy infrastructure since spring",
-    "link": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC"
-  },
-  {
-    "topic_name": "유가·자원전쟁",
-    "date_kst": "10/02 17:26",
-    "headline": "[속보 10/02 17:26] U.S. urges Europe to ‘immediately’ release diesel reserves as Iran war fuels record prices",
-    "link": "https://www.cnbc.com/2026/10/02/diesel-oil-trump-europe-export-ban.html",
-    "source": "CNBC"
-  },
-  {
-    "topic_name": "유가·자원전쟁",
     "date_kst": "10/03 05:30",
     "headline": "G7 nations to release diesel stocks as wars in Europe and Middle East constrain fuel supplies",
     "link": "https://www.cnbc.com/2026/10/02/diesel-oil-trump-europe-export-ban.html",
@@ -1422,5 +1408,26 @@
     "headline": "[속보 11/26 23:41] One Crew Member Dies as Diesel Tanker Sinks off Ibiza",
     "link": "https://oilprice.com/Latest-Energy-News/World-News/One-Crew-Member-Dies-as-Diesel-Tanker-Sinks-off-Ibiza.html",
     "source": "OilPrice"
+  },
+  {
+    "topic_name": "유가·자원전쟁",
+    "date_kst": "11/27 01:26",
+    "headline": "[속보 11/27 01:26] Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
+    "link": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
+    "source": "BBC"
+  },
+  {
+    "topic_name": "유가·자원전쟁",
+    "date_kst": "11/27 01:26",
+    "headline": "[속보 11/27 01:26] Nine injured, three critically, after Bangkok oil refinery explosion",
+    "link": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC"
+  },
+  {
+    "topic_name": "유가·자원전쟁",
+    "date_kst": "11/27 01:26",
+    "headline": "[속보 11/27 01:26] Diesel tanker capsizes near Ibiza, killing crew member",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/aje-onl-nf_loaded-diesel-tanker-capsizes-off-ibiza-killing-one-261126?traffic_source=rss",
+    "source": "AlJazeera"
   }
 ]

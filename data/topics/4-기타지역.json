@@ -1,36 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "11/13 22:00",
-    "headline": "Nvidia scandal: Howard Lutnick under pressure over alleged lack of action",
-    "link": "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china",
-    "source": "Guardian",
-    "comment": ""
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "11/14 02:41",
-    "headline": "[속보 11/14 02:41] Iraq’s Oil Production Soars to 2019 High as Hormuz Flows Surge",
-    "link": "https://oilprice.com/Latest-Energy-News/World-News/Iraqs-Oil-Production-Soars-to-2019-High-as-Hormuz-Flows-Surge.html",
-    "source": "OilPrice"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "11/14 04:41",
-    "headline": "[속보 11/14 04:41] IRGC says tanker caught fire after hitting mines in Strait of Hormuz",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/irgc-says-tanker-caught-fire-after-hitting-mines-in-strait-of-hormuz?traffic_source=rss",
-    "source": "AlJazeera"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "11/14 05:30",
-    "headline": "IRGC says tanker caught fire after hitting mines in Strait of Hormuz",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/irgc-says-tanker-caught-fire-after-hitting-mines-in-strait-of-hormuz?traffic_source=rss",
-    "source": "AlJazeera",
-    "comment": ""
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "11/14 05:30",
     "headline": "Iraq’s Oil Production Soars to 2019 High as Hormuz Flows Surge",
     "link": "https://oilprice.com/Latest-Energy-News/World-News/Iraqs-Oil-Production-Soars-to-2019-High-as-Hormuz-Flows-Surge.html",
@@ -1481,5 +1451,33 @@
     "headline": "[속보 11/26 23:41] One Crew Member Dies as Diesel Tanker Sinks off Ibiza",
     "link": "https://oilprice.com/Latest-Energy-News/World-News/One-Crew-Member-Dies-as-Diesel-Tanker-Sinks-off-Ibiza.html",
     "source": "OilPrice"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/27 01:26",
+    "headline": "[속보 11/27 01:26] Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
+    "link": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
+    "source": "BBC"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/27 01:26",
+    "headline": "[속보 11/27 01:26] Nine injured, three critically, after Bangkok oil refinery explosion",
+    "link": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/27 01:26",
+    "headline": "[속보 11/27 01:26] Diesel tanker capsizes near Ibiza, killing crew member",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/aje-onl-nf_loaded-diesel-tanker-capsizes-off-ibiza-killing-one-261126?traffic_source=rss",
+    "source": "AlJazeera"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/27 01:56",
+    "headline": "[속보 11/27 01:56] Two Italians killed by ‘drone strike debris’ in Kuwait",
+    "link": "https://www.aljazeera.com/news/2026/11/26/two-italians-killed-after-iranian-drones-strike-facility-says-kuwait?traffic_source=rss",
+    "source": "AlJazeera"
   }
 ]

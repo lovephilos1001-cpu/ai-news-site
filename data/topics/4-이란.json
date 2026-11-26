@@ -1,27 +1,6 @@
 [
   {
     "topic_name": "이란",
-    "date_kst": "10/09 16:00",
-    "headline": "Treasury sanctions 17 tankers linked to Iran's 'shadow fleet' in economic pressure campaign",
-    "link": "https://www.cnbc.com/2026/10/08/iran-treasury-sanctions-shadow-fleet.html",
-    "source": "CNBC"
-  },
-  {
-    "topic_name": "이란",
-    "date_kst": "10/09 21:41",
-    "headline": "[속보 10/09 21:41] Is Trump signalling a return to war with Iran after the midterms?",
-    "link": "https://www.aljazeera.com/news/2026/10/9/is-trump-signalling-a-return-to-war-with-iran-after-the-midterms?traffic_source=rss",
-    "source": "AlJazeera"
-  },
-  {
-    "topic_name": "이란",
-    "date_kst": "10/09 22:00",
-    "headline": "Is Trump signalling a return to war with Iran after the midterms?",
-    "link": "https://www.aljazeera.com/news/2026/10/9/is-trump-signalling-a-return-to-war-with-iran-after-the-midterms?traffic_source=rss",
-    "source": "AlJazeera"
-  },
-  {
-    "topic_name": "이란",
     "date_kst": "10/11 09:26",
     "headline": "[속보 10/11 09:26] Iran war live: 12 killed in Riyadh, US weighs joining fight against Houthis",
     "link": "https://www.aljazeera.com/news/liveblog/2026/10/11/iran-war-live-12-killed-in-riyadh-us-weighs-joining-fight-against-houthis?traffic_source=rss",
@@ -1452,5 +1431,26 @@
     "headline": "[속보 11/24 16:56] Iran war live: IRGC says three ships catch fire after hitting Hormuz mines",
     "link": "https://www.aljazeera.com/news/liveblog/2026/11/24/iran-war-live-iran-says-three-ships-catch-fire-after-hitting-hormuz-mines?traffic_source=rss",
     "source": "AlJazeera"
+  },
+  {
+    "topic_name": "이란",
+    "date_kst": "11/27 01:26",
+    "headline": "[속보 11/27 01:26] Two Italians killed after Iranian strike in Kuwait",
+    "link": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC"
+  },
+  {
+    "topic_name": "이란",
+    "date_kst": "11/27 01:26",
+    "headline": "[속보 11/27 01:26] Two dead after Iranian drone attack on Kuwait",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/two-dead-after-iranian-drone-attack-on-kuwait?traffic_source=rss",
+    "source": "AlJazeera"
+  },
+  {
+    "topic_name": "이란",
+    "date_kst": "11/27 01:56",
+    "headline": "[속보 11/27 01:56] Italy says two citizens killed in Iranian strike in Kuwait",
+    "link": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC"
   }
 ]
