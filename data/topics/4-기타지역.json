@@ -1,27 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "11/13 00:26",
-    "headline": "[속보 11/13 00:26] Suspected bomb hoax threats force fresh evacuations of Italian schools",
-    "link": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "11/13 03:26",
-    "headline": "[속보 11/13 03:26] Pete Hegseth awards medal to soldier who reprimanded him near Tomb of the Unknown Soldier",
-    "link": "https://www.theguardian.com/us-news/2026/nov/12/pete-hegseth-medal-soldier-reprimand",
-    "source": "Guardian"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "11/13 03:56",
-    "headline": "[속보 11/13 03:56] Hegseth awards medal to war memorial guard who reprimanded him and group",
-    "link": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss",
-    "source": "BBC"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "11/13 05:30",
     "headline": "Hegseth awards medal to war memorial guard who reprimanded him and group",
     "link": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss",
@@ -1479,5 +1458,29 @@
     "headline": "[속보 11/26 21:26] Nine hurt in huge explosion at Bangkok oil facility",
     "link": "https://www.japantimes.co.jp/news/2026/11/26/asia-pacific/bangkok-oil-facility-explosion/",
     "source": "JapanTimes"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/26 22:00",
+    "headline": "Seven injured, four critically, after Bangkok oil refinery explosion",
+    "link": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "comment": ""
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/26 22:00",
+    "headline": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
+    "link": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "comment": ""
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/26 22:00",
+    "headline": "Explosion rocks Bangkok oil depot",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/explosion-rocks-bangkok-oil-depot?traffic_source=rss",
+    "source": "AlJazeera",
+    "comment": ""
   }
 ]
