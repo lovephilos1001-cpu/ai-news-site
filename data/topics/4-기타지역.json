@@ -1,28 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "11/14 05:30",
-    "headline": "Iraq’s Oil Production Soars to 2019 High as Hormuz Flows Surge",
-    "link": "https://oilprice.com/Latest-Energy-News/World-News/Iraqs-Oil-Production-Soars-to-2019-High-as-Hormuz-Flows-Surge.html",
-    "source": "OilPrice",
-    "comment": ""
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "11/14 05:56",
-    "headline": "[속보 11/14 05:56] Tanker collides with cruise ship on Mississippi River in New Orleans",
-    "link": "https://www.theguardian.com/us-news/2026/nov/13/mississippi-river-crash-new-orleans",
-    "source": "Guardian"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "11/14 05:56",
-    "headline": "[속보 11/14 05:56] Tanker hits New Orleans cruise boat carrying 129 passengers",
-    "link": "https://www.scmp.com/news/world/united-states-canada/article/3374410/tanker-hits-new-orleans-cruise-boat-carrying-129-passengers",
-    "source": "SCMP"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "11/14 07:56",
     "headline": "[속보 11/14 07:56] Miracle on the Mississippi: everyone safe after tanker hits and sinks New Orleans cruise",
     "link": "https://www.scmp.com/news/world/united-states-canada/article/3374410/tanker-hits-new-orleans-cruise-boat-carrying-129-passengers",
@@ -1479,5 +1457,29 @@
     "headline": "[속보 11/27 01:56] Two Italians killed by ‘drone strike debris’ in Kuwait",
     "link": "https://www.aljazeera.com/news/2026/11/26/two-italians-killed-after-iranian-drones-strike-facility-says-kuwait?traffic_source=rss",
     "source": "AlJazeera"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/27 05:30",
+    "headline": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
+    "link": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "comment": ""
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/27 05:30",
+    "headline": "Nine injured, three critically, after Bangkok oil refinery explosion",
+    "link": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "comment": ""
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/27 05:30",
+    "headline": "Two Italians killed by ‘drone strike debris’ in Kuwait",
+    "link": "https://www.aljazeera.com/news/2026/11/26/two-italians-killed-after-iranian-drones-strike-facility-says-kuwait?traffic_source=rss",
+    "source": "AlJazeera",
+    "comment": ""
   }
 ]

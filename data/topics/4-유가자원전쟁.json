@@ -1,20 +1,6 @@
 [
   {
     "topic_name": "유가·자원전쟁",
-    "date_kst": "10/03 05:30",
-    "headline": "G7 nations to release diesel stocks as wars in Europe and Middle East constrain fuel supplies",
-    "link": "https://www.cnbc.com/2026/10/02/diesel-oil-trump-europe-export-ban.html",
-    "source": "CNBC"
-  },
-  {
-    "topic_name": "유가·자원전쟁",
-    "date_kst": "10/03 16:00",
-    "headline": "Oil prices lower as G7 nations to release diesel stocks, Saudis reportedly plan attack on Houthis",
-    "link": "https://www.cnbc.com/2026/10/02/oil-wti-brent-diesel-stock-release-europe.html",
-    "source": "CNBC"
-  },
-  {
-    "topic_name": "유가·자원전쟁",
     "date_kst": "10/04 05:30",
     "headline": "Libyan unity talks upended as warlord’s son linked to drone attacks on fuel facilities",
     "link": "https://www.theguardian.com/world/2026/oct/03/libyan-unity-talks-warlord-son-linked-drone-attack-khalifa-haftar",
@@ -1429,5 +1415,21 @@
     "headline": "[속보 11/27 01:26] Diesel tanker capsizes near Ibiza, killing crew member",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/aje-onl-nf_loaded-diesel-tanker-capsizes-off-ibiza-killing-one-261126?traffic_source=rss",
     "source": "AlJazeera"
+  },
+  {
+    "topic_name": "유가·자원전쟁",
+    "date_kst": "11/27 05:30",
+    "headline": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
+    "link": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "comment": ""
+  },
+  {
+    "topic_name": "유가·자원전쟁",
+    "date_kst": "11/27 05:30",
+    "headline": "Nine injured, three critically, after Bangkok oil refinery explosion",
+    "link": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "comment": ""
   }
 ]
