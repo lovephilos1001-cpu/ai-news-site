@@ -1,35 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "11/12 16:00",
-    "headline": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
-    "link": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "comment": ""
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "11/12 17:11",
-    "headline": "[속보 11/12 17:11] S. Korean composer Lee Hanurij wins top award at Geneva Competition",
-    "link": "https://en.yna.co.kr/view/AEN20261112006000315",
-    "source": "YonhapEN"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "11/12 22:56",
-    "headline": "[속보 11/12 22:56] More than 1,800 Italian schools targeted by new hoax bomb alerts",
-    "link": "https://www.aljazeera.com/news/2026/11/12/more-than-1800-italian-schools-targeted-by-new-hoax-bomb-alerts?traffic_source=rss",
-    "source": "AlJazeera"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "11/12 22:56",
-    "headline": "[속보 11/12 22:56] N. Korean FM reaffirms &apos;steadfast will&apos; for nuclear possession",
-    "link": "https://www.koreaherald.com/article/10935602",
-    "source": "KoreaHerald"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "11/13 00:26",
     "headline": "[속보 11/13 00:26] Suspected bomb hoax threats force fresh evacuations of Italian schools",
     "link": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
@@ -1480,5 +1451,33 @@
     "headline": "[속보 11/26 19:36] Huge explosion at oil depot in Bangkok sends fireball into sky",
     "link": "https://www.france24.com/en/asia-pacific/20261126-huge-explosion-at-oil-depot-in-bangkok-sends-fireball-into-sky",
     "source": "France24"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/26 21:11",
+    "headline": "[속보 11/26 21:11] Seven injured, four critically, after Bangkok oil refinery explosion",
+    "link": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/26 21:11",
+    "headline": "[속보 11/26 21:11] South Korean police seek arrest warrant for tax accountant exam&apos;s top scorer",
+    "link": "https://www.koreaherald.com/article/10950986",
+    "source": "KoreaHerald"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/26 21:11",
+    "headline": "[속보 11/26 21:11] Police seek arrest warrant for top scorer of tax accountant exam accused of AI-assisted cheating",
+    "link": "https://en.yna.co.kr/view/AEN20261126011900315",
+    "source": "YonhapEN"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/26 21:26",
+    "headline": "[속보 11/26 21:26] Nine hurt in huge explosion at Bangkok oil facility",
+    "link": "https://www.japantimes.co.jp/news/2026/11/26/asia-pacific/bangkok-oil-facility-explosion/",
+    "source": "JapanTimes"
   }
 ]
