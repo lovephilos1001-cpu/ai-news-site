@@ -1,20 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "11/12 10:41",
-    "headline": "[속보 11/12 10:41] Millions of Spaniards stage first general strike in 14 years as anger over housing leads to clashes",
-    "link": "https://www.japantimes.co.jp/news/2026/11/12/world/spain-strike-14-years-housing/",
-    "source": "JapanTimes"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "11/12 10:41",
-    "headline": "[속보 11/12 10:41] Clashes erupt as millions join Spain’s first general strike in 14 years",
-    "link": "https://www.scmp.com/news/world/europe/article/3374082/spanish-workers-stage-huge-general-strike-1st-14-years-angry-over-housing",
-    "source": "SCMP"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "11/12 10:56",
     "headline": "[속보 11/12 10:56] Military-linked Chinese university bought Nvidia H200 chips despite U.S. blacklist, records show",
     "link": "https://www.japantimes.co.jp/business/2026/11/12/tech/chinese-university-nvidia-chips-us-blacklist/",
@@ -1480,5 +1466,21 @@
     "headline": "[속보 11/26 13:56] Fuel tanker crash ignites a massive fire on a highway surrounding Cairo, killing at least 31 people",
     "link": "https://www.koreaherald.com/article/10950356",
     "source": "KoreaHerald"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/26 16:00",
+    "headline": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
+    "link": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "comment": ""
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/26 16:00",
+    "headline": "Fuel tanker crash ignites a massive fire on a highway surrounding Cairo, killing at least 31 people",
+    "link": "https://www.koreaherald.com/article/10950356",
+    "source": "KoreaHerald",
+    "comment": ""
   }
 ]
