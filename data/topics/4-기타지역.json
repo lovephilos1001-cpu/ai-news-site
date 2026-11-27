@@ -2,14 +2,6 @@
   {
     "topic_name": "기타 지역",
     "date_kst": "11/14 20:12",
-    "headline": "Setback for SpaceX Starship rocket's double-catch test",
-    "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "comment": ""
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "11/14 20:12",
     "headline": "Miracle on the Mississippi: everyone safe after tanker hits and sinks New Orleans cruise",
     "link": "https://www.scmp.com/news/world/united-states-canada/article/3374410/tanker-hits-new-orleans-cruise-boat-carrying-129-passengers",
     "source": "SCMP",
@@ -1481,5 +1473,12 @@
     "headline": "[속보 11/27 11:26] (LEAD) N. Korean troops cross inter-Korean border about 40 times over past 2 months: lawmaker",
     "link": "https://en.yna.co.kr/view/AEN20261127002051315",
     "source": "YonhapEN"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/27 15:56",
+    "headline": "[속보 11/27 15:56] N. Korean troops breach military demarcation line some 40 times since October",
+    "link": "https://www.koreaherald.com/article/10952040",
+    "source": "KoreaHerald"
   }
 ]
