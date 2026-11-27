@@ -1,13 +1,6 @@
 [
   {
     "topic_name": "유가·자원전쟁",
-    "date_kst": "10/06 22:00",
-    "headline": "Rebounding oil exports through Strait of Hormuz are vulnerable to stepped-up Iranian tanker attacks",
-    "link": "https://www.cnbc.com/2026/10/06/crude-oil-tanker-strait-hormuz-iran-attack.html",
-    "source": "CNBC"
-  },
-  {
-    "topic_name": "유가·자원전쟁",
     "date_kst": "10/06 23:41",
     "headline": "[속보 10/06 23:41] Rebounding oil exports through Strait of Hormuz are vulnerable to stepped-up Iranian tanker attacks",
     "link": "https://www.cnbc.com/2026/10/06/crude-oil-tanker-strait-hormuz-iran-attack.html",
@@ -1433,5 +1426,12 @@
     "link": "https://www.aljazeera.com/news/2026/11/26/egypt-detains-driver-over-cairo-fuel-tanker-fire-that-killed-31?traffic_source=rss",
     "source": "AlJazeera",
     "comment": ""
+  },
+  {
+    "topic_name": "유가·자원전쟁",
+    "date_kst": "11/27 21:41",
+    "headline": "[속보 11/27 21:41] The Next Hormuz?",
+    "link": "https://oilprice.com/Energy/Energy-General/The-Next-Hormuz.html",
+    "source": "OilPrice"
   }
 ]

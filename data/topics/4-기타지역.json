@@ -2,14 +2,6 @@
   {
     "topic_name": "기타 지역",
     "date_kst": "11/14 22:00",
-    "headline": "Setback for SpaceX Starship rocket's double-catch test",
-    "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "comment": ""
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "11/14 22:00",
     "headline": "Watch: Cruise ship overturns after collision with tanker in New Orleans",
     "link": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
@@ -1479,5 +1471,12 @@
     "headline": "[속보 11/27 16:41] Herald Business managing editor to receive Sungkyunkwan University alumni journalism award",
     "link": "https://www.koreaherald.com/article/10952097",
     "source": "KoreaHerald"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/27 21:41",
+    "headline": "[속보 11/27 21:41] The Next Hormuz?",
+    "link": "https://oilprice.com/Energy/Energy-General/The-Next-Hormuz.html",
+    "source": "OilPrice"
   }
 ]
