@@ -1,13 +1,6 @@
 [
   {
     "topic_name": "이란",
-    "date_kst": "10/12 05:30",
-    "headline": "Trump says he is 'going to look at' joining Saudi Arabia in the fight against Iran-backed Houthis after deadly airport strike",
-    "link": "https://www.cnbc.com/2026/10/11/trump-saudi-arabia-iran-houthis.html",
-    "source": "CNBC"
-  },
-  {
-    "topic_name": "이란",
     "date_kst": "10/13 05:30",
     "headline": "Saudi Arabia says drones and missiles still targeting kingdom as Iran-backed Houthis step up attacks",
     "link": "https://www.cnbc.com/2026/10/12/us-iran-war-trump-hormuz-saudi.html",
@@ -1453,5 +1446,12 @@
     "headline": "[속보 11/27 11:41] Iran denies role in drone attack that killed Italians in Kuwait",
     "link": "https://www.scmp.com/news/world/middle-east/article/3375970/iran-denies-launching-drone-attack-killed-italians-kuwait",
     "source": "SCMP"
+  },
+  {
+    "topic_name": "이란",
+    "date_kst": "11/27 12:41",
+    "headline": "[속보 11/27 12:41] Two Italians killed in Kuwait drone attack; Trump says Iran war ends ‘whenever I want it’",
+    "link": "https://www.cnbc.com/2026/11/27/us-iran-war-trump-hormuz-italian-killed-trump.html",
+    "source": "CNBC"
   }
 ]
