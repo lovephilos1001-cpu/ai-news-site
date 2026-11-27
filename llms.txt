@@ -17,6 +17,7 @@ https://marketbriefwire.com/paid/premium.json — $0.01/요청, x402 프로토�
 x402 사양: https://www.x402.org/
 
 ## 최근 브리핑
+- [[11/28 05:30] [국제동향] 日 공작기계 수주 42.5% 증가…美 AI 반도체 수출통제·EU 공급망 공조 확대 - 산업종합저널](https://marketbriefwire.com/20261127-2032.html) — 11/28 05:30
 - [[11/27 22:00] [국제동향] 日 공작기계 수주 42.5% 증가…美 AI 반도체 수출통제·EU 공급망 공조 확대 - 산업종합저널](https://marketbriefwire.com/20261127-1302.html) — 11/27 22:00
 - [[11/27 16:00] [국제동향] 日 공작기계 수주 42.5% 증가…美 AI 반도체 수출통제·EU 공급망 공조 확대 - 산업종합저널](https://marketbriefwire.com/20261127-0702.html) — 11/27 16:00
 - [[11/27 05:30] 가스공사, 국산 반도체(NPU) 기반 AI CCTV 구축 추진 - 연합뉴스](https://marketbriefwire.com/20261126-2031.html) — 11/27 05:30
@@ -36,4 +37,3 @@ x402 사양: https://www.x402.org/
 - [[11/22 05:30] Federal Reserve announces College Fed Challenge winners](https://marketbriefwire.com/20261121-2032.html) — 11/22 05:30
 - [[11/21 22:00] Federal Reserve announces College Fed Challenge winners](https://marketbriefwire.com/20261121-1302.html) — 11/21 22:00
 - [[11/21 16:00] [소부장 테크페어] PI첨단소재, AI·HBM 겨냥 폴리이미드 기술 고도화 - 전자신문](https://marketbriefwire.com/20261121-0702.html) — 11/21 16:00
-- [[11/21 05:30] Federal Reserve Board releases results from survey of senior financial officers at banks about their strategies and practices for managing reserve balances](https://marketbriefwire.com/20261120-2032.html) — 11/21 05:30
