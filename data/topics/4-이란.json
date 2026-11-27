@@ -1,20 +1,6 @@
 [
   {
     "topic_name": "이란",
-    "date_kst": "10/13 05:30",
-    "headline": "Saudi Arabia says drones and missiles still targeting kingdom as Iran-backed Houthis step up attacks",
-    "link": "https://www.cnbc.com/2026/10/12/us-iran-war-trump-hormuz-saudi.html",
-    "source": "CNBC"
-  },
-  {
-    "topic_name": "이란",
-    "date_kst": "10/14 01:41",
-    "headline": "[속보 10/14 01:41] UK spy chief says Iran is stepping up targeting of military bases",
-    "link": "https://www.aljazeera.com/news/2026/10/13/uk-spy-chief-says-iran-is-stepping-up-targeting-of-military-bases?traffic_source=rss",
-    "source": "AlJazeera"
-  },
-  {
-    "topic_name": "이란",
     "date_kst": "10/14 01:41",
     "headline": "[속보 10/14 01:41] MI5 chief warns Iran is targeting military sites in UK as hostile state threats surge",
     "link": "https://www.scmp.com/news/world/europe/article/3370774/mi5-chief-warns-iran-targeting-military-sites-uk-hostile-state-threats-surge?utm_source=rss_feed",
@@ -1453,5 +1439,21 @@
     "headline": "[속보 11/27 12:41] Two Italians killed in Kuwait drone attack; Trump says Iran war ends ‘whenever I want it’",
     "link": "https://www.cnbc.com/2026/11/27/us-iran-war-trump-hormuz-italian-killed-trump.html",
     "source": "CNBC"
+  },
+  {
+    "topic_name": "이란",
+    "date_kst": "11/27 16:00",
+    "headline": "Two Italians killed in Kuwait drone attack; Trump says Iran war ends ‘whenever I want it’",
+    "link": "https://www.cnbc.com/2026/11/27/us-iran-war-trump-hormuz-italian-killed-trump.html",
+    "source": "CNBC",
+    "comment": ""
+  },
+  {
+    "topic_name": "이란",
+    "date_kst": "11/27 16:00",
+    "headline": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
+    "link": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "comment": ""
   }
 ]

@@ -1,20 +1,6 @@
 [
   {
     "topic_name": "유가·자원전쟁",
-    "date_kst": "10/06 09:11",
-    "headline": "[속보 10/06 09:11] Marine’s arrest for murder in Japan fuels anger over US military presence",
-    "link": "https://www.scmp.com/week-asia/politics/article/3369802/marines-arrest-murder-japan-fuels-anger-over-us-military-presence?utm_source=rss_feed",
-    "source": "SCMP"
-  },
-  {
-    "topic_name": "유가·자원전쟁",
-    "date_kst": "10/06 16:00",
-    "headline": "Fuel from South Korea being shipped to Russia as Ukraine war grinds on",
-    "link": "https://www.theguardian.com/world/2026/oct/06/oil-tankers-south-korea-russia-ukraine-war",
-    "source": "Guardian"
-  },
-  {
-    "topic_name": "유가·자원전쟁",
     "date_kst": "10/06 22:00",
     "headline": "Rebounding oil exports through Strait of Hormuz are vulnerable to stepped-up Iranian tanker attacks",
     "link": "https://www.cnbc.com/2026/10/06/crude-oil-tanker-strait-hormuz-iran-attack.html",
@@ -1431,5 +1417,21 @@
     "headline": "[속보 11/27 06:26] Egypt detains driver over Cairo fuel tanker fire that killed 31",
     "link": "https://www.aljazeera.com/news/2026/11/26/egypt-detains-driver-over-cairo-fuel-tanker-fire-that-killed-31?traffic_source=rss",
     "source": "AlJazeera"
+  },
+  {
+    "topic_name": "유가·자원전쟁",
+    "date_kst": "11/27 16:00",
+    "headline": "Egyptian authorities arrest motorist over tanker crash that killed 31",
+    "link": "https://www.bbc.co.uk/news/articles/c3gre90l0g45o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "comment": ""
+  },
+  {
+    "topic_name": "유가·자원전쟁",
+    "date_kst": "11/27 16:00",
+    "headline": "Egypt detains driver over Cairo fuel tanker fire that killed 31",
+    "link": "https://www.aljazeera.com/news/2026/11/26/egypt-detains-driver-over-cairo-fuel-tanker-fire-that-killed-31?traffic_source=rss",
+    "source": "AlJazeera",
+    "comment": ""
   }
 ]
