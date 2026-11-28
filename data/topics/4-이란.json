@@ -1,13 +1,6 @@
 [
   {
     "topic_name": "이란",
-    "date_kst": "10/15 02:41",
-    "headline": "[속보 10/15 02:41] Two container ships sink near strait of Hormuz amid surge in Iranian attacks",
-    "link": "https://www.theguardian.com/world/2026/oct/14/container-ship-sinks-strait-of-hormuz-surge-iranian-attacks-iran-us-midterm-elections",
-    "source": "Guardian"
-  },
-  {
-    "topic_name": "이란",
     "date_kst": "10/15 04:11",
     "headline": "[속보 10/15 04:11] Ship Sinks in Strait of Hormuz as Iran Escalates Maritime Attacks",
     "link": "https://oilprice.com/Geopolitics/Middle-East/Ship-Sinks-in-Strait-of-Hormuz-as-Iran-Escalates-Maritime-Attacks.html",
@@ -1458,5 +1451,12 @@
     "headline": "[속보 11/28 09:11] Iran war live: Italy says drone in deadly Kuwait attack was made in Iran",
     "link": "https://www.aljazeera.com/news/liveblog/2026/11/28/iran-war-live-italy-says-drone-in-deadly-kuwait-attack-was-made-in-iran?traffic_source=rss",
     "source": "AlJazeera"
+  },
+  {
+    "topic_name": "이란",
+    "date_kst": "11/28 10:56",
+    "headline": "[속보 11/28 10:56] U.S. military fires on ship violating Iran blockade",
+    "link": "https://www.japantimes.co.jp/news/2026/11/28/world/us-military-fires-ship-iran-blockade/",
+    "source": "JapanTimes"
   }
 ]
