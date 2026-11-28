@@ -1,27 +1,6 @@
 [
   {
     "topic_name": "기타 지역",
-    "date_kst": "11/15 06:26",
-    "headline": "[속보 11/15 06:26] SpaceX succeeds at first-ever catch of Starship rocket from orbit",
-    "link": "https://www.cnbc.com/2026/11/14/spacex-plans-to-try-first-ever-catch-of-starship-rocket-from-orbit.html",
-    "source": "CNBC"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "11/15 06:26",
-    "headline": "[속보 11/15 06:26] Second catch attempt as SpaceX Starship rocket heads back to Earth",
-    "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC"
-  },
-  {
-    "topic_name": "기타 지역",
-    "date_kst": "11/15 07:26",
-    "headline": "[속보 11/15 07:26] SpaceX catches upper stage of Starship rocket in historic first",
-    "link": "https://www.cnbc.com/2026/11/14/spacex-plans-to-try-first-ever-catch-of-starship-rocket-from-orbit.html",
-    "source": "CNBC"
-  },
-  {
-    "topic_name": "기타 지역",
     "date_kst": "11/15 16:00",
     "headline": "SpaceX catches upper stage of Starship rocket in historic first",
     "link": "https://www.cnbc.com/2026/11/14/spacex-plans-to-try-first-ever-catch-of-starship-rocket-from-orbit.html",
@@ -1478,5 +1457,26 @@
     "link": "https://www.scmp.com/news/world/united-states-canada/article/3376087/hackers-breach-us-air-force-cloud-one-platform-putting-military-data-risk",
     "source": "SCMP",
     "comment": ""
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/28 20:41",
+    "headline": "[속보 11/28 20:41] Explosion at a school in eastern Afghanistan kills 7, wounds more than 90",
+    "link": "https://www.npr.org/2026/11/28/nx-s1-6056284/explosion-school-eastern-afghanistan",
+    "source": "NPR"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/28 20:41",
+    "headline": "[속보 11/28 20:41] Afghanistan explosion kills 10 students and injures more than 100, official says",
+    "link": "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC"
+  },
+  {
+    "topic_name": "기타 지역",
+    "date_kst": "11/28 20:41",
+    "headline": "[속보 11/28 20:41] Afghanistan school explosion kills 7 pupils, over 90 injured",
+    "link": "https://www.scmp.com/news/world/russia-central-asia/article/3376136/afghanistan-school-explosion-kills-7-pupils-over-90-injured",
+    "source": "SCMP"
   }
 ]
